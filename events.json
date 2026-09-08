@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "updatedAt": "2026-09-08",
   "events": [
     {
@@ -1314,6 +1314,7 @@
       },
       "symbol": "flag.checkered",
       "backdrop": "f1",
+      "duration": 120,
       "subtitle": "23 races",
       "subtitles": {
         "en": "23 races",
@@ -1899,6 +1900,7 @@
       },
       "symbol": "baseball.fill",
       "backdrop": "beisbol",
+      "duration": 180,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -7830,6 +7832,7 @@
       },
       "symbol": "football.fill",
       "backdrop": "nfl",
+      "duration": 210,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -11456,6 +11459,7 @@
       },
       "symbol": "basketball.fill",
       "backdrop": "basquet",
+      "duration": 150,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -26717,6 +26721,7 @@
       },
       "symbol": "soccerball",
       "backdrop": "futbol",
+      "duration": 120,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -28471,6 +28476,7 @@
       },
       "symbol": "soccerball",
       "backdrop": "futbol",
+      "duration": 120,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -33133,6 +33139,7 @@
       },
       "symbol": "soccerball",
       "backdrop": "futbol",
+      "duration": 120,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -37618,6 +37625,7 @@
       },
       "symbol": "trophy.fill",
       "backdrop": "futbol",
+      "duration": 120,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -39434,6 +39442,7 @@
       },
       "symbol": "soccerball",
       "backdrop": "futbol",
+      "duration": 120,
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
