@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "updatedAt": "2026-09-09",
   "events": [
     {
@@ -28310,7 +28310,8 @@
           "url": "https://www.rayados.com/es/calendarios/calendario/varonil",
           "origin": "telegram",
           "time": "19:30",
-          "timeZone": "America/Monterrey"
+          "timeZone": "America/Monterrey",
+          "status": "cancelled"
         },
         {
           "id": "liga-mx-401877054",
