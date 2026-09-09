@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "updatedAt": "2026-09-09",
   "events": [
     {
@@ -26972,22 +26972,6 @@
           }
         },
         {
-          "id": "liga-mx-401876979",
-          "title": "Atlante vs Pachuca",
-          "teams": [
-            "Atlante",
-            "Pachuca"
-          ],
-          "venue": "Estadio Banorte, Mexico City",
-          "date": "2026-09-11",
-          "time": "21:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-mx-401876978",
           "title": "Tijuana vs Querétaro",
           "teams": [
@@ -26998,6 +26982,22 @@
           "date": "2026-09-11",
           "time": "20:00",
           "timeZone": "America/Tijuana",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-mx-401876979",
+          "title": "Atlante vs Pachuca",
+          "teams": [
+            "Atlante",
+            "Pachuca"
+          ],
+          "venue": "Estadio Banorte, Mexico City",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -27564,22 +27564,6 @@
           }
         },
         {
-          "id": "liga-mx-401876945",
-          "title": "Atlante vs Pumas",
-          "teams": [
-            "Atlante",
-            "Pumas"
-          ],
-          "venue": "Estadio Banorte, Mexico City",
-          "date": "2026-10-16",
-          "time": "21:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-mx-401876944",
           "title": "Tijuana vs Puebla",
           "teams": [
@@ -27590,6 +27574,22 @@
           "date": "2026-10-16",
           "time": "20:00",
           "timeZone": "America/Tijuana",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-mx-401876945",
+          "title": "Atlante vs Pumas",
+          "teams": [
+            "Atlante",
+            "Pumas"
+          ],
+          "venue": "Estadio Banorte, Mexico City",
+          "date": "2026-10-16",
+          "time": "21:00",
+          "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -28300,6 +28300,19 @@
           }
         },
         {
+          "id": "liga-mx-tg-rayados-austin-fc-2026-11-19",
+          "title": "Rayados vs Austin FC",
+          "teams": [
+            "Rayados",
+            "Austin FC"
+          ],
+          "date": "2026-11-19",
+          "url": "https://www.rayados.com/es/calendarios/calendario/varonil",
+          "origin": "telegram",
+          "time": "19:30",
+          "timeZone": "America/Monterrey"
+        },
+        {
           "id": "liga-mx-401877054",
           "title": "Puebla vs Atlético San Luis",
           "teams": [
@@ -28316,22 +28329,6 @@
           }
         },
         {
-          "id": "liga-mx-401877053",
-          "title": "Juárez vs Atlas",
-          "teams": [
-            "Juárez",
-            "Atlas"
-          ],
-          "venue": "Estadio Olímpico Benito Juárez, Ciudad Juárez",
-          "date": "2026-11-20",
-          "time": "20:00",
-          "timeZone": "America/Ciudad_Juarez",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-mx-401877052",
           "title": "Tijuana vs Atlante",
           "teams": [
@@ -28342,6 +28339,22 @@
           "date": "2026-11-20",
           "time": "19:00",
           "timeZone": "America/Tijuana",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-mx-401877053",
+          "title": "Juárez vs Atlas",
+          "teams": [
+            "Juárez",
+            "Atlas"
+          ],
+          "venue": "Estadio Olímpico Benito Juárez, Ciudad Juárez",
+          "date": "2026-11-20",
+          "time": "20:00",
+          "timeZone": "America/Ciudad_Juarez",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
