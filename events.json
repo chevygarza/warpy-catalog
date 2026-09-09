@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-09-08",
+  "version": 22,
+  "updatedAt": "2026-09-09",
   "events": [
     {
       "id": "fifa-world-cup-2030",
@@ -41869,6 +41869,22 @@
           "pending": true
         }
       ]
+    },
+    {
+      "id": "rayados-a-vs-rayados-b-2026",
+      "title": "Rayados A vs Rayados B",
+      "emoji": "⚽️",
+      "category": "sports",
+      "date": "2026-11-20",
+      "url": "https://www.rayados.com/es/calendarios/calendario/varonil",
+      "keywords": [
+        "rayados",
+        "rayados"
+      ],
+      "origin": "telegram",
+      "backdrop": "futbol",
+      "time": "15:30",
+      "timeZone": "America/Monterrey"
     }
   ]
 }
