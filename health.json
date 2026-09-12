@@ -1,0 +1,244 @@
+{
+  "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+  "status": "ok",
+  "sources": {
+    "f1": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "mlb": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "nfl": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "nba": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "liga-mx": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "la-liga": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "premier-league": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "champions-league": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "mls": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "leagues-cup": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "no se publica",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "concachampions": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "no se publica",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "copa-del-rey": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "supercopa-espana": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "no se publica",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "uefa-super-cup": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "no se publica",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "club-world-cup": {
+      "checkedAt": "2026-09-12T23:00:23.896186+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-12T23:00:23.896186+00:00",
+      "warnings": [],
+      "outcome": "no se publica",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    }
+  },
+  "findings": [],
+  "cadenceHours": 6,
+  "catalogVersion": 30,
+  "coverage": {
+    "automaticSeries": [
+      "champions-league",
+      "club-world-cup",
+      "concachampions",
+      "copa-del-rey",
+      "f1",
+      "la-liga",
+      "leagues-cup",
+      "liga-mx",
+      "mlb",
+      "mls",
+      "nba",
+      "nfl",
+      "premier-league",
+      "supercopa-espana",
+      "uefa-super-cup"
+    ],
+    "calendarRuleEvents": [
+      "halloween-2026",
+      "dia-de-muertos-2026",
+      "christmas-2026",
+      "valentines-2027",
+      "pi-day-2027",
+      "earth-day-2027",
+      "grito-independencia-2026",
+      "guadalupe-reyes-2026",
+      "dia-de-la-madre-mx-2027"
+    ],
+    "withoutAutomaticSource": [
+      "fifa-world-cup-2030",
+      "super-bowl-lxi-2027",
+      "super-bowl-lxii-2028",
+      "nfl-kickoff-2026",
+      "olympics-la-2028",
+      "winter-olympics-2030",
+      "olympics-brisbane-2032",
+      "winter-olympics-2034",
+      "womens-world-cup-2027",
+      "uefa-euro-2028",
+      "rugby-world-cup-2027",
+      "cricket-world-cup-2027",
+      "asian-games-2026",
+      "ryder-cup-2027",
+      "wimbledon-2027",
+      "tour-de-france-2027",
+      "f1-season-2027",
+      "nba-finals-2027",
+      "world-series-2026",
+      "oktoberfest-2026",
+      "diwali-2026",
+      "gta-vi",
+      "thanksgiving-2026",
+      "black-friday-2026",
+      "hanukkah-2026",
+      "avengers-doomsday",
+      "new-year-2027",
+      "ces-2027",
+      "lunar-new-year-2027",
+      "ramadan-2027",
+      "oscars-2027",
+      "easter-2027",
+      "coachella-2027",
+      "eurovision-2027",
+      "wwdc-2027",
+      "comic-con-2027",
+      "solar-eclipse-2027",
+      "the-batman-part-ii",
+      "avengers-secret-wars",
+      "leap-day-2028",
+      "solar-eclipse-2028",
+      "expo-2030-riyadh",
+      "y2k38",
+      "halley-2061",
+      "buen-fin-2026",
+      "hot-sale-2027",
+      "liga-mx-apertura-2026-final",
+      "rayados-a-vs-rayados-b-2026"
+    ],
+    "note": "Cobertura explícita: una fecha editorial sin API no se anuncia como verificada."
+  },
+  "secondary": {
+    "status": "partial",
+    "counts": {
+      "ok": 65,
+      "revisar": 0,
+      "sin cruce": 95
+    },
+    "report": "audit.json",
+    "supportedSeries": [
+      "champions-league",
+      "la-liga",
+      "liga-mx",
+      "mlb",
+      "mls",
+      "nba",
+      "nfl",
+      "premier-league"
+    ]
+  }
+}
