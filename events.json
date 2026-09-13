@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -574,7 +574,34 @@
         "videojuego",
         "vice city"
       ],
-      "featured": true
+      "featured": true,
+      "subcategory": "gaming",
+      "sourceSnapshot": {
+        "id": "gta-vi",
+        "title": "GTA VI",
+        "subtitle": "Grand Theft Auto VI · Release",
+        "subtitles": {
+          "es": "Grand Theft Auto VI · Lanzamiento"
+        },
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-11-19",
+        "startDate": "2025-05-02",
+        "accent": "#F2994A",
+        "keywords": [
+          "gta",
+          "grand theft auto",
+          "rockstar",
+          "videogame",
+          "videojuego",
+          "vice city"
+        ],
+        "featured": true
+      },
+      "override": {
+        "subcategory": "gaming"
+      },
+      "origin": "telegram"
     },
     {
       "id": "thanksgiving-2026",
@@ -50901,6 +50928,14 @@
       "version": 32,
       "target": "marvels-wolverine,tokyo-game-show-2026,ea-sports-fc-27,ace-combat-8,gears-of-war-e-day,zelda-ocarina-of-time-2026,the-game-awards-2026,iphone-18-pro,meta-connect-2026,iphone-duo,aws-reinvent-2026,mwc-2027,nvidia-gtc-2027,computex-2027",
       "at": "2026-09-13T05:39:30.546846+00:00"
+    },
+    "gta-vi-gaming-2026-09-12": {
+      "operationID": "gta-vi-gaming-2026-09-12",
+      "digest": "803625d2e35b38bfd198de406694e3d35ac0f7134a96e041a2f7be12bf569b0b",
+      "status": "applied",
+      "version": 33,
+      "target": "gta-vi",
+      "at": "2026-09-13T05:42:17.328651+00:00"
     }
   }
 }
