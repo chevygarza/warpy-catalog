@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -48586,6 +48586,361 @@
           "estimated": true
         }
       ]
+    },
+    {
+      "id": "marvels-wolverine",
+      "title": "Marvel's Wolverine",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-09-15",
+      "url": "https://www.playstation.com/en-us/games/marvels-wolverine/",
+      "keywords": [
+        "marvel",
+        "wolverine",
+        "insomniac",
+        "ps5",
+        "playstation",
+        "videojuego",
+        "videogame",
+        "gaming"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "PS5 · Release",
+        "es": "PS5 · Lanzamiento"
+      },
+      "accent": "#F2C94C"
+    },
+    {
+      "id": "tokyo-game-show-2026",
+      "title": "Tokyo Game Show 2026",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-09-17",
+      "url": "https://tgs.cesa.or.jp/2026/en",
+      "keywords": [
+        "tokyo",
+        "game",
+        "show",
+        "2026",
+        "tgs",
+        "tokyo game show",
+        "showcase",
+        "videojuegos",
+        "gaming",
+        "japon"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "Makuhari Messe, Chiba",
+        "es": "Makuhari Messe, Chiba"
+      },
+      "endDate": "2026-09-21",
+      "accent": "#E10600"
+    },
+    {
+      "id": "ea-sports-fc-27",
+      "title": "EA Sports FC 27",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-09-25",
+      "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-editions-and-release-dates",
+      "keywords": [
+        "sports",
+        "fc 27",
+        "fc27",
+        "fifa",
+        "ea sports",
+        "futbol",
+        "soccer",
+        "videojuego",
+        "gaming"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "Release · Early access Sept 18",
+        "es": "Lanzamiento · Acceso anticipado 18 sep"
+      },
+      "accent": "#27AE60"
+    },
+    {
+      "id": "ace-combat-8",
+      "title": "Ace Combat 8: Wings of Theve",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-02",
+      "url": "https://acecombat.jp/en/news/20261002/",
+      "keywords": [
+        "ace",
+        "combat",
+        "wings",
+        "theve",
+        "ace combat",
+        "bandai namco",
+        "videojuego",
+        "gaming",
+        "aviones"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Release",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "accent": "#2F80ED"
+    },
+    {
+      "id": "gears-of-war-e-day",
+      "title": "Gears of War: E-Day",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-06",
+      "url": "https://www.xbox.com/en-US/games/gears-of-war-eday",
+      "keywords": [
+        "gears",
+        "war",
+        "day",
+        "gears of war",
+        "xbox",
+        "game pass",
+        "videojuego",
+        "gaming"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "Xbox Series X|S, PC, Game Pass · Release",
+        "es": "Xbox Series X|S, PC, Game Pass · Lanzamiento"
+      },
+      "accent": "#9B51E0"
+    },
+    {
+      "id": "zelda-ocarina-of-time-2026",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-11-05",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
+      "keywords": [
+        "the",
+        "legend",
+        "zelda",
+        "ocarina",
+        "time",
+        "ocarina of time",
+        "nintendo",
+        "switch 2",
+        "remake",
+        "videojuego",
+        "gaming"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "Nintendo Switch 2 remake · Release",
+        "es": "Remake para Nintendo Switch 2 · Lanzamiento"
+      },
+      "accent": "#27AE60"
+    },
+    {
+      "id": "the-game-awards-2026",
+      "title": "The Game Awards 2026",
+      "emoji": "🏆",
+      "category": "entertainment",
+      "date": "2026-12-10",
+      "url": "https://thegameawards.com/",
+      "keywords": [
+        "the",
+        "game",
+        "awards",
+        "2026",
+        "game awards",
+        "tga",
+        "premios",
+        "videojuegos",
+        "gaming",
+        "showcase",
+        "geoff keighley"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "subtitles": {
+        "en": "Peacock Theater, Los Angeles",
+        "es": "Peacock Theater, Los Ángeles"
+      },
+      "accent": "#F2994A"
+    },
+    {
+      "id": "iphone-18-pro",
+      "title": "iPhone 18 Pro",
+      "emoji": "📱",
+      "category": "tech",
+      "date": "2026-09-18",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "keywords": [
+        "iphone",
+        "pro",
+        "iphone 18",
+        "apple",
+        "pro max",
+        "a20 pro"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "On sale",
+        "es": "A la venta"
+      },
+      "accent": "#1C1C1E"
+    },
+    {
+      "id": "meta-connect-2026",
+      "title": "Meta Connect 2026",
+      "emoji": "🥽",
+      "category": "tech",
+      "date": "2026-09-23",
+      "url": "https://www.meta.com/connect/",
+      "keywords": [
+        "meta",
+        "connect",
+        "2026",
+        "quest",
+        "lentes",
+        "gafas",
+        "realidad virtual",
+        "ai"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "Menlo Park",
+        "es": "Menlo Park"
+      },
+      "endDate": "2026-09-24",
+      "accent": "#0668E1"
+    },
+    {
+      "id": "iphone-duo",
+      "title": "iPhone Duo",
+      "emoji": "📱",
+      "category": "tech",
+      "date": "2026-10-23",
+      "url": "https://depor.com/en/us-local/apple-foldable-iphone-2026-release-date-price-features-and-will-it-be-called-iphone-ultra-nnda-nnrt-noticia/",
+      "keywords": [
+        "iphone",
+        "duo",
+        "iphone duo",
+        "plegable",
+        "foldable",
+        "apple",
+        "ultra"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "Apple's first foldable · On sale",
+        "es": "El primer iPhone plegable · A la venta"
+      },
+      "accent": "#1C1C1E"
+    },
+    {
+      "id": "aws-reinvent-2026",
+      "title": "AWS re:Invent 2026",
+      "emoji": "☁️",
+      "category": "tech",
+      "date": "2026-11-30",
+      "url": "https://aws.amazon.com/events/reinvent/faqs/",
+      "keywords": [
+        "aws",
+        "invent",
+        "2026",
+        "reinvent",
+        "amazon",
+        "nube",
+        "cloud",
+        "conferencia"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "Las Vegas",
+        "es": "Las Vegas"
+      },
+      "endDate": "2026-12-04",
+      "accent": "#FF9900"
+    },
+    {
+      "id": "mwc-2027",
+      "title": "MWC Barcelona 2027",
+      "emoji": "📡",
+      "category": "tech",
+      "date": "2027-03-01",
+      "url": "https://www.mwcbarcelona.com/about",
+      "keywords": [
+        "mwc",
+        "barcelona",
+        "2027",
+        "mobile world congress",
+        "celulares",
+        "moviles",
+        "5g"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "Fira Gran Via, Barcelona",
+        "es": "Fira Gran Via, Barcelona"
+      },
+      "endDate": "2027-03-04",
+      "accent": "#2F80ED"
+    },
+    {
+      "id": "nvidia-gtc-2027",
+      "title": "NVIDIA GTC 2027",
+      "emoji": "🤖",
+      "category": "tech",
+      "date": "2027-03-15",
+      "url": "https://www.nvidia.com/gtc/",
+      "keywords": [
+        "nvidia",
+        "gtc",
+        "2027",
+        "jensen",
+        "ia",
+        "ai",
+        "gpu",
+        "chips"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "San Jose, California",
+        "es": "San José, California"
+      },
+      "endDate": "2027-03-18",
+      "accent": "#76B900"
+    },
+    {
+      "id": "computex-2027",
+      "title": "Computex 2027",
+      "emoji": "🖥️",
+      "category": "tech",
+      "date": "2027-06-01",
+      "url": "https://www.computextaipei.com.tw/en/index.html",
+      "keywords": [
+        "computex",
+        "2027",
+        "taipei",
+        "taiwan",
+        "pc",
+        "hardware",
+        "gpu",
+        "chips"
+      ],
+      "origin": "telegram",
+      "subtitles": {
+        "en": "Taipei Nangang Exhibition Center",
+        "es": "Taipei Nangang Exhibition Center"
+      },
+      "endDate": "2027-06-04",
+      "accent": "#C0672B"
     }
   ],
   "teams": [
@@ -50537,5 +50892,15 @@
       ],
       "lastSeen": "2026-09-13"
     }
-  ]
+  ],
+  "operations": {
+    "gaming-tech-2026-09-12": {
+      "operationID": "gaming-tech-2026-09-12",
+      "digest": "7f4056a0443567b5433073c10aa15f88620ca1935f10e5395eac031940340479",
+      "status": "applied",
+      "version": 32,
+      "target": "marvels-wolverine,tokyo-game-show-2026,ea-sports-fc-27,ace-combat-8,gears-of-war-e-day,zelda-ocarina-of-time-2026,the-game-awards-2026,iphone-18-pro,meta-connect-2026,iphone-duo,aws-reinvent-2026,mwc-2027,nvidia-gtc-2027,computex-2027",
+      "at": "2026-09-13T05:39:30.546846+00:00"
+    }
+  }
 }
