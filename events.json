@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -48637,7 +48637,9 @@
         "en": "PS5 · Release",
         "es": "PS5 · Lanzamiento"
       },
-      "accent": "#F2C94C"
+      "accent": "#F2C94C",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "tokyo-game-show-2026",
@@ -48691,7 +48693,9 @@
         "en": "Release · Early access Sept 18",
         "es": "Lanzamiento · Acceso anticipado 18 sep"
       },
-      "accent": "#27AE60"
+      "accent": "#27AE60",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "ace-combat-8",
@@ -48717,7 +48721,9 @@
         "en": "PS5, Xbox Series X|S, PC · Release",
         "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
       },
-      "accent": "#2F80ED"
+      "accent": "#2F80ED",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "gears-of-war-e-day",
@@ -48742,7 +48748,9 @@
         "en": "Xbox Series X|S, PC, Game Pass · Release",
         "es": "Xbox Series X|S, PC, Game Pass · Lanzamiento"
       },
-      "accent": "#9B51E0"
+      "accent": "#9B51E0",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "zelda-ocarina-of-time-2026",
@@ -48801,8 +48809,7 @@
       },
       "override": {
         "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
-      },
-      "dateConfirmed": true
+      }
     },
     {
       "id": "the-game-awards-2026",
@@ -48852,7 +48859,9 @@
         "en": "On sale",
         "es": "A la venta"
       },
-      "accent": "#1C1C1E"
+      "accent": "#1C1C1E",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "meta-connect-2026",
@@ -48926,7 +48935,9 @@
       },
       "override": {
         "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
-      }
+      },
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "aws-reinvent-2026",
@@ -48951,7 +48962,9 @@
         "es": "Las Vegas"
       },
       "endDate": "2026-12-04",
-      "accent": "#FF9900"
+      "accent": "#FF9900",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "mwc-2027",
@@ -49000,7 +49013,9 @@
         "es": "San José, California"
       },
       "endDate": "2027-03-18",
-      "accent": "#76B900"
+      "accent": "#76B900",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "computex-2027",
