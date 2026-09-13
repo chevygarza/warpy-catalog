@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -48667,7 +48667,9 @@
         "es": "Makuhari Messe, Chiba"
       },
       "endDate": "2026-09-21",
-      "accent": "#E10600"
+      "accent": "#E10600",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "ea-sports-fc-27",
@@ -48809,7 +48811,9 @@
       },
       "override": {
         "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
-      }
+      },
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "the-game-awards-2026",
@@ -48837,7 +48841,9 @@
         "en": "Peacock Theater, Los Angeles",
         "es": "Peacock Theater, Los Ángeles"
       },
-      "accent": "#F2994A"
+      "accent": "#F2994A",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "iphone-18-pro",
@@ -48886,7 +48892,9 @@
         "es": "Menlo Park"
       },
       "endDate": "2026-09-24",
-      "accent": "#0668E1"
+      "accent": "#0668E1",
+      "dateConfirmedAt": "2026-09-13",
+      "dateConfirmed": true
     },
     {
       "id": "iphone-duo",
