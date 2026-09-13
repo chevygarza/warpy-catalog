@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -48750,7 +48750,7 @@
       "emoji": "🎮",
       "category": "entertainment",
       "date": "2026-11-05",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
+      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/",
       "keywords": [
         "the",
         "legend",
@@ -48770,7 +48770,39 @@
         "en": "Nintendo Switch 2 remake · Release",
         "es": "Remake para Nintendo Switch 2 · Lanzamiento"
       },
-      "accent": "#27AE60"
+      "accent": "#27AE60",
+      "sourceSnapshot": {
+        "id": "zelda-ocarina-of-time-2026",
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-11-05",
+        "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
+        "keywords": [
+          "the",
+          "legend",
+          "zelda",
+          "ocarina",
+          "time",
+          "ocarina of time",
+          "nintendo",
+          "switch 2",
+          "remake",
+          "videojuego",
+          "gaming"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "Nintendo Switch 2 remake · Release",
+          "es": "Remake para Nintendo Switch 2 · Lanzamiento"
+        },
+        "accent": "#27AE60"
+      },
+      "override": {
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+      },
+      "dateConfirmed": true
     },
     {
       "id": "the-game-awards-2026",
@@ -50936,6 +50968,14 @@
       "version": 33,
       "target": "gta-vi",
       "at": "2026-09-13T05:42:17.328651+00:00"
+    },
+    "fuente-oficial-zelda-ocarina-of-time-2026": {
+      "operationID": "fuente-oficial-zelda-ocarina-of-time-2026",
+      "digest": "ec865b5a3782e6d6ada832ec11d044cddf7547aeb46b566ed8283edbebd5e9c7",
+      "status": "applied",
+      "version": 34,
+      "target": "zelda-ocarina-of-time-2026",
+      "at": "2026-09-13T14:15:32.712720+00:00"
     }
   }
 }

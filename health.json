@@ -140,7 +140,7 @@
   },
   "findings": [],
   "cadenceHours": 6,
-  "catalogVersion": 33,
+  "catalogVersion": 34,
   "coverage": {
     "automaticSeries": [
       "champions-league",
@@ -254,5 +254,6 @@
       "nfl",
       "premier-league"
     ]
-  }
+  },
+  "publishedAt": "2026-09-13T14:16:16.270933+00:00"
 }
