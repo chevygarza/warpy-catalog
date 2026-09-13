@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "updatedAt": "2026-09-13",
   "events": [
     {
@@ -48885,7 +48885,7 @@
       "emoji": "📱",
       "category": "tech",
       "date": "2026-10-23",
-      "url": "https://depor.com/en/us-local/apple-foldable-iphone-2026-release-date-price-features-and-will-it-be-called-iphone-ultra-nnda-nnrt-noticia/",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
       "keywords": [
         "iphone",
         "duo",
@@ -48900,7 +48900,33 @@
         "en": "Apple's first foldable · On sale",
         "es": "El primer iPhone plegable · A la venta"
       },
-      "accent": "#1C1C1E"
+      "accent": "#1C1C1E",
+      "sourceSnapshot": {
+        "id": "iphone-duo",
+        "title": "iPhone Duo",
+        "emoji": "📱",
+        "category": "tech",
+        "date": "2026-10-23",
+        "url": "https://depor.com/en/us-local/apple-foldable-iphone-2026-release-date-price-features-and-will-it-be-called-iphone-ultra-nnda-nnrt-noticia/",
+        "keywords": [
+          "iphone",
+          "duo",
+          "iphone duo",
+          "plegable",
+          "foldable",
+          "apple",
+          "ultra"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "Apple's first foldable · On sale",
+          "es": "El primer iPhone plegable · A la venta"
+        },
+        "accent": "#1C1C1E"
+      },
+      "override": {
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+      }
     },
     {
       "id": "aws-reinvent-2026",
@@ -50976,6 +51002,14 @@
       "version": 34,
       "target": "zelda-ocarina-of-time-2026",
       "at": "2026-09-13T14:15:32.712720+00:00"
+    },
+    "fuente-oficial-iphone-duo": {
+      "operationID": "fuente-oficial-iphone-duo",
+      "digest": "eb865e71ac53c9aca9ab9d5e282d0868f611e12bc0a68445338a7ee6c9614c5f",
+      "status": "applied",
+      "version": 35,
+      "target": "iphone-duo",
+      "at": "2026-09-13T14:16:52.376386+00:00"
     }
   }
 }
