@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "updatedAt": "2026-09-14",
   "events": [
     {
@@ -45147,25 +45147,6 @@
           "timeZone": "America/Denver"
         },
         {
-          "id": "mls-761773",
-          "title": "FC Cincinnati vs D.C. United",
-          "teams": [
-            "FC Cincinnati",
-            "D.C. United"
-          ],
-          "teamIDs": [
-            "espn:soccer:18267",
-            "espn:soccer:193"
-          ],
-          "competition": "mls",
-          "venue": "TQL Stadium, Cincinnati, Ohio",
-          "date": "2026-09-05",
-          "time": "21:31",
-          "timeZone": "America/New_York",
-          "status": "cancelled",
-          "sourceStatus": "postponed"
-        },
-        {
           "id": "mls-761783",
           "title": "Portland Timbers vs Minnesota United FC",
           "teams": [
@@ -46998,6 +46979,23 @@
           "competition": "mls",
           "venue": "TQL Stadium, Cincinnati, Ohio",
           "date": "2026-10-18",
+          "time": "19:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "mls-761773",
+          "title": "FC Cincinnati vs D.C. United",
+          "teams": [
+            "FC Cincinnati",
+            "D.C. United"
+          ],
+          "teamIDs": [
+            "espn:soccer:18267",
+            "espn:soccer:193"
+          ],
+          "competition": "mls",
+          "venue": "TQL Stadium, Cincinnati, Ohio",
+          "date": "2026-10-21",
           "time": "19:00",
           "timeZone": "America/New_York"
         },
