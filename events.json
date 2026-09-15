@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "updatedAt": "2026-09-15",
   "events": [
     {
@@ -48681,6 +48681,391 @@
         "time": null,
         "timeZone": "America/Monterrey"
       }
+    },
+    {
+      "id": "independence-day-us-2026",
+      "title": "Independence Day",
+      "emoji": "🎆",
+      "category": "holidays",
+      "date": "2026-07-04",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "independence",
+        "day",
+        "independence day",
+        "4th of july",
+        "fourth of july",
+        "july 4",
+        "fireworks",
+        "4 de julio"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · July 4",
+      "titles": {
+        "es": "Día de la Independencia de EE. UU."
+      },
+      "subtitles": {
+        "es": "Estados Unidos · 4 de julio"
+      },
+      "accent": "#2F80ED",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "memorial-day-2026",
+      "title": "Memorial Day",
+      "emoji": "🇺🇸",
+      "category": "holidays",
+      "date": "2026-05-25",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "memorial",
+        "day",
+        "memorial day",
+        "last monday of may",
+        "veterans",
+        "mayo"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · last Monday of May",
+      "titles": {
+        "es": "Memorial Day"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · último lunes de mayo"
+      },
+      "accent": "#173A5E",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "lastWeekday",
+        "month": 5,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "labor-day-us-2026",
+      "title": "Labor Day",
+      "emoji": "🛠️",
+      "category": "holidays",
+      "date": "2026-09-07",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "labor",
+        "day",
+        "labor day",
+        "first monday of september",
+        "september",
+        "dia del trabajo"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · first Monday of September",
+      "titles": {
+        "es": "Labor Day"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · primer lunes de septiembre"
+      },
+      "accent": "#C0672B",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 9,
+        "ordinal": 1,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "juneteenth-2027",
+      "title": "Juneteenth",
+      "emoji": "✊",
+      "category": "holidays",
+      "date": "2027-06-19",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "juneteenth",
+        "june 19",
+        "freedom day",
+        "emancipation"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · June 19",
+      "titles": {
+        "es": "Juneteenth"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · 19 de junio"
+      },
+      "accent": "#9B51E0",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "veterans-day-2026",
+      "title": "Veterans Day",
+      "emoji": "🎖️",
+      "category": "holidays",
+      "date": "2026-11-11",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "veterans",
+        "day",
+        "veterans day",
+        "november 11",
+        "11 de noviembre"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · November 11",
+      "titles": {
+        "es": "Día de los Veteranos"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · 11 de noviembre"
+      },
+      "accent": "#173A5E",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "mlk-day-2027",
+      "title": "Martin Luther King Jr. Day",
+      "emoji": "✊🏾",
+      "category": "holidays",
+      "date": "2027-01-18",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "martin",
+        "luther",
+        "king",
+        "day",
+        "mlk",
+        "martin luther king",
+        "third monday of january",
+        "january"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · third Monday of January",
+      "titles": {
+        "es": "Día de Martin Luther King Jr."
+      },
+      "subtitles": {
+        "es": "Estados Unidos · tercer lunes de enero"
+      },
+      "accent": "#27AE60",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 1,
+        "ordinal": 3,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "presidents-day-2027",
+      "title": "Presidents' Day",
+      "emoji": "🏛️",
+      "category": "holidays",
+      "date": "2027-02-15",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "presidents",
+        "day",
+        "presidents day",
+        "washington",
+        "third monday of february",
+        "february"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · third Monday of February",
+      "titles": {
+        "es": "Día de los Presidentes"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · tercer lunes de febrero"
+      },
+      "accent": "#2F80ED",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 2,
+        "ordinal": 3,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "mothers-day-us-2027",
+      "title": "Mother's Day",
+      "emoji": "💐",
+      "category": "holidays",
+      "date": "2027-05-09",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "mother",
+        "day",
+        "mothers day",
+        "second sunday of may",
+        "mom",
+        "mama",
+        "may"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · second Sunday of May",
+      "titles": {
+        "es": "Día de las Madres"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · segundo domingo de mayo"
+      },
+      "accent": "#EB5757",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 5,
+        "ordinal": 2,
+        "weekday": 1
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "fathers-day-us-2027",
+      "title": "Father's Day",
+      "emoji": "👔",
+      "category": "holidays",
+      "date": "2027-06-20",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "father",
+        "day",
+        "fathers day",
+        "third sunday of june",
+        "dad",
+        "papa",
+        "june"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · third Sunday of June",
+      "titles": {
+        "es": "Día del Padre"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · tercer domingo de junio"
+      },
+      "accent": "#2D9CDB",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 6,
+        "ordinal": 3,
+        "weekday": 1
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "columbus-day-2026",
+      "title": "Indigenous Peoples' Day",
+      "emoji": "🍂",
+      "category": "holidays",
+      "date": "2026-10-12",
+      "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+      "keywords": [
+        "indigenous",
+        "peoples",
+        "day",
+        "columbus day",
+        "indigenous peoples day",
+        "second monday of october",
+        "october"
+      ],
+      "origin": "telegram",
+      "subtitle": "United States · second Monday of October",
+      "titles": {
+        "es": "Día de los Pueblos Indígenas"
+      },
+      "subtitles": {
+        "es": "Estados Unidos · segundo lunes de octubre"
+      },
+      "accent": "#C0672B",
+      "regions": [
+        "US"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 10,
+        "ordinal": 2,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 44,
+        "publishedAt": "2026-09-15T14:10:08Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -50681,6 +51066,14 @@
       "version": 42,
       "target": "pokemon-30th-celebration-set-2026",
       "at": "2026-09-15T05:30:26.233371+00:00"
+    },
+    "festivos-us-2026-09-15b": {
+      "operationID": "festivos-us-2026-09-15b",
+      "digest": "57bd2bb0b57b53584903b6cadcd7ae31579a766abeb316d0ff1317442f3bc30c",
+      "status": "applied",
+      "version": 44,
+      "target": "independence-day-us-2026,memorial-day-2026,labor-day-us-2026,juneteenth-2027,veterans-day-2026,mlk-day-2027,presidents-day-2027,mothers-day-us-2027,fathers-day-us-2027,columbus-day-2026",
+      "at": "2026-09-15T14:10:07.306957+00:00"
     }
   }
 }
