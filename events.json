@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "updatedAt": "2026-09-15",
   "events": [
     {
@@ -48648,7 +48648,7 @@
         "set"
       ],
       "origin": "telegram",
-      "subcategory": "gaming",
+      "subcategory": "launches",
       "news": {
         "introducedInVersion": 41,
         "publishedAt": "2026-09-15T05:22:16Z",
@@ -48679,7 +48679,8 @@
       "override": {
         "date": "2026-09-16",
         "time": null,
-        "timeZone": "America/Monterrey"
+        "timeZone": "America/Monterrey",
+        "subcategory": "launches"
       }
     },
     {
@@ -51074,6 +51075,14 @@
       "version": 44,
       "target": "independence-day-us-2026,memorial-day-2026,labor-day-us-2026,juneteenth-2027,veterans-day-2026,mlk-day-2027,presidents-day-2027,mothers-day-us-2027,fathers-day-us-2027,columbus-day-2026",
       "at": "2026-09-15T14:10:07.306957+00:00"
+    },
+    "pokemon-launches-2026-09-15": {
+      "operationID": "pokemon-launches-2026-09-15",
+      "digest": "02c8da9bc675e6799580090ee97f6cbff8943afa847f5dbf133cbd61180a42f2",
+      "status": "applied",
+      "version": 45,
+      "target": "pokemon-30th-celebration-set-2026",
+      "at": "2026-09-15T14:34:11.452626+00:00"
     }
   }
 }
