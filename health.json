@@ -1,148 +1,161 @@
 {
-  "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-  "status": "ok",
+  "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+  "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "lastSuccessAt": "2026-09-15T17:00:58.452272+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mlb": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "lastSuccessAt": "2026-09-15T17:00:58.452272+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nfl": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "nba": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "liga-mx": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "la-liga": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "premier-league": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "champions-league": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "mls": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "leagues-cup": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.leagues.cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "concachampions": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.champions/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "copa-del-rey": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.copa_del_rey/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "supercopa-espana": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.super_cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.super_cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     },
     "club-world-cup": {
-      "checkedAt": "2026-09-15T12:47:10.166944+00:00",
-      "status": "ok",
+      "checkedAt": "2026-09-15T17:00:58.452272+00:00",
+      "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
-      "overrideConflicts": []
+      "overrideConflicts": [],
+      "reason": "el lector falló (1): RuntimeError: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.cwc/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400: Bad Request"
     }
   },
   "findings": [],
   "cadenceHours": 6,
   "catalogVersion": 45,
   "editorial": {
-    "checked": 15,
+    "checked": 22,
     "confirmed": [
       "marvels-wolverine",
       "tokyo-game-show-2026",
@@ -160,7 +173,14 @@
     "unconfirmed": [
       "mwc-2027",
       "computex-2027",
-      "pokemon-30th-celebration-set-2026"
+      "pokemon-30th-celebration-set-2026",
+      "juneteenth-2027",
+      "veterans-day-2026",
+      "mlk-day-2027",
+      "presidents-day-2027",
+      "mothers-day-us-2027",
+      "fathers-day-us-2027",
+      "columbus-day-2026"
     ],
     "open": [],
     "unreachable": []
@@ -192,7 +212,17 @@
       "earth-day-2027",
       "grito-independencia-2026",
       "guadalupe-reyes-2026",
-      "dia-de-la-madre-mx-2027"
+      "dia-de-la-madre-mx-2027",
+      "independence-day-us-2026",
+      "memorial-day-2026",
+      "labor-day-us-2026",
+      "juneteenth-2027",
+      "veterans-day-2026",
+      "mlk-day-2027",
+      "presidents-day-2027",
+      "mothers-day-us-2027",
+      "fathers-day-us-2027",
+      "columbus-day-2026"
     ],
     "withoutAutomaticSource": [
       "fifa-world-cup-2030",
@@ -264,7 +294,7 @@
   "secondary": {
     "status": "partial",
     "counts": {
-      "ok": 58,
+      "ok": 57,
       "revisar": 0,
       "sin cruce": 99
     },
@@ -280,5 +310,5 @@
       "premier-league"
     ]
   },
-  "publishedAt": "2026-09-15T14:34:41.198121+00:00"
+  "publishedAt": "2026-09-15T17:04:45.077041+00:00"
 }
