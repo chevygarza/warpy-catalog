@@ -1,6 +1,6 @@
 {
-  "version": 40,
-  "updatedAt": "2026-09-14",
+  "version": 41,
+  "updatedAt": "2026-09-15",
   "events": [
     {
       "id": "fifa-world-cup-2030",
@@ -48913,6 +48913,27 @@
       },
       "endDate": "2027-06-04",
       "accent": "#C0672B"
+    },
+    {
+      "id": "pokemon-30th-celebration-set-2026",
+      "title": "Pokémon 30th Celebration Set",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-11-16",
+      "url": "https://tcg.pokemon.com/en-us/",
+      "keywords": [
+        "pokemon",
+        "30th",
+        "celebration",
+        "set"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "news": {
+        "introducedInVersion": 41,
+        "publishedAt": "2026-09-15T05:22:16Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -50897,6 +50918,14 @@
       "version": 35,
       "target": "iphone-duo",
       "at": "2026-09-13T14:16:52.376386+00:00"
+    },
+    "tg-278370478": {
+      "operationID": "tg-278370478",
+      "digest": "95386b52512ae1780a07ff2a52d382c87b4802ee22db8bde8901710eec6761cb",
+      "status": "applied",
+      "version": 41,
+      "target": "pokemon-30th-celebration-set-2026",
+      "at": "2026-09-15T05:22:16.059200+00:00"
     }
   }
 }
