@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "updatedAt": "2026-09-15",
   "events": [
     {
@@ -49092,6 +49092,49 @@
         "introducedInVersion": 46,
         "publishedAt": "2026-09-15T18:08:54Z",
         "eligible": true
+      },
+      "fact": {
+        "text": {
+          "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
+          "en": "Flight 14 will attempt to catch the Starship on its return."
+        },
+        "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
+      },
+      "sourceSnapshot": {
+        "id": "starship-flight-14-2026",
+        "title": "Starship Flight 14",
+        "emoji": "🚀",
+        "category": "space",
+        "date": "2026-09-22",
+        "url": "https://www.spacex.com/launches/starship-flight-14",
+        "keywords": [
+          "starship",
+          "flight",
+          "spacex",
+          "flight 14",
+          "vuelo 14",
+          "cohete",
+          "órbita"
+        ],
+        "origin": "telegram",
+        "subtitle": "Pendiente de aprobación",
+        "estimated": true,
+        "venue": "Starbase, Texas",
+        "news": {
+          "introducedInVersion": 46,
+          "publishedAt": "2026-09-15T18:08:54Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
+            "en": "Flight 14 will attempt to catch the Starship on its return."
+          },
+          "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests",
+          "quote": "Flight 14 will attempt ship catch"
+        }
       }
     }
   ],
@@ -51117,6 +51160,14 @@
       "version": 46,
       "target": "starship-flight-14-2026",
       "at": "2026-09-15T18:08:54.566167+00:00"
+    },
+    "plantel-starship-fact-20260915-1716": {
+      "operationID": "plantel-starship-fact-20260915-1716",
+      "digest": "6ecaed2830eb56f4c800cd3ea916f45299c0cd918ec99664fa24c96f0482d883",
+      "status": "applied",
+      "version": 47,
+      "target": "starship-flight-14-2026",
+      "at": "2026-09-15T23:17:38.231946+00:00"
     }
   }
 }
