@@ -1,617 +1,146 @@
 {
-  "checkedAt": "2026-09-16T05:04:57.616221+00:00",
-  "status": "degraded",
+  "checkedAt": "2026-09-16T05:13:39.840510+00:00",
+  "status": "ok",
   "sources": {
     "f1": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mlb": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nfl": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
-      "status": "quarantined",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": [],
-      "reason": [
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nfl · Tampa Bay Buccaneers vs Carolina Panthers",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nfl · Cincinnati Bengals vs Baltimore Ravens",
-          "detail": "desapareció una fecha futura (2026-12-31)",
-          "quote": null
-        }
-      ]
+      "overrideConflicts": []
     },
     "nba": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
-      "status": "quarantined",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": [],
-      "reason": [
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Memphis Grizzlies vs Sacramento Kings",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Milwaukee Bucks vs Cleveland Cavaliers",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · San Antonio Spurs vs Minnesota Timberwolves",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Houston Rockets vs Oklahoma City Thunder",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Charlotte Hornets vs Washington Wizards",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Detroit Pistons vs Denver Nuggets",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Brooklyn Nets vs Oklahoma City Thunder",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Houston Rockets vs Los Angeles Lakers",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Dallas Mavericks vs Boston Celtics",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Milwaukee Bucks vs San Antonio Spurs",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Sacramento Kings vs New Orleans Pelicans",
-          "detail": "desapareció una fecha futura (2026-11-30)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · New Orleans Pelicans vs Los Angeles Lakers",
-          "detail": "desapareció una fecha futura (2026-12-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Oklahoma City Thunder vs Miami Heat",
-          "detail": "desapareció una fecha futura (2026-12-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Phoenix Suns vs New York Knicks",
-          "detail": "desapareció una fecha futura (2026-12-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Charlotte Hornets vs Los Angeles Lakers",
-          "detail": "desapareció una fecha futura (2027-01-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Denver Nuggets vs Portland Trail Blazers",
-          "detail": "desapareció una fecha futura (2027-01-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Dallas Mavericks vs Houston Rockets",
-          "detail": "desapareció una fecha futura (2027-01-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Charlotte Hornets vs Sacramento Kings",
-          "detail": "desapareció una fecha futura (2027-02-28)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Minnesota Timberwolves vs Boston Celtics",
-          "detail": "desapareció una fecha futura (2027-02-28)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · New York Knicks vs Milwaukee Bucks",
-          "detail": "desapareció una fecha futura (2027-02-28)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Houston Rockets vs Miami Heat",
-          "detail": "desapareció una fecha futura (2027-02-28)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · LA Clippers vs Portland Trail Blazers",
-          "detail": "desapareció una fecha futura (2027-02-28)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Milwaukee Bucks vs New Orleans Pelicans",
-          "detail": "desapareció una fecha futura (2027-03-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Minnesota Timberwolves vs Sacramento Kings",
-          "detail": "desapareció una fecha futura (2027-03-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · San Antonio Spurs vs Phoenix Suns",
-          "detail": "desapareció una fecha futura (2027-03-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Dallas Mavericks vs Denver Nuggets",
-          "detail": "desapareció una fecha futura (2027-03-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "nba · Portland Trail Blazers vs Houston Rockets",
-          "detail": "desapareció una fecha futura (2027-03-31)",
-          "quote": null
-        }
-      ]
+      "overrideConflicts": []
     },
     "liga-mx": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
-      "status": "quarantined",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": [],
-      "reason": [
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "liga-mx · América vs Toluca",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "liga-mx · Rayados vs Tijuana",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        },
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "liga-mx · Chivas vs Atlante",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        }
-      ]
+      "overrideConflicts": []
     },
     "la-liga": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "premier-league": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "champions-league": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mls": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
-      "status": "quarantined",
-      "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": [],
-      "reason": [
-        {
-          "area": "fechas",
-          "verdict": "revisar",
-          "subject": "mls · Colorado Rapids vs Chicago Fire FC",
-          "detail": "desapareció una fecha futura (2026-10-31)",
-          "quote": null
-        }
-      ]
+      "overrideConflicts": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "concachampions": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-09-16T05:04:57.616221+00:00",
+      "checkedAt": "2026-09-16T05:13:39.840510+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-16T05:04:57.616221+00:00",
+      "lastSuccessAt": "2026-09-16T05:13:39.840510+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     }
   },
-  "findings": [
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nfl · Tampa Bay Buccaneers vs Carolina Panthers",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nfl · Cincinnati Bengals vs Baltimore Ravens",
-      "detail": "desapareció una fecha futura (2026-12-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Memphis Grizzlies vs Sacramento Kings",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Milwaukee Bucks vs Cleveland Cavaliers",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · San Antonio Spurs vs Minnesota Timberwolves",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Houston Rockets vs Oklahoma City Thunder",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Charlotte Hornets vs Washington Wizards",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Detroit Pistons vs Denver Nuggets",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Brooklyn Nets vs Oklahoma City Thunder",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Houston Rockets vs Los Angeles Lakers",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Dallas Mavericks vs Boston Celtics",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Milwaukee Bucks vs San Antonio Spurs",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Sacramento Kings vs New Orleans Pelicans",
-      "detail": "desapareció una fecha futura (2026-11-30)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · New Orleans Pelicans vs Los Angeles Lakers",
-      "detail": "desapareció una fecha futura (2026-12-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Oklahoma City Thunder vs Miami Heat",
-      "detail": "desapareció una fecha futura (2026-12-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Phoenix Suns vs New York Knicks",
-      "detail": "desapareció una fecha futura (2026-12-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Charlotte Hornets vs Los Angeles Lakers",
-      "detail": "desapareció una fecha futura (2027-01-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Denver Nuggets vs Portland Trail Blazers",
-      "detail": "desapareció una fecha futura (2027-01-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Dallas Mavericks vs Houston Rockets",
-      "detail": "desapareció una fecha futura (2027-01-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Charlotte Hornets vs Sacramento Kings",
-      "detail": "desapareció una fecha futura (2027-02-28)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Minnesota Timberwolves vs Boston Celtics",
-      "detail": "desapareció una fecha futura (2027-02-28)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · New York Knicks vs Milwaukee Bucks",
-      "detail": "desapareció una fecha futura (2027-02-28)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Houston Rockets vs Miami Heat",
-      "detail": "desapareció una fecha futura (2027-02-28)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · LA Clippers vs Portland Trail Blazers",
-      "detail": "desapareció una fecha futura (2027-02-28)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Milwaukee Bucks vs New Orleans Pelicans",
-      "detail": "desapareció una fecha futura (2027-03-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Minnesota Timberwolves vs Sacramento Kings",
-      "detail": "desapareció una fecha futura (2027-03-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · San Antonio Spurs vs Phoenix Suns",
-      "detail": "desapareció una fecha futura (2027-03-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Dallas Mavericks vs Denver Nuggets",
-      "detail": "desapareció una fecha futura (2027-03-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "nba · Portland Trail Blazers vs Houston Rockets",
-      "detail": "desapareció una fecha futura (2027-03-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "liga-mx · América vs Toluca",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "liga-mx · Rayados vs Tijuana",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "liga-mx · Chivas vs Atlante",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    },
-    {
-      "area": "fechas",
-      "verdict": "revisar",
-      "subject": "mls · Colorado Rapids vs Chicago Fire FC",
-      "detail": "desapareció una fecha futura (2026-10-31)",
-      "quote": null
-    }
-  ],
+  "findings": [],
   "cadenceHours": 6,
-  "catalogVersion": 48,
+  "catalogVersion": 49,
   "editorial": {
     "checked": 22,
     "confirmed": [
@@ -769,5 +298,5 @@
       "premier-league"
     ]
   },
-  "publishedAt": "2026-09-16T05:07:58.624804+00:00"
+  "publishedAt": "2026-09-16T05:16:24.541709+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -6878,7 +6878,7 @@
       },
       "emoji": "🏈",
       "category": "sports",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "accent": "#013369",
       "url": "https://www.nfl.com/schedules/",
       "keywords": [
@@ -10766,7 +10766,7 @@
       },
       "emoji": "🏀",
       "category": "sports",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "accent": "#C9082A",
       "url": "https://www.nba.com/schedule",
       "keywords": [
@@ -27320,7 +27320,7 @@
       },
       "emoji": "⚽️",
       "category": "sports",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "accent": "#27AE60",
       "url": "https://ligamx.net",
       "keywords": [
@@ -27354,6 +27354,27 @@
         "Toluca"
       ],
       "occurrences": [
+        {
+          "id": "liga-mx-401876990",
+          "title": "Juárez vs Pachuca",
+          "teams": [
+            "Juárez",
+            "Pachuca"
+          ],
+          "teamIDs": [
+            "espn:soccer:17851",
+            "espn:soccer:234"
+          ],
+          "competition": "liga-mx",
+          "venue": "Estadio Olímpico Benito Juárez, Ciudad Juárez",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "timeZone": "America/Ciudad_Juarez",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
         {
           "id": "liga-mx-401876989",
           "title": "Atlético San Luis vs Chivas",
@@ -29503,6 +29524,57 @@
         "Villarreal"
       ],
       "occurrences": [
+        {
+          "id": "la-liga-401882895",
+          "title": "Athletic vs Atlético",
+          "teams": [
+            "Athletic",
+            "Atlético"
+          ],
+          "teamIDs": [
+            "espn:soccer:93",
+            "espn:soccer:1068"
+          ],
+          "competition": "la-liga",
+          "venue": "San Mamés, Bilbao",
+          "date": "2026-09-05",
+          "time": "16:15",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "la-liga-401882889",
+          "title": "Rayo Vallecano vs Racing Santander",
+          "teams": [
+            "Rayo Vallecano",
+            "Racing Santander"
+          ],
+          "teamIDs": [
+            "espn:soccer:101",
+            "espn:soccer:87"
+          ],
+          "competition": "la-liga",
+          "venue": "Estadio Municipal de Butarque, Leganés, Madrid",
+          "date": "2026-09-05",
+          "time": "18:30",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "la-liga-401882887",
+          "title": "Villarreal vs Deportivo",
+          "teams": [
+            "Villarreal",
+            "Deportivo"
+          ],
+          "teamIDs": [
+            "espn:soccer:102",
+            "espn:soccer:90"
+          ],
+          "competition": "la-liga",
+          "venue": "Estadio de la Cerámica, Villarreal",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
         {
           "id": "la-liga-401882888",
           "title": "Valencia vs Barcelona",
@@ -35726,6 +35798,125 @@
         "Tottenham"
       ],
       "occurrences": [
+        {
+          "id": "premier-league-401879286",
+          "title": "Newcastle vs AFC Bournemouth",
+          "teams": [
+            "Newcastle",
+            "AFC Bournemouth"
+          ],
+          "teamIDs": [
+            "espn:soccer:361",
+            "espn:soccer:349"
+          ],
+          "competition": "premier-league",
+          "venue": "St. James' Park, Newcastle-upon-Tyne",
+          "date": "2026-09-05",
+          "time": "12:30",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401879311",
+          "title": "Brentford vs Sunderland",
+          "teams": [
+            "Brentford",
+            "Sunderland"
+          ],
+          "teamIDs": [
+            "espn:soccer:337",
+            "espn:soccer:366"
+          ],
+          "competition": "premier-league",
+          "venue": "Gtech Community Stadium, Brentford",
+          "date": "2026-09-05",
+          "time": "15:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401879290",
+          "title": "Brighton vs Leeds United",
+          "teams": [
+            "Brighton",
+            "Leeds United"
+          ],
+          "teamIDs": [
+            "espn:soccer:331",
+            "espn:soccer:357"
+          ],
+          "competition": "premier-league",
+          "venue": "American Express Stadium, Falmer",
+          "date": "2026-09-05",
+          "time": "15:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401879289",
+          "title": "Fulham vs Crystal Palace",
+          "teams": [
+            "Fulham",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:370",
+            "espn:soccer:384"
+          ],
+          "competition": "premier-league",
+          "venue": "Craven Cottage, London",
+          "date": "2026-09-05",
+          "time": "15:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401879287",
+          "title": "Man City vs Coventry City",
+          "teams": [
+            "Man City",
+            "Coventry City"
+          ],
+          "teamIDs": [
+            "espn:soccer:382",
+            "espn:soccer:388"
+          ],
+          "competition": "premier-league",
+          "venue": "Etihad Stadium, Manchester",
+          "date": "2026-09-05",
+          "time": "15:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401878780",
+          "title": "Forest vs Tottenham",
+          "teams": [
+            "Forest",
+            "Tottenham"
+          ],
+          "teamIDs": [
+            "espn:soccer:393",
+            "espn:soccer:367"
+          ],
+          "competition": "premier-league",
+          "venue": "The City Ground, Nottingham",
+          "date": "2026-09-05",
+          "time": "15:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "premier-league-401878781",
+          "title": "Hull City vs Aston Villa",
+          "teams": [
+            "Hull City",
+            "Aston Villa"
+          ],
+          "teamIDs": [
+            "espn:soccer:306",
+            "espn:soccer:362"
+          ],
+          "competition": "premier-league",
+          "venue": "The MKM Stadium, Hull",
+          "date": "2026-09-05",
+          "time": "17:30",
+          "timeZone": "Europe/London"
+        },
         {
           "id": "premier-league-401879291",
           "title": "Everton vs Man United",
@@ -44271,7 +44462,7 @@
       },
       "emoji": "🇺🇸",
       "category": "sports",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "accent": "#C8102E",
       "url": "https://www.mlssoccer.com/schedule/",
       "keywords": [
@@ -48795,7 +48986,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:102",
@@ -48857,7 +49048,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:110",
@@ -48916,7 +49107,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:124",
@@ -49262,7 +49453,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:16",
@@ -49309,7 +49500,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:175",
@@ -49332,7 +49523,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:17851",
@@ -49345,7 +49536,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:182",
@@ -49357,7 +49548,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:18267",
@@ -49370,7 +49561,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:183",
@@ -49382,7 +49573,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:18334",
@@ -49405,7 +49596,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:18418",
@@ -49417,7 +49608,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:185",
@@ -49429,7 +49620,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:186",
@@ -49441,7 +49632,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:187",
@@ -49453,7 +49644,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:189",
@@ -49465,7 +49656,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:18966",
@@ -49476,7 +49667,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:18986",
@@ -49489,7 +49680,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:190",
@@ -49501,7 +49692,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:191",
@@ -49513,7 +49704,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:1929",
@@ -49535,7 +49726,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:20026",
@@ -49562,7 +49753,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:2029",
@@ -49607,7 +49798,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:21300",
@@ -49619,7 +49810,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:21522",
@@ -49642,7 +49833,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:218",
@@ -49654,7 +49845,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:21812",
@@ -49666,7 +49857,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:219",
@@ -49678,7 +49869,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:21922",
@@ -49717,7 +49908,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:223",
@@ -49754,7 +49945,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:2250",
@@ -49779,7 +49970,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:226",
@@ -49790,7 +49981,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:227",
@@ -49827,7 +50018,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:231",
@@ -49838,7 +50029,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:232",
@@ -49851,7 +50042,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:233",
@@ -49864,7 +50055,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:234",
@@ -49876,7 +50067,7 @@
         "club-world-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:243",
@@ -50277,7 +50468,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:493",
@@ -50358,7 +50549,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:6086",
@@ -50461,7 +50652,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:819",
@@ -50670,7 +50861,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:9723",
@@ -50682,7 +50873,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:9726",
@@ -50696,7 +50887,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:9727",
@@ -50709,7 +50900,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "id": "espn:soccer:99",
