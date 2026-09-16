@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -47874,24 +47874,6 @@
           "timeZone": "Europe/Madrid"
         },
         {
-          "id": "copa-del-rey-401918753",
-          "title": "SD Noja vs Ribadesella",
-          "teams": [
-            "SD Noja",
-            "Ribadesella"
-          ],
-          "teamIDs": [
-            "espn:soccer:133850",
-            "espn:soccer:133842"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
           "id": "copa-del-rey-401918759",
           "title": "Atlético Melilla vs Atlético Pinatarense",
           "teams": [
@@ -47960,6 +47942,23 @@
           "timeZone": "Europe/Madrid"
         },
         {
+          "id": "copa-del-rey-401918753",
+          "title": "SD Noja vs Ribadesella",
+          "teams": [
+            "SD Noja",
+            "Ribadesella"
+          ],
+          "teamIDs": [
+            "espn:soccer:133850",
+            "espn:soccer:133842"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "La Caseta, Santander",
+          "date": "2026-10-04",
+          "time": "16:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
           "id": "copa-del-rey-401918757",
           "title": "Sporting de Alcázar vs CP Talayuela",
           "teams": [
@@ -47988,7 +47987,7 @@
             "espn:soccer:131412"
           ],
           "competition": "copa-del-rey",
-          "venue": "",
+          "venue": "Tavernes de la Valldigna, Manises",
           "date": "2026-10-04",
           "time": "18:00",
           "timeZone": "Europe/Madrid"
