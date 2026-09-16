@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -48962,6 +48962,37 @@
           "quote": "Flight 14 will attempt ship catch"
         }
       }
+    },
+    {
+      "id": "tesla-roadster-2026",
+      "title": "Tesla Roadster",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-01",
+      "url": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/",
+      "keywords": [
+        "tesla",
+        "roadster",
+        "launch",
+        "electric vehicle"
+      ],
+      "origin": "telegram",
+      "subcategory": "launches",
+      "estimated": true,
+      "fact": {
+        "text": {
+          "es": "El primer prototipo del Tesla Roadster fue presentado originalmente en 2017.",
+          "en": "The original Tesla Roadster concept was first revealed back in 2017."
+        },
+        "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+      },
+      "dateConfirmedAt": "2026-09-16",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 50,
+        "publishedAt": "2026-09-16T06:16:53Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -50994,6 +51025,14 @@
       "version": 47,
       "target": "starship-flight-14-2026",
       "at": "2026-09-15T23:17:38.231946+00:00"
+    },
+    "plantel-tesla-roadster-20260916-0010": {
+      "operationID": "plantel-tesla-roadster-20260916-0010",
+      "digest": "94e10d7ac9c8d9c9ba6c5bfa7e5f36b99293587ad798fdeff078c341eb184dde",
+      "status": "applied",
+      "version": 50,
+      "target": "tesla-roadster-2026",
+      "at": "2026-09-16T06:16:53.291262+00:00"
     }
   }
 }
