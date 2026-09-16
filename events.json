@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -48964,6 +48964,32 @@
         "publishedAt": "2026-09-16T06:16:53Z",
         "eligible": true
       }
+    },
+    {
+      "id": "xbox-tokyo-game-show-broadcast-2026",
+      "title": "XBOX Tokyo Game Show Broadcast",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-09-17",
+      "url": "https://m.youtube.com/watch?v=HgHyml7zeXs",
+      "keywords": [
+        "xbox",
+        "tokyo",
+        "game",
+        "show",
+        "broadcast",
+        "tokyo game show",
+        "gaming"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "time": "19:00",
+      "timeZone": "Asia/Tokyo",
+      "news": {
+        "introducedInVersion": 53,
+        "publishedAt": "2026-09-16T16:28:28Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -51004,6 +51030,14 @@
       "version": 50,
       "target": "tesla-roadster-2026",
       "at": "2026-09-16T06:16:53.291262+00:00"
+    },
+    "plantel-xbox-tokyo-game-show-broadcast-20260916-1026": {
+      "operationID": "plantel-xbox-tokyo-game-show-broadcast-20260916-1026",
+      "digest": "29924a204b5f1adff45804892064d113cf765b7a9886360401d5fd4a00e2e92f",
+      "status": "applied",
+      "version": 53,
+      "target": "xbox-tokyo-game-show-broadcast-2026",
+      "at": "2026-09-16T16:28:27.979406+00:00"
     }
   }
 }
