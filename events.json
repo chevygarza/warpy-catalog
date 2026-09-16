@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -30341,24 +30341,6 @@
           "timeZone": "Europe/Madrid"
         },
         {
-          "id": "la-liga-401882845",
-          "title": "Celta Vigo vs Alavés",
-          "teams": [
-            "Celta Vigo",
-            "Alavés"
-          ],
-          "teamIDs": [
-            "espn:soccer:85",
-            "espn:soccer:96"
-          ],
-          "competition": "la-liga",
-          "venue": "Balaidos, Vigo",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
           "id": "la-liga-401882844",
           "title": "Deportivo vs Levante",
           "teams": [
@@ -30371,10 +30353,9 @@
           ],
           "competition": "la-liga",
           "venue": "Riazor, La Coruña",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-16",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "la-liga-401882843",
@@ -30389,46 +30370,60 @@
           ],
           "competition": "la-liga",
           "venue": "RCDE Stadium, Barcelona",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-17",
+          "time": "14:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "la-liga-401882842",
-          "title": "Getafe vs Rayo Vallecano",
+          "id": "la-liga-401882837",
+          "title": "Villarreal vs Elche",
           "teams": [
-            "Getafe",
-            "Rayo Vallecano"
+            "Villarreal",
+            "Elche"
           ],
           "teamIDs": [
-            "espn:soccer:2922",
-            "espn:soccer:101"
+            "espn:soccer:102",
+            "espn:soccer:3751"
           ],
           "competition": "la-liga",
-          "venue": "Estadio Coliseum, Getafe",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "venue": "Estadio de la Cerámica, Villarreal",
+          "date": "2026-10-17",
+          "time": "16:15",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "la-liga-401882841",
-          "title": "Málaga vs Real Sociedad",
+          "id": "la-liga-401882846",
+          "title": "Real Betis vs Barcelona",
           "teams": [
-            "Málaga",
-            "Real Sociedad"
+            "Real Betis",
+            "Barcelona"
           ],
           "teamIDs": [
-            "espn:soccer:99",
-            "espn:soccer:89"
+            "espn:soccer:244",
+            "espn:soccer:83"
           ],
           "competition": "la-liga",
-          "venue": "La Rosaleda, Malaga",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "venue": "Estadio La Cartuja, Sevilla",
+          "date": "2026-10-17",
+          "time": "18:30",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "la-liga-401882838",
+          "title": "Valencia vs Athletic",
+          "teams": [
+            "Valencia",
+            "Athletic"
+          ],
+          "teamIDs": [
+            "espn:soccer:94",
+            "espn:soccer:93"
+          ],
+          "competition": "la-liga",
+          "venue": "Mestalla Stadium, Manises",
+          "date": "2026-10-17",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "la-liga-401882840",
@@ -30444,27 +30439,42 @@
           "competition": "la-liga",
           "venue": "El Sadar, Pamplona",
           "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "time": "14:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "la-liga-401882846",
-          "title": "Real Betis vs Barcelona",
+          "id": "la-liga-401882845",
+          "title": "Celta Vigo vs Alavés",
           "teams": [
-            "Real Betis",
-            "Barcelona"
+            "Celta Vigo",
+            "Alavés"
           ],
           "teamIDs": [
-            "espn:soccer:244",
-            "espn:soccer:83"
+            "espn:soccer:85",
+            "espn:soccer:96"
           ],
           "competition": "la-liga",
-          "venue": "Estadio La Cartuja, Sevilla",
+          "venue": "Balaidos, Vigo",
           "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "time": "16:15",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "la-liga-401882841",
+          "title": "Málaga vs Real Sociedad",
+          "teams": [
+            "Málaga",
+            "Real Sociedad"
+          ],
+          "teamIDs": [
+            "espn:soccer:99",
+            "espn:soccer:89"
+          ],
+          "competition": "la-liga",
+          "venue": "La Rosaleda, Malaga",
+          "date": "2026-10-18",
+          "time": "18:30",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "la-liga-401882839",
@@ -30480,45 +30490,25 @@
           "competition": "la-liga",
           "venue": "Santiago Bernabéu, Madrid",
           "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "la-liga-401882838",
-          "title": "Valencia vs Athletic",
+          "id": "la-liga-401882842",
+          "title": "Getafe vs Rayo Vallecano",
           "teams": [
-            "Valencia",
-            "Athletic"
+            "Getafe",
+            "Rayo Vallecano"
           ],
           "teamIDs": [
-            "espn:soccer:94",
-            "espn:soccer:93"
+            "espn:soccer:2922",
+            "espn:soccer:101"
           ],
           "competition": "la-liga",
-          "venue": "Mestalla Stadium, Manises",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "la-liga-401882837",
-          "title": "Villarreal vs Elche",
-          "teams": [
-            "Villarreal",
-            "Elche"
-          ],
-          "teamIDs": [
-            "espn:soccer:102",
-            "espn:soccer:3751"
-          ],
-          "competition": "la-liga",
-          "venue": "Estadio de la Cerámica, Villarreal",
-          "date": "2026-10-18",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "venue": "Estadio Coliseum, Getafe",
+          "date": "2026-10-19",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "la-liga-401882836",
