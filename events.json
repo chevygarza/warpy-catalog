@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -29964,7 +29964,9 @@
           "venue": "Estadi Ciutat de València, Manises",
           "date": "2026-09-16",
           "time": "21:30",
-          "timeZone": "Europe/Madrid"
+          "timeZone": "Europe/Madrid",
+          "status": "cancelled",
+          "sourceStatus": "postponed"
         },
         {
           "id": "la-liga-401882874",
