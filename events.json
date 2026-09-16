@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "updatedAt": "2026-09-16",
   "events": [
     {
@@ -47676,9 +47676,8 @@
           "competition": "copa-del-rey",
           "venue": "",
           "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918755",
@@ -47694,9 +47693,42 @@
           "competition": "copa-del-rey",
           "venue": "",
           "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918765",
+          "title": "UB Lebrijana vs Ceuta 6 de Junio",
+          "teams": [
+            "UB Lebrijana",
+            "Ceuta 6 de Junio"
+          ],
+          "teamIDs": [
+            "espn:soccer:133844",
+            "espn:soccer:133851"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "Estadio Municipal de Lebrija, Lebrija",
+          "date": "2026-09-26",
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918756",
+          "title": "Ribadesella vs SD Noja",
+          "teams": [
+            "Ribadesella",
+            "SD Noja"
+          ],
+          "teamIDs": [
+            "espn:soccer:133842",
+            "espn:soccer:133850"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "",
+          "date": "2026-09-26",
+          "time": "19:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918764",
@@ -47713,8 +47745,7 @@
           "venue": "",
           "date": "2026-09-26",
           "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918749",
@@ -47729,82 +47760,9 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918754",
-          "title": "CF San Rafael vs AE Prat",
-          "teams": [
-            "CF San Rafael",
-            "AE Prat"
-          ],
-          "teamIDs": [
-            "espn:soccer:133840",
-            "espn:soccer:18334"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918762",
-          "title": "CP Talayuela vs Sporting de Alcázar",
-          "teams": [
-            "CP Talayuela",
-            "Sporting de Alcázar"
-          ],
-          "teamIDs": [
-            "espn:soccer:133841",
-            "espn:soccer:133843"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918766",
-          "title": "Maracena vs Tavernes de la Valldigna",
-          "teams": [
-            "Maracena",
-            "Tavernes de la Valldigna"
-          ],
-          "teamIDs": [
-            "espn:soccer:131412",
-            "espn:soccer:133846"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "Ciudad Deportiva de Maracena",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918756",
-          "title": "Ribadesella vs SD Noja",
-          "teams": [
-            "Ribadesella",
-            "SD Noja"
-          ],
-          "teamIDs": [
-            "espn:soccer:133842",
-            "espn:soccer:133850"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918763",
@@ -47819,39 +47777,122 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-09-27",
+          "time": "12:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "copa-del-rey-401918765",
-          "title": "UB Lebrijana vs Ceuta 6 de Junio",
+          "id": "copa-del-rey-401918754",
+          "title": "CF San Rafael vs AE Prat",
           "teams": [
-            "UB Lebrijana",
-            "Ceuta 6 de Junio"
+            "CF San Rafael",
+            "AE Prat"
           ],
           "teamIDs": [
-            "espn:soccer:133844",
-            "espn:soccer:133851"
+            "espn:soccer:133840",
+            "espn:soccer:18334"
           ],
           "competition": "copa-del-rey",
-          "venue": "Estadio Municipal de Lebrija, Lebrija",
-          "date": "2026-09-26",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "venue": "",
+          "date": "2026-09-27",
+          "time": "16:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "copa-del-rey-401918752",
-          "title": "AE Prat vs CF San Rafael",
+          "id": "copa-del-rey-401918762",
+          "title": "CP Talayuela vs Sporting de Alcázar",
           "teams": [
-            "AE Prat",
-            "CF San Rafael"
+            "CP Talayuela",
+            "Sporting de Alcázar"
           ],
           "teamIDs": [
-            "espn:soccer:18334",
-            "espn:soccer:133840"
+            "espn:soccer:133841",
+            "espn:soccer:133843"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "",
+          "date": "2026-09-27",
+          "time": "17:30",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918766",
+          "title": "Maracena vs Tavernes de la Valldigna",
+          "teams": [
+            "Maracena",
+            "Tavernes de la Valldigna"
+          ],
+          "teamIDs": [
+            "espn:soccer:131412",
+            "espn:soccer:133846"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "Ciudad Deportiva de Maracena, Maracena",
+          "date": "2026-09-27",
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918751",
+          "title": "CD Baztán vs Atlético Calatayud",
+          "teams": [
+            "CD Baztán",
+            "Atlético Calatayud"
+          ],
+          "teamIDs": [
+            "espn:soccer:22372",
+            "espn:soccer:131403"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "",
+          "date": "2026-10-03",
+          "time": "17:30",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918748",
+          "title": "CD Tedeón vs Anaitasuna",
+          "teams": [
+            "CD Tedeón",
+            "Anaitasuna"
+          ],
+          "teamIDs": [
+            "espn:soccer:133838",
+            "espn:soccer:20776"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "",
+          "date": "2026-10-03",
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918760",
+          "title": "Ceuta 6 de Junio vs UB Lebrijana",
+          "teams": [
+            "Ceuta 6 de Junio",
+            "UB Lebrijana"
+          ],
+          "teamIDs": [
+            "espn:soccer:133851",
+            "espn:soccer:133844"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "Estadio José Martínez, Ceuta",
+          "date": "2026-10-03",
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "copa-del-rey-401918753",
+          "title": "SD Noja vs Ribadesella",
+          "teams": [
+            "SD Noja",
+            "Ribadesella"
+          ],
+          "teamIDs": [
+            "espn:soccer:133850",
+            "espn:soccer:133842"
           ],
           "competition": "copa-del-rey",
           "venue": "",
@@ -47873,10 +47914,9 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "12:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918758",
@@ -47891,28 +47931,26 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "13:00",
+          "timeZone": "Europe/Madrid"
         },
         {
-          "id": "copa-del-rey-401918751",
-          "title": "CD Baztán vs Atlético Calatayud",
+          "id": "copa-del-rey-401918752",
+          "title": "AE Prat vs CF San Rafael",
           "teams": [
-            "CD Baztán",
-            "Atlético Calatayud"
+            "AE Prat",
+            "CF San Rafael"
           ],
           "teamIDs": [
-            "espn:soccer:22372",
-            "espn:soccer:131403"
+            "espn:soccer:18334",
+            "espn:soccer:133840"
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "16:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918510",
@@ -47927,64 +47965,9 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918748",
-          "title": "CD Tedeón vs Anaitasuna",
-          "teams": [
-            "CD Tedeón",
-            "Anaitasuna"
-          ],
-          "teamIDs": [
-            "espn:soccer:133838",
-            "espn:soccer:20776"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918760",
-          "title": "Ceuta 6 de Junio vs UB Lebrijana",
-          "teams": [
-            "Ceuta 6 de Junio",
-            "UB Lebrijana"
-          ],
-          "teamIDs": [
-            "espn:soccer:133851",
-            "espn:soccer:133844"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "Estadio Alfonso Murube, Ceuta",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
-        },
-        {
-          "id": "copa-del-rey-401918753",
-          "title": "SD Noja vs Ribadesella",
-          "teams": [
-            "SD Noja",
-            "Ribadesella"
-          ],
-          "teamIDs": [
-            "espn:soccer:133850",
-            "espn:soccer:133842"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "16:00",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918757",
@@ -47999,10 +47982,9 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "17:30",
+          "timeZone": "Europe/Madrid"
         },
         {
           "id": "copa-del-rey-401918761",
@@ -48017,10 +47999,9 @@
           ],
           "competition": "copa-del-rey",
           "venue": "",
-          "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "Europe/Madrid",
-          "estimated": true
+          "date": "2026-10-04",
+          "time": "18:00",
+          "timeZone": "Europe/Madrid"
         }
       ]
     },
