@@ -1,163 +1,162 @@
 {
-  "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+  "checkedAt": "2026-09-16T04:51:14.915351+00:00",
   "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-15T21:23:19.954520+00:00",
+      "lastSuccessAt": "2026-09-16T04:51:14.915351+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mlb": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-15T21:23:19.954520+00:00",
+      "lastSuccessAt": "2026-09-16T04:51:14.915351+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nfl": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20270101-20270131&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "nba": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "liga-mx": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "la-liga": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "premier-league": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "champions-league": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "mls": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "leagues-cup": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.leagues.cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.leagues.cup/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "concachampions": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.champions/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.champions/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "copa-del-rey": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.copa_del_rey/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.copa_del_rey/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "supercopa-espana": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.super_cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/esp.super_cup/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.super_cup/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.super_cup/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     },
     "club-world-cup": {
-      "checkedAt": "2026-09-15T21:23:19.954520+00:00",
+      "checkedAt": "2026-09-16T04:51:14.915351+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-15T12:47:10.166944+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.cwc/scoreboard?dates=20260905-20260930&limit=1000: HTTP Error 400"
+      "reason": "el lector falló (1): common.HTTPStatus: no se pudo leer https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.cwc/scoreboard?dates=20260906-20260930&limit=1000: HTTP Error 400"
     }
   },
   "findings": [],
   "cadenceHours": 6,
   "catalogVersion": 47,
   "editorial": {
-    "checked": 23,
+    "checked": 22,
     "confirmed": [
-      "marvels-wolverine",
       "tokyo-game-show-2026",
       "ea-sports-fc-27",
       "ace-combat-8",
@@ -294,11 +293,11 @@
     "note": "Cobertura explícita: una fecha editorial sin API no se anuncia como verificada."
   },
   "secondary": {
-    "status": "partial",
+    "status": "conflict",
     "counts": {
-      "ok": 56,
-      "revisar": 0,
-      "sin cruce": 99
+      "ok": 52,
+      "revisar": 1,
+      "sin cruce": 101
     },
     "report": "audit.json",
     "supportedSeries": [
@@ -312,5 +311,5 @@
       "premier-league"
     ]
   },
-  "publishedAt": "2026-09-15T23:18:08.941241+00:00"
+  "publishedAt": "2026-09-16T04:53:47.179341+00:00"
 }
