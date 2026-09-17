@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -34,7 +34,104 @@
       ],
       "featured": true,
       "backdrop": "futbol",
-      "symbol": "soccerball"
+      "symbol": "soccerball",
+      "sourceSnapshot": {
+        "id": "fifa-world-cup-2030",
+        "title": "FIFA World Cup 2030",
+        "titles": {
+          "es": "Copa Mundial 2030"
+        },
+        "subtitle": "Spain · Portugal · Morocco · Centenary",
+        "subtitles": {
+          "es": "España · Portugal · Marruecos · Centenario"
+        },
+        "emoji": "🏆",
+        "category": "sports",
+        "date": "2030-06-13",
+        "startDate": "2026-07-19",
+        "accent": "#FF6B57",
+        "estimated": true,
+        "keywords": [
+          "football",
+          "soccer",
+          "fifa",
+          "mundial",
+          "futbol",
+          "world cup",
+          "spain",
+          "portugal",
+          "morocco",
+          "uruguay",
+          "argentina",
+          "paraguay"
+        ],
+        "featured": true,
+        "backdrop": "futbol",
+        "symbol": "soccerball"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "España, Marruecos y Portugal fueron confirmados como sedes conjuntas el 11 de diciembre de 2024.",
+            "en": "Spain, Morocco, and Portugal were confirmed as joint hosts on 11 December 2024."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "España, Marruecos y Portugal fueron confirmados como sedes conjuntas el 11 de diciembre de 2024.",
+              "en": "Spain, Morocco, and Portugal were confirmed as joint hosts on 11 December 2024."
+            },
+            "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+          },
+          {
+            "text": {
+              "es": "El torneo será la primera edición de la Copa Mundial disputada en Marruecos, Paraguay y Portugal.",
+              "en": "The tournament will be the first World Cup held in Morocco, Paraguay, and Portugal."
+            },
+            "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Será la primera edición del certamen que se dispute de manera tricontinental.",
+              "en": "It will be the first edition of the tournament to be held across three continents."
+            },
+            "source": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2030"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "España, Marruecos y Portugal fueron confirmados como sedes conjuntas el 11 de diciembre de 2024.",
+          "en": "Spain, Morocco, and Portugal were confirmed as joint hosts on 11 December 2024."
+        },
+        "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "España, Marruecos y Portugal fueron confirmados como sedes conjuntas el 11 de diciembre de 2024.",
+            "en": "Spain, Morocco, and Portugal were confirmed as joint hosts on 11 December 2024."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+        },
+        {
+          "text": {
+            "es": "El torneo será la primera edición de la Copa Mundial disputada en Marruecos, Paraguay y Portugal.",
+            "en": "The tournament will be the first World Cup held in Morocco, Paraguay, and Portugal."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_FIFA_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Será la primera edición del certamen que se dispute de manera tricontinental.",
+            "en": "It will be the first edition of the tournament to be held across three continents."
+          },
+          "source": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2030"
+        }
+      ]
     },
     {
       "id": "super-bowl-lxi-2027",
@@ -58,7 +155,94 @@
       "timeZone": "America/New_York",
       "featured": true,
       "backdrop": "nfl",
-      "symbol": "football.fill"
+      "symbol": "football.fill",
+      "sourceSnapshot": {
+        "id": "super-bowl-lxi-2027",
+        "title": "Super Bowl LXI",
+        "subtitle": "SoFi Stadium · Los Angeles",
+        "emoji": "🏈",
+        "category": "sports",
+        "date": "2027-02-14",
+        "startDate": "2026-02-08",
+        "accent": "#2F80ED",
+        "keywords": [
+          "nfl",
+          "super bowl",
+          "superbowl",
+          "2027",
+          "football",
+          "los angeles",
+          "halftime"
+        ],
+        "time": "18:30",
+        "timeZone": "America/New_York",
+        "featured": true,
+        "backdrop": "nfl",
+        "symbol": "football.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Super Bowl LXI es la novena edición acogida en el área metropolitana del Gran Los Ángeles.",
+            "en": "Super Bowl LXI is the ninth edition hosted by the Greater Los Angeles area."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Super Bowl LXI es la novena edición acogida en el área metropolitana del Gran Los Ángeles.",
+              "en": "Super Bowl LXI is the ninth edition hosted by the Greater Los Angeles area."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+          },
+          {
+            "text": {
+              "es": "Marca la primera vez que la cadena ESPN transmite el Super Bowl en su historia.",
+              "en": "It marks the first time that ESPN will air the Super Bowl."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+          },
+          {
+            "text": {
+              "es": "El video introductorio de su logo oficial fue narrado por el rapero D Smoke.",
+              "en": "The introductory video for its official logo was narrated by rapper D Smoke."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El Super Bowl LXI es la novena edición acogida en el área metropolitana del Gran Los Ángeles.",
+          "en": "Super Bowl LXI is the ninth edition hosted by the Greater Los Angeles area."
+        },
+        "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Super Bowl LXI es la novena edición acogida en el área metropolitana del Gran Los Ángeles.",
+            "en": "Super Bowl LXI is the ninth edition hosted by the Greater Los Angeles area."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+        },
+        {
+          "text": {
+            "es": "Marca la primera vez que la cadena ESPN transmite el Super Bowl en su historia.",
+            "en": "It marks the first time that ESPN will air the Super Bowl."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+        },
+        {
+          "text": {
+            "es": "El video introductorio de su logo oficial fue narrado por el rapero D Smoke.",
+            "en": "The introductory video for its official logo was narrated by rapper D Smoke."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXI"
+        }
+      ]
     },
     {
       "id": "super-bowl-lxii-2028",
@@ -80,7 +264,92 @@
       "time": "18:30",
       "timeZone": "America/New_York",
       "backdrop": "nfl",
-      "symbol": "football.fill"
+      "symbol": "football.fill",
+      "sourceSnapshot": {
+        "id": "super-bowl-lxii-2028",
+        "title": "Super Bowl LXII",
+        "subtitle": "Mercedes-Benz Stadium · Atlanta",
+        "emoji": "🏈",
+        "category": "sports",
+        "date": "2028-02-13",
+        "startDate": "2027-02-14",
+        "accent": "#2F80ED",
+        "keywords": [
+          "nfl",
+          "super bowl",
+          "superbowl",
+          "2028",
+          "football",
+          "atlanta"
+        ],
+        "time": "18:30",
+        "timeZone": "America/New_York",
+        "backdrop": "nfl",
+        "symbol": "football.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Super Bowl LXII será el cuarto Super Bowl organizado por la ciudad de Atlanta.",
+            "en": "Super Bowl LXII will be the fourth Super Bowl hosted by the city of Atlanta."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Super Bowl LXII será el cuarto Super Bowl organizado por la ciudad de Atlanta.",
+              "en": "Super Bowl LXII will be the fourth Super Bowl hosted by the city of Atlanta."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+          },
+          {
+            "text": {
+              "es": "Será la segunda edición en el Mercedes-Benz Stadium, tras el Super Bowl LIII de 2019.",
+              "en": "It will be the second at Mercedes-Benz Stadium, the first being Super Bowl LIII in 2019."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+          },
+          {
+            "text": {
+              "es": "El 15 de octubre de 2024, la NFL anunció que el Mercedes-Benz Stadium fue elegido sede.",
+              "en": "On October 15, 2024, the NFL announced that Mercedes-Benz Stadium was selected as the site."
+            },
+            "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El Super Bowl LXII será el cuarto Super Bowl organizado por la ciudad de Atlanta.",
+          "en": "Super Bowl LXII will be the fourth Super Bowl hosted by the city of Atlanta."
+        },
+        "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Super Bowl LXII será el cuarto Super Bowl organizado por la ciudad de Atlanta.",
+            "en": "Super Bowl LXII will be the fourth Super Bowl hosted by the city of Atlanta."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+        },
+        {
+          "text": {
+            "es": "Será la segunda edición en el Mercedes-Benz Stadium, tras el Super Bowl LIII de 2019.",
+            "en": "It will be the second at Mercedes-Benz Stadium, the first being Super Bowl LIII in 2019."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+        },
+        {
+          "text": {
+            "es": "El 15 de octubre de 2024, la NFL anunció que el Mercedes-Benz Stadium fue elegido sede.",
+            "en": "On October 15, 2024, the NFL announced that Mercedes-Benz Stadium was selected as the site."
+          },
+          "source": "https://en.wikipedia.org/wiki/Super_Bowl_LXII"
+        }
+      ]
     },
     {
       "id": "nfl-kickoff-2026",
@@ -134,7 +403,96 @@
         "summer games"
       ],
       "backdrop": "olimpicos",
-      "symbol": "figure.track.and.field"
+      "symbol": "figure.track.and.field",
+      "sourceSnapshot": {
+        "id": "olympics-la-2028",
+        "title": "Los Angeles 2028 Olympics",
+        "titles": {
+          "es": "Juegos Olímpicos Los Ángeles 2028"
+        },
+        "subtitle": "Opening ceremony",
+        "subtitles": {
+          "es": "Ceremonia de apertura"
+        },
+        "emoji": "🏅",
+        "category": "sports",
+        "date": "2028-07-14",
+        "startDate": "2024-08-11",
+        "accent": "#F2C94C",
+        "keywords": [
+          "olympics",
+          "olimpiadas",
+          "juegos olimpicos",
+          "la28",
+          "los angeles",
+          "summer games"
+        ],
+        "backdrop": "olimpicos",
+        "symbol": "figure.track.and.field"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El críquet volverá al programa olímpico en Los Ángeles 2028 por primera vez desde 1900.",
+            "en": "Cricket will return to the Olympic program at Los Angeles 2028 for the first time since 1900."
+          },
+          "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El críquet volverá al programa olímpico en Los Ángeles 2028 por primera vez desde 1900.",
+              "en": "Cricket will return to the Olympic program at Los Angeles 2028 for the first time since 1900."
+            },
+            "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+          },
+          {
+            "text": {
+              "es": "El lacrosse regresará a los Juegos Olímpicos como evento por medalla por primera vez desde 1908.",
+              "en": "Lacrosse will return to the Olympics as a medal event for the first time since 1908."
+            },
+            "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+          },
+          {
+            "text": {
+              "es": "Los Ángeles será la primera ciudad no europea en albergar los Juegos Olímpicos de Verano tres veces.",
+              "en": "Los Angeles will be the first non-European city to host the Summer Olympics three times."
+            },
+            "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El críquet volverá al programa olímpico en Los Ángeles 2028 por primera vez desde 1900.",
+          "en": "Cricket will return to the Olympic program at Los Angeles 2028 for the first time since 1900."
+        },
+        "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El críquet volverá al programa olímpico en Los Ángeles 2028 por primera vez desde 1900.",
+            "en": "Cricket will return to the Olympic program at Los Angeles 2028 for the first time since 1900."
+          },
+          "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+        },
+        {
+          "text": {
+            "es": "El lacrosse regresará a los Juegos Olímpicos como evento por medalla por primera vez desde 1908.",
+            "en": "Lacrosse will return to the Olympics as a medal event for the first time since 1908."
+          },
+          "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+        },
+        {
+          "text": {
+            "es": "Los Ángeles será la primera ciudad no europea en albergar los Juegos Olímpicos de Verano tres veces.",
+            "en": "Los Angeles will be the first non-European city to host the Summer Olympics three times."
+          },
+          "source": "https://en.wikipedia.org/wiki/2028_Summer_Olympics"
+        }
+      ]
     },
     {
       "id": "winter-olympics-2030",
@@ -161,7 +519,97 @@
         "ski"
       ],
       "backdrop": "invierno",
-      "symbol": "figure.skiing.downhill"
+      "symbol": "figure.skiing.downhill",
+      "sourceSnapshot": {
+        "id": "winter-olympics-2030",
+        "title": "French Alps 2030 Winter Olympics",
+        "titles": {
+          "es": "Juegos Olímpicos de Invierno 2030"
+        },
+        "subtitle": "Alpes Françaises",
+        "subtitles": {
+          "es": "Alpes Franceses"
+        },
+        "emoji": "⛷️",
+        "category": "sports",
+        "date": "2030-02-01",
+        "startDate": "2026-02-22",
+        "accent": "#56CCF2",
+        "keywords": [
+          "olympics",
+          "olimpiadas",
+          "winter",
+          "invierno",
+          "france",
+          "francia",
+          "ski"
+        ],
+        "backdrop": "invierno",
+        "symbol": "figure.skiing.downhill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Serán los primeros Juegos Olímpicos organizados oficialmente por una región y no por una ciudad.",
+            "en": "These will be the first Olympic Games to be officially hosted by a region rather than a host city."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Serán los primeros Juegos Olímpicos organizados oficialmente por una región y no por una ciudad.",
+              "en": "These will be the first Olympic Games to be officially hosted by a region rather than a host city."
+            },
+            "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+          },
+          {
+            "text": {
+              "es": "Las pruebas de patinaje de velocidad se celebrarán fuera de Francia, en Heerenveen, Países Bajos.",
+              "en": "Speed skating is scheduled to be held outside France, in Heerenveen, Netherlands."
+            },
+            "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+          },
+          {
+            "text": {
+              "es": "Francia albergará sus cuartos Juegos Olímpicos de Invierno y sus séptimos Juegos Olímpicos en total.",
+              "en": "These will be the fourth Winter Olympics and seventh Olympic Games overall hosted by France."
+            },
+            "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Serán los primeros Juegos Olímpicos organizados oficialmente por una región y no por una ciudad.",
+          "en": "These will be the first Olympic Games to be officially hosted by a region rather than a host city."
+        },
+        "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Serán los primeros Juegos Olímpicos organizados oficialmente por una región y no por una ciudad.",
+            "en": "These will be the first Olympic Games to be officially hosted by a region rather than a host city."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+        },
+        {
+          "text": {
+            "es": "Las pruebas de patinaje de velocidad se celebrarán fuera de Francia, en Heerenveen, Países Bajos.",
+            "en": "Speed skating is scheduled to be held outside France, in Heerenveen, Netherlands."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+        },
+        {
+          "text": {
+            "es": "Francia albergará sus cuartos Juegos Olímpicos de Invierno y sus séptimos Juegos Olímpicos en total.",
+            "en": "These will be the fourth Winter Olympics and seventh Olympic Games overall hosted by France."
+          },
+          "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
+        }
+      ]
     },
     {
       "id": "olympics-brisbane-2032",
@@ -186,7 +634,95 @@
         "summer games"
       ],
       "backdrop": "olimpicos",
-      "symbol": "figure.track.and.field"
+      "symbol": "figure.track.and.field",
+      "sourceSnapshot": {
+        "id": "olympics-brisbane-2032",
+        "title": "Brisbane 2032 Olympics",
+        "titles": {
+          "es": "Juegos Olímpicos Brisbane 2032"
+        },
+        "subtitle": "Opening ceremony",
+        "subtitles": {
+          "es": "Ceremonia de apertura"
+        },
+        "emoji": "🏅",
+        "category": "sports",
+        "date": "2032-07-23",
+        "startDate": "2028-07-30",
+        "accent": "#F2C94C",
+        "keywords": [
+          "olympics",
+          "olimpiadas",
+          "australia",
+          "brisbane",
+          "summer games"
+        ],
+        "backdrop": "olimpicos",
+        "symbol": "figure.track.and.field"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Brisbane fue elegida con 11 años y 2 días de anticipación, un récord histórico de planificación.",
+            "en": "Awarded 11 years and 2 days in advance, it is the most planning time ever for an Olympic host city."
+          },
+          "source": "https://en.wikipedia.org/wiki/2032_Summer_Olympics"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Brisbane fue elegida con 11 años y 2 días de anticipación, un récord histórico de planificación.",
+              "en": "Awarded 11 years and 2 days in advance, it is the most planning time ever for an Olympic host city."
+            },
+            "source": "https://en.wikipedia.org/wiki/2032_Summer_Olympics"
+          },
+          {
+            "text": {
+              "es": "El Brisbane Cricket Ground fue designado como estadio olímpico para los Juegos de 2032.",
+              "en": "The Brisbane Cricket Ground was designated as the Olympic stadium for the 2032 Games."
+            },
+            "source": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Brisbane_2032"
+          },
+          {
+            "text": {
+              "es": "Brisbane 2032 es la primera sede en ganar una candidatura sin oposición desde Los Ángeles 1984.",
+              "en": "Brisbane 2032 is the first host to win an unopposed bid since Los Angeles 1984."
+            },
+            "source": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Brisbane_2032"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Brisbane fue elegida con 11 años y 2 días de anticipación, un récord histórico de planificación.",
+          "en": "Awarded 11 years and 2 days in advance, it is the most planning time ever for an Olympic host city."
+        },
+        "source": "https://en.wikipedia.org/wiki/2032_Summer_Olympics"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Brisbane fue elegida con 11 años y 2 días de anticipación, un récord histórico de planificación.",
+            "en": "Awarded 11 years and 2 days in advance, it is the most planning time ever for an Olympic host city."
+          },
+          "source": "https://en.wikipedia.org/wiki/2032_Summer_Olympics"
+        },
+        {
+          "text": {
+            "es": "El Brisbane Cricket Ground fue designado como estadio olímpico para los Juegos de 2032.",
+            "en": "The Brisbane Cricket Ground was designated as the Olympic stadium for the 2032 Games."
+          },
+          "source": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Brisbane_2032"
+        },
+        {
+          "text": {
+            "es": "Brisbane 2032 es la primera sede en ganar una candidatura sin oposición desde Los Ángeles 1984.",
+            "en": "Brisbane 2032 is the first host to win an unopposed bid since Los Angeles 1984."
+          },
+          "source": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Brisbane_2032"
+        }
+      ]
     },
     {
       "id": "winter-olympics-2034",
@@ -209,7 +745,93 @@
         "salt lake"
       ],
       "backdrop": "invierno",
-      "symbol": "figure.skiing.downhill"
+      "symbol": "figure.skiing.downhill",
+      "sourceSnapshot": {
+        "id": "winter-olympics-2034",
+        "title": "Salt Lake City 2034 Winter Olympics",
+        "titles": {
+          "es": "Juegos Olímpicos de Invierno 2034"
+        },
+        "subtitle": "Salt Lake City · Utah",
+        "emoji": "🏂",
+        "category": "sports",
+        "date": "2034-02-10",
+        "startDate": "2030-02-17",
+        "accent": "#56CCF2",
+        "keywords": [
+          "olympics",
+          "olimpiadas",
+          "winter",
+          "invierno",
+          "utah",
+          "salt lake"
+        ],
+        "backdrop": "invierno",
+        "symbol": "figure.skiing.downhill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El costo estimado de estos Juegos con financiamiento privado asciende a 3900 millones de dólares.",
+            "en": "The privately-funded Games are estimated to cost $3.9 billion."
+          },
+          "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El costo estimado de estos Juegos con financiamiento privado asciende a 3900 millones de dólares.",
+              "en": "The privately-funded Games are estimated to cost $3.9 billion."
+            },
+            "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+          },
+          {
+            "text": {
+              "es": "El estadio Rice-Eccles acogerá las ceremonias de apertura y clausura de los Juegos.",
+              "en": "Rice-Eccles Stadium will host the opening and closing ceremonies of the Games."
+            },
+            "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+          },
+          {
+            "text": {
+              "es": "El esquí alpino se disputará exclusivamente en la estación Snowbasin.",
+              "en": "Alpine skiing will be hosted solely at Snowbasin."
+            },
+            "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El costo estimado de estos Juegos con financiamiento privado asciende a 3900 millones de dólares.",
+          "en": "The privately-funded Games are estimated to cost $3.9 billion."
+        },
+        "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El costo estimado de estos Juegos con financiamiento privado asciende a 3900 millones de dólares.",
+            "en": "The privately-funded Games are estimated to cost $3.9 billion."
+          },
+          "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+        },
+        {
+          "text": {
+            "es": "El estadio Rice-Eccles acogerá las ceremonias de apertura y clausura de los Juegos.",
+            "en": "Rice-Eccles Stadium will host the opening and closing ceremonies of the Games."
+          },
+          "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+        },
+        {
+          "text": {
+            "es": "El esquí alpino se disputará exclusivamente en la estación Snowbasin.",
+            "en": "Alpine skiing will be hosted solely at Snowbasin."
+          },
+          "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
+        }
+      ]
     },
     {
       "id": "womens-world-cup-2027",
@@ -238,7 +860,99 @@
         "futbol"
       ],
       "backdrop": "futbol",
-      "symbol": "soccerball"
+      "symbol": "soccerball",
+      "sourceSnapshot": {
+        "id": "womens-world-cup-2027",
+        "title": "FIFA Women's World Cup 2027",
+        "titles": {
+          "es": "Mundial Femenino 2027"
+        },
+        "subtitle": "Brazil",
+        "subtitles": {
+          "es": "Brasil"
+        },
+        "emoji": "⚽️",
+        "category": "sports",
+        "date": "2027-06-24",
+        "startDate": "2023-08-20",
+        "accent": "#27AE60",
+        "estimated": true,
+        "keywords": [
+          "fifa",
+          "women",
+          "femenino",
+          "brazil",
+          "brasil",
+          "football",
+          "soccer",
+          "futbol"
+        ],
+        "backdrop": "futbol",
+        "symbol": "soccerball"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Es la primera vez que la Copa Mundial Femenina de la FIFA se celebra en Sudamérica.",
+            "en": "It marks the first time the FIFA Women's World Cup is held in South America."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Es la primera vez que la Copa Mundial Femenina de la FIFA se celebra en Sudamérica.",
+              "en": "It marks the first time the FIFA Women's World Cup is held in South America."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Brasil será el sexto país en organizar tanto el Mundial masculino como el femenino.",
+              "en": "Brazil will be the sixth nation to stage both the men's and women's World Cup."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Será la última edición del torneo disputada con 32 selecciones antes de ampliarse a 48.",
+              "en": "It will be the final tournament played by 32 teams before expanding to 48 in 2031."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Es la primera vez que la Copa Mundial Femenina de la FIFA se celebra en Sudamérica.",
+          "en": "It marks the first time the FIFA Women's World Cup is held in South America."
+        },
+        "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Es la primera vez que la Copa Mundial Femenina de la FIFA se celebra en Sudamérica.",
+            "en": "It marks the first time the FIFA Women's World Cup is held in South America."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Brasil será el sexto país en organizar tanto el Mundial masculino como el femenino.",
+            "en": "Brazil will be the sixth nation to stage both the men's and women's World Cup."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Será la última edición del torneo disputada con 32 selecciones antes de ampliarse a 48.",
+            "en": "It will be the final tournament played by 32 teams before expanding to 48 in 2031."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
+        }
+      ]
     },
     {
       "id": "uefa-euro-2028",
@@ -267,7 +981,99 @@
         "wembley"
       ],
       "backdrop": "futbol",
-      "symbol": "soccerball"
+      "symbol": "soccerball",
+      "sourceSnapshot": {
+        "id": "uefa-euro-2028",
+        "title": "UEFA Euro 2028",
+        "titles": {
+          "es": "Eurocopa 2028"
+        },
+        "subtitle": "United Kingdom · Ireland",
+        "subtitles": {
+          "es": "Reino Unido · Irlanda"
+        },
+        "emoji": "⚽️",
+        "category": "sports",
+        "date": "2028-06-09",
+        "startDate": "2024-07-14",
+        "accent": "#27AE60",
+        "estimated": true,
+        "keywords": [
+          "uefa",
+          "euro",
+          "eurocopa",
+          "football",
+          "soccer",
+          "futbol",
+          "england",
+          "wembley"
+        ],
+        "backdrop": "futbol",
+        "symbol": "soccerball"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Por primera vez se jugarán partidos de la Eurocopa masculina en Gales y en la República de Irlanda.",
+            "en": "For the first time, men's European Championship matches will be played in Ireland and Wales."
+          },
+          "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Por primera vez se jugarán partidos de la Eurocopa masculina en Gales y en la República de Irlanda.",
+              "en": "For the first time, men's European Championship matches will be played in Ireland and Wales."
+            },
+            "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+          },
+          {
+            "text": {
+              "es": "El partido inaugural de la Eurocopa 2028 se disputará en el Millennium Stadium de Cardiff.",
+              "en": "The opening match of Euro 2028 will take place at Millennium Stadium in Cardiff."
+            },
+            "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+          },
+          {
+            "text": {
+              "es": "Anfield no fue elegible como sede porque sus dimensiones se quedaron cortas por cuatro metros.",
+              "en": "Anfield was ineligible to host matches because its pitch was 4 metres short of UEFA requirements."
+            },
+            "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Por primera vez se jugarán partidos de la Eurocopa masculina en Gales y en la República de Irlanda.",
+          "en": "For the first time, men's European Championship matches will be played in Ireland and Wales."
+        },
+        "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Por primera vez se jugarán partidos de la Eurocopa masculina en Gales y en la República de Irlanda.",
+            "en": "For the first time, men's European Championship matches will be played in Ireland and Wales."
+          },
+          "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+        },
+        {
+          "text": {
+            "es": "El partido inaugural de la Eurocopa 2028 se disputará en el Millennium Stadium de Cardiff.",
+            "en": "The opening match of Euro 2028 will take place at Millennium Stadium in Cardiff."
+          },
+          "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+        },
+        {
+          "text": {
+            "es": "Anfield no fue elegible como sede porque sus dimensiones se quedaron cortas por cuatro metros.",
+            "en": "Anfield was ineligible to host matches because its pitch was 4 metres short of UEFA requirements."
+          },
+          "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
+        }
+      ]
     },
     {
       "id": "rugby-world-cup-2027",
@@ -287,7 +1093,90 @@
         "australia"
       ],
       "backdrop": "rugby",
-      "symbol": "figure.rugby"
+      "symbol": "figure.rugby",
+      "sourceSnapshot": {
+        "id": "rugby-world-cup-2027",
+        "title": "Rugby World Cup 2027",
+        "titles": {
+          "es": "Mundial de Rugby 2027"
+        },
+        "subtitle": "Australia",
+        "emoji": "🏉",
+        "category": "sports",
+        "date": "2027-10-01",
+        "startDate": "2023-10-28",
+        "accent": "#9B51E0",
+        "keywords": [
+          "rugby",
+          "world cup",
+          "australia"
+        ],
+        "backdrop": "rugby",
+        "symbol": "figure.rugby"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Esta edición en Australia será la primera en albergar a 24 selecciones nacionales.",
+            "en": "This edition in Australia will be the first to host 24 national teams."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Esta edición en Australia será la primera en albergar a 24 selecciones nacionales.",
+              "en": "This edition in Australia will be the first to host 24 national teams."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Hong Kong disputará su primer Mundial de Rugby en la edición de Australia 2027.",
+              "en": "Hong Kong will make their Rugby World Cup debut in the 2027 tournament in Australia."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Ocho estadios repartidos en siete ciudades acogerán los partidos del Mundial 2027.",
+              "en": "Eight venues across seven cities have been chosen for the 2027 tournament."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Esta edición en Australia será la primera en albergar a 24 selecciones nacionales.",
+          "en": "This edition in Australia will be the first to host 24 national teams."
+        },
+        "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Esta edición en Australia será la primera en albergar a 24 selecciones nacionales.",
+            "en": "This edition in Australia will be the first to host 24 national teams."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Hong Kong disputará su primer Mundial de Rugby en la edición de Australia 2027.",
+            "en": "Hong Kong will make their Rugby World Cup debut in the 2027 tournament in Australia."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Ocho estadios repartidos en siete ciudades acogerán los partidos del Mundial 2027.",
+            "en": "Eight venues across seven cities have been chosen for the 2027 tournament."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
+        }
+      ]
     },
     {
       "id": "cricket-world-cup-2027",
@@ -50547,6 +51436,14 @@
       "version": 53,
       "target": "xbox-tokyo-game-show-broadcast-2026",
       "at": "2026-09-16T16:28:27.979406+00:00"
+    },
+    "plantel-datos-lote-01-20260917-1230": {
+      "operationID": "plantel-datos-lote-01-20260917-1230",
+      "digest": "cdadd9d2c711ba7588a2f1cacc46051dbd0589417abca4a81b81d4d87b9c559e",
+      "status": "applied",
+      "version": 57,
+      "target": "fifa-world-cup-2030,super-bowl-lxi-2027,super-bowl-lxii-2028,olympics-la-2028,winter-olympics-2030,olympics-brisbane-2032,winter-olympics-2034,womens-world-cup-2027,uefa-euro-2028,rugby-world-cup-2027",
+      "at": "2026-09-17T18:31:42.464112+00:00"
     }
   }
 }
