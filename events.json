@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -3711,6 +3711,13 @@
               "en": "The second ceremony, in 1930, was the first Oscars event to be broadcast by radio."
             },
             "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+          },
+          {
+            "text": {
+              "es": "La primera entrega de los Óscar se celebró el 16 de mayo de 1929 y duró 15 minutos.",
+              "en": "The first Academy Awards were held on May 16, 1929, and the ceremony ran for 15 minutes."
+            },
+            "source": "https://en.wikipedia.org/wiki/Academy_Awards"
           }
         ]
       },
@@ -3734,6 +3741,13 @@
           "text": {
             "es": "En la segunda edición de los Óscar, en 1930, la ceremonia se transmitió por radio por primera vez.",
             "en": "The second ceremony, in 1930, was the first Oscars event to be broadcast by radio."
+          },
+          "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+        },
+        {
+          "text": {
+            "es": "La primera entrega de los Óscar se celebró el 16 de mayo de 1929 y duró 15 minutos.",
+            "en": "The first Academy Awards were held on May 16, 1929, and the ceremony ran for 15 minutes."
           },
           "source": "https://en.wikipedia.org/wiki/Academy_Awards"
         }
@@ -4387,6 +4401,20 @@
               "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
             },
             "source": "https://www.comic-con.org/about/"
+          },
+          {
+            "text": {
+              "es": "Los prestigiosos premios Eisner comenzaron a entregarse en la Comic-Con en 1987.",
+              "en": "The prestigious Eisner Awards started at Comic-Con in 1987."
+            },
+            "source": "https://www.comic-con.org/about/"
+          },
+          {
+            "text": {
+              "es": "El evento se trasladó al Centro de Convenciones de San Diego en 1991.",
+              "en": "The event moved to the San Diego Convention Center in 1991."
+            },
+            "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
           }
         ]
       },
@@ -4405,6 +4433,20 @@
             "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
           },
           "source": "https://www.comic-con.org/about/"
+        },
+        {
+          "text": {
+            "es": "Los prestigiosos premios Eisner comenzaron a entregarse en la Comic-Con en 1987.",
+            "en": "The prestigious Eisner Awards started at Comic-Con in 1987."
+          },
+          "source": "https://www.comic-con.org/about/"
+        },
+        {
+          "text": {
+            "es": "El evento se trasladó al Centro de Convenciones de San Diego en 1991.",
+            "en": "The event moved to the San Diego Convention Center in 1991."
+          },
+          "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
         }
       ]
     },
@@ -57696,6 +57738,14 @@
       "version": 67,
       "target": "hot-sale-2027,liga-mx-apertura-2026-final,the-game-awards-2026,meta-connect-2026,pokemon-30th-celebration-set-2026",
       "at": "2026-09-17T22:51:28.390791+00:00"
+    },
+    "plantel-datos-lote-12-20260917-1653": {
+      "operationID": "plantel-datos-lote-12-20260917-1653",
+      "digest": "76a0c7e404a8d492c0ef42d822d8e9bfdab1677eb0a91791e1d7172f33715f35",
+      "status": "applied",
+      "version": 68,
+      "target": "f1-season-2027,oscars-2027,comic-con-2027",
+      "at": "2026-09-17T22:57:25.391719+00:00"
     }
   }
 }
