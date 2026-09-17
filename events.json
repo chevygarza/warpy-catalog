@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -3410,7 +3410,89 @@
         "environment",
         "planet"
       ],
-      "repeatsYearly": true
+      "repeatsYearly": true,
+      "sourceSnapshot": {
+        "id": "earth-day-2027",
+        "title": "Earth Day",
+        "titles": {
+          "es": "Día de la Tierra"
+        },
+        "emoji": "🌍",
+        "category": "culture",
+        "date": "2027-04-22",
+        "startDate": "2026-04-23",
+        "accent": "#27AE60",
+        "keywords": [
+          "earth day",
+          "dia de la tierra",
+          "environment",
+          "planet"
+        ],
+        "repeatsYearly": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Denis Hayes llevó el Día de la Tierra al plano internacional en 1990 en 141 países.",
+            "en": "Denis Hayes took Earth Day international in 1990, organizing events in 141 nations."
+          },
+          "source": "https://en.wikipedia.org/wiki/Earth_Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Denis Hayes llevó el Día de la Tierra al plano internacional en 1990 en 141 países.",
+              "en": "Denis Hayes took Earth Day international in 1990, organizing events in 141 nations."
+            },
+            "source": "https://en.wikipedia.org/wiki/Earth_Day"
+          },
+          {
+            "text": {
+              "es": "El primer Día de la Tierra se celebró el 22 de abril de 1970.",
+              "en": "The first Earth Day was held on April 22, 1970."
+            },
+            "source": "https://en.wikipedia.org/wiki/Earth_Day"
+          },
+          {
+            "text": {
+              "es": "En el Día de la Tierra de 2016 se firmó el histórico Acuerdo de París.",
+              "en": "On Earth Day 2016, the landmark Paris Agreement was signed."
+            },
+            "source": "https://en.wikipedia.org/wiki/Earth_Day"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Denis Hayes llevó el Día de la Tierra al plano internacional en 1990 en 141 países.",
+          "en": "Denis Hayes took Earth Day international in 1990, organizing events in 141 nations."
+        },
+        "source": "https://en.wikipedia.org/wiki/Earth_Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Denis Hayes llevó el Día de la Tierra al plano internacional en 1990 en 141 países.",
+            "en": "Denis Hayes took Earth Day international in 1990, organizing events in 141 nations."
+          },
+          "source": "https://en.wikipedia.org/wiki/Earth_Day"
+        },
+        {
+          "text": {
+            "es": "El primer Día de la Tierra se celebró el 22 de abril de 1970.",
+            "en": "The first Earth Day was held on April 22, 1970."
+          },
+          "source": "https://en.wikipedia.org/wiki/Earth_Day"
+        },
+        {
+          "text": {
+            "es": "En el Día de la Tierra de 2016 se firmó el histórico Acuerdo de París.",
+            "en": "On Earth Day 2016, the landmark Paris Agreement was signed."
+          },
+          "source": "https://en.wikipedia.org/wiki/Earth_Day"
+        }
+      ]
     },
     {
       "id": "eurovision-2027",
@@ -3431,6 +3513,76 @@
         "song contest",
         "music",
         "musica"
+      ],
+      "sourceSnapshot": {
+        "id": "eurovision-2027",
+        "title": "Eurovision 2027",
+        "subtitle": "Grand Final",
+        "subtitles": {
+          "es": "Gran Final"
+        },
+        "emoji": "🎤",
+        "category": "entertainment",
+        "date": "2027-05-15",
+        "startDate": "2026-05-16",
+        "accent": "#9B51E0",
+        "estimated": true,
+        "keywords": [
+          "eurovision",
+          "esc",
+          "song contest",
+          "music",
+          "musica"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La edad mínima requerida para los cantantes de Eurovisión subirá a 18 años a partir de 2027.",
+            "en": "The minimum age for Eurovision singers will be raised to 18 starting in 2027."
+          },
+          "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La edad mínima requerida para los cantantes de Eurovisión subirá a 18 años a partir de 2027.",
+              "en": "The minimum age for Eurovision singers will be raised to 18 starting in 2027."
+            },
+            "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest"
+          },
+          {
+            "text": {
+              "es": "Canadá fue invitado a participar en 2027 como el primer país americano en el certamen europeo.",
+              "en": "Canada was invited to participate in 2027 as the first American country in the European contest."
+            },
+            "source": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La edad mínima requerida para los cantantes de Eurovisión subirá a 18 años a partir de 2027.",
+          "en": "The minimum age for Eurovision singers will be raised to 18 starting in 2027."
+        },
+        "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La edad mínima requerida para los cantantes de Eurovisión subirá a 18 años a partir de 2027.",
+            "en": "The minimum age for Eurovision singers will be raised to 18 starting in 2027."
+          },
+          "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest"
+        },
+        {
+          "text": {
+            "es": "Canadá fue invitado a participar en 2027 como el primer país americano en el certamen europeo.",
+            "en": "Canada was invited to participate in 2027 as the first American country in the European contest."
+          },
+          "source": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n"
+        }
       ]
     },
     {
@@ -3492,6 +3644,95 @@
         "astronomia",
         "egypt",
         "spain"
+      ],
+      "sourceSnapshot": {
+        "id": "solar-eclipse-2027",
+        "title": "Total Solar Eclipse 2027",
+        "titles": {
+          "es": "Eclipse Solar Total 2027"
+        },
+        "subtitle": "Spain · North Africa · Egypt",
+        "subtitles": {
+          "es": "España · Norte de África · Egipto"
+        },
+        "emoji": "🌑",
+        "category": "space",
+        "date": "2027-08-02",
+        "startDate": "2026-08-12",
+        "accent": "#F2C94C",
+        "keywords": [
+          "eclipse",
+          "solar",
+          "sun",
+          "sol",
+          "astronomy",
+          "astronomia",
+          "egypt",
+          "spain"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El eclipse solar total del 2 de agosto de 2027 ha sido apodado el Eclipse del Siglo.",
+            "en": "The August 2, 2027 total solar eclipse has been nicknamed the Eclipse of the Century."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El eclipse solar total del 2 de agosto de 2027 ha sido apodado el Eclipse del Siglo.",
+              "en": "The August 2, 2027 total solar eclipse has been nicknamed the Eclipse of the Century."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+          },
+          {
+            "text": {
+              "es": "Es el eclipse solar total más largo en tierra de fácil acceso en el siglo XXI.",
+              "en": "This is the longest total solar eclipse on easily accessible land in the 21st century."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+          },
+          {
+            "text": {
+              "es": "La duración máxima de la totalidad durará 6 minutos y 22 segundos al sureste de Luxor, Egipto.",
+              "en": "The maximum duration of totality will last 6 minutes and 22 seconds southeast of Luxor, Egypt."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El eclipse solar total del 2 de agosto de 2027 ha sido apodado el Eclipse del Siglo.",
+          "en": "The August 2, 2027 total solar eclipse has been nicknamed the Eclipse of the Century."
+        },
+        "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El eclipse solar total del 2 de agosto de 2027 ha sido apodado el Eclipse del Siglo.",
+            "en": "The August 2, 2027 total solar eclipse has been nicknamed the Eclipse of the Century."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+        },
+        {
+          "text": {
+            "es": "Es el eclipse solar total más largo en tierra de fácil acceso en el siglo XXI.",
+            "en": "This is the longest total solar eclipse on easily accessible land in the 21st century."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+        },
+        {
+          "text": {
+            "es": "La duración máxima de la totalidad durará 6 minutos y 22 segundos al sureste de Luxor, Egipto.",
+            "en": "The maximum duration of totality will last 6 minutes and 22 seconds southeast of Luxor, Egypt."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_2%2C_2027"
+        }
       ]
     },
     {
@@ -3514,6 +3755,91 @@
         "pelicula",
         "cine",
         "pattinson"
+      ],
+      "sourceSnapshot": {
+        "id": "the-batman-part-ii",
+        "title": "The Batman Part II",
+        "subtitle": "Theatrical release",
+        "subtitles": {
+          "es": "Estreno en cines"
+        },
+        "emoji": "🦇",
+        "category": "entertainment",
+        "date": "2027-10-01",
+        "startDate": "2022-03-04",
+        "accent": "#1C1C1E",
+        "estimated": true,
+        "keywords": [
+          "batman",
+          "dc",
+          "movie",
+          "pelicula",
+          "cine",
+          "pattinson"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "A finales de enero de 2023, DC Studios anunció que la secuela se titulaba The Batman – Part II.",
+            "en": "At the end of January 2023, DC Studios announced that the sequel was titled The Batman – Part II."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "A finales de enero de 2023, DC Studios anunció que la secuela se titulaba The Batman – Part II.",
+              "en": "At the end of January 2023, DC Studios announced that the sequel was titled The Batman – Part II."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+          },
+          {
+            "text": {
+              "es": "El rodaje se programó principalmente en los estudios Warner Bros. Studios Leavesden.",
+              "en": "Filming took place primarily on soundstages at Warner Bros. Studios Leavesden."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+          },
+          {
+            "text": {
+              "es": "The Batman: Part II tiene previsto su estreno en cines de Estados Unidos el 18 de febrero de 2028.",
+              "en": "The Batman: Part II is scheduled for theatrical release in the United States on February 18, 2028."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "A finales de enero de 2023, DC Studios anunció que la secuela se titulaba The Batman – Part II.",
+          "en": "At the end of January 2023, DC Studios announced that the sequel was titled The Batman – Part II."
+        },
+        "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "A finales de enero de 2023, DC Studios anunció que la secuela se titulaba The Batman – Part II.",
+            "en": "At the end of January 2023, DC Studios announced that the sequel was titled The Batman – Part II."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+        },
+        {
+          "text": {
+            "es": "El rodaje se programó principalmente en los estudios Warner Bros. Studios Leavesden.",
+            "en": "Filming took place primarily on soundstages at Warner Bros. Studios Leavesden."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+        },
+        {
+          "text": {
+            "es": "The Batman: Part II tiene previsto su estreno en cines de Estados Unidos el 18 de febrero de 2028.",
+            "en": "The Batman: Part II is scheduled for theatrical release in the United States on February 18, 2028."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
+        }
       ]
     },
     {
@@ -3537,6 +3863,78 @@
         "movie",
         "pelicula",
         "cine"
+      ],
+      "sourceSnapshot": {
+        "id": "avengers-secret-wars",
+        "title": "Avengers: Secret Wars",
+        "subtitle": "Theatrical release",
+        "subtitles": {
+          "es": "Estreno en cines"
+        },
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-12-17",
+        "startDate": "2026-12-18",
+        "accent": "#EB5757",
+        "estimated": true,
+        "keywords": [
+          "marvel",
+          "avengers",
+          "secret wars",
+          "mcu",
+          "movie",
+          "pelicula",
+          "cine"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La Fase Seis del Universo Cinematográfico de Marvel concluirá con Avengers: Secret Wars.",
+            "en": "Marvel's Phase Six is set to conclude with the film Avengers: Secret Wars."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La Fase Seis del Universo Cinematográfico de Marvel concluirá con Avengers: Secret Wars.",
+              "en": "Marvel's Phase Six is set to conclude with the film Avengers: Secret Wars."
+            },
+            "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+          },
+          {
+            "text": {
+              "es": "Robert Downey Jr. interpreta al villano Doctor Doom en Avengers: Secret Wars.",
+              "en": "Robert Downey Jr. stars as Doctor Doom in Secret Wars."
+            },
+            "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La Fase Seis del Universo Cinematográfico de Marvel concluirá con Avengers: Secret Wars.",
+          "en": "Marvel's Phase Six is set to conclude with the film Avengers: Secret Wars."
+        },
+        "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La Fase Seis del Universo Cinematográfico de Marvel concluirá con Avengers: Secret Wars.",
+            "en": "Marvel's Phase Six is set to conclude with the film Avengers: Secret Wars."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+        },
+        {
+          "text": {
+            "es": "Robert Downey Jr. interpreta al villano Doctor Doom en Avengers: Secret Wars.",
+            "en": "Robert Downey Jr. stars as Doctor Doom in Secret Wars."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
+        }
       ]
     },
     {
@@ -3560,6 +3958,92 @@
         "february",
         "febrero",
         "29"
+      ],
+      "sourceSnapshot": {
+        "id": "leap-day-2028",
+        "title": "Leap Day 2028",
+        "titles": {
+          "es": "Día Bisiesto 2028"
+        },
+        "subtitle": "February 29",
+        "subtitles": {
+          "es": "29 de febrero"
+        },
+        "emoji": "🐸",
+        "category": "culture",
+        "date": "2028-02-29",
+        "startDate": "2024-02-29",
+        "accent": "#27AE60",
+        "keywords": [
+          "leap",
+          "bisiesto",
+          "february",
+          "febrero",
+          "29"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El 29 de febrero de 1940, Hattie McDaniel fue la primera afroamericana en ganar un Óscar.",
+            "en": "On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award."
+          },
+          "source": "https://en.wikipedia.org/wiki/February_29"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El 29 de febrero de 1940, Hattie McDaniel fue la primera afroamericana en ganar un Óscar.",
+              "en": "On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award."
+            },
+            "source": "https://en.wikipedia.org/wiki/February_29"
+          },
+          {
+            "text": {
+              "es": "En 1712, Suecia tuvo un 30 de febrero tras el 29 de febrero para volver al calendario juliano.",
+              "en": "In 1712, February 29 was followed by February 30 in Sweden to return to the Julian calendar."
+            },
+            "source": "https://en.wikipedia.org/wiki/February_29"
+          },
+          {
+            "text": {
+              "es": "En el calendario romano, el día añadido cada cuatro años era el 23 de febrero y no el 29.",
+              "en": "In the Roman calendar, the leap day added every four years was February 23 rather than February 29."
+            },
+            "source": "https://es.wikipedia.org/wiki/29_de_febrero"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El 29 de febrero de 1940, Hattie McDaniel fue la primera afroamericana en ganar un Óscar.",
+          "en": "On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award."
+        },
+        "source": "https://en.wikipedia.org/wiki/February_29"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El 29 de febrero de 1940, Hattie McDaniel fue la primera afroamericana en ganar un Óscar.",
+            "en": "On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award."
+          },
+          "source": "https://en.wikipedia.org/wiki/February_29"
+        },
+        {
+          "text": {
+            "es": "En 1712, Suecia tuvo un 30 de febrero tras el 29 de febrero para volver al calendario juliano.",
+            "en": "In 1712, February 29 was followed by February 30 in Sweden to return to the Julian calendar."
+          },
+          "source": "https://en.wikipedia.org/wiki/February_29"
+        },
+        {
+          "text": {
+            "es": "En el calendario romano, el día añadido cada cuatro años era el 23 de febrero y no el 29.",
+            "en": "In the Roman calendar, the leap day added every four years was February 23 rather than February 29."
+          },
+          "source": "https://es.wikipedia.org/wiki/29_de_febrero"
+        }
       ]
     },
     {
@@ -3586,6 +4070,95 @@
         "astronomia",
         "sydney",
         "australia"
+      ],
+      "sourceSnapshot": {
+        "id": "solar-eclipse-2028",
+        "title": "Total Solar Eclipse 2028",
+        "titles": {
+          "es": "Eclipse Solar Total 2028"
+        },
+        "subtitle": "Australia · New Zealand",
+        "subtitles": {
+          "es": "Australia · Nueva Zelanda"
+        },
+        "emoji": "🌑",
+        "category": "space",
+        "date": "2028-07-22",
+        "startDate": "2027-08-02",
+        "accent": "#F2C94C",
+        "keywords": [
+          "eclipse",
+          "solar",
+          "sun",
+          "sol",
+          "astronomy",
+          "astronomia",
+          "sydney",
+          "australia"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Sídney no vivía un eclipse solar total desde el 26 de marzo de 1857 y no verá otro hasta 2858.",
+            "en": "Sydney has not seen a total solar eclipse since March 26, 1857, and will not see another until 2858."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Sídney no vivía un eclipse solar total desde el 26 de marzo de 1857 y no verá otro hasta 2858.",
+              "en": "Sydney has not seen a total solar eclipse since March 26, 1857, and will not see another until 2858."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+          },
+          {
+            "text": {
+              "es": "Será el primer eclipse solar total visible en cualquier parte de Nueva Zelanda desde 1965.",
+              "en": "It will be the first total solar eclipse visible anywhere in New Zealand since 1965."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+          },
+          {
+            "text": {
+              "es": "La totalidad pasará por el centro de Sídney, donde tendrá una duración de más de tres minutos.",
+              "en": "Totality will pass through central Sydney, where it will last for more than three minutes."
+            },
+            "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Sídney no vivía un eclipse solar total desde el 26 de marzo de 1857 y no verá otro hasta 2858.",
+          "en": "Sydney has not seen a total solar eclipse since March 26, 1857, and will not see another until 2858."
+        },
+        "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Sídney no vivía un eclipse solar total desde el 26 de marzo de 1857 y no verá otro hasta 2858.",
+            "en": "Sydney has not seen a total solar eclipse since March 26, 1857, and will not see another until 2858."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+        },
+        {
+          "text": {
+            "es": "Será el primer eclipse solar total visible en cualquier parte de Nueva Zelanda desde 1965.",
+            "en": "It will be the first total solar eclipse visible anywhere in New Zealand since 1965."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+        },
+        {
+          "text": {
+            "es": "La totalidad pasará por el centro de Sídney, donde tendrá una duración de más de tres minutos.",
+            "en": "Totality will pass through central Sydney, where it will last for more than three minutes."
+          },
+          "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_July_22%2C_2028"
+        }
       ]
     },
     {
@@ -3609,6 +4182,92 @@
         "riyadh",
         "riad",
         "saudi"
+      ],
+      "sourceSnapshot": {
+        "id": "expo-2030-riyadh",
+        "title": "Expo 2030 Riyadh",
+        "titles": {
+          "es": "Expo 2030 Riad"
+        },
+        "subtitle": "World Expo",
+        "subtitles": {
+          "es": "Exposición Universal"
+        },
+        "emoji": "🏛️",
+        "category": "culture",
+        "date": "2030-10-01",
+        "startDate": "2025-10-13",
+        "accent": "#219653",
+        "keywords": [
+          "expo",
+          "world expo",
+          "riyadh",
+          "riad",
+          "saudi"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Riad será la segunda ciudad de Oriente Medio en albergar la Expo, tras Dubái.",
+            "en": "Riyadh will be the second Middle Eastern city to host the Expo after Dubai."
+          },
+          "source": "https://en.wikipedia.org/wiki/Expo_2030"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Riad será la segunda ciudad de Oriente Medio en albergar la Expo, tras Dubái.",
+              "en": "Riyadh will be the second Middle Eastern city to host the Expo after Dubai."
+            },
+            "source": "https://en.wikipedia.org/wiki/Expo_2030"
+          },
+          {
+            "text": {
+              "es": "La Expo 2030 abrirá el 1 de octubre de 2030 y cerrará el 31 de marzo de 2031, durando 181 días.",
+              "en": "Expo 2030 will open on 1 October 2030 and close on 31 March 2031, lasting 181 days."
+            },
+            "source": "https://en.wikipedia.org/wiki/Expo_2030"
+          },
+          {
+            "text": {
+              "es": "Rusia fue el primer país en presentar una candidatura para la Expo 2030 postulando a Moscú.",
+              "en": "Russia was the first country to submit a bid for Expo 2030 with a submission for Moscow."
+            },
+            "source": "https://en.wikipedia.org/wiki/Expo_2030"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Riad será la segunda ciudad de Oriente Medio en albergar la Expo, tras Dubái.",
+          "en": "Riyadh will be the second Middle Eastern city to host the Expo after Dubai."
+        },
+        "source": "https://en.wikipedia.org/wiki/Expo_2030"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Riad será la segunda ciudad de Oriente Medio en albergar la Expo, tras Dubái.",
+            "en": "Riyadh will be the second Middle Eastern city to host the Expo after Dubai."
+          },
+          "source": "https://en.wikipedia.org/wiki/Expo_2030"
+        },
+        {
+          "text": {
+            "es": "La Expo 2030 abrirá el 1 de octubre de 2030 y cerrará el 31 de marzo de 2031, durando 181 días.",
+            "en": "Expo 2030 will open on 1 October 2030 and close on 31 March 2031, lasting 181 days."
+          },
+          "source": "https://en.wikipedia.org/wiki/Expo_2030"
+        },
+        {
+          "text": {
+            "es": "Rusia fue el primer país en presentar una candidatura para la Expo 2030 postulando a Moscú.",
+            "en": "Russia was the first country to submit a bid for Expo 2030 with a submission for Moscow."
+          },
+          "source": "https://en.wikipedia.org/wiki/Expo_2030"
+        }
       ]
     },
     {
@@ -3632,7 +4291,93 @@
         "programming"
       ],
       "time": "03:14",
-      "timeZone": "UTC"
+      "timeZone": "UTC",
+      "sourceSnapshot": {
+        "id": "y2k38",
+        "title": "Y2K38",
+        "subtitle": "32-bit Unix time overflow",
+        "subtitles": {
+          "es": "Desbordamiento del tiempo Unix de 32 bits"
+        },
+        "emoji": "🕰️",
+        "category": "tech",
+        "date": "2038-01-19",
+        "startDate": "1970-01-01",
+        "accent": "#1C1C1E",
+        "keywords": [
+          "unix",
+          "epoch",
+          "2038",
+          "bug",
+          "overflow",
+          "programming"
+        ],
+        "time": "03:14",
+        "timeZone": "UTC"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El error por desbordamiento ocurrirá exactamente a las 03:14:08 UTC del 19 de enero de 2038.",
+            "en": "The overflow error will occur at 03:14:08 UTC on 19 January 2038."
+          },
+          "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El error por desbordamiento ocurrirá exactamente a las 03:14:08 UTC del 19 de enero de 2038.",
+              "en": "The overflow error will occur at 03:14:08 UTC on 19 January 2038."
+            },
+            "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+          },
+          {
+            "text": {
+              "es": "El problema de 2038 también se conoce con los nombres de Y2038, Y2K38 o Epochalypse.",
+              "en": "The year 2038 problem is also known as Y2038, Y2K38, or the Epochalypse."
+            },
+            "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+          },
+          {
+            "text": {
+              "es": "Los enteros con signo de 64 bits tardarán aproximadamente 292 mil millones de años en desbordarse.",
+              "en": "Signed 64-bit integers will take around 292 billion years to overflow."
+            },
+            "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El error por desbordamiento ocurrirá exactamente a las 03:14:08 UTC del 19 de enero de 2038.",
+          "en": "The overflow error will occur at 03:14:08 UTC on 19 January 2038."
+        },
+        "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El error por desbordamiento ocurrirá exactamente a las 03:14:08 UTC del 19 de enero de 2038.",
+            "en": "The overflow error will occur at 03:14:08 UTC on 19 January 2038."
+          },
+          "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+        },
+        {
+          "text": {
+            "es": "El problema de 2038 también se conoce con los nombres de Y2038, Y2K38 o Epochalypse.",
+            "en": "The year 2038 problem is also known as Y2038, Y2K38, or the Epochalypse."
+          },
+          "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+        },
+        {
+          "text": {
+            "es": "Los enteros con signo de 64 bits tardarán aproximadamente 292 mil millones de años en desbordarse.",
+            "en": "Signed 64-bit integers will take around 292 billion years to overflow."
+          },
+          "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
+        }
+      ]
     },
     {
       "id": "halley-2061",
@@ -3657,6 +4402,80 @@
         "espacio",
         "astronomy",
         "astronomia"
+      ],
+      "sourceSnapshot": {
+        "id": "halley-2061",
+        "title": "Halley's Comet",
+        "titles": {
+          "es": "Cometa Halley"
+        },
+        "subtitle": "Perihelion · 2061",
+        "subtitles": {
+          "es": "Perihelio · 2061"
+        },
+        "emoji": "☄️",
+        "category": "space",
+        "date": "2061-07-28",
+        "startDate": "1986-02-09",
+        "accent": "#56CCF2",
+        "keywords": [
+          "halley",
+          "comet",
+          "cometa",
+          "space",
+          "espacio",
+          "astronomy",
+          "astronomia"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El cometa Halley volverá a aparecer en las partes internas del sistema solar a mediados de 2061.",
+            "en": "Halley's Comet will next appear in the inner parts of the Solar System in mid-2061."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El cometa Halley volverá a aparecer en las partes internas del sistema solar a mediados de 2061.",
+              "en": "Halley's Comet will next appear in the inner parts of the Solar System in mid-2061."
+            },
+            "source": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+          },
+          {
+            "text": {
+              "es": "El próximo perihelio del cometa Halley tendrá lugar el 28 de julio de 2061.",
+              "en": "Halley's Comet's next perihelion will take place on July 28, 2061."
+            },
+            "source": "https://es.wikipedia.org/wiki/Cometa_Halley"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El cometa Halley volverá a aparecer en las partes internas del sistema solar a mediados de 2061.",
+          "en": "Halley's Comet will next appear in the inner parts of the Solar System in mid-2061."
+        },
+        "source": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El cometa Halley volverá a aparecer en las partes internas del sistema solar a mediados de 2061.",
+            "en": "Halley's Comet will next appear in the inner parts of the Solar System in mid-2061."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+        },
+        {
+          "text": {
+            "es": "El próximo perihelio del cometa Halley tendrá lugar el 28 de julio de 2061.",
+            "en": "Halley's Comet's next perihelion will take place on July 28, 2061."
+          },
+          "source": "https://es.wikipedia.org/wiki/Cometa_Halley"
+        }
       ]
     },
     {
@@ -53061,6 +53880,14 @@
       "version": 59,
       "target": "black-friday-2026,hanukkah-2026,avengers-doomsday,christmas-2026,new-year-2027,lunar-new-year-2027,ramadan-2027,valentines-2027,pi-day-2027,easter-2027",
       "at": "2026-09-17T18:40:53.695412+00:00"
+    },
+    "plantel-datos-lote-04-20260917-1243": {
+      "operationID": "plantel-datos-lote-04-20260917-1243",
+      "digest": "4526101ec55f7bc9f17c42ab2ed47bdf545d75a45507479496cdbe3836b6543f",
+      "status": "applied",
+      "version": 60,
+      "target": "earth-day-2027,eurovision-2027,solar-eclipse-2027,the-batman-part-ii,avengers-secret-wars,leap-day-2028,solar-eclipse-2028,expo-2030-riyadh,y2k38,halley-2061",
+      "at": "2026-09-17T18:46:01.991764+00:00"
     }
   }
 }
