@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -2351,6 +2351,86 @@
         "ofertas",
         "shopping",
         "compras"
+      ],
+      "sourceSnapshot": {
+        "id": "black-friday-2026",
+        "title": "Black Friday",
+        "emoji": "🛍️",
+        "category": "culture",
+        "date": "2026-11-27",
+        "startDate": "2025-11-29",
+        "accent": "#1C1C1E",
+        "keywords": [
+          "black friday",
+          "buen fin",
+          "sales",
+          "ofertas",
+          "shopping",
+          "compras"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 1961, comerciantes de Filadelfia intentaron renombrar el día como Big Friday sin éxito.",
+            "en": "In 1961, merchants in Philadelphia tried to rebrand the day as Big Friday, but it was forgotten."
+          },
+          "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 1961, comerciantes de Filadelfia intentaron renombrar el día como Big Friday sin éxito.",
+              "en": "In 1961, merchants in Philadelphia tried to rebrand the day as Big Friday, but it was forgotten."
+            },
+            "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+          },
+          {
+            "text": {
+              "es": "The New York Times usó por primera vez la frase Black Friday el 29 de noviembre de 1975.",
+              "en": "The New York Times first used the phrase Black Friday on November 29, 1975."
+            },
+            "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+          },
+          {
+            "text": {
+              "es": "El primer uso conocido del término ligado al día tras Acción de Gracias data de noviembre de 1951.",
+              "en": "The earliest known use of the term linked to the day after Thanksgiving dates to November 1951."
+            },
+            "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En 1961, comerciantes de Filadelfia intentaron renombrar el día como Big Friday sin éxito.",
+          "en": "In 1961, merchants in Philadelphia tried to rebrand the day as Big Friday, but it was forgotten."
+        },
+        "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 1961, comerciantes de Filadelfia intentaron renombrar el día como Big Friday sin éxito.",
+            "en": "In 1961, merchants in Philadelphia tried to rebrand the day as Big Friday, but it was forgotten."
+          },
+          "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+        },
+        {
+          "text": {
+            "es": "The New York Times usó por primera vez la frase Black Friday el 29 de noviembre de 1975.",
+            "en": "The New York Times first used the phrase Black Friday on November 29, 1975."
+          },
+          "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+        },
+        {
+          "text": {
+            "es": "El primer uso conocido del término ligado al día tras Acción de Gracias data de noviembre de 1951.",
+            "en": "The earliest known use of the term linked to the day after Thanksgiving dates to November 1951."
+          },
+          "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
+        }
       ]
     },
     {
@@ -2374,6 +2454,92 @@
         "chanukah",
         "jewish",
         "judio"
+      ],
+      "sourceSnapshot": {
+        "id": "hanukkah-2026",
+        "title": "Hanukkah",
+        "titles": {
+          "es": "Janucá"
+        },
+        "subtitle": "First night",
+        "subtitles": {
+          "es": "Primera noche"
+        },
+        "emoji": "🕎",
+        "category": "holidays",
+        "date": "2026-12-04",
+        "startDate": "2025-12-22",
+        "accent": "#2F80ED",
+        "keywords": [
+          "hanukkah",
+          "januca",
+          "chanukah",
+          "jewish",
+          "judio"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 2026, la festividad de Janucá comienza con la puesta del sol el 4 de diciembre.",
+            "en": "In 2026, the celebration of Hanukkah begins at sunset on 4 December."
+          },
+          "source": "https://en.wikipedia.org/wiki/Hanukkah"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 2026, la festividad de Janucá comienza con la puesta del sol el 4 de diciembre.",
+              "en": "In 2026, the celebration of Hanukkah begins at sunset on 4 December."
+            },
+            "source": "https://en.wikipedia.org/wiki/Hanukkah"
+          },
+          {
+            "text": {
+              "es": "El nombre «Janucá» procede del verbo hebreo que significa «dedicar».",
+              "en": "The name \"Hanukkah\" derives from the Hebrew verb meaning \"to dedicate\"."
+            },
+            "source": "https://en.wikipedia.org/wiki/Hanukkah"
+          },
+          {
+            "text": {
+              "es": "Es la única festividad judía que inicia en un mes hebreo (Kislev) y termina en otro (Tevet).",
+              "en": "It is the only Jewish holiday that starts in one Hebrew month (Kislev) and ends in another (Tevet)."
+            },
+            "source": "https://en.wikipedia.org/wiki/Hanukkah"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En 2026, la festividad de Janucá comienza con la puesta del sol el 4 de diciembre.",
+          "en": "In 2026, the celebration of Hanukkah begins at sunset on 4 December."
+        },
+        "source": "https://en.wikipedia.org/wiki/Hanukkah"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 2026, la festividad de Janucá comienza con la puesta del sol el 4 de diciembre.",
+            "en": "In 2026, the celebration of Hanukkah begins at sunset on 4 December."
+          },
+          "source": "https://en.wikipedia.org/wiki/Hanukkah"
+        },
+        {
+          "text": {
+            "es": "El nombre «Janucá» procede del verbo hebreo que significa «dedicar».",
+            "en": "The name \"Hanukkah\" derives from the Hebrew verb meaning \"to dedicate\"."
+          },
+          "source": "https://en.wikipedia.org/wiki/Hanukkah"
+        },
+        {
+          "text": {
+            "es": "Es la única festividad judía que inicia en un mes hebreo (Kislev) y termina en otro (Tevet).",
+            "en": "It is the only Jewish holiday that starts in one Hebrew month (Kislev) and ends in another (Tevet)."
+          },
+          "source": "https://en.wikipedia.org/wiki/Hanukkah"
+        }
       ]
     },
     {
@@ -2397,6 +2563,92 @@
         "movie",
         "pelicula",
         "cine"
+      ],
+      "sourceSnapshot": {
+        "id": "avengers-doomsday",
+        "title": "Avengers: Doomsday",
+        "subtitle": "Theatrical release",
+        "subtitles": {
+          "es": "Estreno en cines"
+        },
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-12-18",
+        "startDate": "2025-07-25",
+        "accent": "#EB5757",
+        "estimated": true,
+        "keywords": [
+          "marvel",
+          "avengers",
+          "doomsday",
+          "mcu",
+          "movie",
+          "pelicula",
+          "cine"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Es la película número 39 del Universo Cinematográfico de Marvel.",
+            "en": "It is intended to be the 39th film in the Marvel Cinematic Universe."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Es la película número 39 del Universo Cinematográfico de Marvel.",
+              "en": "It is intended to be the 39th film in the Marvel Cinematic Universe."
+            },
+            "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+          },
+          {
+            "text": {
+              "es": "El rodaje se llevó a cabo entre abril y septiembre de 2025.",
+              "en": "Filming took place from April to September 2025."
+            },
+            "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+          },
+          {
+            "text": {
+              "es": "Su estreno en Estados Unidos está programado para el 18 de diciembre de 2026.",
+              "en": "It is scheduled to be released in the United States on December 18, 2026."
+            },
+            "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Es la película número 39 del Universo Cinematográfico de Marvel.",
+          "en": "It is intended to be the 39th film in the Marvel Cinematic Universe."
+        },
+        "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Es la película número 39 del Universo Cinematográfico de Marvel.",
+            "en": "It is intended to be the 39th film in the Marvel Cinematic Universe."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+        },
+        {
+          "text": {
+            "es": "El rodaje se llevó a cabo entre abril y septiembre de 2025.",
+            "en": "Filming took place from April to September 2025."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+        },
+        {
+          "text": {
+            "es": "Su estreno en Estados Unidos está programado para el 18 de diciembre de 2026.",
+            "en": "It is scheduled to be released in the United States on December 18, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
+        }
       ]
     },
     {
@@ -2419,7 +2671,92 @@
         "santa"
       ],
       "repeatsYearly": true,
-      "featured": true
+      "featured": true,
+      "sourceSnapshot": {
+        "id": "christmas-2026",
+        "title": "Christmas",
+        "titles": {
+          "es": "Navidad"
+        },
+        "emoji": "🎄",
+        "category": "holidays",
+        "date": "2026-12-25",
+        "startDate": "2025-12-26",
+        "accent": "#27AE60",
+        "keywords": [
+          "christmas",
+          "navidad",
+          "xmas",
+          "december",
+          "diciembre",
+          "santa"
+        ],
+        "repeatsYearly": true,
+        "featured": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El término 'Noel' entró al idioma inglés a finales del siglo XIV, procedente del francés antiguo.",
+            "en": "'Noel' entered English in the late 14th century and is from Old French noël or naël."
+          },
+          "source": "https://en.wikipedia.org/wiki/Christmas"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El término 'Noel' entró al idioma inglés a finales del siglo XIV, procedente del francés antiguo.",
+              "en": "'Noel' entered English in the late 14th century and is from Old French noël or naël."
+            },
+            "source": "https://en.wikipedia.org/wiki/Christmas"
+          },
+          {
+            "text": {
+              "es": "Koleda es el nombre eslavo tradicional para la Navidad y su período festivo.",
+              "en": "Koleda is the traditional Slavic name for Christmas and the period from Christmas to Epiphany."
+            },
+            "source": "https://en.wikipedia.org/wiki/Christmas"
+          },
+          {
+            "text": {
+              "es": "La palabra Navidad proviene del latín tardío nativĭtas, que significa nacimiento.",
+              "en": "The term Navidad comes from the late Latin nativĭtas, which means birth."
+            },
+            "source": "https://es.wikipedia.org/wiki/Navidad"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El término 'Noel' entró al idioma inglés a finales del siglo XIV, procedente del francés antiguo.",
+          "en": "'Noel' entered English in the late 14th century and is from Old French noël or naël."
+        },
+        "source": "https://en.wikipedia.org/wiki/Christmas"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El término 'Noel' entró al idioma inglés a finales del siglo XIV, procedente del francés antiguo.",
+            "en": "'Noel' entered English in the late 14th century and is from Old French noël or naël."
+          },
+          "source": "https://en.wikipedia.org/wiki/Christmas"
+        },
+        {
+          "text": {
+            "es": "Koleda es el nombre eslavo tradicional para la Navidad y su período festivo.",
+            "en": "Koleda is the traditional Slavic name for Christmas and the period from Christmas to Epiphany."
+          },
+          "source": "https://en.wikipedia.org/wiki/Christmas"
+        },
+        {
+          "text": {
+            "es": "La palabra Navidad proviene del latín tardío nativĭtas, que significa nacimiento.",
+            "en": "The term Navidad comes from the late Latin nativĭtas, which means birth."
+          },
+          "source": "https://es.wikipedia.org/wiki/Navidad"
+        }
+      ]
     },
     {
       "id": "new-year-2027",
@@ -2441,7 +2778,92 @@
         "fireworks"
       ],
       "time": "00:00",
-      "featured": true
+      "featured": true,
+      "sourceSnapshot": {
+        "id": "new-year-2027",
+        "title": "New Year 2027",
+        "titles": {
+          "es": "Año Nuevo 2027"
+        },
+        "emoji": "🎆",
+        "category": "holidays",
+        "date": "2027-01-01",
+        "startDate": "2026-01-01",
+        "accent": "#F2C94C",
+        "keywords": [
+          "new year",
+          "ano nuevo",
+          "nochevieja",
+          "2027",
+          "countdown",
+          "fireworks"
+        ],
+        "time": "00:00",
+        "featured": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En la Roma precristiana, el día de Año Nuevo estaba consagrado a Jano, dios de los comienzos.",
+            "en": "In pre-Christian Rome, the day was dedicated to Janus, the god of gateways and beginnings."
+          },
+          "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En la Roma precristiana, el día de Año Nuevo estaba consagrado a Jano, dios de los comienzos.",
+              "en": "In pre-Christian Rome, the day was dedicated to Janus, the god of gateways and beginnings."
+            },
+            "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+          },
+          {
+            "text": {
+              "es": "El antiguo calendario de Roma fijaba el 1 de marzo como el primer día del año.",
+              "en": "The early Roman calendar designated 1 March as the first day of the year."
+            },
+            "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+          },
+          {
+            "text": {
+              "es": "El calendario juliano ideado por Julio César entró en vigor el 1 de enero del 45 a. C.",
+              "en": "The Julian calendar proposed by Julius Caesar took effect on 1 January 45 BC by edict."
+            },
+            "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En la Roma precristiana, el día de Año Nuevo estaba consagrado a Jano, dios de los comienzos.",
+          "en": "In pre-Christian Rome, the day was dedicated to Janus, the god of gateways and beginnings."
+        },
+        "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En la Roma precristiana, el día de Año Nuevo estaba consagrado a Jano, dios de los comienzos.",
+            "en": "In pre-Christian Rome, the day was dedicated to Janus, the god of gateways and beginnings."
+          },
+          "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+        },
+        {
+          "text": {
+            "es": "El antiguo calendario de Roma fijaba el 1 de marzo como el primer día del año.",
+            "en": "The early Roman calendar designated 1 March as the first day of the year."
+          },
+          "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+        },
+        {
+          "text": {
+            "es": "El calendario juliano ideado por Julio César entró en vigor el 1 de enero del 45 a. C.",
+            "en": "The Julian calendar proposed by Julius Caesar took effect on 1 January 45 BC by edict."
+          },
+          "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
+        }
+      ]
     },
     {
       "id": "ces-2027",
@@ -2481,6 +2903,63 @@
         "ano nuevo chino",
         "lunar",
         "spring festival"
+      ],
+      "sourceSnapshot": {
+        "id": "lunar-new-year-2027",
+        "title": "Lunar New Year 2027",
+        "titles": {
+          "es": "Año Nuevo Chino 2027"
+        },
+        "subtitle": "Year of the Goat",
+        "subtitles": {
+          "es": "Año de la Cabra"
+        },
+        "emoji": "🐐",
+        "category": "holidays",
+        "date": "2027-02-06",
+        "startDate": "2026-02-17",
+        "accent": "#EB5757",
+        "keywords": [
+          "chinese new year",
+          "ano nuevo chino",
+          "lunar",
+          "spring festival"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Año Nuevo Chino de 2027 corresponde al año de la Cabra y a la rama terrestre Wèi.",
+            "en": "The 2027 Chinese New Year corresponds to the Year of the Goat and the earthly branch Wèi."
+          },
+          "source": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Año Nuevo Chino de 2027 corresponde al año de la Cabra y a la rama terrestre Wèi.",
+              "en": "The 2027 Chinese New Year corresponds to the Year of the Goat and the earthly branch Wèi."
+            },
+            "source": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El Año Nuevo Chino de 2027 corresponde al año de la Cabra y a la rama terrestre Wèi.",
+          "en": "The 2027 Chinese New Year corresponds to the Year of the Goat and the earthly branch Wèi."
+        },
+        "source": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Año Nuevo Chino de 2027 corresponde al año de la Cabra y a la rama terrestre Wèi.",
+            "en": "The 2027 Chinese New Year corresponds to the Year of the Goat and the earthly branch Wèi."
+          },
+          "source": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino"
+        }
       ]
     },
     {
@@ -2503,6 +2982,63 @@
         "ramadan",
         "islam",
         "eid"
+      ],
+      "sourceSnapshot": {
+        "id": "ramadan-2027",
+        "title": "Ramadan 2027",
+        "titles": {
+          "es": "Ramadán 2027"
+        },
+        "subtitle": "First day",
+        "subtitles": {
+          "es": "Primer día"
+        },
+        "emoji": "🌙",
+        "category": "holidays",
+        "date": "2027-02-08",
+        "startDate": "2026-03-19",
+        "accent": "#219653",
+        "estimated": true,
+        "keywords": [
+          "ramadan",
+          "islam",
+          "eid"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Según el calendario Umm al-Qura, el Ramadán del año 1448 AH finaliza el 8 de marzo de 2027.",
+            "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
+          },
+          "source": "https://en.wikipedia.org/wiki/Ramadan"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Según el calendario Umm al-Qura, el Ramadán del año 1448 AH finaliza el 8 de marzo de 2027.",
+              "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
+            },
+            "source": "https://en.wikipedia.org/wiki/Ramadan"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Según el calendario Umm al-Qura, el Ramadán del año 1448 AH finaliza el 8 de marzo de 2027.",
+          "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
+        },
+        "source": "https://en.wikipedia.org/wiki/Ramadan"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Según el calendario Umm al-Qura, el Ramadán del año 1448 AH finaliza el 8 de marzo de 2027.",
+            "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
+          },
+          "source": "https://en.wikipedia.org/wiki/Ramadan"
+        }
       ]
     },
     {
@@ -2523,7 +3059,90 @@
         "love",
         "14 de febrero"
       ],
-      "repeatsYearly": true
+      "repeatsYearly": true,
+      "sourceSnapshot": {
+        "id": "valentines-2027",
+        "title": "Valentine's Day",
+        "titles": {
+          "es": "San Valentín"
+        },
+        "emoji": "💘",
+        "category": "holidays",
+        "date": "2027-02-14",
+        "startDate": "2026-02-15",
+        "accent": "#EB5757",
+        "keywords": [
+          "valentine",
+          "san valentin",
+          "amor",
+          "love",
+          "14 de febrero"
+        ],
+        "repeatsYearly": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Sacramentario gelasiano del siglo VIII registró la fiesta de San Valentín el 14 de febrero.",
+            "en": "The 8th-century Gelasian Sacramentary recorded the Feast of Saint Valentine on February 14."
+          },
+          "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Sacramentario gelasiano del siglo VIII registró la fiesta de San Valentín el 14 de febrero.",
+              "en": "The 8th-century Gelasian Sacramentary recorded the Feast of Saint Valentine on February 14."
+            },
+            "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+          },
+          {
+            "text": {
+              "es": "La Iglesia ortodoxa oriental celebra a San Valentín el 6 de julio y el 30 de julio.",
+              "en": "The Eastern Orthodox Church celebrates Saint Valentine on July 6 and July 30."
+            },
+            "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+          },
+          {
+            "text": {
+              "es": "En Italia se regalan llaves de San Valentín a los niños para prevenir la epilepsia.",
+              "en": "In Italy, Saint Valentine's keys are given to children to ward off epilepsy."
+            },
+            "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El Sacramentario gelasiano del siglo VIII registró la fiesta de San Valentín el 14 de febrero.",
+          "en": "The 8th-century Gelasian Sacramentary recorded the Feast of Saint Valentine on February 14."
+        },
+        "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Sacramentario gelasiano del siglo VIII registró la fiesta de San Valentín el 14 de febrero.",
+            "en": "The 8th-century Gelasian Sacramentary recorded the Feast of Saint Valentine on February 14."
+          },
+          "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+        },
+        {
+          "text": {
+            "es": "La Iglesia ortodoxa oriental celebra a San Valentín el 6 de julio y el 30 de julio.",
+            "en": "The Eastern Orthodox Church celebrates Saint Valentine on July 6 and July 30."
+          },
+          "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+        },
+        {
+          "text": {
+            "es": "En Italia se regalan llaves de San Valentín a los niños para prevenir la epilepsia.",
+            "en": "In Italy, Saint Valentine's keys are given to children to ward off epilepsy."
+          },
+          "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+        }
+      ]
     },
     {
       "id": "oscars-2027",
@@ -2567,7 +3186,90 @@
         "matematicas",
         "3.14"
       ],
-      "repeatsYearly": true
+      "repeatsYearly": true,
+      "sourceSnapshot": {
+        "id": "pi-day-2027",
+        "title": "Pi Day",
+        "titles": {
+          "es": "Día de Pi"
+        },
+        "subtitle": "3.14",
+        "emoji": "🥧",
+        "category": "culture",
+        "date": "2027-03-14",
+        "startDate": "2026-03-15",
+        "accent": "#9B51E0",
+        "keywords": [
+          "pi",
+          "math",
+          "matematicas",
+          "3.14"
+        ],
+        "repeatsYearly": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Larry Shaw organizó la primera celebración oficial del Día de Pi en 1988 en el Exploratorium.",
+            "en": "In 1988, Larry Shaw organized the earliest known official Pi Day celebration at the Exploratorium."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pi_Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Larry Shaw organizó la primera celebración oficial del Día de Pi en 1988 en el Exploratorium.",
+              "en": "In 1988, Larry Shaw organized the earliest known official Pi Day celebration at the Exploratorium."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pi_Day"
+          },
+          {
+            "text": {
+              "es": "La UNESCO proclamó el Día de Pi como el Día Internacional de las Matemáticas en noviembre de 2019.",
+              "en": "UNESCO designated Pi Day as the International Day of Mathematics in November 2019."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pi_Day"
+          },
+          {
+            "text": {
+              "es": "La Cámara de Representantes de EE. UU. reconoció formalmente el 14 de marzo de 2009 como Día de Pi.",
+              "en": "The U.S. House of Representatives recognized March 14, 2009, as National Pi Day."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pi_Day"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Larry Shaw organizó la primera celebración oficial del Día de Pi en 1988 en el Exploratorium.",
+          "en": "In 1988, Larry Shaw organized the earliest known official Pi Day celebration at the Exploratorium."
+        },
+        "source": "https://en.wikipedia.org/wiki/Pi_Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Larry Shaw organizó la primera celebración oficial del Día de Pi en 1988 en el Exploratorium.",
+            "en": "In 1988, Larry Shaw organized the earliest known official Pi Day celebration at the Exploratorium."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pi_Day"
+        },
+        {
+          "text": {
+            "es": "La UNESCO proclamó el Día de Pi como el Día Internacional de las Matemáticas en noviembre de 2019.",
+            "en": "UNESCO designated Pi Day as the International Day of Mathematics in November 2019."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pi_Day"
+        },
+        {
+          "text": {
+            "es": "La Cámara de Representantes de EE. UU. reconoció formalmente el 14 de marzo de 2009 como Día de Pi.",
+            "en": "The U.S. House of Representatives recognized March 14, 2009, as National Pi Day."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pi_Day"
+        }
+      ]
     },
     {
       "id": "easter-2027",
@@ -2586,6 +3288,88 @@
         "semana santa",
         "spring",
         "primavera"
+      ],
+      "sourceSnapshot": {
+        "id": "easter-2027",
+        "title": "Easter 2027",
+        "titles": {
+          "es": "Pascua 2027"
+        },
+        "emoji": "🐣",
+        "category": "holidays",
+        "date": "2027-03-28",
+        "startDate": "2026-04-06",
+        "accent": "#F2C94C",
+        "keywords": [
+          "easter",
+          "pascua",
+          "semana santa",
+          "spring",
+          "primavera"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 2027, la Pascua occidental se celebra el 28 de marzo y la oriental el 2 de mayo.",
+            "en": "In 2027, Western Easter falls on March 28, while Eastern Easter falls on May 2."
+          },
+          "source": "https://en.wikipedia.org/wiki/Easter"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 2027, la Pascua occidental se celebra el 28 de marzo y la oriental el 2 de mayo.",
+              "en": "In 2027, Western Easter falls on March 28, while Eastern Easter falls on May 2."
+            },
+            "source": "https://en.wikipedia.org/wiki/Easter"
+          },
+          {
+            "text": {
+              "es": "La fecha de la Pascua varía siempre entre el 22 de marzo y el 25 de abril.",
+              "en": "The date of Easter always varies between March 22 and April 25."
+            },
+            "source": "https://es.wikipedia.org/wiki/Pascua"
+          },
+          {
+            "text": {
+              "es": "En las Iglesias orientales, la Pascua varía siempre entre el 4 de abril y el 8 de mayo.",
+              "en": "In Eastern Churches, Easter always varies between April 4 and May 8."
+            },
+            "source": "https://es.wikipedia.org/wiki/Pascua"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En 2027, la Pascua occidental se celebra el 28 de marzo y la oriental el 2 de mayo.",
+          "en": "In 2027, Western Easter falls on March 28, while Eastern Easter falls on May 2."
+        },
+        "source": "https://en.wikipedia.org/wiki/Easter"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 2027, la Pascua occidental se celebra el 28 de marzo y la oriental el 2 de mayo.",
+            "en": "In 2027, Western Easter falls on March 28, while Eastern Easter falls on May 2."
+          },
+          "source": "https://en.wikipedia.org/wiki/Easter"
+        },
+        {
+          "text": {
+            "es": "La fecha de la Pascua varía siempre entre el 22 de marzo y el 25 de abril.",
+            "en": "The date of Easter always varies between March 22 and April 25."
+          },
+          "source": "https://es.wikipedia.org/wiki/Pascua"
+        },
+        {
+          "text": {
+            "es": "En las Iglesias orientales, la Pascua varía siempre entre el 4 de abril y el 8 de mayo.",
+            "en": "In Eastern Churches, Easter always varies between April 4 and May 8."
+          },
+          "source": "https://es.wikipedia.org/wiki/Pascua"
+        }
       ]
     },
     {
@@ -52269,6 +53053,14 @@
       "version": 58,
       "target": "cricket-world-cup-2027,asian-games-2026,ryder-cup-2027,wimbledon-2027,oktoberfest-2026,halloween-2026,dia-de-muertos-2026,diwali-2026,gta-vi,thanksgiving-2026",
       "at": "2026-09-17T18:39:04.945452+00:00"
+    },
+    "plantel-datos-lote-03-20260917-1240": {
+      "operationID": "plantel-datos-lote-03-20260917-1240",
+      "digest": "adf324acc88efe66726ee68375550f746ce83a50d5218313f09f2977f4ab5b46",
+      "status": "applied",
+      "version": 59,
+      "target": "black-friday-2026,hanukkah-2026,avengers-doomsday,christmas-2026,new-year-2027,lunar-new-year-2027,ramadan-2027,valentines-2027,pi-day-2027,easter-2027",
+      "at": "2026-09-17T18:40:53.695412+00:00"
     }
   }
 }
