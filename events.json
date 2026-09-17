@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -377,7 +377,98 @@
       "timeZone": "America/New_York",
       "featured": true,
       "backdrop": "nfl",
-      "symbol": "football.fill"
+      "symbol": "football.fill",
+      "sourceSnapshot": {
+        "id": "nfl-kickoff-2026",
+        "title": "NFL Kickoff 2026",
+        "titles": {
+          "es": "Inicio de temporada NFL 2026"
+        },
+        "subtitle": "Season opener",
+        "subtitles": {
+          "es": "Primer partido de la temporada"
+        },
+        "emoji": "🏈",
+        "category": "sports",
+        "date": "2026-09-10",
+        "startDate": "2026-02-08",
+        "accent": "#2F80ED",
+        "keywords": [
+          "nfl",
+          "kickoff",
+          "football",
+          "temporada",
+          "season"
+        ],
+        "time": "20:20",
+        "timeZone": "America/New_York",
+        "featured": true,
+        "backdrop": "nfl",
+        "symbol": "football.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La temporada regular de 2026 de la NFL comenzó el 9 de septiembre de 2026.",
+            "en": "The 2026 NFL regular season began on September 9, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La temporada regular de 2026 de la NFL comenzó el 9 de septiembre de 2026.",
+              "en": "The 2026 NFL regular season began on September 9, 2026."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+          },
+          {
+            "text": {
+              "es": "Seattle venció a New England en el NFL Kickoff Game de la temporada 2026.",
+              "en": "Seattle defeated New England in the 2026 season's NFL Kickoff Game."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+          },
+          {
+            "text": {
+              "es": "La temporada de 2026 representa la edición número 107 de la NFL.",
+              "en": "The 2026 season is the 107th season of the NFL."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La temporada regular de 2026 de la NFL comenzó el 9 de septiembre de 2026.",
+          "en": "The 2026 NFL regular season began on September 9, 2026."
+        },
+        "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La temporada regular de 2026 de la NFL comenzó el 9 de septiembre de 2026.",
+            "en": "The 2026 NFL regular season began on September 9, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+        },
+        {
+          "text": {
+            "es": "Seattle venció a New England en el NFL Kickoff Game de la temporada 2026.",
+            "en": "Seattle defeated New England in the 2026 season's NFL Kickoff Game."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+        },
+        {
+          "text": {
+            "es": "La temporada de 2026 representa la edición número 107 de la NFL.",
+            "en": "The 2026 season is the 107th season of the NFL."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
+        }
+      ]
     },
     {
       "id": "olympics-la-2028",
@@ -4507,7 +4598,101 @@
         "fiestas patrias",
         "viva mexico"
       ],
-      "featured": true
+      "featured": true,
+      "sourceSnapshot": {
+        "id": "grito-independencia-2026",
+        "title": "Grito de Independencia",
+        "titles": {
+          "es": "Grito de Independencia"
+        },
+        "subtitle": "Mexico · September 15",
+        "subtitles": {
+          "es": "México · 15 de septiembre"
+        },
+        "emoji": "🇲🇽",
+        "category": "holidays",
+        "date": "2026-09-15",
+        "time": "23:00",
+        "timeZone": "America/Mexico_City",
+        "startDate": "2025-09-16",
+        "accent": "#27AE60",
+        "regions": [
+          "MX"
+        ],
+        "repeatsYearly": true,
+        "keywords": [
+          "grito",
+          "independencia",
+          "mexico",
+          "16 de septiembre",
+          "fiestas patrias",
+          "viva mexico"
+        ],
+        "featured": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La fecha del 16 de septiembre se celebró por primera vez en 1812 en Huichapan, Hidalgo.",
+            "en": "The day of September 16 was first celebrated in 1812 in Huichapan, Hidalgo."
+          },
+          "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La fecha del 16 de septiembre se celebró por primera vez en 1812 en Huichapan, Hidalgo.",
+              "en": "The day of September 16 was first celebrated in 1812 in Huichapan, Hidalgo."
+            },
+            "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+          },
+          {
+            "text": {
+              "es": "El 16 de septiembre se celebró a nivel nacional por primera vez en México en 1825.",
+              "en": "September 16 was first celebrated nationally in Mexico in 1825."
+            },
+            "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+          },
+          {
+            "text": {
+              "es": "El presidente de México recrea el grito haciendo sonar la misma campana que usó Hidalgo en 1810.",
+              "en": "Mexico's president re-enacts the cry ringing the same bell Miguel Hidalgo used in 1810."
+            },
+            "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La fecha del 16 de septiembre se celebró por primera vez en 1812 en Huichapan, Hidalgo.",
+          "en": "The day of September 16 was first celebrated in 1812 in Huichapan, Hidalgo."
+        },
+        "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La fecha del 16 de septiembre se celebró por primera vez en 1812 en Huichapan, Hidalgo.",
+            "en": "The day of September 16 was first celebrated in 1812 in Huichapan, Hidalgo."
+          },
+          "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+        },
+        {
+          "text": {
+            "es": "El 16 de septiembre se celebró a nivel nacional por primera vez en México en 1825.",
+            "en": "September 16 was first celebrated nationally in Mexico in 1825."
+          },
+          "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+        },
+        {
+          "text": {
+            "es": "El presidente de México recrea el grito haciendo sonar la misma campana que usó Hidalgo en 1810.",
+            "en": "Mexico's president re-enacts the cry ringing the same bell Miguel Hidalgo used in 1810."
+          },
+          "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
+        }
+      ]
     },
     {
       "id": "guadalupe-reyes-2026",
@@ -51015,7 +51200,96 @@
       },
       "accent": "#F2C94C",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "marvels-wolverine",
+        "title": "Marvel's Wolverine",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-09-15",
+        "url": "https://www.playstation.com/en-us/games/marvels-wolverine/",
+        "keywords": [
+          "marvel",
+          "wolverine",
+          "insomniac",
+          "ps5",
+          "playstation",
+          "videojuego",
+          "videogame",
+          "gaming"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "PS5 · Release",
+          "es": "PS5 · Lanzamiento"
+        },
+        "accent": "#F2C94C",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Marvel's Wolverine tiene como fecha de estreno el 15 de septiembre de 2026 en PlayStation 5.",
+            "en": "Marvel's Wolverine launches on PlayStation 5 consoles on September 15, 2026."
+          },
+          "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Marvel's Wolverine tiene como fecha de estreno el 15 de septiembre de 2026 en PlayStation 5.",
+              "en": "Marvel's Wolverine launches on PlayStation 5 consoles on September 15, 2026."
+            },
+            "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+          },
+          {
+            "text": {
+              "es": "El actor Liam McIntyre interpreta el papel de James Logan Howlett en Marvel's Wolverine.",
+              "en": "Actor Liam McIntyre plays James Logan Howlett in Marvel's Wolverine."
+            },
+            "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+          },
+          {
+            "text": {
+              "es": "Marcus Smith es el director creativo y Mike Daly el director del juego de Marvel's Wolverine.",
+              "en": "Marcus Smith is creative director and Mike Daly is game director for Marvel's Wolverine."
+            },
+            "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Marvel's Wolverine tiene como fecha de estreno el 15 de septiembre de 2026 en PlayStation 5.",
+          "en": "Marvel's Wolverine launches on PlayStation 5 consoles on September 15, 2026."
+        },
+        "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Marvel's Wolverine tiene como fecha de estreno el 15 de septiembre de 2026 en PlayStation 5.",
+            "en": "Marvel's Wolverine launches on PlayStation 5 consoles on September 15, 2026."
+          },
+          "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+        },
+        {
+          "text": {
+            "es": "El actor Liam McIntyre interpreta el papel de James Logan Howlett en Marvel's Wolverine.",
+            "en": "Actor Liam McIntyre plays James Logan Howlett in Marvel's Wolverine."
+          },
+          "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+        },
+        {
+          "text": {
+            "es": "Marcus Smith es el director creativo y Mike Daly el director del juego de Marvel's Wolverine.",
+            "en": "Marcus Smith is creative director and Mike Daly is game director for Marvel's Wolverine."
+          },
+          "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
+        }
+      ]
     },
     {
       "id": "tokyo-game-show-2026",
@@ -52366,7 +52640,105 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "independence-day-us-2026",
+        "title": "Independence Day",
+        "emoji": "🎆",
+        "category": "holidays",
+        "date": "2026-07-04",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "independence",
+          "day",
+          "independence day",
+          "4th of july",
+          "fourth of july",
+          "july 4",
+          "fireworks",
+          "4 de julio"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · July 4",
+        "titles": {
+          "es": "Día de la Independencia de EE. UU."
+        },
+        "subtitles": {
+          "es": "Estados Unidos · 4 de julio"
+        },
+        "accent": "#2F80ED",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En el calendario federal de 2026, el Día de la Independencia figura el viernes 3 de julio.",
+            "en": "In the 2026 federal schedule, Independence Day is listed for Friday, July 3."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En el calendario federal de 2026, el Día de la Independencia figura el viernes 3 de julio.",
+              "en": "In the 2026 federal schedule, Independence Day is listed for Friday, July 3."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+              "en": "Federal law (5 U.S.C. 6103) establishes the public holidays for federal employees."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "Calvin Coolidge fue el único mandatario estadounidense nacido un 4 de julio.",
+              "en": "Calvin Coolidge was the only U.S. president born on Independence Day."
+            },
+            "source": "https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "En el calendario federal de 2026, el Día de la Independencia figura el viernes 3 de julio.",
+          "en": "In the 2026 federal schedule, Independence Day is listed for Friday, July 3."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En el calendario federal de 2026, el Día de la Independencia figura el viernes 3 de julio.",
+            "en": "In the 2026 federal schedule, Independence Day is listed for Friday, July 3."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+            "en": "Federal law (5 U.S.C. 6103) establishes the public holidays for federal employees."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "Calvin Coolidge fue el único mandatario estadounidense nacido un 4 de julio.",
+            "en": "Calvin Coolidge was the only U.S. president born on Independence Day."
+          },
+          "source": "https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29"
+        }
+      ]
     },
     {
       "id": "memorial-day-2026",
@@ -52405,7 +52777,108 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "memorial-day-2026",
+        "title": "Memorial Day",
+        "emoji": "🇺🇸",
+        "category": "holidays",
+        "date": "2026-05-25",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "memorial",
+          "day",
+          "memorial day",
+          "last monday of may",
+          "veterans",
+          "mayo"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · last Monday of May",
+        "titles": {
+          "es": "Memorial Day"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · último lunes de mayo"
+        },
+        "accent": "#173A5E",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "lastWeekday",
+          "month": 5,
+          "weekday": 2
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para los empleados federales de EE. UU.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para los empleados federales de EE. UU.",
+              "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "En el calendario federal estadounidense de 2026, el Memorial Day se programó para el 25 de mayo.",
+              "en": "In the 2026 federal schedule, Memorial Day was designated for Monday, May 25."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "La primera conmemoración nacional del Memorial Day se celebró el 30 de mayo de 1868.",
+              "en": "The first national observance of what would become Memorial Day occurred on May 30, 1868."
+            },
+            "source": "https://en.wikipedia.org/wiki/Memorial_Day"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para los empleados federales de EE. UU.",
+          "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para los empleados federales de EE. UU.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "En el calendario federal estadounidense de 2026, el Memorial Day se programó para el 25 de mayo.",
+            "en": "In the 2026 federal schedule, Memorial Day was designated for Monday, May 25."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "La primera conmemoración nacional del Memorial Day se celebró el 30 de mayo de 1868.",
+            "en": "The first national observance of what would become Memorial Day occurred on May 30, 1868."
+          },
+          "source": "https://en.wikipedia.org/wiki/Memorial_Day"
+        }
+      ]
     },
     {
       "id": "labor-day-us-2026",
@@ -52445,7 +52918,109 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "labor-day-us-2026",
+        "title": "Labor Day",
+        "emoji": "🛠️",
+        "category": "holidays",
+        "date": "2026-09-07",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "labor",
+          "day",
+          "labor day",
+          "first monday of september",
+          "september",
+          "dia del trabajo"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · first Monday of September",
+        "titles": {
+          "es": "Labor Day"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · primer lunes de septiembre"
+        },
+        "accent": "#C0672B",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 9,
+          "ordinal": 1,
+          "weekday": 2
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 2026, el Día del Trabajo se celebrará el lunes 7 de septiembre.",
+            "en": "In 2026, Labor Day will be celebrated on Monday, September 7."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 2026, el Día del Trabajo se celebrará el lunes 7 de septiembre.",
+              "en": "In 2026, Labor Day will be celebrated on Monday, September 7."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "La ley 5 U.S.C. 6103 fija los feriados oficiales para los empleados federales de Estados Unidos.",
+              "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "El presidente Grover Cleveland promulgó la ley federal del Día del Trabajo el 28 de junio de 1894.",
+              "en": "President Grover Cleveland signed the Labor Day bill into federal law on June 28, 1894."
+            },
+            "source": "https://en.wikipedia.org/wiki/Labor_Day"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "En 2026, el Día del Trabajo se celebrará el lunes 7 de septiembre.",
+          "en": "In 2026, Labor Day will be celebrated on Monday, September 7."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 2026, el Día del Trabajo se celebrará el lunes 7 de septiembre.",
+            "en": "In 2026, Labor Day will be celebrated on Monday, September 7."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "La ley 5 U.S.C. 6103 fija los feriados oficiales para los empleados federales de Estados Unidos.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "El presidente Grover Cleveland promulgó la ley federal del Día del Trabajo el 28 de junio de 1894.",
+            "en": "President Grover Cleveland signed the Labor Day bill into federal law on June 28, 1894."
+          },
+          "source": "https://en.wikipedia.org/wiki/Labor_Day"
+        }
+      ]
     },
     {
       "id": "juneteenth-2027",
@@ -53506,20 +54081,106 @@
       "origin": "telegram",
       "subcategory": "launches",
       "estimated": true,
-      "fact": {
-        "text": {
-          "es": "El primer prototipo del Tesla Roadster fue presentado originalmente en 2017.",
-          "en": "The original Tesla Roadster concept was first revealed back in 2017."
-        },
-        "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
-      },
       "dateConfirmedAt": "2026-09-16",
       "dateConfirmed": true,
       "news": {
         "introducedInVersion": 50,
         "publishedAt": "2026-09-16T06:16:53Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "tesla-roadster-2026",
+        "title": "Tesla Roadster",
+        "emoji": "🚀",
+        "category": "entertainment",
+        "date": "2026-10-01",
+        "url": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/",
+        "keywords": [
+          "tesla",
+          "roadster",
+          "launch",
+          "electric vehicle"
+        ],
+        "origin": "telegram",
+        "subcategory": "launches",
+        "estimated": true,
+        "fact": {
+          "text": {
+            "es": "El primer prototipo del Tesla Roadster fue presentado originalmente en 2017.",
+            "en": "The original Tesla Roadster concept was first revealed back in 2017."
+          },
+          "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+        },
+        "dateConfirmedAt": "2026-09-16",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 50,
+          "publishedAt": "2026-09-16T06:16:53Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El concepto del Tesla Roadster se presentó por primera vez en el año 2017.",
+            "en": "The Tesla Roadster concept was first revealed back in 2017."
+          },
+          "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El concepto del Tesla Roadster se presentó por primera vez en el año 2017.",
+              "en": "The Tesla Roadster concept was first revealed back in 2017."
+            },
+            "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+          },
+          {
+            "text": {
+              "es": "El concepto original prometía una autonomía de 620 millas.",
+              "en": "The original concept was promised with a 620-mile range."
+            },
+            "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+          },
+          {
+            "text": {
+              "es": "Elon Musk fijó el debut mundial del Roadster de segunda generación para el 1 de octubre de 2026.",
+              "en": "Elon Musk set the second-generation Roadster's world debut for October 1, 2026."
+            },
+            "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El concepto del Tesla Roadster se presentó por primera vez en el año 2017.",
+          "en": "The Tesla Roadster concept was first revealed back in 2017."
+        },
+        "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El concepto del Tesla Roadster se presentó por primera vez en el año 2017.",
+            "en": "The Tesla Roadster concept was first revealed back in 2017."
+          },
+          "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+        },
+        {
+          "text": {
+            "es": "El concepto original prometía una autonomía de 620 millas.",
+            "en": "The original concept was promised with a 620-mile range."
+          },
+          "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+        },
+        {
+          "text": {
+            "es": "Elon Musk fijó el debut mundial del Roadster de segunda generación para el 1 de octubre de 2026.",
+            "en": "Elon Musk set the second-generation Roadster's world debut for October 1, 2026."
+          },
+          "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
+        }
+      ]
     },
     {
       "id": "xbox-tokyo-game-show-broadcast-2026",
@@ -53545,7 +54206,95 @@
         "introducedInVersion": 53,
         "publishedAt": "2026-09-16T16:28:28Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "xbox-tokyo-game-show-broadcast-2026",
+        "title": "XBOX Tokyo Game Show Broadcast",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-09-17",
+        "url": "https://m.youtube.com/watch?v=HgHyml7zeXs",
+        "keywords": [
+          "xbox",
+          "tokyo",
+          "game",
+          "show",
+          "broadcast",
+          "tokyo game show",
+          "gaming"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "time": "19:00",
+        "timeZone": "Asia/Tokyo",
+        "news": {
+          "introducedInVersion": 53,
+          "publishedAt": "2026-09-16T16:28:28Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La edición de 2026 celebró el 30.º aniversario del evento con 1138 expositores de 53 países.",
+            "en": "The 2026 edition marked the 30th anniversary with 1,138 exhibitors from 53 countries."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La edición de 2026 celebró el 30.º aniversario del evento con 1138 expositores de 53 países.",
+              "en": "The 2026 edition marked the 30th anniversary with 1,138 exhibitors from 53 countries."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
+          },
+          {
+            "text": {
+              "es": "La sede del Tokyo Game Show es el centro de convenciones Makuhari Messe en Chiba, Japón.",
+              "en": "Tokyo Game Show takes place at the Makuhari Messe convention center in Chiba, Japan."
+            },
+            "source": "https://es.wikipedia.org/wiki/Tokyo_Game_Show"
+          },
+          {
+            "text": {
+              "es": "Hasta el año 2002, la convención se organizaba dos veces al año, en primavera y en otoño.",
+              "en": "Until 2002, the convention was held twice a year, once in spring and once in autumn."
+            },
+            "source": "https://es.wikipedia.org/wiki/Tokyo_Game_Show"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La edición de 2026 celebró el 30.º aniversario del evento con 1138 expositores de 53 países.",
+          "en": "The 2026 edition marked the 30th anniversary with 1,138 exhibitors from 53 countries."
+        },
+        "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La edición de 2026 celebró el 30.º aniversario del evento con 1138 expositores de 53 países.",
+            "en": "The 2026 edition marked the 30th anniversary with 1,138 exhibitors from 53 countries."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
+        },
+        {
+          "text": {
+            "es": "La sede del Tokyo Game Show es el centro de convenciones Makuhari Messe en Chiba, Japón.",
+            "en": "Tokyo Game Show takes place at the Makuhari Messe convention center in Chiba, Japan."
+          },
+          "source": "https://es.wikipedia.org/wiki/Tokyo_Game_Show"
+        },
+        {
+          "text": {
+            "es": "Hasta el año 2002, la convención se organizaba dos veces al año, en primavera y en otoño.",
+            "en": "Until 2002, the convention was held twice a year, once in spring and once in autumn."
+          },
+          "source": "https://es.wikipedia.org/wiki/Tokyo_Game_Show"
+        }
+      ]
     }
   ],
   "teams": [
@@ -55642,6 +56391,14 @@
       "version": 62,
       "target": "mwc-2027,nvidia-gtc-2027,computex-2027,juneteenth-2027,veterans-day-2026,mlk-day-2027,presidents-day-2027,mothers-day-us-2027,fathers-day-us-2027,columbus-day-2026",
       "at": "2026-09-17T18:54:24.906311+00:00"
+    },
+    "plantel-datos-lote-07-20260917-1255": {
+      "operationID": "plantel-datos-lote-07-20260917-1255",
+      "digest": "ec73c14d212d52f475482fe73ddef4ef72ef9454561ceef8d4f9c55c23610f22",
+      "status": "applied",
+      "version": 63,
+      "target": "tesla-roadster-2026,xbox-tokyo-game-show-broadcast-2026,nfl-kickoff-2026,grito-independencia-2026,marvels-wolverine,independence-day-us-2026,memorial-day-2026,labor-day-us-2026",
+      "at": "2026-09-17T18:58:25.166128+00:00"
     }
   }
 }
