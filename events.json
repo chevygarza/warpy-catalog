@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -51468,7 +51468,68 @@
         "dateConfirmedAt": "2026-09-13",
         "dateConfirmed": true
       },
-      "override": {}
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La Liga MX regresó a la saga de EA Sports FC tras aparecer por última vez en FIFA 22.",
+            "en": "Liga MX returned to an EA football title for the first time since FIFA 22."
+          },
+          "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La Liga MX regresó a la saga de EA Sports FC tras aparecer por última vez en FIFA 22.",
+              "en": "Liga MX returned to an EA football title for the first time since FIFA 22."
+            },
+            "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+          },
+          {
+            "text": {
+              "es": "El modo The Grounds se divide en tres distritos: Montclair, Zeiza y Parkside.",
+              "en": "The Grounds mode is divided into three districts: Montclair, Zeiza, and Parkside."
+            },
+            "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+          },
+          {
+            "text": {
+              "es": "El estadio del Legia de Varsovia, el Estadio del Ejército Polaco, debuta en la saga.",
+              "en": "The Polish Army Stadium, home of Legia Warsaw, makes its debut in the series."
+            },
+            "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La Liga MX regresó a la saga de EA Sports FC tras aparecer por última vez en FIFA 22.",
+          "en": "Liga MX returned to an EA football title for the first time since FIFA 22."
+        },
+        "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La Liga MX regresó a la saga de EA Sports FC tras aparecer por última vez en FIFA 22.",
+            "en": "Liga MX returned to an EA football title for the first time since FIFA 22."
+          },
+          "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+        },
+        {
+          "text": {
+            "es": "El modo The Grounds se divide en tres distritos: Montclair, Zeiza y Parkside.",
+            "en": "The Grounds mode is divided into three districts: Montclair, Zeiza, and Parkside."
+          },
+          "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+        },
+        {
+          "text": {
+            "es": "El estadio del Legia de Varsovia, el Estadio del Ejército Polaco, debuta en la saga.",
+            "en": "The Polish Army Stadium, home of Legia Warsaw, makes its debut in the series."
+          },
+          "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
+        }
+      ]
     },
     {
       "id": "ace-combat-8",
@@ -56407,6 +56468,14 @@
       "version": 64,
       "target": "ea-sports-fc-27",
       "at": "2026-09-17T19:01:17.580065+00:00"
+    },
+    "plantel-datos-lote-09-20260917-1303": {
+      "operationID": "plantel-datos-lote-09-20260917-1303",
+      "digest": "3e99f009f932e6acbbde5278c77813425f9233ab5befc26b61bfc9266c4acb28",
+      "status": "applied",
+      "version": 65,
+      "target": "ea-sports-fc-27",
+      "at": "2026-09-17T19:07:25.111614+00:00"
     }
   }
 }
