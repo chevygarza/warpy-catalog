@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -51967,7 +51967,93 @@
         "es": "Fira Gran Via, Barcelona"
       },
       "endDate": "2027-03-04",
-      "accent": "#2F80ED"
+      "accent": "#2F80ED",
+      "sourceSnapshot": {
+        "id": "mwc-2027",
+        "title": "MWC Barcelona 2027",
+        "emoji": "📡",
+        "category": "tech",
+        "date": "2027-03-01",
+        "url": "https://www.mwcbarcelona.com/about",
+        "keywords": [
+          "mwc",
+          "barcelona",
+          "2027",
+          "mobile world congress",
+          "celulares",
+          "moviles",
+          "5g"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "Fira Gran Via, Barcelona",
+          "es": "Fira Gran Via, Barcelona"
+        },
+        "endDate": "2027-03-04",
+        "accent": "#2F80ED"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El MWC Barcelona 2027 se llevará a cabo del 1 al 4 de marzo de 2027.",
+            "en": "MWC Barcelona 2027 will take place from 1 to 4 March 2027."
+          },
+          "source": "https://www.mwcbarcelona.com/about"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El MWC Barcelona 2027 se llevará a cabo del 1 al 4 de marzo de 2027.",
+              "en": "MWC Barcelona 2027 will take place from 1 to 4 March 2027."
+            },
+            "source": "https://www.mwcbarcelona.com/about"
+          },
+          {
+            "text": {
+              "es": "La sede del evento en 2027 será el recinto Fira Gran Via.",
+              "en": "The venue for the 2027 event will be Fira Gran Via."
+            },
+            "source": "https://www.mwcbarcelona.com/about"
+          },
+          {
+            "text": {
+              "es": "La sede Fira Gran Via se ubica en la avenida Joan Carles I, 64, en L'Hospitalet de Llobregat.",
+              "en": "The Fira Gran Via venue is located at Av. Joan Carles I, 64, in L'Hospitalet de Llobregat."
+            },
+            "source": "https://www.mwcbarcelona.com/about"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El MWC Barcelona 2027 se llevará a cabo del 1 al 4 de marzo de 2027.",
+          "en": "MWC Barcelona 2027 will take place from 1 to 4 March 2027."
+        },
+        "source": "https://www.mwcbarcelona.com/about"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El MWC Barcelona 2027 se llevará a cabo del 1 al 4 de marzo de 2027.",
+            "en": "MWC Barcelona 2027 will take place from 1 to 4 March 2027."
+          },
+          "source": "https://www.mwcbarcelona.com/about"
+        },
+        {
+          "text": {
+            "es": "La sede del evento en 2027 será el recinto Fira Gran Via.",
+            "en": "The venue for the 2027 event will be Fira Gran Via."
+          },
+          "source": "https://www.mwcbarcelona.com/about"
+        },
+        {
+          "text": {
+            "es": "La sede Fira Gran Via se ubica en la avenida Joan Carles I, 64, en L'Hospitalet de Llobregat.",
+            "en": "The Fira Gran Via venue is located at Av. Joan Carles I, 64, in L'Hospitalet de Llobregat."
+          },
+          "source": "https://www.mwcbarcelona.com/about"
+        }
+      ]
     },
     {
       "id": "nvidia-gtc-2027",
@@ -51994,7 +52080,96 @@
       "endDate": "2027-03-18",
       "accent": "#76B900",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "nvidia-gtc-2027",
+        "title": "NVIDIA GTC 2027",
+        "emoji": "🤖",
+        "category": "tech",
+        "date": "2027-03-15",
+        "url": "https://www.nvidia.com/gtc/",
+        "keywords": [
+          "nvidia",
+          "gtc",
+          "2027",
+          "jensen",
+          "ia",
+          "ai",
+          "gpu",
+          "chips"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "San Jose, California",
+          "es": "San José, California"
+        },
+        "endDate": "2027-03-18",
+        "accent": "#76B900",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La conferencia de inteligencia artificial NVIDIA GTC 2027 regresa a San José del 15 al 18 de marzo.",
+            "en": "The NVIDIA GTC 2027 AI conference returns to San Jose from March 15 to 18."
+          },
+          "source": "https://www.nvidia.com/gtc/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La conferencia de inteligencia artificial NVIDIA GTC 2027 regresa a San José del 15 al 18 de marzo.",
+              "en": "The NVIDIA GTC 2027 AI conference returns to San Jose from March 15 to 18."
+            },
+            "source": "https://www.nvidia.com/gtc/"
+          },
+          {
+            "text": {
+              "es": "NVIDIA GTC 2027 incluye la IA agentica como uno de sus temas clave.",
+              "en": "NVIDIA GTC 2027 includes Agentic AI as one of its key themes."
+            },
+            "source": "https://www.nvidia.com/gtc/"
+          },
+          {
+            "text": {
+              "es": "La ciberseguridad y la seguridad en IA figuran entre los temas principales de GTC 2027.",
+              "en": "Cybersecurity and AI Safety are among the key themes at GTC 2027."
+            },
+            "source": "https://www.nvidia.com/gtc/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La conferencia de inteligencia artificial NVIDIA GTC 2027 regresa a San José del 15 al 18 de marzo.",
+          "en": "The NVIDIA GTC 2027 AI conference returns to San Jose from March 15 to 18."
+        },
+        "source": "https://www.nvidia.com/gtc/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La conferencia de inteligencia artificial NVIDIA GTC 2027 regresa a San José del 15 al 18 de marzo.",
+            "en": "The NVIDIA GTC 2027 AI conference returns to San Jose from March 15 to 18."
+          },
+          "source": "https://www.nvidia.com/gtc/"
+        },
+        {
+          "text": {
+            "es": "NVIDIA GTC 2027 incluye la IA agentica como uno de sus temas clave.",
+            "en": "NVIDIA GTC 2027 includes Agentic AI as one of its key themes."
+          },
+          "source": "https://www.nvidia.com/gtc/"
+        },
+        {
+          "text": {
+            "es": "La ciberseguridad y la seguridad en IA figuran entre los temas principales de GTC 2027.",
+            "en": "Cybersecurity and AI Safety are among the key themes at GTC 2027."
+          },
+          "source": "https://www.nvidia.com/gtc/"
+        }
+      ]
     },
     {
       "id": "computex-2027",
@@ -52019,7 +52194,94 @@
         "es": "Taipei Nangang Exhibition Center"
       },
       "endDate": "2027-06-04",
-      "accent": "#C0672B"
+      "accent": "#C0672B",
+      "sourceSnapshot": {
+        "id": "computex-2027",
+        "title": "Computex 2027",
+        "emoji": "🖥️",
+        "category": "tech",
+        "date": "2027-06-01",
+        "url": "https://www.computextaipei.com.tw/en/index.html",
+        "keywords": [
+          "computex",
+          "2027",
+          "taipei",
+          "taiwan",
+          "pc",
+          "hardware",
+          "gpu",
+          "chips"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "Taipei Nangang Exhibition Center",
+          "es": "Taipei Nangang Exhibition Center"
+        },
+        "endDate": "2027-06-04",
+        "accent": "#C0672B"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Computex 2027 se celebrará del 1 al 4 de junio de 2027.",
+            "en": "Computex 2027 will take place from June 1 to June 4, 2027."
+          },
+          "source": "https://www.computextaipei.com.tw/en/index.html"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Computex 2027 se celebrará del 1 al 4 de junio de 2027.",
+              "en": "Computex 2027 will take place from June 1 to June 4, 2027."
+            },
+            "source": "https://www.computextaipei.com.tw/en/index.html"
+          },
+          {
+            "text": {
+              "es": "TaiNEX 1 será una de las sedes designadas para Computex 2027.",
+              "en": "TaiNEX 1 will be one of the designated venues for Computex 2027."
+            },
+            "source": "https://www.computextaipei.com.tw/en/index.html"
+          },
+          {
+            "text": {
+              "es": "Computex 2027 utilizará el Taipei Nangang Exhibition Center, Hall 2.",
+              "en": "Computex 2027 will use the Taipei Nangang Exhibition Center, Hall 2."
+            },
+            "source": "https://www.computextaipei.com.tw/en/index.html"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Computex 2027 se celebrará del 1 al 4 de junio de 2027.",
+          "en": "Computex 2027 will take place from June 1 to June 4, 2027."
+        },
+        "source": "https://www.computextaipei.com.tw/en/index.html"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Computex 2027 se celebrará del 1 al 4 de junio de 2027.",
+            "en": "Computex 2027 will take place from June 1 to June 4, 2027."
+          },
+          "source": "https://www.computextaipei.com.tw/en/index.html"
+        },
+        {
+          "text": {
+            "es": "TaiNEX 1 será una de las sedes designadas para Computex 2027.",
+            "en": "TaiNEX 1 will be one of the designated venues for Computex 2027."
+          },
+          "source": "https://www.computextaipei.com.tw/en/index.html"
+        },
+        {
+          "text": {
+            "es": "Computex 2027 utilizará el Taipei Nangang Exhibition Center, Hall 2.",
+            "en": "Computex 2027 will use the Taipei Nangang Exhibition Center, Hall 2."
+          },
+          "source": "https://www.computextaipei.com.tw/en/index.html"
+        }
+      ]
     },
     {
       "id": "pokemon-30th-celebration-set-2026",
@@ -52215,7 +52477,101 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "juneteenth-2027",
+        "title": "Juneteenth",
+        "emoji": "✊",
+        "category": "holidays",
+        "date": "2027-06-19",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "juneteenth",
+          "june 19",
+          "freedom day",
+          "emancipation"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · June 19",
+        "titles": {
+          "es": "Juneteenth"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · 19 de junio"
+        },
+        "accent": "#9B51E0",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+            "en": "Federal law 5 U.S.C. 6103 establishes the public holidays listed for Federal employees in the US."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+              "en": "Federal law 5 U.S.C. 6103 establishes the public holidays listed for Federal employees in the US."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "El nombre oficial del feriado federal del 19 de junio es Juneteenth National Independence Day.",
+              "en": "The official name of the federal holiday on June 19 is Juneteenth National Independence Day."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "Si un feriado cae en sábado, los empleados que trabajan de lunes a viernes lo observan en viernes.",
+              "en": "If a holiday falls on Saturday, Monday-through-Friday workers usually observe it on Friday."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+          "en": "Federal law 5 U.S.C. 6103 establishes the public holidays listed for Federal employees in the US."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en EE. UU.",
+            "en": "Federal law 5 U.S.C. 6103 establishes the public holidays listed for Federal employees in the US."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "El nombre oficial del feriado federal del 19 de junio es Juneteenth National Independence Day.",
+            "en": "The official name of the federal holiday on June 19 is Juneteenth National Independence Day."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "Si un feriado cae en sábado, los empleados que trabajan de lunes a viernes lo observan en viernes.",
+            "en": "If a holiday falls on Saturday, Monday-through-Friday workers usually observe it on Friday."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        }
+      ]
     },
     {
       "id": "veterans-day-2026",
@@ -52248,7 +52604,102 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "veterans-day-2026",
+        "title": "Veterans Day",
+        "emoji": "🎖️",
+        "category": "holidays",
+        "date": "2026-11-11",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "veterans",
+          "day",
+          "veterans day",
+          "november 11",
+          "11 de noviembre"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · November 11",
+        "titles": {
+          "es": "Día de los Veteranos"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · 11 de noviembre"
+        },
+        "accent": "#173A5E",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Día de los Veteranos de 2026 en Estados Unidos se conmemorará un miércoles 11 de noviembre.",
+            "en": "Veterans Day in the United States will be celebrated on Wednesday, November 11, 2026."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Día de los Veteranos de 2026 en Estados Unidos se conmemorará un miércoles 11 de noviembre.",
+              "en": "Veterans Day in the United States will be celebrated on Wednesday, November 11, 2026."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "El Congreso de Estados Unidos cambió el nombre de Armisticio a Veteranos el 1 de junio de 1954.",
+              "en": "The US Congress changed the name from Armistice to Veterans on June 1, 1954."
+            },
+            "source": "https://en.wikipedia.org/wiki/Veterans_Day"
+          },
+          {
+            "text": {
+              "es": "Entre 1971 y 1977, el Día de los Veteranos se celebró el cuarto lunes de octubre.",
+              "en": "Between 1971 and 1977, Veterans Day was celebrated on the fourth Monday of October."
+            },
+            "source": "https://en.wikipedia.org/wiki/Veterans_Day"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El Día de los Veteranos de 2026 en Estados Unidos se conmemorará un miércoles 11 de noviembre.",
+          "en": "Veterans Day in the United States will be celebrated on Wednesday, November 11, 2026."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Día de los Veteranos de 2026 en Estados Unidos se conmemorará un miércoles 11 de noviembre.",
+            "en": "Veterans Day in the United States will be celebrated on Wednesday, November 11, 2026."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "El Congreso de Estados Unidos cambió el nombre de Armisticio a Veteranos el 1 de junio de 1954.",
+            "en": "The US Congress changed the name from Armistice to Veterans on June 1, 1954."
+          },
+          "source": "https://en.wikipedia.org/wiki/Veterans_Day"
+        },
+        {
+          "text": {
+            "es": "Entre 1971 y 1977, el Día de los Veteranos se celebró el cuarto lunes de octubre.",
+            "en": "Between 1971 and 1977, Veterans Day was celebrated on the fourth Monday of October."
+          },
+          "source": "https://en.wikipedia.org/wiki/Veterans_Day"
+        }
+      ]
     },
     {
       "id": "mlk-day-2027",
@@ -52290,7 +52741,111 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "mlk-day-2027",
+        "title": "Martin Luther King Jr. Day",
+        "emoji": "✊🏾",
+        "category": "holidays",
+        "date": "2027-01-18",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "martin",
+          "luther",
+          "king",
+          "day",
+          "mlk",
+          "martin luther king",
+          "third monday of january",
+          "january"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · third Monday of January",
+        "titles": {
+          "es": "Día de Martin Luther King Jr."
+        },
+        "subtitles": {
+          "es": "Estados Unidos · tercer lunes de enero"
+        },
+        "accent": "#27AE60",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 1,
+          "ordinal": 3,
+          "weekday": 2
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El presidente Ronald Reagan firmó la ley que creó este feriado federal el 2 de noviembre de 1983.",
+            "en": "President Ronald Reagan signed the federal holiday honoring King into law on November 2, 1983."
+          },
+          "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El presidente Ronald Reagan firmó la ley que creó este feriado federal el 2 de noviembre de 1983.",
+              "en": "President Ronald Reagan signed the federal holiday honoring King into law on November 2, 1983."
+            },
+            "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+          },
+          {
+            "text": {
+              "es": "Este feriado federal se celebró por primera vez en Estados Unidos el 20 de enero de 1986.",
+              "en": "The federal holiday was celebrated for the first time in the U.S. on January 20, 1986."
+            },
+            "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+          },
+          {
+            "text": {
+              "es": "En 1980 Stevie Wonder lanzó la canción 'Happy Birthday' para popularizar la campaña por el feriado.",
+              "en": "In 1980 Stevie Wonder released the single 'Happy Birthday' to popularize the holiday campaign."
+            },
+            "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El presidente Ronald Reagan firmó la ley que creó este feriado federal el 2 de noviembre de 1983.",
+          "en": "President Ronald Reagan signed the federal holiday honoring King into law on November 2, 1983."
+        },
+        "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El presidente Ronald Reagan firmó la ley que creó este feriado federal el 2 de noviembre de 1983.",
+            "en": "President Ronald Reagan signed the federal holiday honoring King into law on November 2, 1983."
+          },
+          "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+        },
+        {
+          "text": {
+            "es": "Este feriado federal se celebró por primera vez en Estados Unidos el 20 de enero de 1986.",
+            "en": "The federal holiday was celebrated for the first time in the U.S. on January 20, 1986."
+          },
+          "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+        },
+        {
+          "text": {
+            "es": "En 1980 Stevie Wonder lanzó la canción 'Happy Birthday' para popularizar la campaña por el feriado.",
+            "en": "In 1980 Stevie Wonder released the single 'Happy Birthday' to popularize the holiday campaign."
+          },
+          "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
+        }
+      ]
     },
     {
       "id": "presidents-day-2027",
@@ -52330,7 +52885,109 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "presidents-day-2027",
+        "title": "Presidents' Day",
+        "emoji": "🏛️",
+        "category": "holidays",
+        "date": "2027-02-15",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "presidents",
+          "day",
+          "presidents day",
+          "washington",
+          "third monday of february",
+          "february"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · third Monday of February",
+        "titles": {
+          "es": "Día de los Presidentes"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · tercer lunes de febrero"
+        },
+        "accent": "#2F80ED",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 2,
+          "ordinal": 3,
+          "weekday": 2
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La ley 5 U.S.C. 6103 fija los feriados públicos vigentes para los empleados federales.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for Federal employees."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La ley 5 U.S.C. 6103 fija los feriados públicos vigentes para los empleados federales.",
+              "en": "Federal law 5 U.S.C. 6103 establishes public holidays for Federal employees."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "El feriado está designado por ley federal estadounidense como Washington’s Birthday.",
+              "en": "The holiday is designated as Washington’s Birthday in section 6103(a) of title 5 of the U.S. Code."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "Instituciones como gobiernos locales o empresas privadas suelen usar otros nombres para el feriado.",
+              "en": "Institutions like state governments and private businesses may use other names for the holiday."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La ley 5 U.S.C. 6103 fija los feriados públicos vigentes para los empleados federales.",
+          "en": "Federal law 5 U.S.C. 6103 establishes public holidays for Federal employees."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La ley 5 U.S.C. 6103 fija los feriados públicos vigentes para los empleados federales.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for Federal employees."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "El feriado está designado por ley federal estadounidense como Washington’s Birthday.",
+            "en": "The holiday is designated as Washington’s Birthday in section 6103(a) of title 5 of the U.S. Code."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "Instituciones como gobiernos locales o empresas privadas suelen usar otros nombres para el feriado.",
+            "en": "Institutions like state governments and private businesses may use other names for the holiday."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        }
+      ]
     },
     {
       "id": "mothers-day-us-2027",
@@ -52371,7 +53028,110 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "mothers-day-us-2027",
+        "title": "Mother's Day",
+        "emoji": "💐",
+        "category": "holidays",
+        "date": "2027-05-09",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "mother",
+          "day",
+          "mothers day",
+          "second sunday of may",
+          "mom",
+          "mama",
+          "may"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · second Sunday of May",
+        "titles": {
+          "es": "Día de las Madres"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · segundo domingo de mayo"
+        },
+        "accent": "#EB5757",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 5,
+          "ordinal": 2,
+          "weekday": 1
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Día de las Madres se oficializó en Estados Unidos por proclamación de Woodrow Wilson en 1914.",
+            "en": "Mother's Day was made an official US holiday by Woodrow Wilson's proclamation in 1914."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Día de las Madres se oficializó en Estados Unidos por proclamación de Woodrow Wilson en 1914.",
+              "en": "Mother's Day was made an official US holiday by Woodrow Wilson's proclamation in 1914."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "Anna Jarvis repartió 500 claveles durante la primera celebración del Día de las Madres en 1908.",
+              "en": "Anna Jarvis delivered 500 carnations during the first Mother's Day celebration in 1908."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "En 1912, Anna Jarvis registró como marca las frases Second Sunday in May y Mother's Day.",
+              "en": "In 1912, Anna Jarvis trademarked the phrases 'Second Sunday in May' and 'Mother's Day'."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El Día de las Madres se oficializó en Estados Unidos por proclamación de Woodrow Wilson en 1914.",
+          "en": "Mother's Day was made an official US holiday by Woodrow Wilson's proclamation in 1914."
+        },
+        "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Día de las Madres se oficializó en Estados Unidos por proclamación de Woodrow Wilson en 1914.",
+            "en": "Mother's Day was made an official US holiday by Woodrow Wilson's proclamation in 1914."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "Anna Jarvis repartió 500 claveles durante la primera celebración del Día de las Madres en 1908.",
+            "en": "Anna Jarvis delivered 500 carnations during the first Mother's Day celebration in 1908."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "En 1912, Anna Jarvis registró como marca las frases Second Sunday in May y Mother's Day.",
+            "en": "In 1912, Anna Jarvis trademarked the phrases 'Second Sunday in May' and 'Mother's Day'."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
+        }
+      ]
     },
     {
       "id": "fathers-day-us-2027",
@@ -52412,7 +53172,110 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "fathers-day-us-2027",
+        "title": "Father's Day",
+        "emoji": "👔",
+        "category": "holidays",
+        "date": "2027-06-20",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "father",
+          "day",
+          "fathers day",
+          "third sunday of june",
+          "dad",
+          "papa",
+          "june"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · third Sunday of June",
+        "titles": {
+          "es": "Día del Padre"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · tercer domingo de junio"
+        },
+        "accent": "#2D9CDB",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 6,
+          "ordinal": 3,
+          "weekday": 1
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Sonora Smart Dodd propuso por primera vez el Día del Padre en Spokane, Washington, en 1909.",
+            "en": "Sonora Smart Dodd first proposed Father's Day in Spokane, Washington, in 1909."
+          },
+          "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Sonora Smart Dodd propuso por primera vez el Día del Padre en Spokane, Washington, en 1909.",
+              "en": "Sonora Smart Dodd first proposed Father's Day in Spokane, Washington, in 1909."
+            },
+            "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "La primera celebración del Día del Padre se realizó en la YMCA de Spokane el 19 de junio de 1910.",
+              "en": "Its first celebration was held at the Spokane YMCA on June 19, 1910."
+            },
+            "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "En 1966, Lyndon B. Johnson designó el tercer domingo de junio como el Día del Padre en EE. UU.",
+              "en": "In 1966, Lyndon B. Johnson designated the third Sunday in June as Father's Day."
+            },
+            "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Sonora Smart Dodd propuso por primera vez el Día del Padre en Spokane, Washington, en 1909.",
+          "en": "Sonora Smart Dodd first proposed Father's Day in Spokane, Washington, in 1909."
+        },
+        "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Sonora Smart Dodd propuso por primera vez el Día del Padre en Spokane, Washington, en 1909.",
+            "en": "Sonora Smart Dodd first proposed Father's Day in Spokane, Washington, in 1909."
+          },
+          "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "La primera celebración del Día del Padre se realizó en la YMCA de Spokane el 19 de junio de 1910.",
+            "en": "Its first celebration was held at the Spokane YMCA on June 19, 1910."
+          },
+          "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "En 1966, Lyndon B. Johnson designó el tercer domingo de junio como el Día del Padre en EE. UU.",
+            "en": "In 1966, Lyndon B. Johnson designated the third Sunday in June as Father's Day."
+          },
+          "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
+        }
+      ]
     },
     {
       "id": "columbus-day-2026",
@@ -52453,7 +53316,110 @@
         "introducedInVersion": 44,
         "publishedAt": "2026-09-15T14:10:08Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "columbus-day-2026",
+        "title": "Indigenous Peoples' Day",
+        "emoji": "🍂",
+        "category": "holidays",
+        "date": "2026-10-12",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "keywords": [
+          "indigenous",
+          "peoples",
+          "day",
+          "columbus day",
+          "indigenous peoples day",
+          "second monday of october",
+          "october"
+        ],
+        "origin": "telegram",
+        "subtitle": "United States · second Monday of October",
+        "titles": {
+          "es": "Día de los Pueblos Indígenas"
+        },
+        "subtitles": {
+          "es": "Estados Unidos · segundo lunes de octubre"
+        },
+        "accent": "#C0672B",
+        "regions": [
+          "US"
+        ],
+        "repeatsYearly": true,
+        "yearlyRule": {
+          "kind": "nthWeekday",
+          "month": 10,
+          "ordinal": 2,
+          "weekday": 2
+        },
+        "news": {
+          "introducedInVersion": 44,
+          "publishedAt": "2026-09-15T14:10:08Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en Estados Unidos.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en Estados Unidos.",
+              "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "La ley federal estadounidense especifica los feriados para los empleados del gobierno federal.",
+              "en": "United States Code title 5 section 6103 is the law specifying holidays for federal employees."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          },
+          {
+            "text": {
+              "es": "Si un feriado cae en domingo, suele trasladarse al lunes siguiente para los empleados federales.",
+              "en": "When a holiday falls on a Sunday, it is usually observed on Monday for federal employees."
+            },
+            "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en Estados Unidos.",
+          "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+        },
+        "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La ley federal 5 U.S.C. 6103 fija los feriados públicos para empleados federales en Estados Unidos.",
+            "en": "Federal law 5 U.S.C. 6103 establishes public holidays for federal employees in the United States."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "La ley federal estadounidense especifica los feriados para los empleados del gobierno federal.",
+            "en": "United States Code title 5 section 6103 is the law specifying holidays for federal employees."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        },
+        {
+          "text": {
+            "es": "Si un feriado cae en domingo, suele trasladarse al lunes siguiente para los empleados federales.",
+            "en": "When a holiday falls on a Sunday, it is usually observed on Monday for federal employees."
+          },
+          "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+        }
+      ]
     },
     {
       "id": "starship-flight-14-2026",
@@ -54668,6 +55634,14 @@
       "version": 61,
       "target": "guadalupe-reyes-2026,dia-de-la-madre-mx-2027,tokyo-game-show-2026,ea-sports-fc-27,ace-combat-8,gears-of-war-e-day,zelda-ocarina-of-time-2026,iphone-18-pro,iphone-duo,aws-reinvent-2026",
       "at": "2026-09-17T18:47:56.006521+00:00"
+    },
+    "plantel-datos-lote-06-20260917-1250": {
+      "operationID": "plantel-datos-lote-06-20260917-1250",
+      "digest": "7790e534e81a5bbb708197301459bbb63cae5cdafaf26745ce6a2e8c05debbdb",
+      "status": "applied",
+      "version": 62,
+      "target": "mwc-2027,nvidia-gtc-2027,computex-2027,juneteenth-2027,veterans-day-2026,mlk-day-2027,presidents-day-2027,mothers-day-us-2027,fathers-day-us-2027,columbus-day-2026",
+      "at": "2026-09-17T18:54:24.906311+00:00"
     }
   }
 }
