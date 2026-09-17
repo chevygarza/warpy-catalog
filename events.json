@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -1880,6 +1880,20 @@
               "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
             },
             "source": "https://www.formula1.com"
+          },
+          {
+            "text": {
+              "es": "Giuseppe Farina ganó con Alfa Romeo el primer Campeonato Mundial de Pilotos de la historia de la F1.",
+              "en": "Giuseppe Farina, driving for Alfa Romeo, won the first Drivers' World Championship in F1 history."
+            },
+            "source": "https://en.wikipedia.org/wiki/Formula_One"
+          },
+          {
+            "text": {
+              "es": "En 1983 se celebró la última carrera de Fórmula 1 no puntuable para el campeonato, en Brands Hatch.",
+              "en": "In 1983, the last non-championship Formula One race took place at Brands Hatch."
+            },
+            "source": "https://en.wikipedia.org/wiki/Formula_One"
           }
         ]
       },
@@ -1898,6 +1912,20 @@
             "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
           },
           "source": "https://www.formula1.com"
+        },
+        {
+          "text": {
+            "es": "Giuseppe Farina ganó con Alfa Romeo el primer Campeonato Mundial de Pilotos de la historia de la F1.",
+            "en": "Giuseppe Farina, driving for Alfa Romeo, won the first Drivers' World Championship in F1 history."
+          },
+          "source": "https://en.wikipedia.org/wiki/Formula_One"
+        },
+        {
+          "text": {
+            "es": "En 1983 se celebró la última carrera de Fórmula 1 no puntuable para el campeonato, en Brands Hatch.",
+            "en": "In 1983, the last non-championship Formula One race took place at Brands Hatch."
+          },
+          "source": "https://en.wikipedia.org/wiki/Formula_One"
         }
       ]
     },
@@ -57746,6 +57774,14 @@
       "version": 68,
       "target": "f1-season-2027,oscars-2027,comic-con-2027",
       "at": "2026-09-17T22:57:25.391719+00:00"
+    },
+    "plantel-datos-lote-13-20260917-1659": {
+      "operationID": "plantel-datos-lote-13-20260917-1659",
+      "digest": "e4187b0487ece4865bd0d7cb078b232ec9f923a835b5f8163b171b2c02fe10bf",
+      "status": "applied",
+      "version": 69,
+      "target": "f1-season-2027",
+      "at": "2026-09-17T23:02:30.065675+00:00"
     }
   }
 }
