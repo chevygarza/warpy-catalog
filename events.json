@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -1868,64 +1868,64 @@
       "override": {
         "fact": {
           "text": {
-            "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
-            "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+            "es": "Juan Manuel Fangio ganó 24 de las 52 carreras en las que compitió en la Fórmula 1.",
+            "en": "Juan Manuel Fangio won 24 of the 52 Formula One races he entered."
           },
-          "source": "https://www.formula1.com"
+          "source": "https://en.wikipedia.org/wiki/Formula_One"
         },
         "facts": [
           {
             "text": {
-              "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
-              "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
-            },
-            "source": "https://www.formula1.com"
-          },
-          {
-            "text": {
-              "es": "Giuseppe Farina ganó con Alfa Romeo el primer Campeonato Mundial de Pilotos de la historia de la F1.",
-              "en": "Giuseppe Farina, driving for Alfa Romeo, won the first Drivers' World Championship in F1 history."
+              "es": "Juan Manuel Fangio ganó 24 de las 52 carreras en las que compitió en la Fórmula 1.",
+              "en": "Juan Manuel Fangio won 24 of the 52 Formula One races he entered."
             },
             "source": "https://en.wikipedia.org/wiki/Formula_One"
           },
           {
             "text": {
-              "es": "En 1983 se celebró la última carrera de Fórmula 1 no puntuable para el campeonato, en Brands Hatch.",
-              "en": "In 1983, the last non-championship Formula One race took place at Brands Hatch."
+              "es": "En 1983 se disputó la última carrera de Fórmula 1 no puntuable para el campeonato.",
+              "en": "The year 1983 saw the last non-championship Formula One race."
             },
             "source": "https://en.wikipedia.org/wiki/Formula_One"
+          },
+          {
+            "text": {
+              "es": "El primer Gran Premio de Fórmula 1 se disputó el 13 de mayo de 1950 en Silverstone.",
+              "en": "The first Formula 1 Grand Prix was held on May 13, 1950, at the Silverstone circuit."
+            },
+            "source": "https://es.wikipedia.org/wiki/F%C3%B3rmula_1"
           }
         ]
       },
       "origin": "telegram",
       "fact": {
         "text": {
-          "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
-          "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+          "es": "Juan Manuel Fangio ganó 24 de las 52 carreras en las que compitió en la Fórmula 1.",
+          "en": "Juan Manuel Fangio won 24 of the 52 Formula One races he entered."
         },
-        "source": "https://www.formula1.com"
+        "source": "https://en.wikipedia.org/wiki/Formula_One"
       },
       "facts": [
         {
           "text": {
-            "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
-            "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
-          },
-          "source": "https://www.formula1.com"
-        },
-        {
-          "text": {
-            "es": "Giuseppe Farina ganó con Alfa Romeo el primer Campeonato Mundial de Pilotos de la historia de la F1.",
-            "en": "Giuseppe Farina, driving for Alfa Romeo, won the first Drivers' World Championship in F1 history."
+            "es": "Juan Manuel Fangio ganó 24 de las 52 carreras en las que compitió en la Fórmula 1.",
+            "en": "Juan Manuel Fangio won 24 of the 52 Formula One races he entered."
           },
           "source": "https://en.wikipedia.org/wiki/Formula_One"
         },
         {
           "text": {
-            "es": "En 1983 se celebró la última carrera de Fórmula 1 no puntuable para el campeonato, en Brands Hatch.",
-            "en": "In 1983, the last non-championship Formula One race took place at Brands Hatch."
+            "es": "En 1983 se disputó la última carrera de Fórmula 1 no puntuable para el campeonato.",
+            "en": "The year 1983 saw the last non-championship Formula One race."
           },
           "source": "https://en.wikipedia.org/wiki/Formula_One"
+        },
+        {
+          "text": {
+            "es": "El primer Gran Premio de Fórmula 1 se disputó el 13 de mayo de 1950 en Silverstone.",
+            "en": "The first Formula 1 Grand Prix was held on May 13, 1950, at the Silverstone circuit."
+          },
+          "source": "https://es.wikipedia.org/wiki/F%C3%B3rmula_1"
         }
       ]
     },
@@ -57782,6 +57782,14 @@
       "version": 69,
       "target": "f1-season-2027",
       "at": "2026-09-17T23:02:30.065675+00:00"
+    },
+    "plantel-datos-lote-14-20260917-1704": {
+      "operationID": "plantel-datos-lote-14-20260917-1704",
+      "digest": "d44f769cd23fbdc06ed58fb6f1547e41c9449485ad1a7f9da019255f754589f6",
+      "status": "applied",
+      "version": 70,
+      "target": "f1-season-2027",
+      "at": "2026-09-17T23:08:39.630261+00:00"
     }
   }
 }
