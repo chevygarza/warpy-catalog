@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -56399,6 +56399,14 @@
       "version": 63,
       "target": "tesla-roadster-2026,xbox-tokyo-game-show-broadcast-2026,nfl-kickoff-2026,grito-independencia-2026,marvels-wolverine,independence-day-us-2026,memorial-day-2026,labor-day-us-2026",
       "at": "2026-09-17T18:58:25.166128+00:00"
+    },
+    "plantel-datos-lote-08-20260917-1300": {
+      "operationID": "plantel-datos-lote-08-20260917-1300",
+      "digest": "f634903ba20c887473f9f8de02857c79a26e9c6aea948751c34d85a9e669be6d",
+      "status": "applied",
+      "version": 64,
+      "target": "ea-sports-fc-27",
+      "at": "2026-09-17T19:01:17.580065+00:00"
     }
   }
 }
