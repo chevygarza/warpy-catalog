@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -1723,7 +1723,94 @@
         "bike"
       ],
       "backdrop": "ciclismo",
-      "symbol": "bicycle"
+      "symbol": "bicycle",
+      "sourceSnapshot": {
+        "id": "tour-de-france-2027",
+        "title": "Tour de France 2027",
+        "subtitle": "Grand Départ · Edinburgh",
+        "subtitles": {
+          "es": "Gran Salida · Edimburgo"
+        },
+        "emoji": "🚴",
+        "category": "sports",
+        "date": "2027-07-03",
+        "startDate": "2026-07-26",
+        "accent": "#F2C94C",
+        "estimated": true,
+        "keywords": [
+          "cycling",
+          "ciclismo",
+          "tour",
+          "france",
+          "francia",
+          "bike"
+        ],
+        "backdrop": "ciclismo",
+        "symbol": "bicycle"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera edición del Tour de France se celebró en 1903 y la ganó Maurice Garin.",
+            "en": "The first Tour de France took place in 1903 and was won by Maurice Garin."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera edición del Tour de France se celebró en 1903 y la ganó Maurice Garin.",
+              "en": "The first Tour de France took place in 1903 and was won by Maurice Garin."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+          },
+          {
+            "text": {
+              "es": "En la primera edición de 1903, el Tour de France arrancó a las 3:16 p. m. del 1 de julio.",
+              "en": "In the first edition in 1903, the Tour de France started at 3:16 p.m. on 1 July."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+          },
+          {
+            "text": {
+              "es": "En 1903, el último ciclista de la general terminó a casi 65 horas del ganador.",
+              "en": "In 1903, the last rider finished nearly 65 hours behind the winner."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera edición del Tour de France se celebró en 1903 y la ganó Maurice Garin.",
+          "en": "The first Tour de France took place in 1903 and was won by Maurice Garin."
+        },
+        "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera edición del Tour de France se celebró en 1903 y la ganó Maurice Garin.",
+            "en": "The first Tour de France took place in 1903 and was won by Maurice Garin."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+        },
+        {
+          "text": {
+            "es": "En la primera edición de 1903, el Tour de France arrancó a las 3:16 p. m. del 1 de julio.",
+            "en": "In the first edition in 1903, the Tour de France started at 3:16 p.m. on 1 July."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+        },
+        {
+          "text": {
+            "es": "En 1903, el último ciclista de la general terminó a casi 65 horas del ganador.",
+            "en": "In 1903, the last rider finished nearly 65 hours behind the winner."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+        }
+      ]
     },
     {
       "id": "f1-season-2027",
@@ -1750,7 +1837,69 @@
         "carreras"
       ],
       "backdrop": "f1",
-      "symbol": "flag.checkered"
+      "symbol": "flag.checkered",
+      "sourceSnapshot": {
+        "id": "f1-season-2027",
+        "title": "Formula 1 · 2027 Season",
+        "titles": {
+          "es": "Fórmula 1 · Temporada 2027"
+        },
+        "subtitle": "First Grand Prix",
+        "subtitles": {
+          "es": "Primer Gran Premio"
+        },
+        "emoji": "🏎️",
+        "category": "sports",
+        "date": "2027-03-07",
+        "startDate": "2026-12-06",
+        "accent": "#EB5757",
+        "estimated": true,
+        "keywords": [
+          "f1",
+          "formula 1",
+          "formula one",
+          "grand prix",
+          "racing",
+          "carreras"
+        ],
+        "backdrop": "f1",
+        "symbol": "flag.checkered"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
+            "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+          },
+          "source": "https://www.formula1.com"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
+              "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+            },
+            "source": "https://www.formula1.com"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
+          "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+        },
+        "source": "https://www.formula1.com"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 2026, Kimi Antonelli logró su octava victoria de la temporada en el Gran Premio de España.",
+            "en": "In 2026, Kimi Antonelli achieved his eighth win of the season at the Spanish Grand Prix."
+          },
+          "source": "https://www.formula1.com"
+        }
+      ]
     },
     {
       "id": "nba-finals-2027",
@@ -1776,7 +1925,96 @@
         "finals"
       ],
       "backdrop": "basquet",
-      "symbol": "basketball.fill"
+      "symbol": "basketball.fill",
+      "sourceSnapshot": {
+        "id": "nba-finals-2027",
+        "title": "NBA Finals 2027",
+        "titles": {
+          "es": "Finales NBA 2027"
+        },
+        "subtitle": "Game 1",
+        "subtitles": {
+          "es": "Juego 1"
+        },
+        "emoji": "🏀",
+        "category": "sports",
+        "date": "2027-06-03",
+        "startDate": "2026-06-21",
+        "accent": "#F2994A",
+        "estimated": true,
+        "keywords": [
+          "nba",
+          "basketball",
+          "basquetbol",
+          "baloncesto",
+          "finals"
+        ],
+        "backdrop": "basquet",
+        "symbol": "basketball.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En 1980, Magic Johnson se convirtió en el único novato en ganar el MVP de las Finales de la NBA.",
+            "en": "In 1980, Magic Johnson became the first and only rookie to win the NBA Finals MVP award."
+          },
+          "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En 1980, Magic Johnson se convirtió en el único novato en ganar el MVP de las Finales de la NBA.",
+              "en": "In 1980, Magic Johnson became the first and only rookie to win the NBA Finals MVP award."
+            },
+            "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+          },
+          {
+            "text": {
+              "es": "Los Baltimore Bullets son el único equipo ya desaparecido que ha ganado un campeonato de la NBA.",
+              "en": "The Baltimore Bullets are the only defunct team to date that has won an NBA championship."
+            },
+            "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+          },
+          {
+            "text": {
+              "es": "En 1950, los Minneapolis Lakers fueron el primer equipo en repetir como campeones de la NBA.",
+              "en": "In 1950, the Minneapolis Lakers became the first team to repeat as NBA champions."
+            },
+            "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En 1980, Magic Johnson se convirtió en el único novato en ganar el MVP de las Finales de la NBA.",
+          "en": "In 1980, Magic Johnson became the first and only rookie to win the NBA Finals MVP award."
+        },
+        "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En 1980, Magic Johnson se convirtió en el único novato en ganar el MVP de las Finales de la NBA.",
+            "en": "In 1980, Magic Johnson became the first and only rookie to win the NBA Finals MVP award."
+          },
+          "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+        },
+        {
+          "text": {
+            "es": "Los Baltimore Bullets son el único equipo ya desaparecido que ha ganado un campeonato de la NBA.",
+            "en": "The Baltimore Bullets are the only defunct team to date that has won an NBA championship."
+          },
+          "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+        },
+        {
+          "text": {
+            "es": "En 1950, los Minneapolis Lakers fueron el primer equipo en repetir como campeones de la NBA.",
+            "en": "In 1950, the Minneapolis Lakers became the first team to repeat as NBA champions."
+          },
+          "source": "https://en.wikipedia.org/wiki/NBA_Finals"
+        }
+      ]
     },
     {
       "id": "world-series-2026",
@@ -1801,7 +2039,95 @@
         "world series"
       ],
       "backdrop": "beisbol",
-      "symbol": "baseball.fill"
+      "symbol": "baseball.fill",
+      "sourceSnapshot": {
+        "id": "world-series-2026",
+        "title": "World Series 2026",
+        "titles": {
+          "es": "Serie Mundial 2026"
+        },
+        "subtitle": "MLB · Game 1",
+        "subtitles": {
+          "es": "MLB · Juego 1"
+        },
+        "emoji": "⚾️",
+        "category": "sports",
+        "date": "2026-10-23",
+        "startDate": "2025-11-01",
+        "accent": "#EB5757",
+        "estimated": true,
+        "keywords": [
+          "mlb",
+          "baseball",
+          "beisbol",
+          "world series"
+        ],
+        "backdrop": "beisbol",
+        "symbol": "baseball.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera Serie Mundial moderna se disputó en 1903 entre Boston y Pittsburgh.",
+            "en": "The first modern World Series was played in 1903 between Boston and Pittsburgh."
+          },
+          "source": "https://en.wikipedia.org/wiki/World_Series"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera Serie Mundial moderna se disputó en 1903 entre Boston y Pittsburgh.",
+              "en": "The first modern World Series was played in 1903 between Boston and Pittsburgh."
+            },
+            "source": "https://en.wikipedia.org/wiki/World_Series"
+          },
+          {
+            "text": {
+              "es": "Hasta 2025, los equipos de la Liga Americana ganaron 68 de las 121 Series Mundiales.",
+              "en": "Through 2025, American League teams won 68 of the 121 World Series played."
+            },
+            "source": "https://en.wikipedia.org/wiki/World_Series"
+          },
+          {
+            "text": {
+              "es": "Entre 2003 y 2016, la localía de la Serie Mundial se otorgó a la liga ganadora del All-Star Game.",
+              "en": "From 2003 to 2016, World Series home-field advantage was given to the All-Star Game winner's league."
+            },
+            "source": "https://en.wikipedia.org/wiki/World_Series"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera Serie Mundial moderna se disputó en 1903 entre Boston y Pittsburgh.",
+          "en": "The first modern World Series was played in 1903 between Boston and Pittsburgh."
+        },
+        "source": "https://en.wikipedia.org/wiki/World_Series"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera Serie Mundial moderna se disputó en 1903 entre Boston y Pittsburgh.",
+            "en": "The first modern World Series was played in 1903 between Boston and Pittsburgh."
+          },
+          "source": "https://en.wikipedia.org/wiki/World_Series"
+        },
+        {
+          "text": {
+            "es": "Hasta 2025, los equipos de la Liga Americana ganaron 68 de las 121 Series Mundiales.",
+            "en": "Through 2025, American League teams won 68 of the 121 World Series played."
+          },
+          "source": "https://en.wikipedia.org/wiki/World_Series"
+        },
+        {
+          "text": {
+            "es": "Entre 2003 y 2016, la localía de la Serie Mundial se otorgó a la liga ganadora del All-Star Game.",
+            "en": "From 2003 to 2016, World Series home-field advantage was given to the All-Star Game winner's league."
+          },
+          "source": "https://en.wikipedia.org/wiki/World_Series"
+        }
+      ]
     },
     {
       "id": "oktoberfest-2026",
@@ -2972,6 +3298,87 @@
         "tecnologia",
         "las vegas",
         "gadgets"
+      ],
+      "sourceSnapshot": {
+        "id": "ces-2027",
+        "title": "CES 2027",
+        "subtitle": "Las Vegas",
+        "emoji": "📺",
+        "category": "tech",
+        "date": "2027-01-06",
+        "startDate": "2026-01-09",
+        "accent": "#2F80ED",
+        "estimated": true,
+        "keywords": [
+          "ces",
+          "tech",
+          "tecnologia",
+          "las vegas",
+          "gadgets"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En la edición de 1981, Philips y Sony presentaron el reproductor de CD que desarrollaron juntos.",
+            "en": "At the 1981 CES, Philips and Sony introduced the CD player they developed together."
+          },
+          "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En la edición de 1981, Philips y Sony presentaron el reproductor de CD que desarrollaron juntos.",
+              "en": "At the 1981 CES, Philips and Sony introduced the CD player they developed together."
+            },
+            "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+          },
+          {
+            "text": {
+              "es": "La consola Atari VCS fue exhibida públicamente por primera vez durante CES 1977.",
+              "en": "The Atari VCS was shown publicly for the first time at the 1977 CES."
+            },
+            "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+          },
+          {
+            "text": {
+              "es": "El videojuego Tetris se exhibió públicamente en Estados Unidos por primera vez en CES 1988.",
+              "en": "The video game Tetris was first shown publicly in the U.S. at the 1988 Summer CES."
+            },
+            "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "En la edición de 1981, Philips y Sony presentaron el reproductor de CD que desarrollaron juntos.",
+          "en": "At the 1981 CES, Philips and Sony introduced the CD player they developed together."
+        },
+        "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En la edición de 1981, Philips y Sony presentaron el reproductor de CD que desarrollaron juntos.",
+            "en": "At the 1981 CES, Philips and Sony introduced the CD player they developed together."
+          },
+          "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+        },
+        {
+          "text": {
+            "es": "La consola Atari VCS fue exhibida públicamente por primera vez durante CES 1977.",
+            "en": "The Atari VCS was shown publicly for the first time at the 1977 CES."
+          },
+          "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+        },
+        {
+          "text": {
+            "es": "El videojuego Tetris se exhibió públicamente en Estados Unidos por primera vez en CES 1988.",
+            "en": "The video game Tetris was first shown publicly in the U.S. at the 1988 Summer CES."
+          },
+          "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
+        }
       ]
     },
     {
@@ -3257,6 +3664,79 @@
         "hollywood",
         "movies",
         "cine"
+      ],
+      "sourceSnapshot": {
+        "id": "oscars-2027",
+        "title": "The Oscars 2027",
+        "titles": {
+          "es": "Los Óscar 2027"
+        },
+        "subtitle": "99th Academy Awards",
+        "subtitles": {
+          "es": "99.ª entrega de los Premios de la Academia"
+        },
+        "emoji": "🏆",
+        "category": "entertainment",
+        "date": "2027-03-14",
+        "startDate": "2026-03-15",
+        "accent": "#F2C94C",
+        "keywords": [
+          "oscars",
+          "oscar",
+          "academy awards",
+          "hollywood",
+          "movies",
+          "cine"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera edición de los Óscar se celebró el 16 de mayo de 1929 con cerca de 270 invitados.",
+            "en": "The first Academy Awards presentation was held on May 16, 1929, with about 270 people."
+          },
+          "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera edición de los Óscar se celebró el 16 de mayo de 1929 con cerca de 270 invitados.",
+              "en": "The first Academy Awards presentation was held on May 16, 1929, with about 270 people."
+            },
+            "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+          },
+          {
+            "text": {
+              "es": "En la segunda edición de los Óscar, en 1930, la ceremonia se transmitió por radio por primera vez.",
+              "en": "The second ceremony, in 1930, was the first Oscars event to be broadcast by radio."
+            },
+            "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera edición de los Óscar se celebró el 16 de mayo de 1929 con cerca de 270 invitados.",
+          "en": "The first Academy Awards presentation was held on May 16, 1929, with about 270 people."
+        },
+        "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera edición de los Óscar se celebró el 16 de mayo de 1929 con cerca de 270 invitados.",
+            "en": "The first Academy Awards presentation was held on May 16, 1929, with about 270 people."
+          },
+          "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+        },
+        {
+          "text": {
+            "es": "En la segunda edición de los Óscar, en 1930, la ceremonia se transmitió por radio por primera vez.",
+            "en": "The second ceremony, in 1930, was the first Oscars event to be broadcast by radio."
+          },
+          "source": "https://en.wikipedia.org/wiki/Academy_Awards"
+        }
       ]
     },
     {
@@ -3482,6 +3962,90 @@
         "music",
         "musica",
         "indio"
+      ],
+      "sourceSnapshot": {
+        "id": "coachella-2027",
+        "title": "Coachella 2027",
+        "subtitle": "Weekend 1",
+        "subtitles": {
+          "es": "Fin de semana 1"
+        },
+        "emoji": "🎡",
+        "category": "entertainment",
+        "date": "2027-04-09",
+        "startDate": "2026-04-20",
+        "accent": "#F2994A",
+        "estimated": true,
+        "keywords": [
+          "coachella",
+          "festival",
+          "music",
+          "musica",
+          "indio"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera edición del festival Coachella se celebró los días 9 y 10 de octubre de 1999.",
+            "en": "The inaugural Coachella Valley Music and Arts Festival was held on October 9–10, 1999."
+          },
+          "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera edición del festival Coachella se celebró los días 9 y 10 de octubre de 1999.",
+              "en": "The inaugural Coachella Valley Music and Arts Festival was held on October 9–10, 1999."
+            },
+            "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+          },
+          {
+            "text": {
+              "es": "El festival Coachella se expandió a un tercer día en 2007 y a un segundo fin de semana en 2012.",
+              "en": "Coachella expanded to a third day in 2007 and eventually a second weekend in 2012."
+            },
+            "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+          },
+          {
+            "text": {
+              "es": "Los organizadores de Coachella comenzaron a permitir que los espectadores acamparan en 2003.",
+              "en": "Organizers began permitting spectators to camp on the grounds in 2003."
+            },
+            "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera edición del festival Coachella se celebró los días 9 y 10 de octubre de 1999.",
+          "en": "The inaugural Coachella Valley Music and Arts Festival was held on October 9–10, 1999."
+        },
+        "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera edición del festival Coachella se celebró los días 9 y 10 de octubre de 1999.",
+            "en": "The inaugural Coachella Valley Music and Arts Festival was held on October 9–10, 1999."
+          },
+          "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+        },
+        {
+          "text": {
+            "es": "El festival Coachella se expandió a un tercer día en 2007 y a un segundo fin de semana en 2012.",
+            "en": "Coachella expanded to a third day in 2007 and eventually a second weekend in 2012."
+          },
+          "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+        },
+        {
+          "text": {
+            "es": "Los organizadores de Coachella comenzaron a permitir que los espectadores acamparan en 2003.",
+            "en": "Organizers began permitting spectators to camp on the grounds in 2003."
+          },
+          "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
+        }
       ]
     },
     {
@@ -3692,6 +4256,87 @@
         "keynote",
         "ios",
         "developers"
+      ],
+      "sourceSnapshot": {
+        "id": "wwdc-2027",
+        "title": "WWDC 2027",
+        "subtitle": "Apple Keynote",
+        "emoji": "💻",
+        "category": "tech",
+        "date": "2027-06-07",
+        "startDate": "2026-06-08",
+        "accent": "#1C1C1E",
+        "estimated": true,
+        "keywords": [
+          "apple",
+          "wwdc",
+          "keynote",
+          "ios",
+          "developers"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La edición de 1997 de la conferencia marcó el regreso de Steve Jobs como consultor a Apple.",
+            "en": "The 1997 edition of the conference marked the return of Steve Jobs as a consultant to Apple."
+          },
+          "source": "https://en.wikipedia.org/wiki/Worldwide_Developers_Conference"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La edición de 1997 de la conferencia marcó el regreso de Steve Jobs como consultor a Apple.",
+              "en": "The 1997 edition of the conference marked the return of Steve Jobs as a consultant to Apple."
+            },
+            "source": "https://en.wikipedia.org/wiki/Worldwide_Developers_Conference"
+          },
+          {
+            "text": {
+              "es": "En la WWDC 2008 se presentaron la App Store, la versión estable del iPhone SDK y el iPhone 3G.",
+              "en": "At WWDC 2008, the App Store, the stable version of the iPhone SDK, and the iPhone 3G were announced."
+            },
+            "source": "https://es.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"
+          },
+          {
+            "text": {
+              "es": "Las entradas para la edición WWDC 2013 se agotaron en un tiempo récord de 71 segundos.",
+              "en": "Tickets for WWDC 2013 sold out in a record time of 71 seconds."
+            },
+            "source": "https://es.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La edición de 1997 de la conferencia marcó el regreso de Steve Jobs como consultor a Apple.",
+          "en": "The 1997 edition of the conference marked the return of Steve Jobs as a consultant to Apple."
+        },
+        "source": "https://en.wikipedia.org/wiki/Worldwide_Developers_Conference"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La edición de 1997 de la conferencia marcó el regreso de Steve Jobs como consultor a Apple.",
+            "en": "The 1997 edition of the conference marked the return of Steve Jobs as a consultant to Apple."
+          },
+          "source": "https://en.wikipedia.org/wiki/Worldwide_Developers_Conference"
+        },
+        {
+          "text": {
+            "es": "En la WWDC 2008 se presentaron la App Store, la versión estable del iPhone SDK y el iPhone 3G.",
+            "en": "At WWDC 2008, the App Store, the stable version of the iPhone SDK, and the iPhone 3G were announced."
+          },
+          "source": "https://es.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"
+        },
+        {
+          "text": {
+            "es": "Las entradas para la edición WWDC 2013 se agotaron en un tiempo récord de 71 segundos.",
+            "en": "Tickets for WWDC 2013 sold out in a record time of 71 seconds."
+          },
+          "source": "https://es.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"
+        }
       ]
     },
     {
@@ -3709,6 +4354,58 @@
         "comics",
         "cosplay",
         "san diego"
+      ],
+      "sourceSnapshot": {
+        "id": "comic-con-2027",
+        "title": "San Diego Comic-Con 2027",
+        "emoji": "🦸",
+        "category": "entertainment",
+        "date": "2027-07-22",
+        "startDate": "2026-07-26",
+        "accent": "#EB5757",
+        "estimated": true,
+        "keywords": [
+          "comic con",
+          "sdcc",
+          "comics",
+          "cosplay",
+          "san diego"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El evento se convirtió oficialmente en San Diego Comic-Con en 1973, en su cuarta edición.",
+            "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
+          },
+          "source": "https://www.comic-con.org/about/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El evento se convirtió oficialmente en San Diego Comic-Con en 1973, en su cuarta edición.",
+              "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
+            },
+            "source": "https://www.comic-con.org/about/"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El evento se convirtió oficialmente en San Diego Comic-Con en 1973, en su cuarta edición.",
+          "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
+        },
+        "source": "https://www.comic-con.org/about/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El evento se convirtió oficialmente en San Diego Comic-Con en 1973, en su cuarta edición.",
+            "en": "The show officially became the San Diego Comic-Con in 1973 with its fourth annual event."
+          },
+          "source": "https://www.comic-con.org/about/"
+        }
       ]
     },
     {
@@ -4829,6 +5526,93 @@
         "descuentos",
         "compras",
         "noviembre"
+      ],
+      "sourceSnapshot": {
+        "id": "buen-fin-2026",
+        "title": "El Buen Fin 2026",
+        "subtitle": "Mexico",
+        "subtitles": {
+          "es": "México"
+        },
+        "emoji": "🛍️",
+        "category": "culture",
+        "date": "2026-11-13",
+        "startDate": "2025-11-17",
+        "accent": "#1C1C1E",
+        "estimated": true,
+        "regions": [
+          "MX"
+        ],
+        "keywords": [
+          "buen fin",
+          "ofertas",
+          "descuentos",
+          "compras",
+          "noviembre"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Buen Fin se creó en México en 2011 como una versión inspirada en el Black Friday estadounidense.",
+            "en": "El Buen Fin was created in Mexico in 2011, inspired by the American Black Friday tradition."
+          },
+          "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Buen Fin se creó en México en 2011 como una versión inspirada en el Black Friday estadounidense.",
+              "en": "El Buen Fin was created in Mexico in 2011, inspired by the American Black Friday tradition."
+            },
+            "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+          },
+          {
+            "text": {
+              "es": "El nombre El Buen Fin es una abreviatura de «El Buen Fin de Semana».",
+              "en": "The name El Buen Fin is short for \"El Buen Fin de Semana,\" meaning \"The Good Weekend.\""
+            },
+            "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+          },
+          {
+            "text": {
+              "es": "El evento se celebra anualmente el fin de semana previo al Día de la Revolución Mexicana.",
+              "en": "The event takes place annually on the weekend before Mexican Revolution Day."
+            },
+            "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El Buen Fin se creó en México en 2011 como una versión inspirada en el Black Friday estadounidense.",
+          "en": "El Buen Fin was created in Mexico in 2011, inspired by the American Black Friday tradition."
+        },
+        "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Buen Fin se creó en México en 2011 como una versión inspirada en el Black Friday estadounidense.",
+            "en": "El Buen Fin was created in Mexico in 2011, inspired by the American Black Friday tradition."
+          },
+          "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+        },
+        {
+          "text": {
+            "es": "El nombre El Buen Fin es una abreviatura de «El Buen Fin de Semana».",
+            "en": "The name El Buen Fin is short for \"El Buen Fin de Semana,\" meaning \"The Good Weekend.\""
+          },
+          "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+        },
+        {
+          "text": {
+            "es": "El evento se celebra anualmente el fin de semana previo al Día de la Revolución Mexicana.",
+            "en": "The event takes place annually on the weekend before Mexican Revolution Day."
+          },
+          "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
+        }
       ]
     },
     {
@@ -56476,6 +57260,14 @@
       "version": 65,
       "target": "ea-sports-fc-27",
       "at": "2026-09-17T19:07:25.111614+00:00"
+    },
+    "plantel-datos-lote-10-20260917-1644": {
+      "operationID": "plantel-datos-lote-10-20260917-1644",
+      "digest": "08cb67ddaf7ee21b471a8d671aacee343d92aa92daeed0fbbac12e80b109fdd9",
+      "status": "applied",
+      "version": 66,
+      "target": "tour-de-france-2027,f1-season-2027,nba-finals-2027,world-series-2026,ces-2027,oscars-2027,coachella-2027,wwdc-2027,comic-con-2027,buen-fin-2026",
+      "at": "2026-09-17T22:45:24.987246+00:00"
     }
   }
 }
