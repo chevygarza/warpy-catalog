@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -4532,6 +4532,94 @@
         "posadas",
         "diciembre",
         "virgen"
+      ],
+      "sourceSnapshot": {
+        "id": "guadalupe-reyes-2026",
+        "title": "Guadalupe-Reyes",
+        "subtitle": "Mexico · December 12",
+        "subtitles": {
+          "es": "México · 12 de diciembre"
+        },
+        "emoji": "🎉",
+        "category": "holidays",
+        "date": "2026-12-12",
+        "startDate": "2026-01-07",
+        "accent": "#EB5757",
+        "regions": [
+          "MX"
+        ],
+        "repeatsYearly": true,
+        "keywords": [
+          "guadalupe",
+          "reyes",
+          "maraton",
+          "posadas",
+          "diciembre",
+          "virgen"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El maratón Guadalupe-Reyes abarca el periodo festivo desde el 12 de diciembre hasta el 6 de enero.",
+            "en": "The Guadalupe-Reyes marathon covers the festive period from December 12 to January 6."
+          },
+          "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El maratón Guadalupe-Reyes abarca el periodo festivo desde el 12 de diciembre hasta el 6 de enero.",
+              "en": "The Guadalupe-Reyes marathon covers the festive period from December 12 to January 6."
+            },
+            "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+          },
+          {
+            "text": {
+              "es": "El término surgió a partir de un operativo policial implementado en la década de 1990.",
+              "en": "The term originated from a police initiative established in the 1990s."
+            },
+            "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+          },
+          {
+            "text": {
+              "es": "El Día de la Candelaria se celebra el 2 de febrero y suele quedar fuera de este maratón festivo.",
+              "en": "Candlemas is celebrated on February 2 and is usually excluded from the festive marathon."
+            },
+            "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "El maratón Guadalupe-Reyes abarca el periodo festivo desde el 12 de diciembre hasta el 6 de enero.",
+          "en": "The Guadalupe-Reyes marathon covers the festive period from December 12 to January 6."
+        },
+        "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El maratón Guadalupe-Reyes abarca el periodo festivo desde el 12 de diciembre hasta el 6 de enero.",
+            "en": "The Guadalupe-Reyes marathon covers the festive period from December 12 to January 6."
+          },
+          "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+        },
+        {
+          "text": {
+            "es": "El término surgió a partir de un operativo policial implementado en la década de 1990.",
+            "en": "The term originated from a police initiative established in the 1990s."
+          },
+          "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+        },
+        {
+          "text": {
+            "es": "El Día de la Candelaria se celebra el 2 de febrero y suele quedar fuera de este maratón festivo.",
+            "en": "Candlemas is celebrated on February 2 and is usually excluded from the festive marathon."
+          },
+          "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
+        }
       ]
     },
     {
@@ -4635,6 +4723,95 @@
         "10 de mayo",
         "mama",
         "mothers day"
+      ],
+      "sourceSnapshot": {
+        "id": "dia-de-la-madre-mx-2027",
+        "title": "Mother's Day",
+        "titles": {
+          "es": "Día de las Madres"
+        },
+        "subtitle": "Mexico · May 10",
+        "subtitles": {
+          "es": "México · 10 de mayo"
+        },
+        "emoji": "💐",
+        "category": "holidays",
+        "date": "2027-05-10",
+        "startDate": "2026-05-11",
+        "accent": "#EB5757",
+        "regions": [
+          "MX"
+        ],
+        "repeatsYearly": true,
+        "keywords": [
+          "dia de las madres",
+          "10 de mayo",
+          "mama",
+          "mothers day"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Woodrow Wilson firmó en 1914 la proclamación que designó la festividad el segundo domingo de mayo.",
+            "en": "In 1914, Woodrow Wilson signed a proclamation designating Mother's Day on the second Sunday in May."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Woodrow Wilson firmó en 1914 la proclamación que designó la festividad el segundo domingo de mayo.",
+              "en": "In 1914, Woodrow Wilson signed a proclamation designating Mother's Day on the second Sunday in May."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+          },
+          {
+            "text": {
+              "es": "En Bolivia se celebra el 27 de mayo en recuerdo de mujeres que defendieron a sus hijos en batalla.",
+              "en": "Bolivia's Mother's Day is May 27, commemorating women who defended their children in a battle."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+          },
+          {
+            "text": {
+              "es": "En la antigua Roma, esta fiesta llamada Hilaria se celebraba el 15 de marzo en el templo de Cibeles.",
+              "en": "In ancient Rome, this festival called Hilaria was celebrated on March 15 at the temple of Cybele."
+            },
+            "source": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Madre"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Woodrow Wilson firmó en 1914 la proclamación que designó la festividad el segundo domingo de mayo.",
+          "en": "In 1914, Woodrow Wilson signed a proclamation designating Mother's Day on the second Sunday in May."
+        },
+        "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Woodrow Wilson firmó en 1914 la proclamación que designó la festividad el segundo domingo de mayo.",
+            "en": "In 1914, Woodrow Wilson signed a proclamation designating Mother's Day on the second Sunday in May."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+        },
+        {
+          "text": {
+            "es": "En Bolivia se celebra el 27 de mayo en recuerdo de mujeres que defendieron a sus hijos en batalla.",
+            "en": "Bolivia's Mother's Day is May 27, commemorating women who defended their children in a battle."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mother%27s_Day"
+        },
+        {
+          "text": {
+            "es": "En la antigua Roma, esta fiesta llamada Hilaria se celebraba el 15 de marzo en el templo de Cibeles.",
+            "en": "In ancient Rome, this festival called Hilaria was celebrated on March 15 at the temple of Cybele."
+          },
+          "source": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Madre"
+        }
       ]
     },
     {
@@ -50868,7 +51045,99 @@
       "endDate": "2026-09-21",
       "accent": "#E10600",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "tokyo-game-show-2026",
+        "title": "Tokyo Game Show 2026",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-09-17",
+        "url": "https://tgs.cesa.or.jp/2026/en",
+        "keywords": [
+          "tokyo",
+          "game",
+          "show",
+          "2026",
+          "tgs",
+          "tokyo game show",
+          "showcase",
+          "videojuegos",
+          "gaming",
+          "japon"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "Makuhari Messe, Chiba",
+          "es": "Makuhari Messe, Chiba"
+        },
+        "endDate": "2026-09-21",
+        "accent": "#E10600",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Tokyo Game Show 2026 se extiende a una duración histórica de cinco días.",
+            "en": "Tokyo Game Show 2026 expands to its longest-ever duration of five days."
+          },
+          "source": "https://tgs.cesa.or.jp/2026/en"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Tokyo Game Show 2026 se extiende a una duración histórica de cinco días.",
+              "en": "Tokyo Game Show 2026 expands to its longest-ever duration of five days."
+            },
+            "source": "https://tgs.cesa.or.jp/2026/en"
+          },
+          {
+            "text": {
+              "es": "Toshiya Miyata es el patrocinador oficial del Tokyo Game Show 2026.",
+              "en": "Toshiya Miyata is the official supporter of Tokyo Game Show 2026."
+            },
+            "source": "https://tgs.cesa.or.jp/2026/en"
+          },
+          {
+            "text": {
+              "es": "El Tokyo Game Show 2026 se celebra en la sede de Makuhari Messe.",
+              "en": "Tokyo Game Show 2026 takes place at the Makuhari Messe venue."
+            },
+            "source": "https://tgs.cesa.or.jp/2026/en"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Tokyo Game Show 2026 se extiende a una duración histórica de cinco días.",
+          "en": "Tokyo Game Show 2026 expands to its longest-ever duration of five days."
+        },
+        "source": "https://tgs.cesa.or.jp/2026/en"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Tokyo Game Show 2026 se extiende a una duración histórica de cinco días.",
+            "en": "Tokyo Game Show 2026 expands to its longest-ever duration of five days."
+          },
+          "source": "https://tgs.cesa.or.jp/2026/en"
+        },
+        {
+          "text": {
+            "es": "Toshiya Miyata es el patrocinador oficial del Tokyo Game Show 2026.",
+            "en": "Toshiya Miyata is the official supporter of Tokyo Game Show 2026."
+          },
+          "source": "https://tgs.cesa.or.jp/2026/en"
+        },
+        {
+          "text": {
+            "es": "El Tokyo Game Show 2026 se celebra en la sede de Makuhari Messe.",
+            "en": "Tokyo Game Show 2026 takes place at the Makuhari Messe venue."
+          },
+          "source": "https://tgs.cesa.or.jp/2026/en"
+        }
+      ]
     },
     {
       "id": "ea-sports-fc-27",
@@ -50896,7 +51165,36 @@
       },
       "accent": "#27AE60",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "ea-sports-fc-27",
+        "title": "EA Sports FC 27",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-09-25",
+        "url": "https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-editions-and-release-dates",
+        "keywords": [
+          "sports",
+          "fc 27",
+          "fc27",
+          "fifa",
+          "ea sports",
+          "futbol",
+          "soccer",
+          "videojuego",
+          "gaming"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "Release · Early access Sept 18",
+          "es": "Lanzamiento · Acceso anticipado 18 sep"
+        },
+        "accent": "#27AE60",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {}
     },
     {
       "id": "ace-combat-8",
@@ -50924,7 +51222,97 @@
       },
       "accent": "#2F80ED",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "ace-combat-8",
+        "title": "Ace Combat 8: Wings of Theve",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-02",
+        "url": "https://acecombat.jp/en/news/20261002/",
+        "keywords": [
+          "ace",
+          "combat",
+          "wings",
+          "theve",
+          "ace combat",
+          "bandai namco",
+          "videojuego",
+          "gaming",
+          "aviones"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Release",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "accent": "#2F80ED",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Ace Combat 8: Wings of Theve se lanza el 2 de octubre de 2026.",
+            "en": "Ace Combat 8: Wings of Theve releases on October 2, 2026."
+          },
+          "source": "https://acecombat.jp/en/news/20261002/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Ace Combat 8: Wings of Theve se lanza el 2 de octubre de 2026.",
+              "en": "Ace Combat 8: Wings of Theve releases on October 2, 2026."
+            },
+            "source": "https://acecombat.jp/en/news/20261002/"
+          },
+          {
+            "text": {
+              "es": "La reserva del título desbloquea el avión F-14A.",
+              "en": "Pre-ordering the title unlocks the F-14A aircraft."
+            },
+            "source": "https://acecombat.jp/en/news/20261002/"
+          },
+          {
+            "text": {
+              "es": "Reservar el juego otorga acceso a Ace Combat Zero: The Belkan War.",
+              "en": "Pre-ordering grants access to Ace Combat Zero: The Belkan War."
+            },
+            "source": "https://acecombat.jp/en/news/20261002/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Ace Combat 8: Wings of Theve se lanza el 2 de octubre de 2026.",
+          "en": "Ace Combat 8: Wings of Theve releases on October 2, 2026."
+        },
+        "source": "https://acecombat.jp/en/news/20261002/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Ace Combat 8: Wings of Theve se lanza el 2 de octubre de 2026.",
+            "en": "Ace Combat 8: Wings of Theve releases on October 2, 2026."
+          },
+          "source": "https://acecombat.jp/en/news/20261002/"
+        },
+        {
+          "text": {
+            "es": "La reserva del título desbloquea el avión F-14A.",
+            "en": "Pre-ordering the title unlocks the F-14A aircraft."
+          },
+          "source": "https://acecombat.jp/en/news/20261002/"
+        },
+        {
+          "text": {
+            "es": "Reservar el juego otorga acceso a Ace Combat Zero: The Belkan War.",
+            "en": "Pre-ordering grants access to Ace Combat Zero: The Belkan War."
+          },
+          "source": "https://acecombat.jp/en/news/20261002/"
+        }
+      ]
     },
     {
       "id": "gears-of-war-e-day",
@@ -50951,7 +51339,96 @@
       },
       "accent": "#9B51E0",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "gears-of-war-e-day",
+        "title": "Gears of War: E-Day",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-06",
+        "url": "https://www.xbox.com/en-US/games/gears-of-war-eday",
+        "keywords": [
+          "gears",
+          "war",
+          "day",
+          "gears of war",
+          "xbox",
+          "game pass",
+          "videojuego",
+          "gaming"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "Xbox Series X|S, PC, Game Pass · Release",
+          "es": "Xbox Series X|S, PC, Game Pass · Lanzamiento"
+        },
+        "accent": "#9B51E0",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La historia del juego se sitúa 14 años antes del Gears of War original.",
+            "en": "The story of the game takes place fourteen years before the original Gears of War."
+          },
+          "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La historia del juego se sitúa 14 años antes del Gears of War original.",
+              "en": "The story of the game takes place fourteen years before the original Gears of War."
+            },
+            "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+          },
+          {
+            "text": {
+              "es": "Gears of War: E-Day fue desarrollado en el motor Unreal Engine 5.",
+              "en": "Gears of War: E-Day was built using Unreal Engine 5."
+            },
+            "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+          },
+          {
+            "text": {
+              "es": "El estudio The Coalition es el desarrollador detrás de Gears of War: E-Day.",
+              "en": "The game studio The Coalition is the developer behind Gears of War: E-Day."
+            },
+            "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La historia del juego se sitúa 14 años antes del Gears of War original.",
+          "en": "The story of the game takes place fourteen years before the original Gears of War."
+        },
+        "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La historia del juego se sitúa 14 años antes del Gears of War original.",
+            "en": "The story of the game takes place fourteen years before the original Gears of War."
+          },
+          "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+        },
+        {
+          "text": {
+            "es": "Gears of War: E-Day fue desarrollado en el motor Unreal Engine 5.",
+            "en": "Gears of War: E-Day was built using Unreal Engine 5."
+          },
+          "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+        },
+        {
+          "text": {
+            "es": "El estudio The Coalition es el desarrollador detrás de Gears of War: E-Day.",
+            "en": "The game studio The Coalition is the developer behind Gears of War: E-Day."
+          },
+          "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
+        }
+      ]
     },
     {
       "id": "zelda-ocarina-of-time-2026",
@@ -51009,10 +51486,70 @@
         "accent": "#27AE60"
       },
       "override": {
-        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/",
+        "fact": {
+          "text": {
+            "es": "Esta versión del juego para Nintendo Switch 2 se lanza el 5 de noviembre de 2026.",
+            "en": "This game version for Nintendo Switch 2 releases on November 5, 2026."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Esta versión del juego para Nintendo Switch 2 se lanza el 5 de noviembre de 2026.",
+              "en": "This game version for Nintendo Switch 2 releases on November 5, 2026."
+            },
+            "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+          },
+          {
+            "text": {
+              "es": "La reedición incluye escenas con voces, diálogos ampliados y música orquestal sinfónica.",
+              "en": "The remake features voiced cutscenes, expanded dialogue, and symphonic orchestral music."
+            },
+            "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+          },
+          {
+            "text": {
+              "es": "Las nuevas figuras amiibo de Young Link y Young Zelda llegarán en 2027.",
+              "en": "The new Young Link and Young Zelda amiibo figures will arrive in 2027."
+            },
+            "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+          }
+        ]
       },
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "fact": {
+        "text": {
+          "es": "Esta versión del juego para Nintendo Switch 2 se lanza el 5 de noviembre de 2026.",
+          "en": "This game version for Nintendo Switch 2 releases on November 5, 2026."
+        },
+        "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Esta versión del juego para Nintendo Switch 2 se lanza el 5 de noviembre de 2026.",
+            "en": "This game version for Nintendo Switch 2 releases on November 5, 2026."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+        },
+        {
+          "text": {
+            "es": "La reedición incluye escenas con voces, diálogos ampliados y música orquestal sinfónica.",
+            "en": "The remake features voiced cutscenes, expanded dialogue, and symphonic orchestral music."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+        },
+        {
+          "text": {
+            "es": "Las nuevas figuras amiibo de Young Link y Young Zelda llegarán en 2027.",
+            "en": "The new Young Link and Young Zelda amiibo figures will arrive in 2027."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
+        }
+      ]
     },
     {
       "id": "the-game-awards-2026",
@@ -51066,7 +51603,93 @@
       },
       "accent": "#1C1C1E",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "iphone-18-pro",
+        "title": "iPhone 18 Pro",
+        "emoji": "📱",
+        "category": "tech",
+        "date": "2026-09-18",
+        "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+        "keywords": [
+          "iphone",
+          "pro",
+          "iphone 18",
+          "apple",
+          "pro max",
+          "a20 pro"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "On sale",
+          "es": "A la venta"
+        },
+        "accent": "#1C1C1E",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La línea de iPhone 18 Pro se lanzó en cuatro acabados: black, silver, glacier y burgundy.",
+            "en": "The iPhone 18 Pro lineup is available in four finishes: black, silver, glacier, and burgundy."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La línea de iPhone 18 Pro se lanzó en cuatro acabados: black, silver, glacier y burgundy.",
+              "en": "The iPhone 18 Pro lineup is available in four finishes: black, silver, glacier, and burgundy."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+          },
+          {
+            "text": {
+              "es": "El iPhone 18 Pro incorpora la cámara principal Fusion de 48 MP con apertura variable.",
+              "en": "The iPhone 18 Pro features a 48MP Fusion Main camera with variable aperture."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+          },
+          {
+            "text": {
+              "es": "Tanto el iPhone 18 Pro como el Pro Max están impulsados por el procesador A20 Pro.",
+              "en": "Both iPhone 18 Pro and Pro Max are powered by the A20 Pro chip."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La línea de iPhone 18 Pro se lanzó en cuatro acabados: black, silver, glacier y burgundy.",
+          "en": "The iPhone 18 Pro lineup is available in four finishes: black, silver, glacier, and burgundy."
+        },
+        "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La línea de iPhone 18 Pro se lanzó en cuatro acabados: black, silver, glacier y burgundy.",
+            "en": "The iPhone 18 Pro lineup is available in four finishes: black, silver, glacier, and burgundy."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+        },
+        {
+          "text": {
+            "es": "El iPhone 18 Pro incorpora la cámara principal Fusion de 48 MP con apertura variable.",
+            "en": "The iPhone 18 Pro features a 48MP Fusion Main camera with variable aperture."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+        },
+        {
+          "text": {
+            "es": "Tanto el iPhone 18 Pro como el Pro Max están impulsados por el procesador A20 Pro.",
+            "en": "Both iPhone 18 Pro and Pro Max are powered by the A20 Pro chip."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+        }
+      ]
     },
     {
       "id": "meta-connect-2026",
@@ -51141,10 +51764,70 @@
         "accent": "#1C1C1E"
       },
       "override": {
-        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "fact": {
+          "text": {
+            "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
+            "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
+              "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          },
+          {
+            "text": {
+              "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
+              "en": "The hinge of the iPhone Duo is engineered from over 100 components."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          },
+          {
+            "text": {
+              "es": "La pantalla interna de 7,6 pulgadas es un 50 % más grande que la del iPhone 18 Pro Max.",
+              "en": "The 7.6-inch inner display is 50 percent larger than iPhone 18 Pro Max."
+            },
+            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          }
+        ]
       },
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "fact": {
+        "text": {
+          "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
+          "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+        },
+        "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
+            "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        },
+        {
+          "text": {
+            "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
+            "en": "The hinge of the iPhone Duo is engineered from over 100 components."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        },
+        {
+          "text": {
+            "es": "La pantalla interna de 7,6 pulgadas es un 50 % más grande que la del iPhone 18 Pro Max.",
+            "en": "The 7.6-inch inner display is 50 percent larger than iPhone 18 Pro Max."
+          },
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        }
+      ]
     },
     {
       "id": "aws-reinvent-2026",
@@ -51171,7 +51854,96 @@
       "endDate": "2026-12-04",
       "accent": "#FF9900",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "aws-reinvent-2026",
+        "title": "AWS re:Invent 2026",
+        "emoji": "☁️",
+        "category": "tech",
+        "date": "2026-11-30",
+        "url": "https://aws.amazon.com/events/reinvent/faqs/",
+        "keywords": [
+          "aws",
+          "invent",
+          "2026",
+          "reinvent",
+          "amazon",
+          "nube",
+          "cloud",
+          "conferencia"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "Las Vegas",
+          "es": "Las Vegas"
+        },
+        "endDate": "2026-12-04",
+        "accent": "#FF9900",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "AWS re:Invent 2026 se celebrará en Las Vegas, Nevada, del 30 de noviembre al 4 de diciembre.",
+            "en": "AWS re:Invent 2026 will take place in Las Vegas, NV, from November 30 to December 4."
+          },
+          "source": "https://aws.amazon.com/events/reinvent/faqs/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "AWS re:Invent 2026 se celebrará en Las Vegas, Nevada, del 30 de noviembre al 4 de diciembre.",
+              "en": "AWS re:Invent 2026 will take place in Las Vegas, NV, from November 30 to December 4."
+            },
+            "source": "https://aws.amazon.com/events/reinvent/faqs/"
+          },
+          {
+            "text": {
+              "es": "La conferencia AWS re:Invent ofrece más de 2200 sesiones a lo largo de cinco días en Las Vegas.",
+              "en": "The AWS re:Invent conference features more than 2,200 sessions across five days in Las Vegas."
+            },
+            "source": "https://aws.amazon.com/events/reinvent/faqs/"
+          },
+          {
+            "text": {
+              "es": "La expo de AWS re:Invent reúne a más de 450 socios de AWS de diversas industrias.",
+              "en": "The AWS re:Invent expo features more than 450 AWS Partners across every industry."
+            },
+            "source": "https://aws.amazon.com/events/reinvent/faqs/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "AWS re:Invent 2026 se celebrará en Las Vegas, Nevada, del 30 de noviembre al 4 de diciembre.",
+          "en": "AWS re:Invent 2026 will take place in Las Vegas, NV, from November 30 to December 4."
+        },
+        "source": "https://aws.amazon.com/events/reinvent/faqs/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "AWS re:Invent 2026 se celebrará en Las Vegas, Nevada, del 30 de noviembre al 4 de diciembre.",
+            "en": "AWS re:Invent 2026 will take place in Las Vegas, NV, from November 30 to December 4."
+          },
+          "source": "https://aws.amazon.com/events/reinvent/faqs/"
+        },
+        {
+          "text": {
+            "es": "La conferencia AWS re:Invent ofrece más de 2200 sesiones a lo largo de cinco días en Las Vegas.",
+            "en": "The AWS re:Invent conference features more than 2,200 sessions across five days in Las Vegas."
+          },
+          "source": "https://aws.amazon.com/events/reinvent/faqs/"
+        },
+        {
+          "text": {
+            "es": "La expo de AWS re:Invent reúne a más de 450 socios de AWS de diversas industrias.",
+            "en": "The AWS re:Invent expo features more than 450 AWS Partners across every industry."
+          },
+          "source": "https://aws.amazon.com/events/reinvent/faqs/"
+        }
+      ]
     },
     {
       "id": "mwc-2027",
@@ -53888,6 +54660,14 @@
       "version": 60,
       "target": "earth-day-2027,eurovision-2027,solar-eclipse-2027,the-batman-part-ii,avengers-secret-wars,leap-day-2028,solar-eclipse-2028,expo-2030-riyadh,y2k38,halley-2061",
       "at": "2026-09-17T18:46:01.991764+00:00"
+    },
+    "plantel-datos-lote-05-20260917-1247": {
+      "operationID": "plantel-datos-lote-05-20260917-1247",
+      "digest": "aae4ac3b237d69aad4b6b0282ac466412d19c84a758144114f063401776fe2db",
+      "status": "applied",
+      "version": 61,
+      "target": "guadalupe-reyes-2026,dia-de-la-madre-mx-2027,tokyo-game-show-2026,ea-sports-fc-27,ace-combat-8,gears-of-war-e-day,zelda-ocarina-of-time-2026,iphone-18-pro,iphone-duo,aws-reinvent-2026",
+      "at": "2026-09-17T18:47:56.006521+00:00"
     }
   }
 }
