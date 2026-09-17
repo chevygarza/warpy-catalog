@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -5637,6 +5637,93 @@
         "descuentos",
         "compras",
         "mayo"
+      ],
+      "sourceSnapshot": {
+        "id": "hot-sale-2027",
+        "title": "Hot Sale 2027",
+        "subtitle": "Mexico",
+        "subtitles": {
+          "es": "México"
+        },
+        "emoji": "🔥",
+        "category": "culture",
+        "date": "2027-05-24",
+        "startDate": "2026-06-02",
+        "accent": "#F2994A",
+        "estimated": true,
+        "regions": [
+          "MX"
+        ],
+        "keywords": [
+          "hot sale",
+          "ofertas",
+          "descuentos",
+          "compras",
+          "mayo"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera edición de Hot Sale México se llevó a cabo en 2014.",
+            "en": "The first edition of Hot Sale Mexico took place in 2014."
+          },
+          "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera edición de Hot Sale México se llevó a cabo en 2014.",
+              "en": "The first edition of Hot Sale Mexico took place in 2014."
+            },
+            "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+          },
+          {
+            "text": {
+              "es": "En la edición de Hot Sale de 2022 se registró una participación de 670 empresas.",
+              "en": "During the 2022 Hot Sale edition, 670 companies participated."
+            },
+            "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+          },
+          {
+            "text": {
+              "es": "Más de 1600 empresas han participado a lo largo de las distintas ediciones del evento.",
+              "en": "Over 1,600 companies have participated across the various editions of the event."
+            },
+            "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera edición de Hot Sale México se llevó a cabo en 2014.",
+          "en": "The first edition of Hot Sale Mexico took place in 2014."
+        },
+        "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera edición de Hot Sale México se llevó a cabo en 2014.",
+            "en": "The first edition of Hot Sale Mexico took place in 2014."
+          },
+          "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+        },
+        {
+          "text": {
+            "es": "En la edición de Hot Sale de 2022 se registró una participación de 670 empresas.",
+            "en": "During the 2022 Hot Sale edition, 670 companies participated."
+          },
+          "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+        },
+        {
+          "text": {
+            "es": "Más de 1600 empresas han participado a lo largo de las distintas ediciones del evento.",
+            "en": "Over 1,600 companies have participated across the various editions of the event."
+          },
+          "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
+        }
       ]
     },
     {
@@ -5666,7 +5753,99 @@
         "liguilla"
       ],
       "backdrop": "futbol",
-      "symbol": "soccerball"
+      "symbol": "soccerball",
+      "sourceSnapshot": {
+        "id": "liga-mx-apertura-2026-final",
+        "title": "Liga MX Final · Apertura 2026",
+        "titles": {
+          "es": "Final Liga MX · Apertura 2026"
+        },
+        "subtitle": "Second leg",
+        "subtitles": {
+          "es": "Partido de vuelta"
+        },
+        "emoji": "⚽️",
+        "category": "sports",
+        "date": "2026-12-13",
+        "startDate": "2026-07-17",
+        "accent": "#27AE60",
+        "estimated": true,
+        "regions": [
+          "MX"
+        ],
+        "keywords": [
+          "liga mx",
+          "final",
+          "futbol",
+          "apertura",
+          "liguilla"
+        ],
+        "backdrop": "futbol",
+        "symbol": "soccerball"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La primera edición profesional de la liga mexicana fue la temporada 1943-44, ganada por Asturias.",
+            "en": "The first professional edition of the Mexican league was the 1943–44 season, won by Asturias."
+          },
+          "source": "https://en.wikipedia.org/wiki/Liga_MX"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La primera edición profesional de la liga mexicana fue la temporada 1943-44, ganada por Asturias.",
+              "en": "The first professional edition of the Mexican league was the 1943–44 season, won by Asturias."
+            },
+            "source": "https://en.wikipedia.org/wiki/Liga_MX"
+          },
+          {
+            "text": {
+              "es": "El Club América es el más exitoso de la liga con 16 títulos conseguidos.",
+              "en": "Club América is the most successful club in the league, with 16 titles won."
+            },
+            "source": "https://en.wikipedia.org/wiki/Liga_MX"
+          },
+          {
+            "text": {
+              "es": "Cabinho es el máximo goleador histórico de la Liga MX tras haber anotado 312 goles.",
+              "en": "Cabinho is Liga MX's all-time top goalscorer with 312 goals."
+            },
+            "source": "https://en.wikipedia.org/wiki/Liga_MX"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La primera edición profesional de la liga mexicana fue la temporada 1943-44, ganada por Asturias.",
+          "en": "The first professional edition of the Mexican league was the 1943–44 season, won by Asturias."
+        },
+        "source": "https://en.wikipedia.org/wiki/Liga_MX"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La primera edición profesional de la liga mexicana fue la temporada 1943-44, ganada por Asturias.",
+            "en": "The first professional edition of the Mexican league was the 1943–44 season, won by Asturias."
+          },
+          "source": "https://en.wikipedia.org/wiki/Liga_MX"
+        },
+        {
+          "text": {
+            "es": "El Club América es el más exitoso de la liga con 16 títulos conseguidos.",
+            "en": "Club América is the most successful club in the league, with 16 titles won."
+          },
+          "source": "https://en.wikipedia.org/wiki/Liga_MX"
+        },
+        {
+          "text": {
+            "es": "Cabinho es el máximo goleador histórico de la Liga MX tras haber anotado 312 goles.",
+            "en": "Cabinho is Liga MX's all-time top goalscorer with 312 goals."
+          },
+          "source": "https://en.wikipedia.org/wiki/Liga_MX"
+        }
+      ]
     },
     {
       "id": "dia-de-la-madre-mx-2027",
@@ -52698,7 +52877,99 @@
       },
       "accent": "#F2994A",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "the-game-awards-2026",
+        "title": "The Game Awards 2026",
+        "emoji": "🏆",
+        "category": "entertainment",
+        "date": "2026-12-10",
+        "url": "https://thegameawards.com/",
+        "keywords": [
+          "the",
+          "game",
+          "awards",
+          "2026",
+          "game awards",
+          "tga",
+          "premios",
+          "videojuegos",
+          "gaming",
+          "showcase",
+          "geoff keighley"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "subtitles": {
+          "en": "Peacock Theater, Los Angeles",
+          "es": "Peacock Theater, Los Ángeles"
+        },
+        "accent": "#F2994A",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Para The Game Awards 2014, Geoff Keighley invirtió cerca de 1 millón de dólares propios.",
+            "en": "For The Game Awards 2014, Geoff Keighley invested around US$1 million of his personal funds."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Para The Game Awards 2014, Geoff Keighley invirtió cerca de 1 millón de dólares propios.",
+              "en": "For The Game Awards 2014, Geoff Keighley invested around US$1 million of his personal funds."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+          },
+          {
+            "text": {
+              "es": "La primera edición de The Game Awards se celebró en The AXIS, Las Vegas, el 5 de diciembre de 2014.",
+              "en": "The first edition of The Game Awards took place at The AXIS in Las Vegas on December 5, 2014."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+          },
+          {
+            "text": {
+              "es": "En The Game Awards, los ganadores se definen con un 90% de voto del jurado y un 10% del público.",
+              "en": "At The Game Awards, winners are chosen by a blended vote of 90% voting jury and 10% fan votes."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Para The Game Awards 2014, Geoff Keighley invirtió cerca de 1 millón de dólares propios.",
+          "en": "For The Game Awards 2014, Geoff Keighley invested around US$1 million of his personal funds."
+        },
+        "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Para The Game Awards 2014, Geoff Keighley invirtió cerca de 1 millón de dólares propios.",
+            "en": "For The Game Awards 2014, Geoff Keighley invested around US$1 million of his personal funds."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+        },
+        {
+          "text": {
+            "es": "La primera edición de The Game Awards se celebró en The AXIS, Las Vegas, el 5 de diciembre de 2014.",
+            "en": "The first edition of The Game Awards took place at The AXIS in Las Vegas on December 5, 2014."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+        },
+        {
+          "text": {
+            "es": "En The Game Awards, los ganadores se definen con un 90% de voto del jurado y un 10% del público.",
+            "en": "At The Game Awards, winners are chosen by a blended vote of 90% voting jury and 10% fan votes."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
+        }
+      ]
     },
     {
       "id": "iphone-18-pro",
@@ -52835,7 +53106,96 @@
       "endDate": "2026-09-24",
       "accent": "#0668E1",
       "dateConfirmedAt": "2026-09-13",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "sourceSnapshot": {
+        "id": "meta-connect-2026",
+        "title": "Meta Connect 2026",
+        "emoji": "🥽",
+        "category": "tech",
+        "date": "2026-09-23",
+        "url": "https://www.meta.com/connect/",
+        "keywords": [
+          "meta",
+          "connect",
+          "2026",
+          "quest",
+          "lentes",
+          "gafas",
+          "realidad virtual",
+          "ai"
+        ],
+        "origin": "telegram",
+        "subtitles": {
+          "en": "Menlo Park",
+          "es": "Menlo Park"
+        },
+        "endDate": "2026-09-24",
+        "accent": "#0668E1",
+        "dateConfirmedAt": "2026-09-13",
+        "dateConfirmed": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
+            "en": "Meta Connect 2026 takes place in Menlo Park, California."
+          },
+          "source": "https://www.metaconnect.com"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
+              "en": "Meta Connect 2026 takes place in Menlo Park, California."
+            },
+            "source": "https://www.metaconnect.com"
+          },
+          {
+            "text": {
+              "es": "Mark Zuckerberg presenta el discurso principal el 23 de septiembre.",
+              "en": "Mark Zuckerberg presents the keynote address on September 23."
+            },
+            "source": "https://www.metaconnect.com"
+          },
+          {
+            "text": {
+              "es": "El evento nocturno tras la apertura tiene lugar en Hacker Square.",
+              "en": "The evening event following the keynote takes place in Hacker Square."
+            },
+            "source": "https://www.metaconnect.com"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
+          "en": "Meta Connect 2026 takes place in Menlo Park, California."
+        },
+        "source": "https://www.metaconnect.com"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
+            "en": "Meta Connect 2026 takes place in Menlo Park, California."
+          },
+          "source": "https://www.metaconnect.com"
+        },
+        {
+          "text": {
+            "es": "Mark Zuckerberg presenta el discurso principal el 23 de septiembre.",
+            "en": "Mark Zuckerberg presents the keynote address on September 23."
+          },
+          "source": "https://www.metaconnect.com"
+        },
+        {
+          "text": {
+            "es": "El evento nocturno tras la apertura tiene lugar en Hacker Square.",
+            "en": "The evening event following the keynote takes place in Hacker Square."
+          },
+          "source": "https://www.metaconnect.com"
+        }
+      ]
     },
     {
       "id": "iphone-duo",
@@ -53448,8 +53808,68 @@
         "date": "2026-09-16",
         "time": null,
         "timeZone": "America/Monterrey",
-        "subcategory": "launches"
-      }
+        "subcategory": "launches",
+        "fact": {
+          "text": {
+            "es": "El juego se publicó por primera vez en octubre de 1996 a través de Media Factory en Japón.",
+            "en": "The game was first published in October 1996 by Media Factory in Japan."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego se publicó por primera vez en octubre de 1996 a través de Media Factory en Japón.",
+              "en": "The game was first published in October 1996 by Media Factory in Japan."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+          },
+          {
+            "text": {
+              "es": "Hasta marzo de 2026, el juego había producido más de 85 mil millones de cartas en todo el mundo.",
+              "en": "As of March 2026, the game had produced over 85 billion cards worldwide."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+          },
+          {
+            "text": {
+              "es": "Hasbro compró Wizards of the Coast en septiembre de 1999 por 325 millones de dólares.",
+              "en": "Hasbro bought Wizards of the Coast in September 1999 for $325 million."
+            },
+            "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego se publicó por primera vez en octubre de 1996 a través de Media Factory en Japón.",
+          "en": "The game was first published in October 1996 by Media Factory in Japan."
+        },
+        "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego se publicó por primera vez en octubre de 1996 a través de Media Factory en Japón.",
+            "en": "The game was first published in October 1996 by Media Factory in Japan."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+        },
+        {
+          "text": {
+            "es": "Hasta marzo de 2026, el juego había producido más de 85 mil millones de cartas en todo el mundo.",
+            "en": "As of March 2026, the game had produced over 85 billion cards worldwide."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+        },
+        {
+          "text": {
+            "es": "Hasbro compró Wizards of the Coast en septiembre de 1999 por 325 millones de dólares.",
+            "en": "Hasbro bought Wizards of the Coast in September 1999 for $325 million."
+          },
+          "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
+        }
+      ]
     },
     {
       "id": "independence-day-us-2026",
@@ -57268,6 +57688,14 @@
       "version": 66,
       "target": "tour-de-france-2027,f1-season-2027,nba-finals-2027,world-series-2026,ces-2027,oscars-2027,coachella-2027,wwdc-2027,comic-con-2027,buen-fin-2026",
       "at": "2026-09-17T22:45:24.987246+00:00"
+    },
+    "plantel-datos-lote-11-20260917-1647": {
+      "operationID": "plantel-datos-lote-11-20260917-1647",
+      "digest": "7953572d875aeea8b377de7b0b598102e191bfb82889dec0fb3d429dd630d768",
+      "status": "applied",
+      "version": 67,
+      "target": "hot-sale-2027,liga-mx-apertura-2026-final,the-game-awards-2026,meta-connect-2026,pokemon-30th-celebration-set-2026",
+      "at": "2026-09-17T22:51:28.390791+00:00"
     }
   }
 }
