@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "updatedAt": "2026-09-17",
   "events": [
     {
@@ -1201,7 +1201,95 @@
         "south africa"
       ],
       "backdrop": "cricket",
-      "symbol": "figure.cricket"
+      "symbol": "figure.cricket",
+      "sourceSnapshot": {
+        "id": "cricket-world-cup-2027",
+        "title": "ICC Cricket World Cup 2027",
+        "titles": {
+          "es": "Mundial de Cricket 2027"
+        },
+        "subtitle": "South Africa · Zimbabwe · Namibia",
+        "subtitles": {
+          "es": "Sudáfrica · Zimbabue · Namibia"
+        },
+        "emoji": "🏏",
+        "category": "sports",
+        "date": "2027-10-01",
+        "startDate": "2023-11-19",
+        "accent": "#219653",
+        "estimated": true,
+        "keywords": [
+          "cricket",
+          "icc",
+          "world cup",
+          "south africa"
+        ],
+        "backdrop": "cricket",
+        "symbol": "figure.cricket"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Namibia será sede de la Copa Mundial de Críquet por primera vez en la edición de 2027.",
+            "en": "Namibia will host the Cricket World Cup for the first time during the 2027 tournament."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Namibia será sede de la Copa Mundial de Críquet por primera vez en la edición de 2027.",
+              "en": "Namibia will host the Cricket World Cup for the first time during the 2027 tournament."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Sudáfrica albergará 44 partidos, mientras que Zimbabue y Namibia recibirán los 10 restantes.",
+              "en": "South Africa will host 44 matches, while Zimbabwe and Namibia will host the remaining 10 matches."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+          },
+          {
+            "text": {
+              "es": "Trevor Manuel fue nombrado presidente del comité organizador de 15 miembros del Mundial de 2027.",
+              "en": "Trevor Manuel was appointed chair of the 15-member organising committee for the 2027 World Cup."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Namibia será sede de la Copa Mundial de Críquet por primera vez en la edición de 2027.",
+          "en": "Namibia will host the Cricket World Cup for the first time during the 2027 tournament."
+        },
+        "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Namibia será sede de la Copa Mundial de Críquet por primera vez en la edición de 2027.",
+            "en": "Namibia will host the Cricket World Cup for the first time during the 2027 tournament."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Sudáfrica albergará 44 partidos, mientras que Zimbabue y Namibia recibirán los 10 restantes.",
+            "en": "South Africa will host 44 matches, while Zimbabwe and Namibia will host the remaining 10 matches."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+        },
+        {
+          "text": {
+            "es": "Trevor Manuel fue nombrado presidente del comité organizador de 15 miembros del Mundial de 2027.",
+            "en": "Trevor Manuel was appointed chair of the 15-member organising committee for the 2027 World Cup."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
+        }
+      ]
     },
     {
       "id": "asian-games-2026",
@@ -1225,7 +1313,94 @@
         "japon"
       ],
       "backdrop": "olimpicos",
-      "symbol": "figure.track.and.field"
+      "symbol": "figure.track.and.field",
+      "sourceSnapshot": {
+        "id": "asian-games-2026",
+        "title": "Asian Games 2026",
+        "titles": {
+          "es": "Juegos Asiáticos 2026"
+        },
+        "subtitle": "Aichi-Nagoya · Japan",
+        "subtitles": {
+          "es": "Aichi-Nagoya · Japón"
+        },
+        "emoji": "🎌",
+        "category": "sports",
+        "date": "2026-09-19",
+        "startDate": "2023-10-08",
+        "accent": "#EB5757",
+        "keywords": [
+          "asian games",
+          "nagoya",
+          "japan",
+          "japon"
+        ],
+        "backdrop": "olimpicos",
+        "symbol": "figure.track.and.field"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Nagoya será la tercera urbe nipona en albergar los Juegos Asiáticos, tras Tokio e Hiroshima.",
+            "en": "Nagoya will be the third Japanese city to host the Asian Games, after Tokyo and Hiroshima."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Nagoya será la tercera urbe nipona en albergar los Juegos Asiáticos, tras Tokio e Hiroshima.",
+              "en": "Nagoya will be the third Japanese city to host the Asian Games, after Tokyo and Hiroshima."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+          },
+          {
+            "text": {
+              "es": "Entre 4.000 y 5.000 atletas se alojarán en el crucero Costa Serena atracado en el muelle Kinjo.",
+              "en": "Around 4,000 to 5,000 athletes will be hosted in the Costa Serena cruise ship docked at Kinjo Pier."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+          },
+          {
+            "text": {
+              "es": "Las pruebas de natación de los Juegos Asiáticos de 2026 se trasladaron al Centro Acuático de Tokio.",
+              "en": "Swimming events for the 2026 Asian Games were moved to the Tokyo Aquatics Centre."
+            },
+            "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Nagoya será la tercera urbe nipona en albergar los Juegos Asiáticos, tras Tokio e Hiroshima.",
+          "en": "Nagoya will be the third Japanese city to host the Asian Games, after Tokyo and Hiroshima."
+        },
+        "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Nagoya será la tercera urbe nipona en albergar los Juegos Asiáticos, tras Tokio e Hiroshima.",
+            "en": "Nagoya will be the third Japanese city to host the Asian Games, after Tokyo and Hiroshima."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+        },
+        {
+          "text": {
+            "es": "Entre 4.000 y 5.000 atletas se alojarán en el crucero Costa Serena atracado en el muelle Kinjo.",
+            "en": "Around 4,000 to 5,000 athletes will be hosted in the Costa Serena cruise ship docked at Kinjo Pier."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+        },
+        {
+          "text": {
+            "es": "Las pruebas de natación de los Juegos Asiáticos de 2026 se trasladaron al Centro Acuático de Tokio.",
+            "en": "Swimming events for the 2026 Asian Games were moved to the Tokyo Aquatics Centre."
+          },
+          "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+        }
+      ]
     },
     {
       "id": "ryder-cup-2027",
@@ -1246,7 +1421,91 @@
         "irlanda"
       ],
       "backdrop": "golf",
-      "symbol": "figure.golf"
+      "symbol": "figure.golf",
+      "sourceSnapshot": {
+        "id": "ryder-cup-2027",
+        "title": "Ryder Cup 2027",
+        "subtitle": "Adare Manor · Ireland",
+        "subtitles": {
+          "es": "Adare Manor · Irlanda"
+        },
+        "emoji": "⛳️",
+        "category": "sports",
+        "date": "2027-09-17",
+        "startDate": "2025-09-28",
+        "accent": "#219653",
+        "keywords": [
+          "golf",
+          "ryder",
+          "ireland",
+          "irlanda"
+        ],
+        "backdrop": "golf",
+        "symbol": "figure.golf"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Será la primera edición de la Ryder Cup celebrada en Irlanda desde 2006.",
+            "en": "It will be the first Ryder Cup held in Ireland since 2006."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Será la primera edición de la Ryder Cup celebrada en Irlanda desde 2006.",
+              "en": "It will be the first Ryder Cup held in Ireland since 2006."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+          },
+          {
+            "text": {
+              "es": "Luke Donald es el primer capitán europeo en tres ediciones seguidas desde Bernard Gallacher.",
+              "en": "Luke Donald became the first European captain in three consecutive Cups since Bernard Gallacher."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+          },
+          {
+            "text": {
+              "es": "Jim Furyk fue nombrado capitán del equipo de EE. UU. por segunda vez tras su capitanía en 2018.",
+              "en": "Jim Furyk was named USA captain for a second time following his captaincy in 2018."
+            },
+            "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Será la primera edición de la Ryder Cup celebrada en Irlanda desde 2006.",
+          "en": "It will be the first Ryder Cup held in Ireland since 2006."
+        },
+        "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Será la primera edición de la Ryder Cup celebrada en Irlanda desde 2006.",
+            "en": "It will be the first Ryder Cup held in Ireland since 2006."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+        },
+        {
+          "text": {
+            "es": "Luke Donald es el primer capitán europeo en tres ediciones seguidas desde Bernard Gallacher.",
+            "en": "Luke Donald became the first European captain in three consecutive Cups since Bernard Gallacher."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+        },
+        {
+          "text": {
+            "es": "Jim Furyk fue nombrado capitán del equipo de EE. UU. por segunda vez tras su capitanía en 2018.",
+            "en": "Jim Furyk was named USA captain for a second time following his captaincy in 2018."
+          },
+          "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+        }
+      ]
     },
     {
       "id": "wimbledon-2027",
@@ -1266,7 +1525,90 @@
         "grand slam"
       ],
       "backdrop": "tenis",
-      "symbol": "tennisball.fill"
+      "symbol": "tennisball.fill",
+      "sourceSnapshot": {
+        "id": "wimbledon-2027",
+        "title": "Wimbledon 2027",
+        "subtitle": "The Championships",
+        "emoji": "🎾",
+        "category": "sports",
+        "date": "2027-06-28",
+        "startDate": "2026-07-12",
+        "accent": "#6FCF97",
+        "estimated": true,
+        "keywords": [
+          "tennis",
+          "tenis",
+          "wimbledon",
+          "london",
+          "grand slam"
+        ],
+        "backdrop": "tenis",
+        "symbol": "tennisball.fill"
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Para 2027 se planea una estatua de Andy Murray por los 150 años de The Championships.",
+            "en": "A statue of Andy Murray is planned for 2027 to mark the 150th anniversary of the championships."
+          },
+          "source": "https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Para 2027 se planea una estatua de Andy Murray por los 150 años de The Championships.",
+              "en": "A statue of Andy Murray is planned for 2027 to mark the 150th anniversary of the championships."
+            },
+            "source": "https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+          },
+          {
+            "text": {
+              "es": "La sede del torneo fue fundada el 23 de julio de 1868 originalmente como un club de croquet.",
+              "en": "The tournament venue was originally founded as a croquet club on July 23, 1868."
+            },
+            "source": "https://es.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+          },
+          {
+            "text": {
+              "es": "La primera pista de tenis en las instalaciones del All England Club se construyó en 1875.",
+              "en": "The first tennis court at the All England Club's grounds was built in 1875."
+            },
+            "source": "https://es.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Para 2027 se planea una estatua de Andy Murray por los 150 años de The Championships.",
+          "en": "A statue of Andy Murray is planned for 2027 to mark the 150th anniversary of the championships."
+        },
+        "source": "https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Para 2027 se planea una estatua de Andy Murray por los 150 años de The Championships.",
+            "en": "A statue of Andy Murray is planned for 2027 to mark the 150th anniversary of the championships."
+          },
+          "source": "https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+        },
+        {
+          "text": {
+            "es": "La sede del torneo fue fundada el 23 de julio de 1868 originalmente como un club de croquet.",
+            "en": "The tournament venue was originally founded as a croquet club on July 23, 1868."
+          },
+          "source": "https://es.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+        },
+        {
+          "text": {
+            "es": "La primera pista de tenis en las instalaciones del All England Club se construyó en 1875.",
+            "en": "The first tennis court at the All England Club's grounds was built in 1875."
+          },
+          "source": "https://es.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
+        }
+      ]
     },
     {
       "id": "tour-de-france-2027",
@@ -1388,6 +1730,89 @@
         "munich",
         "germany",
         "alemania"
+      ],
+      "sourceSnapshot": {
+        "id": "oktoberfest-2026",
+        "title": "Oktoberfest 2026",
+        "subtitle": "Munich",
+        "subtitles": {
+          "es": "Múnich"
+        },
+        "emoji": "🍺",
+        "category": "culture",
+        "date": "2026-09-19",
+        "startDate": "2025-10-05",
+        "accent": "#F2C94C",
+        "keywords": [
+          "beer",
+          "cerveza",
+          "munich",
+          "germany",
+          "alemania"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La edición de 2026 del Oktoberfest durará 16 días, desde el 19 de septiembre hasta el 4 de octubre.",
+            "en": "The 2026 Oktoberfest will run for 16 days, from 19 September to 4 October."
+          },
+          "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La edición de 2026 del Oktoberfest durará 16 días, desde el 19 de septiembre hasta el 4 de octubre.",
+              "en": "The 2026 Oktoberfest will run for 16 days, from 19 September to 4 October."
+            },
+            "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+          },
+          {
+            "text": {
+              "es": "El primer Oktoberfest se celebró el 12 de octubre de 1810 por la boda del príncipe Luis y Teresa.",
+              "en": "The first Oktoberfest took place on 12 October 1810 for the wedding of Ludwig and Princess Therese."
+            },
+            "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+          },
+          {
+            "text": {
+              "es": "El sitio original fue llamado Theresienwiese al año siguiente y aún se le conoce como Wiesn.",
+              "en": "The site was named Theresienwiese the following year and is still called Wiesn."
+            },
+            "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La edición de 2026 del Oktoberfest durará 16 días, desde el 19 de septiembre hasta el 4 de octubre.",
+          "en": "The 2026 Oktoberfest will run for 16 days, from 19 September to 4 October."
+        },
+        "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La edición de 2026 del Oktoberfest durará 16 días, desde el 19 de septiembre hasta el 4 de octubre.",
+            "en": "The 2026 Oktoberfest will run for 16 days, from 19 September to 4 October."
+          },
+          "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+        },
+        {
+          "text": {
+            "es": "El primer Oktoberfest se celebró el 12 de octubre de 1810 por la boda del príncipe Luis y Teresa.",
+            "en": "The first Oktoberfest took place on 12 October 1810 for the wedding of Ludwig and Princess Therese."
+          },
+          "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+        },
+        {
+          "text": {
+            "es": "El sitio original fue llamado Theresienwiese al año siguiente y aún se le conoce como Wiesn.",
+            "en": "The site was named Theresienwiese the following year and is still called Wiesn."
+          },
+          "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+        }
       ]
     },
     {
@@ -1406,7 +1831,88 @@
         "spooky"
       ],
       "repeatsYearly": true,
-      "featured": true
+      "featured": true,
+      "sourceSnapshot": {
+        "id": "halloween-2026",
+        "title": "Halloween",
+        "emoji": "🎃",
+        "category": "holidays",
+        "date": "2026-10-31",
+        "startDate": "2025-11-01",
+        "accent": "#F2994A",
+        "keywords": [
+          "halloween",
+          "noche de brujas",
+          "october",
+          "octubre",
+          "spooky"
+        ],
+        "repeatsYearly": true,
+        "featured": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La palabra Halloween proviene de una forma del escocés de las Tierras Bajas de All Hallows' Eve.",
+            "en": "The word Halloween comes from the Lowland Scots form of All Hallows' Eve."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halloween"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La palabra Halloween proviene de una forma del escocés de las Tierras Bajas de All Hallows' Eve.",
+              "en": "The word Halloween comes from the Lowland Scots form of All Hallows' Eve."
+            },
+            "source": "https://en.wikipedia.org/wiki/Halloween"
+          },
+          {
+            "text": {
+              "es": "Hallow proviene del inglés antiguo hālig, que significa santo y se usaba como sinónimo de santo.",
+              "en": "Hallow derives from Middle English halowen, from Old English hālig meaning holy."
+            },
+            "source": "https://en.wikipedia.org/wiki/Halloween"
+          },
+          {
+            "text": {
+              "es": "En 835, el Imperio carolingio adoptó oficialmente el 1 de noviembre para el Día de Todos los Santos.",
+              "en": "In 835, the Frankish Empire officially adopted 1 November as All Saints' Day."
+            },
+            "source": "https://en.wikipedia.org/wiki/Halloween"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La palabra Halloween proviene de una forma del escocés de las Tierras Bajas de All Hallows' Eve.",
+          "en": "The word Halloween comes from the Lowland Scots form of All Hallows' Eve."
+        },
+        "source": "https://en.wikipedia.org/wiki/Halloween"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La palabra Halloween proviene de una forma del escocés de las Tierras Bajas de All Hallows' Eve.",
+            "en": "The word Halloween comes from the Lowland Scots form of All Hallows' Eve."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halloween"
+        },
+        {
+          "text": {
+            "es": "Hallow proviene del inglés antiguo hālig, que significa santo y se usaba como sinónimo de santo.",
+            "en": "Hallow derives from Middle English halowen, from Old English hālig meaning holy."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halloween"
+        },
+        {
+          "text": {
+            "es": "En 835, el Imperio carolingio adoptó oficialmente el 1 de noviembre para el Día de Todos los Santos.",
+            "en": "In 835, the Frankish Empire officially adopted 1 November as All Saints' Day."
+          },
+          "source": "https://en.wikipedia.org/wiki/Halloween"
+        }
+      ]
     },
     {
       "id": "dia-de-muertos-2026",
@@ -1426,7 +1932,90 @@
         "mexico",
         "ofrenda"
       ],
-      "repeatsYearly": true
+      "repeatsYearly": true,
+      "sourceSnapshot": {
+        "id": "dia-de-muertos-2026",
+        "title": "Día de Muertos",
+        "subtitle": "Mexico",
+        "subtitles": {
+          "es": "México"
+        },
+        "emoji": "💀",
+        "category": "holidays",
+        "date": "2026-11-02",
+        "startDate": "2025-11-03",
+        "accent": "#9B51E0",
+        "keywords": [
+          "dia de muertos",
+          "day of the dead",
+          "mexico",
+          "ofrenda"
+        ],
+        "repeatsYearly": true
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La UNESCO incluyó esta festividad en la lista del Patrimonio Cultural Inmaterial en 2008.",
+            "en": "In 2008, UNESCO inscribed the tradition in the Intangible Cultural Heritage of Humanity list."
+          },
+          "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La UNESCO incluyó esta festividad en la lista del Patrimonio Cultural Inmaterial en 2008.",
+              "en": "In 2008, UNESCO inscribed the tradition in the Intangible Cultural Heritage of Humanity list."
+            },
+            "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+          },
+          {
+            "text": {
+              "es": "Las calaveras literarias son versos desenfadados dedicados a amigos y conocidos vivos.",
+              "en": "Calaveras literarias are light-hearted verses dedicated to living friends and acquaintances."
+            },
+            "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+          },
+          {
+            "text": {
+              "es": "El grabador José Guadalupe Posada creó el icónico personaje de La Calavera Catrina.",
+              "en": "Mexican lithographer José Guadalupe Posada created the iconic character La Calavera Catrina."
+            },
+            "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La UNESCO incluyó esta festividad en la lista del Patrimonio Cultural Inmaterial en 2008.",
+          "en": "In 2008, UNESCO inscribed the tradition in the Intangible Cultural Heritage of Humanity list."
+        },
+        "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La UNESCO incluyó esta festividad en la lista del Patrimonio Cultural Inmaterial en 2008.",
+            "en": "In 2008, UNESCO inscribed the tradition in the Intangible Cultural Heritage of Humanity list."
+          },
+          "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+        },
+        {
+          "text": {
+            "es": "Las calaveras literarias son versos desenfadados dedicados a amigos y conocidos vivos.",
+            "en": "Calaveras literarias are light-hearted verses dedicated to living friends and acquaintances."
+          },
+          "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+        },
+        {
+          "text": {
+            "es": "El grabador José Guadalupe Posada creó el icónico personaje de La Calavera Catrina.",
+            "en": "Mexican lithographer José Guadalupe Posada created the iconic character La Calavera Catrina."
+          },
+          "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+        }
+      ]
     },
     {
       "id": "diwali-2026",
@@ -1441,6 +2030,84 @@
         "deepavali",
         "festival of lights",
         "india"
+      ],
+      "sourceSnapshot": {
+        "id": "diwali-2026",
+        "title": "Diwali",
+        "emoji": "🪔",
+        "category": "holidays",
+        "date": "2026-11-08",
+        "startDate": "2025-10-21",
+        "accent": "#F2994A",
+        "keywords": [
+          "diwali",
+          "deepavali",
+          "festival of lights",
+          "india"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Las decoraciones Rangoli con arena o polvo fino de colores son populares durante Diwali.",
+            "en": "Rangoli decorations using coloured fine powder or sand are popular during Diwali."
+          },
+          "source": "https://en.wikipedia.org/wiki/Diwali"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Las decoraciones Rangoli con arena o polvo fino de colores son populares durante Diwali.",
+              "en": "Rangoli decorations using coloured fine powder or sand are popular during Diwali."
+            },
+            "source": "https://en.wikipedia.org/wiki/Diwali"
+          },
+          {
+            "text": {
+              "es": "Un año lunar es unos once días más corto que un año solar.",
+              "en": "A lunar year is shorter than a solar year by about eleven days."
+            },
+            "source": "https://en.wikipedia.org/wiki/Diwali"
+          },
+          {
+            "text": {
+              "es": "En la tradición amanta, la festividad de Diwali concluye en Kartika 2.",
+              "en": "Under the amanta tradition, the Diwali festival concludes on Kartika 2."
+            },
+            "source": "https://en.wikipedia.org/wiki/Diwali"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Las decoraciones Rangoli con arena o polvo fino de colores son populares durante Diwali.",
+          "en": "Rangoli decorations using coloured fine powder or sand are popular during Diwali."
+        },
+        "source": "https://en.wikipedia.org/wiki/Diwali"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Las decoraciones Rangoli con arena o polvo fino de colores son populares durante Diwali.",
+            "en": "Rangoli decorations using coloured fine powder or sand are popular during Diwali."
+          },
+          "source": "https://en.wikipedia.org/wiki/Diwali"
+        },
+        {
+          "text": {
+            "es": "Un año lunar es unos once días más corto que un año solar.",
+            "en": "A lunar year is shorter than a solar year by about eleven days."
+          },
+          "source": "https://en.wikipedia.org/wiki/Diwali"
+        },
+        {
+          "text": {
+            "es": "En la tradición amanta, la festividad de Diwali concluye en Kartika 2.",
+            "en": "Under the amanta tradition, the Diwali festival concludes on Kartika 2."
+          },
+          "source": "https://en.wikipedia.org/wiki/Diwali"
+        }
       ]
     },
     {
@@ -1488,9 +2155,69 @@
         "featured": true
       },
       "override": {
-        "subcategory": "gaming"
+        "subcategory": "gaming",
+        "fact": {
+          "text": {
+            "es": "Lucia Caminos es la primera protagonista femenina no opcional en la historia de la saga.",
+            "en": "Lucia Caminos is the first non-optional female protagonist in the history of the series."
+          },
+          "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Lucia Caminos es la primera protagonista femenina no opcional en la historia de la saga.",
+              "en": "Lucia Caminos is the first non-optional female protagonist in the history of the series."
+            },
+            "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+          },
+          {
+            "text": {
+              "es": "Rockstar contrató a más de 50 artistas callejeros para diseñar murales para el juego.",
+              "en": "Rockstar engaged more than 50 street artists to design murals for the game."
+            },
+            "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+          },
+          {
+            "text": {
+              "es": "La producción principal de Grand Theft Auto VI comenzó en 2020 con el nombre clave Project Americas.",
+              "en": "Principal production of Grand Theft Auto VI began in 2020 under the code name Project Americas."
+            },
+            "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+          }
+        ]
       },
-      "origin": "telegram"
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "Lucia Caminos es la primera protagonista femenina no opcional en la historia de la saga.",
+          "en": "Lucia Caminos is the first non-optional female protagonist in the history of the series."
+        },
+        "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Lucia Caminos es la primera protagonista femenina no opcional en la historia de la saga.",
+            "en": "Lucia Caminos is the first non-optional female protagonist in the history of the series."
+          },
+          "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+        },
+        {
+          "text": {
+            "es": "Rockstar contrató a más de 50 artistas callejeros para diseñar murales para el juego.",
+            "en": "Rockstar engaged more than 50 street artists to design murals for the game."
+          },
+          "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+        },
+        {
+          "text": {
+            "es": "La producción principal de Grand Theft Auto VI comenzó en 2020 con el nombre clave Project Americas.",
+            "en": "Principal production of Grand Theft Auto VI began in 2020 under the code name Project Americas."
+          },
+          "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+        }
+      ]
     },
     {
       "id": "thanksgiving-2026",
@@ -1517,6 +2244,96 @@
       ],
       "regions": [
         "US"
+      ],
+      "sourceSnapshot": {
+        "id": "thanksgiving-2026",
+        "title": "Thanksgiving",
+        "titles": {
+          "es": "Día de Acción de Gracias"
+        },
+        "subtitle": "United States",
+        "subtitles": {
+          "es": "Estados Unidos"
+        },
+        "emoji": "🦃",
+        "category": "holidays",
+        "date": "2026-11-26",
+        "startDate": "2025-11-28",
+        "accent": "#C0672B",
+        "keywords": [
+          "thanksgiving",
+          "accion de gracias",
+          "turkey",
+          "pavo",
+          "november",
+          "noviembre"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La fecha del cuarto jueves de noviembre se volvió uniforme en todo EE. UU. en 1941.",
+            "en": "The fourth Thursday in November became the uniform date country-wide in 1941."
+          },
+          "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La fecha del cuarto jueves de noviembre se volvió uniforme en todo EE. UU. en 1941.",
+              "en": "The fourth Thursday in November became the uniform date country-wide in 1941."
+            },
+            "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "La fecha más temprana posible de Acción de Gracias es el 22 de noviembre y la más tardía el 28.",
+              "en": "The earliest Thanksgiving can take place is November 22, and the latest is November 28."
+            },
+            "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+          },
+          {
+            "text": {
+              "es": "La primera celebración nacional moderna de la festividad se remonta al año 1863.",
+              "en": "The modern national celebration of the holiday dates back to 1863."
+            },
+            "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+          }
+        ]
+      },
+      "origin": "telegram",
+      "fact": {
+        "text": {
+          "es": "La fecha del cuarto jueves de noviembre se volvió uniforme en todo EE. UU. en 1941.",
+          "en": "The fourth Thursday in November became the uniform date country-wide in 1941."
+        },
+        "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La fecha del cuarto jueves de noviembre se volvió uniforme en todo EE. UU. en 1941.",
+            "en": "The fourth Thursday in November became the uniform date country-wide in 1941."
+          },
+          "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "La fecha más temprana posible de Acción de Gracias es el 22 de noviembre y la más tardía el 28.",
+            "en": "The earliest Thanksgiving can take place is November 22, and the latest is November 28."
+          },
+          "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+        },
+        {
+          "text": {
+            "es": "La primera celebración nacional moderna de la festividad se remonta al año 1863.",
+            "en": "The modern national celebration of the holiday dates back to 1863."
+          },
+          "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
+        }
       ]
     },
     {
@@ -51444,6 +52261,14 @@
       "version": 57,
       "target": "fifa-world-cup-2030,super-bowl-lxi-2027,super-bowl-lxii-2028,olympics-la-2028,winter-olympics-2030,olympics-brisbane-2032,winter-olympics-2034,womens-world-cup-2027,uefa-euro-2028,rugby-world-cup-2027",
       "at": "2026-09-17T18:31:42.464112+00:00"
+    },
+    "plantel-datos-lote-02-20260917-1233": {
+      "operationID": "plantel-datos-lote-02-20260917-1233",
+      "digest": "340f218971a5f48b81ef78e5821402bdbfc19824f055d53ed19593f75389932c",
+      "status": "applied",
+      "version": 58,
+      "target": "cricket-world-cup-2027,asian-games-2026,ryder-cup-2027,wimbledon-2027,oktoberfest-2026,halloween-2026,dia-de-muertos-2026,diwali-2026,gta-vi,thanksgiving-2026",
+      "at": "2026-09-17T18:39:04.945452+00:00"
     }
   }
 }
