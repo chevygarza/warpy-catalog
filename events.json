@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "updatedAt": "2026-09-18",
   "events": [
     {
@@ -34723,6 +34723,24 @@
           "estimated": true
         },
         {
+          "id": "la-liga-401882832",
+          "title": "Barcelona vs Real Madrid",
+          "teams": [
+            "Barcelona",
+            "Real Madrid"
+          ],
+          "teamIDs": [
+            "espn:soccer:83",
+            "espn:soccer:86"
+          ],
+          "competition": "la-liga",
+          "venue": "Spotify Camp Nou, Barcelona",
+          "date": "2026-10-25",
+          "time": "19:00",
+          "timeZone": "Europe/Madrid",
+          "estimated": true
+        },
+        {
           "id": "la-liga-401882833",
           "title": "Celta Vigo vs Real Betis",
           "teams": [
@@ -34829,23 +34847,6 @@
           "time": "19:00",
           "timeZone": "Europe/Madrid",
           "estimated": true
-        },
-        {
-          "id": "la-liga-401882832",
-          "title": "Barcelona vs Real Madrid",
-          "teams": [
-            "Barcelona",
-            "Real Madrid"
-          ],
-          "teamIDs": [
-            "espn:soccer:83",
-            "espn:soccer:86"
-          ],
-          "competition": "la-liga",
-          "venue": "Spotify Camp Nou, Barcelona",
-          "date": "2026-10-25",
-          "time": "21:00",
-          "timeZone": "Europe/Madrid"
         },
         {
           "id": "la-liga-401882826",
@@ -55523,24 +55524,6 @@
           "timeZone": "Europe/London"
         },
         {
-          "id": "carabao-cup-401921840",
-          "title": "AFC Bournemouth vs Aston Villa",
-          "teams": [
-            "AFC Bournemouth",
-            "Aston Villa"
-          ],
-          "teamIDs": [
-            "espn:soccer:349",
-            "espn:soccer:362"
-          ],
-          "competition": "carabao-cup",
-          "venue": "Vitality Stadium, Bournemouth",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
-        },
-        {
           "id": "carabao-cup-401921833",
           "title": "Bradford City vs Peterborough United",
           "teams": [
@@ -55554,27 +55537,8 @@
           "competition": "carabao-cup",
           "venue": "Valley Parade, Bradford",
           "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
-        },
-        {
-          "id": "carabao-cup-401921844",
-          "title": "Everton vs Newcastle",
-          "teams": [
-            "Everton",
-            "Newcastle"
-          ],
-          "teamIDs": [
-            "espn:soccer:368",
-            "espn:soccer:361"
-          ],
-          "competition": "carabao-cup",
-          "venue": "Hill Dickinson Stadium, Liverpool",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
+          "time": "19:45",
+          "timeZone": "Europe/London"
         },
         {
           "id": "carabao-cup-401921835",
@@ -55590,45 +55554,8 @@
           "competition": "carabao-cup",
           "venue": "Highbury Stadium, Fleetwood",
           "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
-        },
-        {
-          "id": "carabao-cup-401921841",
-          "title": "Fulham vs Crystal Palace",
-          "teams": [
-            "Fulham",
-            "Crystal Palace"
-          ],
-          "teamIDs": [
-            "espn:soccer:370",
-            "espn:soccer:384"
-          ],
-          "competition": "carabao-cup",
-          "venue": "Craven Cottage, London",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
-        },
-        {
-          "id": "carabao-cup-401921842",
-          "title": "Liverpool vs Chelsea",
-          "teams": [
-            "Liverpool",
-            "Chelsea"
-          ],
-          "teamIDs": [
-            "espn:soccer:364",
-            "espn:soccer:363"
-          ],
-          "competition": "carabao-cup",
-          "venue": "Anfield, Liverpool",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
+          "time": "20:00",
+          "timeZone": "Europe/London"
         },
         {
           "id": "carabao-cup-401921834",
@@ -55643,10 +55570,43 @@
           ],
           "competition": "carabao-cup",
           "venue": "Etihad Stadium, Manchester",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
+          "date": "2026-10-28",
+          "time": "19:30",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "carabao-cup-401921840",
+          "title": "AFC Bournemouth vs Aston Villa",
+          "teams": [
+            "AFC Bournemouth",
+            "Aston Villa"
+          ],
+          "teamIDs": [
+            "espn:soccer:349",
+            "espn:soccer:362"
+          ],
+          "competition": "carabao-cup",
+          "venue": "Vitality Stadium, Bournemouth",
+          "date": "2026-10-28",
+          "time": "19:45",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "carabao-cup-401921841",
+          "title": "Fulham vs Crystal Palace",
+          "teams": [
+            "Fulham",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:370",
+            "espn:soccer:384"
+          ],
+          "competition": "carabao-cup",
+          "venue": "Craven Cottage, London",
+          "date": "2026-10-28",
+          "time": "19:45",
+          "timeZone": "Europe/London"
         },
         {
           "id": "carabao-cup-401921843",
@@ -55661,10 +55621,43 @@
           ],
           "competition": "carabao-cup",
           "venue": "Stadium of Light, Sunderland",
-          "date": "2026-10-27",
-          "time": "18:00",
-          "timeZone": "Europe/London",
-          "estimated": true
+          "date": "2026-10-28",
+          "time": "19:45",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "carabao-cup-401921842",
+          "title": "Liverpool vs Chelsea",
+          "teams": [
+            "Liverpool",
+            "Chelsea"
+          ],
+          "teamIDs": [
+            "espn:soccer:364",
+            "espn:soccer:363"
+          ],
+          "competition": "carabao-cup",
+          "venue": "Anfield, Liverpool",
+          "date": "2026-10-28",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "carabao-cup-401921844",
+          "title": "Everton vs Newcastle",
+          "teams": [
+            "Everton",
+            "Newcastle"
+          ],
+          "teamIDs": [
+            "espn:soccer:368",
+            "espn:soccer:361"
+          ],
+          "competition": "carabao-cup",
+          "venue": "Hill Dickinson Stadium, Liverpool",
+          "date": "2026-10-29",
+          "time": "19:45",
+          "timeZone": "Europe/London"
         }
       ],
       "news": {
