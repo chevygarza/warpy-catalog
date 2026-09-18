@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "updatedAt": "2026-09-18",
   "events": [
     {
@@ -55672,6 +55672,4480 @@
         "publishedAt": "2026-09-18T13:52:26Z",
         "eligible": true
       }
+    },
+    {
+      "id": "europa-league",
+      "title": "Europa League 2026-27",
+      "titles": {
+        "en": "Europa League 2026-27",
+        "es": "Europa League 2026-27"
+      },
+      "shortTitles": {
+        "en": "Europa 26-27",
+        "es": "Europa 26-27"
+      },
+      "symbol": "trophy.fill",
+      "backdrop": "futbol",
+      "duration": 120,
+      "subtitle": "Pick your team",
+      "subtitles": {
+        "en": "Pick your team",
+        "es": "Elige tu equipo"
+      },
+      "emoji": "🏆",
+      "category": "sports",
+      "date": "2026-09-18",
+      "accent": "#F58220",
+      "url": "https://www.uefa.com/uefaeuropaleague/",
+      "keywords": [
+        "europa league",
+        "uefa",
+        "futbol",
+        "fútbol",
+        "soccer"
+      ],
+      "teams": [
+        "AC Milan",
+        "AFC Bournemouth",
+        "ARARAT-ARMENIA",
+        "AZ Alkmaar",
+        "Anderlecht",
+        "Bayer Leverkusen",
+        "Benfica",
+        "Besiktas",
+        "Celta Vigo",
+        "Celtic",
+        "Crystal Palace",
+        "Dinamo Zagreb",
+        "Ferencvaros",
+        "Hapoel Be'er",
+        "Jagiellonia Bialystok",
+        "Juventus",
+        "Lech Poznan",
+        "Levski Sofia",
+        "Lillestrom",
+        "Lyon",
+        "Marseille",
+        "NEC Nijmegen",
+        "NK Celje",
+        "OFI CRETE",
+        "Olympiacos",
+        "Omonia Nicosia",
+        "RB Salzburg",
+        "Real Sociedad",
+        "SK Sturm Graz",
+        "Sparta Prague",
+        "Stade Rennais",
+        "Sunderland",
+        "TSG Hoffenheim",
+        "Torreense",
+        "Union St.-Gilloise",
+        "Viktoria Plzen"
+      ],
+      "occurrences": [
+        {
+          "id": "europa-league-401915594",
+          "title": "ARARAT-ARMENIA vs Sparta Prague",
+          "teams": [
+            "ARARAT-ARMENIA",
+            "Sparta Prague"
+          ],
+          "teamIDs": [
+            "espn:soccer:20024",
+            "espn:soccer:433"
+          ],
+          "competition": "europa-league",
+          "venue": "Vazgen Sargsyan Republican Stadium, Yerevan",
+          "date": "2026-09-16",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "europa-league-401915611",
+          "title": "Omonia Nicosia vs Celta Vigo",
+          "teams": [
+            "Omonia Nicosia",
+            "Celta Vigo"
+          ],
+          "teamIDs": [
+            "espn:soccer:617",
+            "espn:soccer:85"
+          ],
+          "competition": "europa-league",
+          "venue": "GSP Stadium, Nicosia",
+          "date": "2026-09-16",
+          "time": "19:45",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "europa-league-401915586",
+          "title": "AC Milan vs Benfica",
+          "teams": [
+            "AC Milan",
+            "Benfica"
+          ],
+          "teamIDs": [
+            "espn:soccer:103",
+            "espn:soccer:1929"
+          ],
+          "competition": "europa-league",
+          "venue": "San Siro, Milano",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915590",
+          "title": "Anderlecht vs Lyon",
+          "teams": [
+            "Anderlecht",
+            "Lyon"
+          ],
+          "teamIDs": [
+            "espn:soccer:441",
+            "espn:soccer:167"
+          ],
+          "competition": "europa-league",
+          "venue": "Lotto Park, Brussels",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915587",
+          "title": "Bayer Leverkusen vs NK Celje",
+          "teams": [
+            "Bayer Leverkusen",
+            "NK Celje"
+          ],
+          "teamIDs": [
+            "espn:soccer:131",
+            "espn:soccer:3362"
+          ],
+          "competition": "europa-league",
+          "venue": "BayArena, Leverkusen",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915589",
+          "title": "Hapoel Be'er vs Dinamo Zagreb",
+          "teams": [
+            "Hapoel Be'er",
+            "Dinamo Zagreb"
+          ],
+          "teamIDs": [
+            "espn:soccer:13083",
+            "espn:soccer:597"
+          ],
+          "competition": "europa-league",
+          "venue": "Giulesti Stadium, Bucuresti",
+          "date": "2026-09-16",
+          "time": "22:00",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "europa-league-401915588",
+          "title": "Olympiacos vs Jagiellonia Bialystok",
+          "teams": [
+            "Olympiacos",
+            "Jagiellonia Bialystok"
+          ],
+          "teamIDs": [
+            "espn:soccer:435",
+            "espn:soccer:11505"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgios Karaiskakis Stadium, Piraeus",
+          "date": "2026-09-16",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915593",
+          "title": "SK Sturm Graz vs Stade Rennais",
+          "teams": [
+            "SK Sturm Graz",
+            "Stade Rennais"
+          ],
+          "teamIDs": [
+            "espn:soccer:3746",
+            "espn:soccer:169"
+          ],
+          "competition": "europa-league",
+          "venue": "Merkur Arena, Graz",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915592",
+          "title": "Sunderland vs AZ Alkmaar",
+          "teams": [
+            "Sunderland",
+            "AZ Alkmaar"
+          ],
+          "teamIDs": [
+            "espn:soccer:366",
+            "espn:soccer:140"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadium of Light, Sunderland",
+          "date": "2026-09-16",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915584",
+          "title": "Levski Sofia vs RB Salzburg",
+          "teams": [
+            "Levski Sofia",
+            "RB Salzburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:490",
+            "espn:soccer:2790"
+          ],
+          "competition": "europa-league",
+          "venue": "Vasil Levski National Stadium, Sofia",
+          "date": "2026-09-17",
+          "time": "19:45",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "europa-league-401915585",
+          "title": "OFI CRETE vs TSG Hoffenheim",
+          "teams": [
+            "OFI CRETE",
+            "TSG Hoffenheim"
+          ],
+          "teamIDs": [
+            "espn:soccer:1010",
+            "espn:soccer:7911"
+          ],
+          "competition": "europa-league",
+          "venue": "Pankritio Stadium, Crete",
+          "date": "2026-09-17",
+          "time": "19:45",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915591",
+          "title": "Besiktas vs Marseille",
+          "teams": [
+            "Besiktas",
+            "Marseille"
+          ],
+          "teamIDs": [
+            "espn:soccer:1895",
+            "espn:soccer:176"
+          ],
+          "competition": "europa-league",
+          "venue": "Vodafone Park, Istanbul",
+          "date": "2026-09-17",
+          "time": "22:00",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "europa-league-401915581",
+          "title": "Celtic vs Ferencvaros",
+          "teams": [
+            "Celtic",
+            "Ferencvaros"
+          ],
+          "teamIDs": [
+            "espn:soccer:256",
+            "espn:soccer:622"
+          ],
+          "competition": "europa-league",
+          "venue": "Celtic Park, Glasgow",
+          "date": "2026-09-17",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915569",
+          "title": "Crystal Palace vs Lech Poznan",
+          "teams": [
+            "Crystal Palace",
+            "Lech Poznan"
+          ],
+          "teamIDs": [
+            "espn:soccer:384",
+            "espn:soccer:2990"
+          ],
+          "competition": "europa-league",
+          "venue": "Selhurst Park, London",
+          "date": "2026-09-17",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915582",
+          "title": "Juventus vs NEC Nijmegen",
+          "teams": [
+            "Juventus",
+            "NEC Nijmegen"
+          ],
+          "teamIDs": [
+            "espn:soccer:111",
+            "espn:soccer:147"
+          ],
+          "competition": "europa-league",
+          "venue": "Allianz Stadium, Torino",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915570",
+          "title": "Lillestrom vs Torreense",
+          "teams": [
+            "Lillestrom",
+            "Torreense"
+          ],
+          "teamIDs": [
+            "espn:soccer:987",
+            "espn:soccer:21615"
+          ],
+          "competition": "europa-league",
+          "venue": "Arasen Stadion, Lillestrøm",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "europa-league-401915583",
+          "title": "Real Sociedad vs AFC Bournemouth",
+          "teams": [
+            "Real Sociedad",
+            "AFC Bournemouth"
+          ],
+          "teamIDs": [
+            "espn:soccer:89",
+            "espn:soccer:349"
+          ],
+          "competition": "europa-league",
+          "venue": "Reale Arena, San Sebastian",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915580",
+          "title": "Viktoria Plzen vs Union St.-Gilloise",
+          "teams": [
+            "Viktoria Plzen",
+            "Union St.-Gilloise"
+          ],
+          "teamIDs": [
+            "espn:soccer:11706",
+            "espn:soccer:5807"
+          ],
+          "competition": "europa-league",
+          "venue": "Doosan Arena, Plzen",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915573",
+          "title": "AZ Alkmaar vs Hapoel Be'er",
+          "teams": [
+            "AZ Alkmaar",
+            "Hapoel Be'er"
+          ],
+          "teamIDs": [
+            "espn:soccer:140",
+            "espn:soccer:13083"
+          ],
+          "competition": "europa-league",
+          "venue": "AFAS Stadion, Alkmaar",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915576",
+          "title": "Lech Poznan vs Bayer Leverkusen",
+          "teams": [
+            "Lech Poznan",
+            "Bayer Leverkusen"
+          ],
+          "teamIDs": [
+            "espn:soccer:2990",
+            "espn:soccer:131"
+          ],
+          "competition": "europa-league",
+          "venue": "Municipal Stadium-Poznan, Poznan",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915566",
+          "title": "Lyon vs Crystal Palace",
+          "teams": [
+            "Lyon",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:167",
+            "espn:soccer:384"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Stadium, Lyon",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915577",
+          "title": "NK Celje vs Omonia Nicosia",
+          "teams": [
+            "NK Celje",
+            "Omonia Nicosia"
+          ],
+          "teamIDs": [
+            "espn:soccer:3362",
+            "espn:soccer:617"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Z'dezele, Celje",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Ljubljana"
+        },
+        {
+          "id": "europa-league-401915568",
+          "title": "RB Salzburg vs AC Milan",
+          "teams": [
+            "RB Salzburg",
+            "AC Milan"
+          ],
+          "teamIDs": [
+            "espn:soccer:2790",
+            "espn:soccer:103"
+          ],
+          "competition": "europa-league",
+          "venue": "Red Bull Arena Salzburg, Salzburg",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915567",
+          "title": "Sparta Prague vs Lillestrom",
+          "teams": [
+            "Sparta Prague",
+            "Lillestrom"
+          ],
+          "teamIDs": [
+            "espn:soccer:433",
+            "espn:soccer:987"
+          ],
+          "competition": "europa-league",
+          "venue": "Generali Arena, Prague",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915575",
+          "title": "Torreense vs Sunderland",
+          "teams": [
+            "Torreense",
+            "Sunderland"
+          ],
+          "teamIDs": [
+            "espn:soccer:21615",
+            "espn:soccer:366"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "date": "2026-10-15",
+          "time": "17:45",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915574",
+          "title": "Union St.-Gilloise vs Real Sociedad",
+          "teams": [
+            "Union St.-Gilloise",
+            "Real Sociedad"
+          ],
+          "teamIDs": [
+            "espn:soccer:5807",
+            "espn:soccer:89"
+          ],
+          "competition": "europa-league",
+          "venue": "King Power at Den Dreef Stadion, Leuven",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915571",
+          "title": "AFC Bournemouth vs SK Sturm Graz",
+          "teams": [
+            "AFC Bournemouth",
+            "SK Sturm Graz"
+          ],
+          "teamIDs": [
+            "espn:soccer:349",
+            "espn:soccer:3746"
+          ],
+          "competition": "europa-league",
+          "venue": "Vitality Stadium, Bournemouth",
+          "date": "2026-10-15",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915562",
+          "title": "Benfica vs Celtic",
+          "teams": [
+            "Benfica",
+            "Celtic"
+          ],
+          "teamIDs": [
+            "espn:soccer:1929",
+            "espn:soccer:256"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio da Luz, Lisbon",
+          "date": "2026-10-15",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915560",
+          "title": "Celta Vigo vs Juventus",
+          "teams": [
+            "Celta Vigo",
+            "Juventus"
+          ],
+          "teamIDs": [
+            "espn:soccer:85",
+            "espn:soccer:111"
+          ],
+          "competition": "europa-league",
+          "venue": "Balaidos, Vigo",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915549",
+          "title": "Dinamo Zagreb vs Anderlecht",
+          "teams": [
+            "Dinamo Zagreb",
+            "Anderlecht"
+          ],
+          "teamIDs": [
+            "espn:soccer:597",
+            "espn:soccer:441"
+          ],
+          "competition": "europa-league",
+          "venue": "Maksimir Stadium, Zagreb",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "europa-league-401915564",
+          "title": "Ferencvaros vs Viktoria Plzen",
+          "teams": [
+            "Ferencvaros",
+            "Viktoria Plzen"
+          ],
+          "teamIDs": [
+            "espn:soccer:622",
+            "espn:soccer:11706"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Arena, Budapest",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Budapest"
+        },
+        {
+          "id": "europa-league-401915561",
+          "title": "Jagiellonia Bialystok vs ARARAT-ARMENIA",
+          "teams": [
+            "Jagiellonia Bialystok",
+            "ARARAT-ARMENIA"
+          ],
+          "teamIDs": [
+            "espn:soccer:11505",
+            "espn:soccer:20024"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Miejski Bialystok, Bialystok",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915550",
+          "title": "Marseille vs Olympiacos",
+          "teams": [
+            "Marseille",
+            "Olympiacos"
+          ],
+          "teamIDs": [
+            "espn:soccer:176",
+            "espn:soccer:435"
+          ],
+          "competition": "europa-league",
+          "venue": "Stade Vélodrome, Marseille",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915565",
+          "title": "NEC Nijmegen vs Levski Sofia",
+          "teams": [
+            "NEC Nijmegen",
+            "Levski Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:147",
+            "espn:soccer:490"
+          ],
+          "competition": "europa-league",
+          "venue": "Goffertstadion, Nijmegen",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915572",
+          "title": "Stade Rennais vs OFI CRETE",
+          "teams": [
+            "Stade Rennais",
+            "OFI CRETE"
+          ],
+          "teamIDs": [
+            "espn:soccer:169",
+            "espn:soccer:1010"
+          ],
+          "competition": "europa-league",
+          "venue": "Roazhon Park, Rennes",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915563",
+          "title": "TSG Hoffenheim vs Besiktas",
+          "teams": [
+            "TSG Hoffenheim",
+            "Besiktas"
+          ],
+          "teamIDs": [
+            "espn:soccer:7911",
+            "espn:soccer:1895"
+          ],
+          "competition": "europa-league",
+          "venue": "PreZero Arena, Sinsheim",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915548",
+          "title": "ARARAT-ARMENIA vs AZ Alkmaar",
+          "teams": [
+            "ARARAT-ARMENIA",
+            "AZ Alkmaar"
+          ],
+          "teamIDs": [
+            "espn:soccer:20024",
+            "espn:soccer:140"
+          ],
+          "competition": "europa-league",
+          "venue": "Abovyan City Stadium, Abovyan",
+          "date": "2026-10-22",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "europa-league-401915556",
+          "title": "Dinamo Zagreb vs NEC Nijmegen",
+          "teams": [
+            "Dinamo Zagreb",
+            "NEC Nijmegen"
+          ],
+          "teamIDs": [
+            "espn:soccer:597",
+            "espn:soccer:147"
+          ],
+          "competition": "europa-league",
+          "venue": "Maksimir Stadium, Zagreb",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "europa-league-401915558",
+          "title": "Ferencvaros vs Torreense",
+          "teams": [
+            "Ferencvaros",
+            "Torreense"
+          ],
+          "teamIDs": [
+            "espn:soccer:622",
+            "espn:soccer:21615"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Arena, Budapest",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Budapest"
+        },
+        {
+          "id": "europa-league-401915547",
+          "title": "Juventus vs Stade Rennais",
+          "teams": [
+            "Juventus",
+            "Stade Rennais"
+          ],
+          "teamIDs": [
+            "espn:soccer:111",
+            "espn:soccer:169"
+          ],
+          "competition": "europa-league",
+          "venue": "Allianz Stadium, Torino",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915546",
+          "title": "Lech Poznan vs Sunderland",
+          "teams": [
+            "Lech Poznan",
+            "Sunderland"
+          ],
+          "teamIDs": [
+            "espn:soccer:2990",
+            "espn:soccer:366"
+          ],
+          "competition": "europa-league",
+          "venue": "Municipal Stadium-Poznan, Poznan",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915559",
+          "title": "OFI CRETE vs Bayer Leverkusen",
+          "teams": [
+            "OFI CRETE",
+            "Bayer Leverkusen"
+          ],
+          "teamIDs": [
+            "espn:soccer:1010",
+            "espn:soccer:131"
+          ],
+          "competition": "europa-league",
+          "venue": "Pankritio Stadium, Crete",
+          "date": "2026-10-22",
+          "time": "19:45",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915557",
+          "title": "SK Sturm Graz vs Marseille",
+          "teams": [
+            "SK Sturm Graz",
+            "Marseille"
+          ],
+          "teamIDs": [
+            "espn:soccer:3746",
+            "espn:soccer:176"
+          ],
+          "competition": "europa-league",
+          "venue": "Merkur Arena, Graz",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915545",
+          "title": "Union St.-Gilloise vs Hapoel Be'er",
+          "teams": [
+            "Union St.-Gilloise",
+            "Hapoel Be'er"
+          ],
+          "teamIDs": [
+            "espn:soccer:5807",
+            "espn:soccer:13083"
+          ],
+          "competition": "europa-league",
+          "venue": "King Power at Den Dreef Stadion, Leuven",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915552",
+          "title": "AFC Bournemouth vs AC Milan",
+          "teams": [
+            "AFC Bournemouth",
+            "AC Milan"
+          ],
+          "teamIDs": [
+            "espn:soccer:349",
+            "espn:soccer:103"
+          ],
+          "competition": "europa-league",
+          "venue": "Vitality Stadium, Bournemouth",
+          "date": "2026-10-22",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915553",
+          "title": "Besiktas vs Crystal Palace",
+          "teams": [
+            "Besiktas",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:1895",
+            "espn:soccer:384"
+          ],
+          "competition": "europa-league",
+          "venue": "Vodafone Park, Istanbul",
+          "date": "2026-10-22",
+          "time": "22:00",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "europa-league-401915555",
+          "title": "Celtic vs Celta Vigo",
+          "teams": [
+            "Celtic",
+            "Celta Vigo"
+          ],
+          "teamIDs": [
+            "espn:soccer:256",
+            "espn:soccer:85"
+          ],
+          "competition": "europa-league",
+          "venue": "Celtic Park, Glasgow",
+          "date": "2026-10-22",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915542",
+          "title": "Jagiellonia Bialystok vs Anderlecht",
+          "teams": [
+            "Jagiellonia Bialystok",
+            "Anderlecht"
+          ],
+          "teamIDs": [
+            "espn:soccer:11505",
+            "espn:soccer:441"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Miejski Bialystok, Bialystok",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915540",
+          "title": "Lillestrom vs Real Sociedad",
+          "teams": [
+            "Lillestrom",
+            "Real Sociedad"
+          ],
+          "teamIDs": [
+            "espn:soccer:987",
+            "espn:soccer:89"
+          ],
+          "competition": "europa-league",
+          "venue": "Arasen Stadion, Lillestrøm",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "europa-league-401915541",
+          "title": "NK Celje vs RB Salzburg",
+          "teams": [
+            "NK Celje",
+            "RB Salzburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:3362",
+            "espn:soccer:2790"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Z'dezele, Celje",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Ljubljana"
+        },
+        {
+          "id": "europa-league-401915554",
+          "title": "Olympiacos vs Sparta Prague",
+          "teams": [
+            "Olympiacos",
+            "Sparta Prague"
+          ],
+          "teamIDs": [
+            "espn:soccer:435",
+            "espn:soccer:433"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgios Karaiskakis Stadium, Piraeus",
+          "date": "2026-10-22",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915544",
+          "title": "Omonia Nicosia vs Benfica",
+          "teams": [
+            "Omonia Nicosia",
+            "Benfica"
+          ],
+          "teamIDs": [
+            "espn:soccer:617",
+            "espn:soccer:1929"
+          ],
+          "competition": "europa-league",
+          "venue": "GSP Stadium, Nicosia",
+          "date": "2026-10-22",
+          "time": "22:00",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "europa-league-401915543",
+          "title": "TSG Hoffenheim vs Lyon",
+          "teams": [
+            "TSG Hoffenheim",
+            "Lyon"
+          ],
+          "teamIDs": [
+            "espn:soccer:7911",
+            "espn:soccer:167"
+          ],
+          "competition": "europa-league",
+          "venue": "PreZero Arena, Sinsheim",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915539",
+          "title": "Viktoria Plzen vs Levski Sofia",
+          "teams": [
+            "Viktoria Plzen",
+            "Levski Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:11706",
+            "espn:soccer:490"
+          ],
+          "competition": "europa-league",
+          "venue": "Doosan Arena, Plzen",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915534",
+          "title": "AC Milan vs Ferencvaros",
+          "teams": [
+            "AC Milan",
+            "Ferencvaros"
+          ],
+          "teamIDs": [
+            "espn:soccer:103",
+            "espn:soccer:622"
+          ],
+          "competition": "europa-league",
+          "venue": "San Siro, Milano",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915538",
+          "title": "Anderlecht vs RB Salzburg",
+          "teams": [
+            "Anderlecht",
+            "RB Salzburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:441",
+            "espn:soccer:2790"
+          ],
+          "competition": "europa-league",
+          "venue": "Lotto Park, Brussels",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915526",
+          "title": "Crystal Palace vs TSG Hoffenheim",
+          "teams": [
+            "Crystal Palace",
+            "TSG Hoffenheim"
+          ],
+          "teamIDs": [
+            "espn:soccer:384",
+            "espn:soccer:7911"
+          ],
+          "competition": "europa-league",
+          "venue": "Selhurst Park, London",
+          "date": "2026-11-05",
+          "time": "17:45",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915536",
+          "title": "Levski Sofia vs Jagiellonia Bialystok",
+          "teams": [
+            "Levski Sofia",
+            "Jagiellonia Bialystok"
+          ],
+          "teamIDs": [
+            "espn:soccer:490",
+            "espn:soccer:11505"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgi Asparuhov Stadium, Sofia",
+          "date": "2026-11-05",
+          "time": "19:45",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "europa-league-401915527",
+          "title": "Lillestrom vs Viktoria Plzen",
+          "teams": [
+            "Lillestrom",
+            "Viktoria Plzen"
+          ],
+          "teamIDs": [
+            "espn:soccer:987",
+            "espn:soccer:11706"
+          ],
+          "competition": "europa-league",
+          "venue": "Arasen Stadion, Lillestrøm",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "europa-league-401915535",
+          "title": "NEC Nijmegen vs Omonia Nicosia",
+          "teams": [
+            "NEC Nijmegen",
+            "Omonia Nicosia"
+          ],
+          "teamIDs": [
+            "espn:soccer:147",
+            "espn:soccer:617"
+          ],
+          "competition": "europa-league",
+          "venue": "Goffertstadion, Nijmegen",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915537",
+          "title": "Real Sociedad vs Lyon",
+          "teams": [
+            "Real Sociedad",
+            "Lyon"
+          ],
+          "teamIDs": [
+            "espn:soccer:89",
+            "espn:soccer:167"
+          ],
+          "competition": "europa-league",
+          "venue": "Reale Arena, San Sebastian",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915528",
+          "title": "Sparta Prague vs AFC Bournemouth",
+          "teams": [
+            "Sparta Prague",
+            "AFC Bournemouth"
+          ],
+          "teamIDs": [
+            "espn:soccer:433",
+            "espn:soccer:349"
+          ],
+          "competition": "europa-league",
+          "venue": "Generali Arena, Prague",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915551",
+          "title": "Stade Rennais vs Olympiacos",
+          "teams": [
+            "Stade Rennais",
+            "Olympiacos"
+          ],
+          "teamIDs": [
+            "espn:soccer:169",
+            "espn:soccer:435"
+          ],
+          "competition": "europa-league",
+          "venue": "Roazhon Park, Rennes",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915529",
+          "title": "AZ Alkmaar vs Juventus",
+          "teams": [
+            "AZ Alkmaar",
+            "Juventus"
+          ],
+          "teamIDs": [
+            "espn:soccer:140",
+            "espn:soccer:111"
+          ],
+          "competition": "europa-league",
+          "venue": "AFAS Stadion, Alkmaar",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915533",
+          "title": "Bayer Leverkusen vs Marseille",
+          "teams": [
+            "Bayer Leverkusen",
+            "Marseille"
+          ],
+          "teamIDs": [
+            "espn:soccer:131",
+            "espn:soccer:176"
+          ],
+          "competition": "europa-league",
+          "venue": "BayArena, Leverkusen",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915525",
+          "title": "Benfica vs Lech Poznan",
+          "teams": [
+            "Benfica",
+            "Lech Poznan"
+          ],
+          "teamIDs": [
+            "espn:soccer:1929",
+            "espn:soccer:2990"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio da Luz, Lisbon",
+          "date": "2026-11-05",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915531",
+          "title": "Celta Vigo vs Union St.-Gilloise",
+          "teams": [
+            "Celta Vigo",
+            "Union St.-Gilloise"
+          ],
+          "teamIDs": [
+            "espn:soccer:85",
+            "espn:soccer:5807"
+          ],
+          "competition": "europa-league",
+          "venue": "Balaidos, Vigo",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915522",
+          "title": "Celtic vs Besiktas",
+          "teams": [
+            "Celtic",
+            "Besiktas"
+          ],
+          "teamIDs": [
+            "espn:soccer:256",
+            "espn:soccer:1895"
+          ],
+          "competition": "europa-league",
+          "venue": "Celtic Park, Glasgow",
+          "date": "2026-11-05",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915532",
+          "title": "Hapoel Be'er vs OFI CRETE",
+          "teams": [
+            "Hapoel Be'er",
+            "OFI CRETE"
+          ],
+          "teamIDs": [
+            "espn:soccer:13083",
+            "espn:soccer:1010"
+          ],
+          "competition": "europa-league",
+          "venue": "Giulesti Stadium, Bucuresti",
+          "date": "2026-11-05",
+          "time": "22:00",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "europa-league-401915524",
+          "title": "SK Sturm Graz vs NK Celje",
+          "teams": [
+            "SK Sturm Graz",
+            "NK Celje"
+          ],
+          "teamIDs": [
+            "espn:soccer:3746",
+            "espn:soccer:3362"
+          ],
+          "competition": "europa-league",
+          "venue": "Merkur Arena, Graz",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915523",
+          "title": "Sunderland vs Dinamo Zagreb",
+          "teams": [
+            "Sunderland",
+            "Dinamo Zagreb"
+          ],
+          "teamIDs": [
+            "espn:soccer:366",
+            "espn:soccer:597"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadium of Light, Sunderland",
+          "date": "2026-11-05",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915530",
+          "title": "Torreense vs ARARAT-ARMENIA",
+          "teams": [
+            "Torreense",
+            "ARARAT-ARMENIA"
+          ],
+          "teamIDs": [
+            "espn:soccer:21615",
+            "espn:soccer:20024"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "date": "2026-11-05",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915506",
+          "title": "Besiktas vs Hapoel Be'er",
+          "teams": [
+            "Besiktas",
+            "Hapoel Be'er"
+          ],
+          "teamIDs": [
+            "espn:soccer:1895",
+            "espn:soccer:13083"
+          ],
+          "competition": "europa-league",
+          "venue": "Vodafone Park, Istanbul",
+          "date": "2026-11-26",
+          "time": "20:45",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "europa-league-401915519",
+          "title": "Celta Vigo vs AFC Bournemouth",
+          "teams": [
+            "Celta Vigo",
+            "AFC Bournemouth"
+          ],
+          "teamIDs": [
+            "espn:soccer:85",
+            "espn:soccer:349"
+          ],
+          "competition": "europa-league",
+          "venue": "Balaidos, Vigo",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915517",
+          "title": "Dinamo Zagreb vs Bayer Leverkusen",
+          "teams": [
+            "Dinamo Zagreb",
+            "Bayer Leverkusen"
+          ],
+          "teamIDs": [
+            "espn:soccer:597",
+            "espn:soccer:131"
+          ],
+          "competition": "europa-league",
+          "venue": "Maksimir Stadium, Zagreb",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "europa-league-401915507",
+          "title": "Marseille vs Levski Sofia",
+          "teams": [
+            "Marseille",
+            "Levski Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:176",
+            "espn:soccer:490"
+          ],
+          "competition": "europa-league",
+          "venue": "Stade Vélodrome, Marseille",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915521",
+          "title": "Olympiacos vs AC Milan",
+          "teams": [
+            "Olympiacos",
+            "AC Milan"
+          ],
+          "teamIDs": [
+            "espn:soccer:435",
+            "espn:soccer:103"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgios Karaiskakis Stadium, Piraeus",
+          "date": "2026-11-26",
+          "time": "19:45",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915520",
+          "title": "RB Salzburg vs ARARAT-ARMENIA",
+          "teams": [
+            "RB Salzburg",
+            "ARARAT-ARMENIA"
+          ],
+          "teamIDs": [
+            "espn:soccer:2790",
+            "espn:soccer:20024"
+          ],
+          "competition": "europa-league",
+          "venue": "Red Bull Arena Salzburg, Salzburg",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915508",
+          "title": "Union St.-Gilloise vs Lech Poznan",
+          "teams": [
+            "Union St.-Gilloise",
+            "Lech Poznan"
+          ],
+          "teamIDs": [
+            "espn:soccer:5807",
+            "espn:soccer:2990"
+          ],
+          "competition": "europa-league",
+          "venue": "King Power at Den Dreef Stadion, Leuven",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915518",
+          "title": "Viktoria Plzen vs Benfica",
+          "teams": [
+            "Viktoria Plzen",
+            "Benfica"
+          ],
+          "teamIDs": [
+            "espn:soccer:11706",
+            "espn:soccer:1929"
+          ],
+          "competition": "europa-league",
+          "venue": "Doosan Arena, Plzen",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915504",
+          "title": "Crystal Palace vs Real Sociedad",
+          "teams": [
+            "Crystal Palace",
+            "Real Sociedad"
+          ],
+          "teamIDs": [
+            "espn:soccer:384",
+            "espn:soccer:89"
+          ],
+          "competition": "europa-league",
+          "venue": "Selhurst Park, London",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915516",
+          "title": "Ferencvaros vs NK Celje",
+          "teams": [
+            "Ferencvaros",
+            "NK Celje"
+          ],
+          "teamIDs": [
+            "espn:soccer:622",
+            "espn:soccer:3362"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Arena, Budapest",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Budapest"
+        },
+        {
+          "id": "europa-league-401915502",
+          "title": "Juventus vs Omonia Nicosia",
+          "teams": [
+            "Juventus",
+            "Omonia Nicosia"
+          ],
+          "teamIDs": [
+            "espn:soccer:111",
+            "espn:soccer:617"
+          ],
+          "competition": "europa-league",
+          "venue": "Allianz Stadium, Torino",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915501",
+          "title": "Lyon vs Lillestrom",
+          "teams": [
+            "Lyon",
+            "Lillestrom"
+          ],
+          "teamIDs": [
+            "espn:soccer:167",
+            "espn:soccer:987"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Stadium, Lyon",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915505",
+          "title": "NEC Nijmegen vs Stade Rennais",
+          "teams": [
+            "NEC Nijmegen",
+            "Stade Rennais"
+          ],
+          "teamIDs": [
+            "espn:soccer:147",
+            "espn:soccer:169"
+          ],
+          "competition": "europa-league",
+          "venue": "Goffertstadion, Nijmegen",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915503",
+          "title": "OFI CRETE vs Anderlecht",
+          "teams": [
+            "OFI CRETE",
+            "Anderlecht"
+          ],
+          "teamIDs": [
+            "espn:soccer:1010",
+            "espn:soccer:441"
+          ],
+          "competition": "europa-league",
+          "venue": "Pankritio Stadium, Crete",
+          "date": "2026-11-26",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915514",
+          "title": "Sparta Prague vs AZ Alkmaar",
+          "teams": [
+            "Sparta Prague",
+            "AZ Alkmaar"
+          ],
+          "teamIDs": [
+            "espn:soccer:433",
+            "espn:soccer:140"
+          ],
+          "competition": "europa-league",
+          "venue": "Generali Arena, Prague",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915513",
+          "title": "Sunderland vs Jagiellonia Bialystok",
+          "teams": [
+            "Sunderland",
+            "Jagiellonia Bialystok"
+          ],
+          "teamIDs": [
+            "espn:soccer:366",
+            "espn:soccer:11505"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadium of Light, Sunderland",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915512",
+          "title": "Torreense vs Celtic",
+          "teams": [
+            "Torreense",
+            "Celtic"
+          ],
+          "teamIDs": [
+            "espn:soccer:21615",
+            "espn:soccer:256"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915515",
+          "title": "TSG Hoffenheim vs SK Sturm Graz",
+          "teams": [
+            "TSG Hoffenheim",
+            "SK Sturm Graz"
+          ],
+          "teamIDs": [
+            "espn:soccer:7911",
+            "espn:soccer:3746"
+          ],
+          "competition": "europa-league",
+          "venue": "PreZero Arena, Sinsheim",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915511",
+          "title": "Anderlecht vs TSG Hoffenheim",
+          "teams": [
+            "Anderlecht",
+            "TSG Hoffenheim"
+          ],
+          "teamIDs": [
+            "espn:soccer:441",
+            "espn:soccer:7911"
+          ],
+          "competition": "europa-league",
+          "venue": "Lotto Park, Brussels",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915500",
+          "title": "ARARAT-ARMENIA vs NEC Nijmegen",
+          "teams": [
+            "ARARAT-ARMENIA",
+            "NEC Nijmegen"
+          ],
+          "teamIDs": [
+            "espn:soccer:20024",
+            "espn:soccer:147"
+          ],
+          "competition": "europa-league",
+          "venue": "Abovyan City Stadium, Abovyan",
+          "date": "2026-12-10",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "europa-league-401915494",
+          "title": "AZ Alkmaar vs SK Sturm Graz",
+          "teams": [
+            "AZ Alkmaar",
+            "SK Sturm Graz"
+          ],
+          "teamIDs": [
+            "espn:soccer:140",
+            "espn:soccer:3746"
+          ],
+          "competition": "europa-league",
+          "venue": "AFAS Stadion, Alkmaar",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915499",
+          "title": "Hapoel Be'er vs Juventus",
+          "teams": [
+            "Hapoel Be'er",
+            "Juventus"
+          ],
+          "teamIDs": [
+            "espn:soccer:13083",
+            "espn:soccer:111"
+          ],
+          "competition": "europa-league",
+          "venue": "Giulesti Stadium, Bucuresti",
+          "date": "2026-12-10",
+          "time": "19:45",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "europa-league-401915496",
+          "title": "Jagiellonia Bialystok vs Crystal Palace",
+          "teams": [
+            "Jagiellonia Bialystok",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:11505",
+            "espn:soccer:384"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Miejski Bialystok, Bialystok",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915495",
+          "title": "Marseille vs Celta Vigo",
+          "teams": [
+            "Marseille",
+            "Celta Vigo"
+          ],
+          "teamIDs": [
+            "espn:soccer:176",
+            "espn:soccer:85"
+          ],
+          "competition": "europa-league",
+          "venue": "Stade Vélodrome, Marseille",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915498",
+          "title": "Omonia Nicosia vs Celtic",
+          "teams": [
+            "Omonia Nicosia",
+            "Celtic"
+          ],
+          "teamIDs": [
+            "espn:soccer:617",
+            "espn:soccer:256"
+          ],
+          "competition": "europa-league",
+          "venue": "GSP Stadium, Nicosia",
+          "date": "2026-12-10",
+          "time": "19:45",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "europa-league-401915497",
+          "title": "Stade Rennais vs Dinamo Zagreb",
+          "teams": [
+            "Stade Rennais",
+            "Dinamo Zagreb"
+          ],
+          "teamIDs": [
+            "espn:soccer:169",
+            "espn:soccer:597"
+          ],
+          "competition": "europa-league",
+          "venue": "Roazhon Park, Rennes",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915493",
+          "title": "AC Milan vs Sunderland",
+          "teams": [
+            "AC Milan",
+            "Sunderland"
+          ],
+          "teamIDs": [
+            "espn:soccer:103",
+            "espn:soccer:366"
+          ],
+          "competition": "europa-league",
+          "venue": "San Siro, Milano",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915488",
+          "title": "AFC Bournemouth vs Viktoria Plzen",
+          "teams": [
+            "AFC Bournemouth",
+            "Viktoria Plzen"
+          ],
+          "teamIDs": [
+            "espn:soccer:349",
+            "espn:soccer:11706"
+          ],
+          "competition": "europa-league",
+          "venue": "Vitality Stadium, Bournemouth",
+          "date": "2026-12-10",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915492",
+          "title": "Bayer Leverkusen vs Besiktas",
+          "teams": [
+            "Bayer Leverkusen",
+            "Besiktas"
+          ],
+          "teamIDs": [
+            "espn:soccer:131",
+            "espn:soccer:1895"
+          ],
+          "competition": "europa-league",
+          "venue": "BayArena, Leverkusen",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915491",
+          "title": "Benfica vs OFI CRETE",
+          "teams": [
+            "Benfica",
+            "OFI CRETE"
+          ],
+          "teamIDs": [
+            "espn:soccer:1929",
+            "espn:soccer:1010"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio da Luz, Lisbon",
+          "date": "2026-12-10",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915486",
+          "title": "Lech Poznan vs Ferencvaros",
+          "teams": [
+            "Lech Poznan",
+            "Ferencvaros"
+          ],
+          "teamIDs": [
+            "espn:soccer:2990",
+            "espn:soccer:622"
+          ],
+          "competition": "europa-league",
+          "venue": "Municipal Stadium-Poznan, Poznan",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915510",
+          "title": "Levski Sofia vs Lillestrom",
+          "teams": [
+            "Levski Sofia",
+            "Lillestrom"
+          ],
+          "teamIDs": [
+            "espn:soccer:490",
+            "espn:soccer:987"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgi Asparuhov Stadium, Sofia",
+          "date": "2026-12-10",
+          "time": "22:00",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "europa-league-401915485",
+          "title": "Lyon vs Union St.-Gilloise",
+          "teams": [
+            "Lyon",
+            "Union St.-Gilloise"
+          ],
+          "teamIDs": [
+            "espn:soccer:167",
+            "espn:soccer:5807"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Stadium, Lyon",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915487",
+          "title": "NK Celje vs Olympiacos",
+          "teams": [
+            "NK Celje",
+            "Olympiacos"
+          ],
+          "teamIDs": [
+            "espn:soccer:3362",
+            "espn:soccer:435"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Z'dezele, Celje",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Ljubljana"
+        },
+        {
+          "id": "europa-league-401915489",
+          "title": "RB Salzburg vs Sparta Prague",
+          "teams": [
+            "RB Salzburg",
+            "Sparta Prague"
+          ],
+          "teamIDs": [
+            "espn:soccer:2790",
+            "espn:soccer:433"
+          ],
+          "competition": "europa-league",
+          "venue": "Red Bull Arena Salzburg, Salzburg",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915490",
+          "title": "Real Sociedad vs Torreense",
+          "teams": [
+            "Real Sociedad",
+            "Torreense"
+          ],
+          "teamIDs": [
+            "espn:soccer:89",
+            "espn:soccer:21615"
+          ],
+          "competition": "europa-league",
+          "venue": "Reale Arena, San Sebastian",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915483",
+          "title": "ARARAT-ARMENIA vs NK Celje",
+          "teams": [
+            "ARARAT-ARMENIA",
+            "NK Celje"
+          ],
+          "teamIDs": [
+            "espn:soccer:20024",
+            "espn:soccer:3362"
+          ],
+          "competition": "europa-league",
+          "venue": "Abovyan City Stadium, Abovyan",
+          "date": "2027-01-21",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "europa-league-401915509",
+          "title": "Besiktas vs Union St.-Gilloise",
+          "teams": [
+            "Besiktas",
+            "Union St.-Gilloise"
+          ],
+          "teamIDs": [
+            "espn:soccer:1895",
+            "espn:soccer:5807"
+          ],
+          "competition": "europa-league",
+          "venue": "Vodafone Park, Istanbul",
+          "date": "2027-01-21",
+          "time": "20:45",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "europa-league-401915484",
+          "title": "Ferencvaros vs Juventus",
+          "teams": [
+            "Ferencvaros",
+            "Juventus"
+          ],
+          "teamIDs": [
+            "espn:soccer:622",
+            "espn:soccer:111"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Arena, Budapest",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Budapest"
+        },
+        {
+          "id": "europa-league-401915480",
+          "title": "Jagiellonia Bialystok vs Lyon",
+          "teams": [
+            "Jagiellonia Bialystok",
+            "Lyon"
+          ],
+          "teamIDs": [
+            "espn:soccer:11505",
+            "espn:soccer:167"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Miejski Bialystok, Bialystok",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915478",
+          "title": "Lillestrom vs AFC Bournemouth",
+          "teams": [
+            "Lillestrom",
+            "AFC Bournemouth"
+          ],
+          "teamIDs": [
+            "espn:soccer:987",
+            "espn:soccer:349"
+          ],
+          "competition": "europa-league",
+          "venue": "Arasen Stadion, Lillestrøm",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "europa-league-401915433",
+          "title": "NEC Nijmegen vs Benfica",
+          "teams": [
+            "NEC Nijmegen",
+            "Benfica"
+          ],
+          "teamIDs": [
+            "espn:soccer:147",
+            "espn:soccer:1929"
+          ],
+          "competition": "europa-league",
+          "venue": "Goffertstadion, Nijmegen",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915482",
+          "title": "Olympiacos vs TSG Hoffenheim",
+          "teams": [
+            "Olympiacos",
+            "TSG Hoffenheim"
+          ],
+          "teamIDs": [
+            "espn:soccer:435",
+            "espn:soccer:7911"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgios Karaiskakis Stadium, Piraeus",
+          "date": "2027-01-21",
+          "time": "19:45",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915481",
+          "title": "Real Sociedad vs Viktoria Plzen",
+          "teams": [
+            "Real Sociedad",
+            "Viktoria Plzen"
+          ],
+          "teamIDs": [
+            "espn:soccer:89",
+            "espn:soccer:11706"
+          ],
+          "competition": "europa-league",
+          "venue": "Reale Arena, San Sebastian",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915479",
+          "title": "SK Sturm Graz vs OFI CRETE",
+          "teams": [
+            "SK Sturm Graz",
+            "OFI CRETE"
+          ],
+          "teamIDs": [
+            "espn:soccer:3746",
+            "espn:soccer:1010"
+          ],
+          "competition": "europa-league",
+          "venue": "Merkur Arena, Graz",
+          "date": "2027-01-21",
+          "time": "18:45",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915432",
+          "title": "Anderlecht vs Sunderland",
+          "teams": [
+            "Anderlecht",
+            "Sunderland"
+          ],
+          "teamIDs": [
+            "espn:soccer:441",
+            "espn:soccer:366"
+          ],
+          "competition": "europa-league",
+          "venue": "Lotto Park, Brussels",
+          "date": "2027-01-21",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915471",
+          "title": "AZ Alkmaar vs Dinamo Zagreb",
+          "teams": [
+            "AZ Alkmaar",
+            "Dinamo Zagreb"
+          ],
+          "teamIDs": [
+            "espn:soccer:140",
+            "espn:soccer:597"
+          ],
+          "competition": "europa-league",
+          "venue": "AFAS Stadion, Alkmaar",
+          "date": "2027-01-21",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "europa-league-401915477",
+          "title": "Bayer Leverkusen vs RB Salzburg",
+          "teams": [
+            "Bayer Leverkusen",
+            "RB Salzburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:131",
+            "espn:soccer:2790"
+          ],
+          "competition": "europa-league",
+          "venue": "BayArena, Leverkusen",
+          "date": "2027-01-21",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915475",
+          "title": "Celtic vs Marseille",
+          "teams": [
+            "Celtic",
+            "Marseille"
+          ],
+          "teamIDs": [
+            "espn:soccer:256",
+            "espn:soccer:176"
+          ],
+          "competition": "europa-league",
+          "venue": "Celtic Park, Glasgow",
+          "date": "2027-01-21",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915472",
+          "title": "Crystal Palace vs Sparta Prague",
+          "teams": [
+            "Crystal Palace",
+            "Sparta Prague"
+          ],
+          "teamIDs": [
+            "espn:soccer:384",
+            "espn:soccer:433"
+          ],
+          "competition": "europa-league",
+          "venue": "Selhurst Park, London",
+          "date": "2027-01-21",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915431",
+          "title": "Hapoel Be'er vs Celta Vigo",
+          "teams": [
+            "Hapoel Be'er",
+            "Celta Vigo"
+          ],
+          "teamIDs": [
+            "espn:soccer:13083",
+            "espn:soccer:85"
+          ],
+          "competition": "europa-league",
+          "venue": "Giulesti Stadium, Bucuresti",
+          "date": "2027-01-21",
+          "time": "22:00",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "europa-league-401915474",
+          "title": "Lech Poznan vs Torreense",
+          "teams": [
+            "Lech Poznan",
+            "Torreense"
+          ],
+          "teamIDs": [
+            "espn:soccer:2990",
+            "espn:soccer:21615"
+          ],
+          "competition": "europa-league",
+          "venue": "Municipal Stadium-Poznan, Poznan",
+          "date": "2027-01-21",
+          "time": "21:00",
+          "timeZone": "Europe/Warsaw"
+        },
+        {
+          "id": "europa-league-401915473",
+          "title": "Levski Sofia vs AC Milan",
+          "teams": [
+            "Levski Sofia",
+            "AC Milan"
+          ],
+          "teamIDs": [
+            "espn:soccer:490",
+            "espn:soccer:103"
+          ],
+          "competition": "europa-league",
+          "venue": "Georgi Asparuhov Stadium, Sofia",
+          "date": "2027-01-21",
+          "time": "22:00",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "europa-league-401915476",
+          "title": "Stade Rennais vs Omonia Nicosia",
+          "teams": [
+            "Stade Rennais",
+            "Omonia Nicosia"
+          ],
+          "teamIDs": [
+            "espn:soccer:169",
+            "espn:soccer:617"
+          ],
+          "competition": "europa-league",
+          "venue": "Roazhon Park, Rennes",
+          "date": "2027-01-21",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915456",
+          "title": "AC Milan vs ARARAT-ARMENIA",
+          "teams": [
+            "AC Milan",
+            "ARARAT-ARMENIA"
+          ],
+          "teamIDs": [
+            "espn:soccer:103",
+            "espn:soccer:20024"
+          ],
+          "competition": "europa-league",
+          "venue": "San Siro, Milano",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915465",
+          "title": "AFC Bournemouth vs Hapoel Be'er",
+          "teams": [
+            "AFC Bournemouth",
+            "Hapoel Be'er"
+          ],
+          "teamIDs": [
+            "espn:soccer:349",
+            "espn:soccer:13083"
+          ],
+          "competition": "europa-league",
+          "venue": "Vitality Stadium, Bournemouth",
+          "date": "2027-01-28",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915468",
+          "title": "Benfica vs AZ Alkmaar",
+          "teams": [
+            "Benfica",
+            "AZ Alkmaar"
+          ],
+          "teamIDs": [
+            "espn:soccer:1929",
+            "espn:soccer:140"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio da Luz, Lisbon",
+          "date": "2027-01-28",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915463",
+          "title": "Celta Vigo vs Lillestrom",
+          "teams": [
+            "Celta Vigo",
+            "Lillestrom"
+          ],
+          "teamIDs": [
+            "espn:soccer:85",
+            "espn:soccer:987"
+          ],
+          "competition": "europa-league",
+          "venue": "Balaidos, Vigo",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "europa-league-401915458",
+          "title": "Dinamo Zagreb vs SK Sturm Graz",
+          "teams": [
+            "Dinamo Zagreb",
+            "SK Sturm Graz"
+          ],
+          "teamIDs": [
+            "espn:soccer:597",
+            "espn:soccer:3746"
+          ],
+          "competition": "europa-league",
+          "venue": "Maksimir Stadium, Zagreb",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "europa-league-401915462",
+          "title": "Juventus vs Real Sociedad",
+          "teams": [
+            "Juventus",
+            "Real Sociedad"
+          ],
+          "teamIDs": [
+            "espn:soccer:111",
+            "espn:soccer:89"
+          ],
+          "competition": "europa-league",
+          "venue": "Allianz Stadium, Torino",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "europa-league-401915459",
+          "title": "Lyon vs Bayer Leverkusen",
+          "teams": [
+            "Lyon",
+            "Bayer Leverkusen"
+          ],
+          "teamIDs": [
+            "espn:soccer:167",
+            "espn:soccer:131"
+          ],
+          "competition": "europa-league",
+          "venue": "Groupama Stadium, Lyon",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915429",
+          "title": "Marseille vs Anderlecht",
+          "teams": [
+            "Marseille",
+            "Anderlecht"
+          ],
+          "teamIDs": [
+            "espn:soccer:176",
+            "espn:soccer:441"
+          ],
+          "competition": "europa-league",
+          "venue": "Stade Vélodrome, Marseille",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "europa-league-401915428",
+          "title": "NK Celje vs NEC Nijmegen",
+          "teams": [
+            "NK Celje",
+            "NEC Nijmegen"
+          ],
+          "teamIDs": [
+            "espn:soccer:3362",
+            "espn:soccer:147"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadion Z'dezele, Celje",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Ljubljana"
+        },
+        {
+          "id": "europa-league-401915470",
+          "title": "OFI CRETE vs Lech Poznan",
+          "teams": [
+            "OFI CRETE",
+            "Lech Poznan"
+          ],
+          "teamIDs": [
+            "espn:soccer:1010",
+            "espn:soccer:2990"
+          ],
+          "competition": "europa-league",
+          "venue": "Pankritio Stadium, Crete",
+          "date": "2027-01-28",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "europa-league-401915469",
+          "title": "Omonia Nicosia vs Besiktas",
+          "teams": [
+            "Omonia Nicosia",
+            "Besiktas"
+          ],
+          "teamIDs": [
+            "espn:soccer:617",
+            "espn:soccer:1895"
+          ],
+          "competition": "europa-league",
+          "venue": "GSP Stadium, Nicosia",
+          "date": "2027-01-28",
+          "time": "22:00",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "europa-league-401915466",
+          "title": "RB Salzburg vs Crystal Palace",
+          "teams": [
+            "RB Salzburg",
+            "Crystal Palace"
+          ],
+          "teamIDs": [
+            "espn:soccer:2790",
+            "espn:soccer:384"
+          ],
+          "competition": "europa-league",
+          "venue": "Red Bull Arena Salzburg, Salzburg",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Vienna"
+        },
+        {
+          "id": "europa-league-401915464",
+          "title": "Sparta Prague vs Stade Rennais",
+          "teams": [
+            "Sparta Prague",
+            "Stade Rennais"
+          ],
+          "teamIDs": [
+            "espn:soccer:433",
+            "espn:soccer:169"
+          ],
+          "competition": "europa-league",
+          "venue": "Generali Arena, Prague",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-401915461",
+          "title": "Sunderland vs Levski Sofia",
+          "teams": [
+            "Sunderland",
+            "Levski Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:366",
+            "espn:soccer:490"
+          ],
+          "competition": "europa-league",
+          "venue": "Stadium of Light, Sunderland",
+          "date": "2027-01-28",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "europa-league-401915460",
+          "title": "Torreense vs Olympiacos",
+          "teams": [
+            "Torreense",
+            "Olympiacos"
+          ],
+          "teamIDs": [
+            "espn:soccer:21615",
+            "espn:soccer:435"
+          ],
+          "competition": "europa-league",
+          "venue": "Estádio Dr. Magalhaes Pessoa, Leiria",
+          "date": "2027-01-28",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "europa-league-401915467",
+          "title": "TSG Hoffenheim vs Ferencvaros",
+          "teams": [
+            "TSG Hoffenheim",
+            "Ferencvaros"
+          ],
+          "teamIDs": [
+            "espn:soccer:7911",
+            "espn:soccer:622"
+          ],
+          "competition": "europa-league",
+          "venue": "PreZero Arena, Sinsheim",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "europa-league-401915430",
+          "title": "Union St.-Gilloise vs Celtic",
+          "teams": [
+            "Union St.-Gilloise",
+            "Celtic"
+          ],
+          "teamIDs": [
+            "espn:soccer:5807",
+            "espn:soccer:256"
+          ],
+          "competition": "europa-league",
+          "venue": "King Power at Den Dreef Stadion, Leuven",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "europa-league-401915457",
+          "title": "Viktoria Plzen vs Jagiellonia Bialystok",
+          "teams": [
+            "Viktoria Plzen",
+            "Jagiellonia Bialystok"
+          ],
+          "teamIDs": [
+            "espn:soccer:11706",
+            "espn:soccer:11505"
+          ],
+          "competition": "europa-league",
+          "venue": "Doosan Arena, Plzen",
+          "date": "2027-01-28",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "europa-league-pending",
+          "title": "Knockout phase",
+          "titles": {
+            "en": "Knockout phase",
+            "es": "Fase eliminatoria"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "europa-league",
+          "date": "2027-01-29",
+          "estimated": true,
+          "pending": true
+        }
+      ],
+      "news": {
+        "introducedInVersion": 73,
+        "publishedAt": "2026-09-18T14:07:24Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "conference-league",
+      "title": "Conference League 2026-27",
+      "titles": {
+        "en": "Conference League 2026-27",
+        "es": "Conference League 2026-27"
+      },
+      "shortTitles": {
+        "en": "Conference 26-27",
+        "es": "Conference 26-27"
+      },
+      "symbol": "trophy.fill",
+      "backdrop": "futbol",
+      "duration": 120,
+      "subtitle": "Pick your team",
+      "subtitles": {
+        "en": "Pick your team",
+        "es": "Elige tu equipo"
+      },
+      "emoji": "🏆",
+      "category": "sports",
+      "date": "2026-09-18",
+      "accent": "#1B9E77",
+      "url": "https://www.uefa.com/uefaconferenceleague/",
+      "keywords": [
+        "conference league",
+        "uefa",
+        "futbol",
+        "fútbol",
+        "soccer"
+      ],
+      "teams": [
+        "AGF",
+        "AS Monaco",
+        "Ajax Amsterdam",
+        "Atalanta",
+        "Borac Banja Luka",
+        "Braga",
+        "Brighton",
+        "CSKA Sofia",
+        "CSU Craiova",
+        "Egnatia",
+        "F.C. København",
+        "FC Lugano",
+        "FC Midtjylland",
+        "FC Nordsjælland",
+        "FC Thun",
+        "FC Twente",
+        "Getafe",
+        "Hajduk Split",
+        "Heart of Midlothian",
+        "Iberia 1999",
+        "Inter D'Escaldes",
+        "Jablonec",
+        "KAA Gent",
+        "Kairat Almaty",
+        "Kauno Zalgiris",
+        "KuPS Kuopio",
+        "Lincoln Red Imps",
+        "Mjällby AIF",
+        "Pafos",
+        "Panathinaikos",
+        "Red Star Belgrade",
+        "Riga FC",
+        "SC Freiburg",
+        "SK Brann",
+        "Sint-Truidense",
+        "Trabzonspor"
+      ],
+      "occurrences": [
+        {
+          "id": "conference-league-401915855",
+          "title": "CSKA Sofia vs AS Monaco",
+          "teams": [
+            "CSKA Sofia",
+            "AS Monaco"
+          ],
+          "teamIDs": [
+            "espn:soccer:10834",
+            "espn:soccer:174"
+          ],
+          "competition": "conference-league",
+          "venue": "Vasil Levski National Stadium, Sofia",
+          "date": "2026-10-15",
+          "time": "19:45",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "conference-league-401915854",
+          "title": "CSU Craiova vs Getafe",
+          "teams": [
+            "CSU Craiova",
+            "Getafe"
+          ],
+          "teamIDs": [
+            "espn:soccer:8089",
+            "espn:soccer:2922"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadionul Ion Oblemenco, Craiova",
+          "date": "2026-10-15",
+          "time": "19:45",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "conference-league-401915859",
+          "title": "Egnatia vs FC Midtjylland",
+          "teams": [
+            "Egnatia",
+            "FC Midtjylland"
+          ],
+          "teamIDs": [
+            "espn:soccer:21943",
+            "espn:soccer:572"
+          ],
+          "competition": "conference-league",
+          "venue": "Air Albania Stadium, Tirana",
+          "date": "2026-10-15",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915748",
+          "title": "FC Lugano vs Red Star Belgrade",
+          "teams": [
+            "FC Lugano",
+            "Red Star Belgrade"
+          ],
+          "teamIDs": [
+            "espn:soccer:7672",
+            "espn:soccer:2290"
+          ],
+          "competition": "conference-league",
+          "venue": "AIL Arena, Lugano",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915861",
+          "title": "Hajduk Split vs Ajax Amsterdam",
+          "teams": [
+            "Hajduk Split",
+            "Ajax Amsterdam"
+          ],
+          "teamIDs": [
+            "espn:soccer:489",
+            "espn:soccer:139"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Poljud, Split",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "conference-league-401915860",
+          "title": "KAA Gent vs AGF",
+          "teams": [
+            "KAA Gent",
+            "AGF"
+          ],
+          "teamIDs": [
+            "espn:soccer:3611",
+            "espn:soccer:7853"
+          ],
+          "competition": "conference-league",
+          "venue": "Ghelamco Arena, Ghent",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915858",
+          "title": "KuPS Kuopio vs Trabzonspor",
+          "teams": [
+            "KuPS Kuopio",
+            "Trabzonspor"
+          ],
+          "teamIDs": [
+            "espn:soccer:8169",
+            "espn:soccer:997"
+          ],
+          "competition": "conference-league",
+          "venue": "Tammelan Stadion, Tampere",
+          "date": "2026-10-15",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915857",
+          "title": "Mjällby AIF vs Inter D'Escaldes",
+          "teams": [
+            "Mjällby AIF",
+            "Inter D'Escaldes"
+          ],
+          "teamIDs": [
+            "espn:soccer:20301",
+            "espn:soccer:20703"
+          ],
+          "competition": "conference-league",
+          "venue": "Olympia, Helsingborg",
+          "date": "2026-10-15",
+          "time": "18:45",
+          "timeZone": "Europe/Stockholm"
+        },
+        {
+          "id": "conference-league-401915856",
+          "title": "Panathinaikos vs Borac Banja Luka",
+          "teams": [
+            "Panathinaikos",
+            "Borac Banja Luka"
+          ],
+          "teamIDs": [
+            "espn:soccer:443",
+            "espn:soccer:20710"
+          ],
+          "competition": "conference-league",
+          "venue": "Athens Olympic Stadium, Athens",
+          "date": "2026-10-15",
+          "time": "19:45",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "conference-league-401915747",
+          "title": "Riga FC vs Kairat Almaty",
+          "teams": [
+            "Riga FC",
+            "Kairat Almaty"
+          ],
+          "teamIDs": [
+            "espn:soccer:19246",
+            "espn:soccer:2528"
+          ],
+          "competition": "conference-league",
+          "venue": "Skonto Stadions, Riga",
+          "date": "2026-10-15",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915746",
+          "title": "Atalanta vs Pafos",
+          "teams": [
+            "Atalanta",
+            "Pafos"
+          ],
+          "teamIDs": [
+            "espn:soccer:105",
+            "espn:soccer:22281"
+          ],
+          "competition": "conference-league",
+          "venue": "New Balance Arena, Bergamo",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "conference-league-401915853",
+          "title": "Brighton vs Kauno Zalgiris",
+          "teams": [
+            "Brighton",
+            "Kauno Zalgiris"
+          ],
+          "teamIDs": [
+            "espn:soccer:331",
+            "espn:soccer:20028"
+          ],
+          "competition": "conference-league",
+          "venue": "American Express Stadium, Falmer",
+          "date": "2026-10-15",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915852",
+          "title": "F.C. København vs Braga",
+          "teams": [
+            "F.C. København",
+            "Braga"
+          ],
+          "teamIDs": [
+            "espn:soccer:909",
+            "espn:soccer:2994"
+          ],
+          "competition": "conference-league",
+          "venue": "Parken Stadium, Copenhagen",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915851",
+          "title": "FC Twente vs FC Thun",
+          "teams": [
+            "FC Twente",
+            "FC Thun"
+          ],
+          "teamIDs": [
+            "espn:soccer:152",
+            "espn:soccer:3024"
+          ],
+          "competition": "conference-league",
+          "venue": "De Grolsch Veste, Enschede",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915850",
+          "title": "Heart of Midlothian vs FC Nordsjælland",
+          "teams": [
+            "Heart of Midlothian",
+            "FC Nordsjælland"
+          ],
+          "teamIDs": [
+            "espn:soccer:262",
+            "espn:soccer:3101"
+          ],
+          "competition": "conference-league",
+          "venue": "Tynecastle Park, Edinburgh",
+          "date": "2026-10-15",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915848",
+          "title": "SC Freiburg vs Jablonec",
+          "teams": [
+            "SC Freiburg",
+            "Jablonec"
+          ],
+          "teamIDs": [
+            "espn:soccer:126",
+            "espn:soccer:7922"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "conference-league-401915849",
+          "title": "Sint-Truidense vs Iberia 1999",
+          "teams": [
+            "Sint-Truidense",
+            "Iberia 1999"
+          ],
+          "teamIDs": [
+            "espn:soccer:936",
+            "espn:soccer:20025"
+          ],
+          "competition": "conference-league",
+          "venue": "Daio Wasabi Stayen Stadium, Sint-Truiden",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915847",
+          "title": "SK Brann vs Lincoln Red Imps",
+          "teams": [
+            "SK Brann",
+            "Lincoln Red Imps"
+          ],
+          "teamIDs": [
+            "espn:soccer:620",
+            "espn:soccer:17856"
+          ],
+          "competition": "conference-league",
+          "venue": "Brann Stadium, Bergen",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "conference-league-401915846",
+          "title": "Kairat Almaty vs Panathinaikos",
+          "teams": [
+            "Kairat Almaty",
+            "Panathinaikos"
+          ],
+          "teamIDs": [
+            "espn:soccer:2528",
+            "espn:soccer:443"
+          ],
+          "competition": "conference-league",
+          "venue": "Almaty Ortalyk Stadium, Almaty",
+          "date": "2026-10-22",
+          "time": "19:30",
+          "timeZone": "Asia/Almaty"
+        },
+        {
+          "id": "conference-league-401915844",
+          "title": "FC Nordsjælland vs CSKA Sofia",
+          "teams": [
+            "FC Nordsjælland",
+            "CSKA Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:3101",
+            "espn:soccer:10834"
+          ],
+          "competition": "conference-league",
+          "venue": "Right to Dream Park, Farum",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915840",
+          "title": "Getafe vs FC Lugano",
+          "teams": [
+            "Getafe",
+            "FC Lugano"
+          ],
+          "teamIDs": [
+            "espn:soccer:2922",
+            "espn:soccer:7672"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadio Coliseum, Getafe",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "conference-league-401915845",
+          "title": "Iberia 1999 vs Mjällby AIF",
+          "teams": [
+            "Iberia 1999",
+            "Mjällby AIF"
+          ],
+          "teamIDs": [
+            "espn:soccer:20025",
+            "espn:soccer:20301"
+          ],
+          "competition": "conference-league",
+          "venue": "Mikheil Meskhi Stadioni, Tbilisi",
+          "date": "2026-10-22",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915839",
+          "title": "Inter D'Escaldes vs CSU Craiova",
+          "teams": [
+            "Inter D'Escaldes",
+            "CSU Craiova"
+          ],
+          "teamIDs": [
+            "espn:soccer:20703",
+            "espn:soccer:8089"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadi de la FAF d'Encamp, Encamp",
+          "date": "2026-10-22",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915842",
+          "title": "Jablonec vs Brighton",
+          "teams": [
+            "Jablonec",
+            "Brighton"
+          ],
+          "teamIDs": [
+            "espn:soccer:7922",
+            "espn:soccer:331"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Strelnice, Jablonec",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "conference-league-401915841",
+          "title": "Kauno Zalgiris vs SK Brann",
+          "teams": [
+            "Kauno Zalgiris",
+            "SK Brann"
+          ],
+          "teamIDs": [
+            "espn:soccer:20028",
+            "espn:soccer:620"
+          ],
+          "competition": "conference-league",
+          "venue": "S. Darius and S. Gireno Stadium, Kaunas",
+          "date": "2026-10-22",
+          "time": "16:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915838",
+          "title": "Pafos vs Riga FC",
+          "teams": [
+            "Pafos",
+            "Riga FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:22281",
+            "espn:soccer:19246"
+          ],
+          "competition": "conference-league",
+          "venue": "Alphamega Stadium, Kolossi",
+          "date": "2026-10-22",
+          "time": "19:45",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "conference-league-401915843",
+          "title": "Red Star Belgrade vs F.C. København",
+          "teams": [
+            "Red Star Belgrade",
+            "F.C. København"
+          ],
+          "teamIDs": [
+            "espn:soccer:2290",
+            "espn:soccer:909"
+          ],
+          "competition": "conference-league",
+          "venue": "Rajko Mitic Stadium, Belgrade",
+          "date": "2026-10-22",
+          "time": "18:45",
+          "timeZone": "Europe/Belgrade"
+        },
+        {
+          "id": "conference-league-401915745",
+          "title": "Trabzonspor vs Heart of Midlothian",
+          "teams": [
+            "Trabzonspor",
+            "Heart of Midlothian"
+          ],
+          "teamIDs": [
+            "espn:soccer:997",
+            "espn:soccer:262"
+          ],
+          "competition": "conference-league",
+          "venue": "Papara Park, Trabzon",
+          "date": "2026-10-22",
+          "time": "19:45",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "conference-league-401915744",
+          "title": "AGF vs Egnatia",
+          "teams": [
+            "AGF",
+            "Egnatia"
+          ],
+          "teamIDs": [
+            "espn:soccer:7853",
+            "espn:soccer:21943"
+          ],
+          "competition": "conference-league",
+          "venue": "Cepheus Park Randers, Randers",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915837",
+          "title": "Ajax Amsterdam vs Atalanta",
+          "teams": [
+            "Ajax Amsterdam",
+            "Atalanta"
+          ],
+          "teamIDs": [
+            "espn:soccer:139",
+            "espn:soccer:105"
+          ],
+          "competition": "conference-league",
+          "venue": "Johan Cruijff Arena, Amsterdam",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915836",
+          "title": "AS Monaco vs SC Freiburg",
+          "teams": [
+            "AS Monaco",
+            "SC Freiburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:174",
+            "espn:soccer:126"
+          ],
+          "competition": "conference-league",
+          "venue": "Stade Louis II, Monaco",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "conference-league-401915743",
+          "title": "Borac Banja Luka vs KuPS Kuopio",
+          "teams": [
+            "Borac Banja Luka",
+            "KuPS Kuopio"
+          ],
+          "teamIDs": [
+            "espn:soccer:20710",
+            "espn:soccer:8169"
+          ],
+          "competition": "conference-league",
+          "venue": "Gradski Stadion Banja Luka, Banja Luka",
+          "date": "2026-10-22",
+          "time": "19:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915832",
+          "title": "Braga vs KAA Gent",
+          "teams": [
+            "Braga",
+            "KAA Gent"
+          ],
+          "teamIDs": [
+            "espn:soccer:2994",
+            "espn:soccer:3611"
+          ],
+          "competition": "conference-league",
+          "venue": "Estádio Municipal de Braga, Braga",
+          "date": "2026-10-22",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "conference-league-401915835",
+          "title": "FC Midtjylland vs Sint-Truidense",
+          "teams": [
+            "FC Midtjylland",
+            "Sint-Truidense"
+          ],
+          "teamIDs": [
+            "espn:soccer:572",
+            "espn:soccer:936"
+          ],
+          "competition": "conference-league",
+          "venue": "MCH Arena, Herning",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915834",
+          "title": "FC Thun vs Hajduk Split",
+          "teams": [
+            "FC Thun",
+            "Hajduk Split"
+          ],
+          "teamIDs": [
+            "espn:soccer:3024",
+            "espn:soccer:489"
+          ],
+          "competition": "conference-league",
+          "venue": "Stockhorn Arena, Thun",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915833",
+          "title": "Lincoln Red Imps vs FC Twente",
+          "teams": [
+            "Lincoln Red Imps",
+            "FC Twente"
+          ],
+          "teamIDs": [
+            "espn:soccer:17856",
+            "espn:soccer:152"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa Point Stadium, Gibraltar",
+          "date": "2026-10-22",
+          "time": "19:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915831",
+          "title": "AGF vs Braga",
+          "teams": [
+            "AGF",
+            "Braga"
+          ],
+          "teamIDs": [
+            "espn:soccer:7853",
+            "espn:soccer:2994"
+          ],
+          "competition": "conference-league",
+          "venue": "Cepheus Park Randers, Randers",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915830",
+          "title": "Atalanta vs Kairat Almaty",
+          "teams": [
+            "Atalanta",
+            "Kairat Almaty"
+          ],
+          "teamIDs": [
+            "espn:soccer:105",
+            "espn:soccer:2528"
+          ],
+          "competition": "conference-league",
+          "venue": "New Balance Arena, Bergamo",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "conference-league-401915829",
+          "title": "FC Midtjylland vs Ajax Amsterdam",
+          "teams": [
+            "FC Midtjylland",
+            "Ajax Amsterdam"
+          ],
+          "teamIDs": [
+            "espn:soccer:572",
+            "espn:soccer:139"
+          ],
+          "competition": "conference-league",
+          "venue": "MCH Arena, Herning",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915828",
+          "title": "FC Thun vs Heart of Midlothian",
+          "teams": [
+            "FC Thun",
+            "Heart of Midlothian"
+          ],
+          "teamIDs": [
+            "espn:soccer:3024",
+            "espn:soccer:262"
+          ],
+          "competition": "conference-league",
+          "venue": "Stockhorn Arena, Thun",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915826",
+          "title": "KuPS Kuopio vs KAA Gent",
+          "teams": [
+            "KuPS Kuopio",
+            "KAA Gent"
+          ],
+          "teamIDs": [
+            "espn:soccer:8169",
+            "espn:soccer:3611"
+          ],
+          "competition": "conference-league",
+          "venue": "Tammelan Stadion, Tampere",
+          "date": "2026-11-05",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915742",
+          "title": "Lincoln Red Imps vs Hajduk Split",
+          "teams": [
+            "Lincoln Red Imps",
+            "Hajduk Split"
+          ],
+          "teamIDs": [
+            "espn:soccer:17856",
+            "espn:soccer:489"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa Point Stadium, Gibraltar",
+          "date": "2026-11-05",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915741",
+          "title": "Mjällby AIF vs Borac Banja Luka",
+          "teams": [
+            "Mjällby AIF",
+            "Borac Banja Luka"
+          ],
+          "teamIDs": [
+            "espn:soccer:20301",
+            "espn:soccer:20710"
+          ],
+          "competition": "conference-league",
+          "venue": "Olympia, Helsingborg",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Stockholm"
+        },
+        {
+          "id": "conference-league-401915827",
+          "title": "Red Star Belgrade vs Inter D'Escaldes",
+          "teams": [
+            "Red Star Belgrade",
+            "Inter D'Escaldes"
+          ],
+          "teamIDs": [
+            "espn:soccer:2290",
+            "espn:soccer:20703"
+          ],
+          "competition": "conference-league",
+          "venue": "Rajko Mitic Stadium, Belgrade",
+          "date": "2026-11-05",
+          "time": "18:45",
+          "timeZone": "Europe/Belgrade"
+        },
+        {
+          "id": "conference-league-401915825",
+          "title": "Trabzonspor vs SC Freiburg",
+          "teams": [
+            "Trabzonspor",
+            "SC Freiburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:997",
+            "espn:soccer:126"
+          ],
+          "competition": "conference-league",
+          "venue": "Papara Park, Trabzon",
+          "date": "2026-11-05",
+          "time": "20:45",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "conference-league-401915824",
+          "title": "AS Monaco vs FC Nordsjælland",
+          "teams": [
+            "AS Monaco",
+            "FC Nordsjælland"
+          ],
+          "teamIDs": [
+            "espn:soccer:174",
+            "espn:soccer:3101"
+          ],
+          "competition": "conference-league",
+          "venue": "Stade Louis II, Monaco",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "conference-league-401915817",
+          "title": "CSU Craiova vs Egnatia",
+          "teams": [
+            "CSU Craiova",
+            "Egnatia"
+          ],
+          "teamIDs": [
+            "espn:soccer:8089",
+            "espn:soccer:21943"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadionul Ion Oblemenco, Craiova",
+          "date": "2026-11-05",
+          "time": "22:00",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "conference-league-401915740",
+          "title": "F.C. København vs Iberia 1999",
+          "teams": [
+            "F.C. København",
+            "Iberia 1999"
+          ],
+          "teamIDs": [
+            "espn:soccer:909",
+            "espn:soccer:20025"
+          ],
+          "competition": "conference-league",
+          "venue": "Parken Stadium, Copenhagen",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915823",
+          "title": "FC Lugano vs Kauno Zalgiris",
+          "teams": [
+            "FC Lugano",
+            "Kauno Zalgiris"
+          ],
+          "teamIDs": [
+            "espn:soccer:7672",
+            "espn:soccer:20028"
+          ],
+          "competition": "conference-league",
+          "venue": "AIL Arena, Lugano",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915822",
+          "title": "FC Twente vs Pafos",
+          "teams": [
+            "FC Twente",
+            "Pafos"
+          ],
+          "teamIDs": [
+            "espn:soccer:152",
+            "espn:soccer:22281"
+          ],
+          "competition": "conference-league",
+          "venue": "De Grolsch Veste, Enschede",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915821",
+          "title": "Getafe vs Brighton",
+          "teams": [
+            "Getafe",
+            "Brighton"
+          ],
+          "teamIDs": [
+            "espn:soccer:2922",
+            "espn:soccer:331"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadio Coliseum, Getafe",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "conference-league-401915819",
+          "title": "Panathinaikos vs CSKA Sofia",
+          "teams": [
+            "Panathinaikos",
+            "CSKA Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:443",
+            "espn:soccer:10834"
+          ],
+          "competition": "conference-league",
+          "venue": "Athens Olympic Stadium, Athens",
+          "date": "2026-11-05",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "conference-league-401915818",
+          "title": "Riga FC vs Jablonec",
+          "teams": [
+            "Riga FC",
+            "Jablonec"
+          ],
+          "teamIDs": [
+            "espn:soccer:19246",
+            "espn:soccer:7922"
+          ],
+          "competition": "conference-league",
+          "venue": "Skonto Stadions, Riga",
+          "date": "2026-11-05",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915820",
+          "title": "Sint-Truidense vs SK Brann",
+          "teams": [
+            "Sint-Truidense",
+            "SK Brann"
+          ],
+          "teamIDs": [
+            "espn:soccer:936",
+            "espn:soccer:620"
+          ],
+          "competition": "conference-league",
+          "venue": "Daio Wasabi Stayen Stadium, Sint-Truiden",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915816",
+          "title": "Kairat Almaty vs Mjällby AIF",
+          "teams": [
+            "Kairat Almaty",
+            "Mjällby AIF"
+          ],
+          "teamIDs": [
+            "espn:soccer:2528",
+            "espn:soccer:20301"
+          ],
+          "competition": "conference-league",
+          "venue": "Almaty Ortalyk Stadium, Almaty",
+          "date": "2026-11-26",
+          "time": "20:30",
+          "timeZone": "Asia/Almaty"
+        },
+        {
+          "id": "conference-league-401915815",
+          "title": "Ajax Amsterdam vs FC Thun",
+          "teams": [
+            "Ajax Amsterdam",
+            "FC Thun"
+          ],
+          "teamIDs": [
+            "espn:soccer:139",
+            "espn:soccer:3024"
+          ],
+          "competition": "conference-league",
+          "venue": "Johan Cruijff Arena, Amsterdam",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915814",
+          "title": "Brighton vs CSU Craiova",
+          "teams": [
+            "Brighton",
+            "CSU Craiova"
+          ],
+          "teamIDs": [
+            "espn:soccer:331",
+            "espn:soccer:8089"
+          ],
+          "competition": "conference-league",
+          "venue": "American Express Stadium, Falmer",
+          "date": "2026-11-26",
+          "time": "17:45",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915810",
+          "title": "Egnatia vs Lincoln Red Imps",
+          "teams": [
+            "Egnatia",
+            "Lincoln Red Imps"
+          ],
+          "teamIDs": [
+            "espn:soccer:21943",
+            "espn:soccer:17856"
+          ],
+          "competition": "conference-league",
+          "venue": "Air Albania Stadium, Tirana",
+          "date": "2026-11-26",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915811",
+          "title": "Heart of Midlothian vs AS Monaco",
+          "teams": [
+            "Heart of Midlothian",
+            "AS Monaco"
+          ],
+          "teamIDs": [
+            "espn:soccer:262",
+            "espn:soccer:174"
+          ],
+          "competition": "conference-league",
+          "venue": "Tynecastle Park, Edinburgh",
+          "date": "2026-11-26",
+          "time": "17:45",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915813",
+          "title": "Iberia 1999 vs Getafe",
+          "teams": [
+            "Iberia 1999",
+            "Getafe"
+          ],
+          "teamIDs": [
+            "espn:soccer:20025",
+            "espn:soccer:2922"
+          ],
+          "competition": "conference-league",
+          "venue": "Mikheil Meskhi Stadioni, Tbilisi",
+          "date": "2026-11-26",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915812",
+          "title": "Jablonec vs FC Lugano",
+          "teams": [
+            "Jablonec",
+            "FC Lugano"
+          ],
+          "teamIDs": [
+            "espn:soccer:7922",
+            "espn:soccer:7672"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Strelnice, Jablonec",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "conference-league-401915739",
+          "title": "Kauno Zalgiris vs Riga FC",
+          "teams": [
+            "Kauno Zalgiris",
+            "Riga FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:20028",
+            "espn:soccer:19246"
+          ],
+          "competition": "conference-league",
+          "venue": "S. Darius and S. Gireno Stadium, Kaunas",
+          "date": "2026-11-26",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915809",
+          "title": "Pafos vs FC Midtjylland",
+          "teams": [
+            "Pafos",
+            "FC Midtjylland"
+          ],
+          "teamIDs": [
+            "espn:soccer:22281",
+            "espn:soccer:572"
+          ],
+          "competition": "conference-league",
+          "venue": "Alphamega Stadium, Kolossi",
+          "date": "2026-11-26",
+          "time": "19:45",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "conference-league-401915808",
+          "title": "SK Brann vs AGF",
+          "teams": [
+            "SK Brann",
+            "AGF"
+          ],
+          "teamIDs": [
+            "espn:soccer:620",
+            "espn:soccer:7853"
+          ],
+          "competition": "conference-league",
+          "venue": "Brann Stadium, Bergen",
+          "date": "2026-11-26",
+          "time": "18:45",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "conference-league-401915806",
+          "title": "Borac Banja Luka vs Atalanta",
+          "teams": [
+            "Borac Banja Luka",
+            "Atalanta"
+          ],
+          "teamIDs": [
+            "espn:soccer:20710",
+            "espn:soccer:105"
+          ],
+          "competition": "conference-league",
+          "venue": "Gradski Stadion Banja Luka, Banja Luka",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915802",
+          "title": "Braga vs KuPS Kuopio",
+          "teams": [
+            "Braga",
+            "KuPS Kuopio"
+          ],
+          "teamIDs": [
+            "espn:soccer:2994",
+            "espn:soccer:8169"
+          ],
+          "competition": "conference-league",
+          "venue": "Estádio Municipal de Braga, Braga",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "conference-league-401915803",
+          "title": "CSKA Sofia vs Trabzonspor",
+          "teams": [
+            "CSKA Sofia",
+            "Trabzonspor"
+          ],
+          "teamIDs": [
+            "espn:soccer:10834",
+            "espn:soccer:997"
+          ],
+          "competition": "conference-league",
+          "venue": "Vasil Levski National Stadium, Sofia",
+          "date": "2026-11-26",
+          "time": "22:00",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "conference-league-401915807",
+          "title": "FC Nordsjælland vs Panathinaikos",
+          "teams": [
+            "FC Nordsjælland",
+            "Panathinaikos"
+          ],
+          "teamIDs": [
+            "espn:soccer:3101",
+            "espn:soccer:443"
+          ],
+          "competition": "conference-league",
+          "venue": "Right to Dream Park, Farum",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915805",
+          "title": "Hajduk Split vs Sint-Truidense",
+          "teams": [
+            "Hajduk Split",
+            "Sint-Truidense"
+          ],
+          "teamIDs": [
+            "espn:soccer:489",
+            "espn:soccer:936"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Poljud, Split",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "conference-league-401915738",
+          "title": "Inter D'Escaldes vs F.C. København",
+          "teams": [
+            "Inter D'Escaldes",
+            "F.C. København"
+          ],
+          "teamIDs": [
+            "espn:soccer:20703",
+            "espn:soccer:909"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadi de la FAF d'Encamp, Encamp",
+          "date": "2026-11-26",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915804",
+          "title": "KAA Gent vs Red Star Belgrade",
+          "teams": [
+            "KAA Gent",
+            "Red Star Belgrade"
+          ],
+          "teamIDs": [
+            "espn:soccer:3611",
+            "espn:soccer:2290"
+          ],
+          "competition": "conference-league",
+          "venue": "Ghelamco Arena, Ghent",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915801",
+          "title": "SC Freiburg vs FC Twente",
+          "teams": [
+            "SC Freiburg",
+            "FC Twente"
+          ],
+          "teamIDs": [
+            "espn:soccer:126",
+            "espn:soccer:152"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "conference-league-401915737",
+          "title": "Kairat Almaty vs CSU Craiova",
+          "teams": [
+            "Kairat Almaty",
+            "CSU Craiova"
+          ],
+          "teamIDs": [
+            "espn:soccer:2528",
+            "espn:soccer:8089"
+          ],
+          "competition": "conference-league",
+          "venue": "Almaty Ortalyk Stadium, Almaty",
+          "date": "2026-12-10",
+          "time": "20:30",
+          "timeZone": "Asia/Almaty"
+        },
+        {
+          "id": "conference-league-401915800",
+          "title": "F.C. København vs FC Lugano",
+          "teams": [
+            "F.C. København",
+            "FC Lugano"
+          ],
+          "teamIDs": [
+            "espn:soccer:909",
+            "espn:soccer:7672"
+          ],
+          "competition": "conference-league",
+          "venue": "Parken Stadium, Copenhagen",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915736",
+          "title": "Getafe vs Inter D'Escaldes",
+          "teams": [
+            "Getafe",
+            "Inter D'Escaldes"
+          ],
+          "teamIDs": [
+            "espn:soccer:2922",
+            "espn:soccer:20703"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadio Coliseum, Getafe",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Madrid"
+        },
+        {
+          "id": "conference-league-401915799",
+          "title": "Iberia 1999 vs Red Star Belgrade",
+          "teams": [
+            "Iberia 1999",
+            "Red Star Belgrade"
+          ],
+          "teamIDs": [
+            "espn:soccer:20025",
+            "espn:soccer:2290"
+          ],
+          "competition": "conference-league",
+          "venue": "Mikheil Meskhi Stadioni, Tbilisi",
+          "date": "2026-12-10",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915735",
+          "title": "KuPS Kuopio vs CSKA Sofia",
+          "teams": [
+            "KuPS Kuopio",
+            "CSKA Sofia"
+          ],
+          "teamIDs": [
+            "espn:soccer:8169",
+            "espn:soccer:10834"
+          ],
+          "competition": "conference-league",
+          "venue": "Tammelan Stadion, Tampere",
+          "date": "2026-12-10",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915798",
+          "title": "Lincoln Red Imps vs FC Midtjylland",
+          "teams": [
+            "Lincoln Red Imps",
+            "FC Midtjylland"
+          ],
+          "teamIDs": [
+            "espn:soccer:17856",
+            "espn:soccer:572"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa Point Stadium, Gibraltar",
+          "date": "2026-12-10",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915734",
+          "title": "Riga FC vs Atalanta",
+          "teams": [
+            "Riga FC",
+            "Atalanta"
+          ],
+          "teamIDs": [
+            "espn:soccer:19246",
+            "espn:soccer:105"
+          ],
+          "competition": "conference-league",
+          "venue": "Skonto Stadions, Riga",
+          "date": "2026-12-10",
+          "time": "17:45",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915733",
+          "title": "SC Freiburg vs Panathinaikos",
+          "teams": [
+            "SC Freiburg",
+            "Panathinaikos"
+          ],
+          "teamIDs": [
+            "espn:soccer:126",
+            "espn:soccer:443"
+          ],
+          "competition": "conference-league",
+          "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Berlin"
+        },
+        {
+          "id": "conference-league-401915797",
+          "title": "SK Brann vs Braga",
+          "teams": [
+            "SK Brann",
+            "Braga"
+          ],
+          "teamIDs": [
+            "espn:soccer:620",
+            "espn:soccer:2994"
+          ],
+          "competition": "conference-league",
+          "venue": "Brann Stadium, Bergen",
+          "date": "2026-12-10",
+          "time": "18:45",
+          "timeZone": "Europe/Oslo"
+        },
+        {
+          "id": "conference-league-401915796",
+          "title": "Trabzonspor vs Jablonec",
+          "teams": [
+            "Trabzonspor",
+            "Jablonec"
+          ],
+          "teamIDs": [
+            "espn:soccer:997",
+            "espn:soccer:7922"
+          ],
+          "competition": "conference-league",
+          "venue": "Papara Park, Trabzon",
+          "date": "2026-12-10",
+          "time": "20:45",
+          "timeZone": "Europe/Istanbul"
+        },
+        {
+          "id": "conference-league-401915795",
+          "title": "AGF vs FC Twente",
+          "teams": [
+            "AGF",
+            "FC Twente"
+          ],
+          "teamIDs": [
+            "espn:soccer:7853",
+            "espn:soccer:152"
+          ],
+          "competition": "conference-league",
+          "venue": "Cepheus Park Randers, Randers",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915732",
+          "title": "Brighton vs AS Monaco",
+          "teams": [
+            "Brighton",
+            "AS Monaco"
+          ],
+          "teamIDs": [
+            "espn:soccer:331",
+            "espn:soccer:174"
+          ],
+          "competition": "conference-league",
+          "venue": "American Express Stadium, Falmer",
+          "date": "2026-12-10",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915629",
+          "title": "Egnatia vs Kauno Zalgiris",
+          "teams": [
+            "Egnatia",
+            "Kauno Zalgiris"
+          ],
+          "teamIDs": [
+            "espn:soccer:21943",
+            "espn:soccer:20028"
+          ],
+          "competition": "conference-league",
+          "venue": "Air Albania Stadium, Tirana",
+          "date": "2026-12-10",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915794",
+          "title": "FC Thun vs KAA Gent",
+          "teams": [
+            "FC Thun",
+            "KAA Gent"
+          ],
+          "teamIDs": [
+            "espn:soccer:3024",
+            "espn:soccer:3611"
+          ],
+          "competition": "conference-league",
+          "venue": "Stockhorn Arena, Thun",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915792",
+          "title": "Hajduk Split vs FC Nordsjælland",
+          "teams": [
+            "Hajduk Split",
+            "FC Nordsjælland"
+          ],
+          "teamIDs": [
+            "espn:soccer:489",
+            "espn:soccer:3101"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Poljud, Split",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Zagreb"
+        },
+        {
+          "id": "conference-league-401915793",
+          "title": "Heart of Midlothian vs Borac Banja Luka",
+          "teams": [
+            "Heart of Midlothian",
+            "Borac Banja Luka"
+          ],
+          "teamIDs": [
+            "espn:soccer:262",
+            "espn:soccer:20710"
+          ],
+          "competition": "conference-league",
+          "venue": "Tynecastle Park, Edinburgh",
+          "date": "2026-12-10",
+          "time": "20:00",
+          "timeZone": "Europe/London"
+        },
+        {
+          "id": "conference-league-401915628",
+          "title": "Mjällby AIF vs Pafos",
+          "teams": [
+            "Mjällby AIF",
+            "Pafos"
+          ],
+          "teamIDs": [
+            "espn:soccer:20301",
+            "espn:soccer:22281"
+          ],
+          "competition": "conference-league",
+          "venue": "Olympia, Helsingborg",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Stockholm"
+        },
+        {
+          "id": "conference-league-401915630",
+          "title": "Sint-Truidense vs Ajax Amsterdam",
+          "teams": [
+            "Sint-Truidense",
+            "Ajax Amsterdam"
+          ],
+          "teamIDs": [
+            "espn:soccer:936",
+            "espn:soccer:139"
+          ],
+          "competition": "conference-league",
+          "venue": "Daio Wasabi Stayen Stadium, Sint-Truiden",
+          "date": "2026-12-10",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915731",
+          "title": "Ajax Amsterdam vs Getafe",
+          "teams": [
+            "Ajax Amsterdam",
+            "Getafe"
+          ],
+          "teamIDs": [
+            "espn:soccer:139",
+            "espn:soccer:2922"
+          ],
+          "competition": "conference-league",
+          "venue": "Johan Cruijff Arena, Amsterdam",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915627",
+          "title": "AS Monaco vs Lincoln Red Imps",
+          "teams": [
+            "AS Monaco",
+            "Lincoln Red Imps"
+          ],
+          "teamIDs": [
+            "espn:soccer:174",
+            "espn:soccer:17856"
+          ],
+          "competition": "conference-league",
+          "venue": "Stade Louis II, Monaco",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Paris"
+        },
+        {
+          "id": "conference-league-401915626",
+          "title": "Atalanta vs Mjällby AIF",
+          "teams": [
+            "Atalanta",
+            "Mjällby AIF"
+          ],
+          "teamIDs": [
+            "espn:soccer:105",
+            "espn:soccer:20301"
+          ],
+          "competition": "conference-league",
+          "venue": "New Balance Arena, Bergamo",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Rome"
+        },
+        {
+          "id": "conference-league-401915623",
+          "title": "Borac Banja Luka vs Riga FC",
+          "teams": [
+            "Borac Banja Luka",
+            "Riga FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:20710",
+            "espn:soccer:19246"
+          ],
+          "competition": "conference-league",
+          "venue": "Gradski Stadion Banja Luka, Banja Luka",
+          "date": "2026-12-17",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915614",
+          "title": "Braga vs Egnatia",
+          "teams": [
+            "Braga",
+            "Egnatia"
+          ],
+          "teamIDs": [
+            "espn:soccer:2994",
+            "espn:soccer:21943"
+          ],
+          "competition": "conference-league",
+          "venue": "Estádio Municipal de Braga, Braga",
+          "date": "2026-12-17",
+          "time": "20:00",
+          "timeZone": "Europe/Lisbon"
+        },
+        {
+          "id": "conference-league-401915615",
+          "title": "CSKA Sofia vs FC Thun",
+          "teams": [
+            "CSKA Sofia",
+            "FC Thun"
+          ],
+          "teamIDs": [
+            "espn:soccer:10834",
+            "espn:soccer:3024"
+          ],
+          "competition": "conference-league",
+          "venue": "Vasil Levski National Stadium, Sofia",
+          "date": "2026-12-17",
+          "time": "22:00",
+          "timeZone": "Europe/Sofia"
+        },
+        {
+          "id": "conference-league-401915613",
+          "title": "CSU Craiova vs F.C. København",
+          "teams": [
+            "CSU Craiova",
+            "F.C. København"
+          ],
+          "teamIDs": [
+            "espn:soccer:8089",
+            "espn:soccer:909"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadionul Ion Oblemenco, Craiova",
+          "date": "2026-12-17",
+          "time": "22:00",
+          "timeZone": "Europe/Bucharest"
+        },
+        {
+          "id": "conference-league-401915625",
+          "title": "FC Lugano vs Sint-Truidense",
+          "teams": [
+            "FC Lugano",
+            "Sint-Truidense"
+          ],
+          "teamIDs": [
+            "espn:soccer:7672",
+            "espn:soccer:936"
+          ],
+          "competition": "conference-league",
+          "venue": "AIL Arena, Lugano",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Zurich"
+        },
+        {
+          "id": "conference-league-401915730",
+          "title": "FC Midtjylland vs Hajduk Split",
+          "teams": [
+            "FC Midtjylland",
+            "Hajduk Split"
+          ],
+          "teamIDs": [
+            "espn:soccer:572",
+            "espn:soccer:489"
+          ],
+          "competition": "conference-league",
+          "venue": "MCH Arena, Herning",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915729",
+          "title": "FC Nordsjælland vs KuPS Kuopio",
+          "teams": [
+            "FC Nordsjælland",
+            "KuPS Kuopio"
+          ],
+          "teamIDs": [
+            "espn:soccer:3101",
+            "espn:soccer:8169"
+          ],
+          "competition": "conference-league",
+          "venue": "Right to Dream Park, Farum",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Copenhagen"
+        },
+        {
+          "id": "conference-league-401915624",
+          "title": "FC Twente vs Kairat Almaty",
+          "teams": [
+            "FC Twente",
+            "Kairat Almaty"
+          ],
+          "teamIDs": [
+            "espn:soccer:152",
+            "espn:soccer:2528"
+          ],
+          "competition": "conference-league",
+          "venue": "De Grolsch Veste, Enschede",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Amsterdam"
+        },
+        {
+          "id": "conference-league-401915619",
+          "title": "Inter D'Escaldes vs AGF",
+          "teams": [
+            "Inter D'Escaldes",
+            "AGF"
+          ],
+          "teamIDs": [
+            "espn:soccer:20703",
+            "espn:soccer:7853"
+          ],
+          "competition": "conference-league",
+          "venue": "Estadi de la FAF d'Encamp, Encamp",
+          "date": "2026-12-17",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915621",
+          "title": "Jablonec vs Iberia 1999",
+          "teams": [
+            "Jablonec",
+            "Iberia 1999"
+          ],
+          "teamIDs": [
+            "espn:soccer:7922",
+            "espn:soccer:20025"
+          ],
+          "competition": "conference-league",
+          "venue": "Stadion Strelnice, Jablonec",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Prague"
+        },
+        {
+          "id": "conference-league-401915618",
+          "title": "KAA Gent vs SK Brann",
+          "teams": [
+            "KAA Gent",
+            "SK Brann"
+          ],
+          "teamIDs": [
+            "espn:soccer:3611",
+            "espn:soccer:620"
+          ],
+          "competition": "conference-league",
+          "venue": "Ghelamco Arena, Ghent",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Brussels"
+        },
+        {
+          "id": "conference-league-401915620",
+          "title": "Kauno Zalgiris vs SC Freiburg",
+          "teams": [
+            "Kauno Zalgiris",
+            "SC Freiburg"
+          ],
+          "teamIDs": [
+            "espn:soccer:20028",
+            "espn:soccer:126"
+          ],
+          "competition": "conference-league",
+          "venue": "S. Darius and S. Gireno Stadium, Kaunas",
+          "date": "2026-12-17",
+          "time": "20:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "conference-league-401915617",
+          "title": "Pafos vs Heart of Midlothian",
+          "teams": [
+            "Pafos",
+            "Heart of Midlothian"
+          ],
+          "teamIDs": [
+            "espn:soccer:22281",
+            "espn:soccer:262"
+          ],
+          "competition": "conference-league",
+          "venue": "Alphamega Stadium, Kolossi",
+          "date": "2026-12-17",
+          "time": "22:00",
+          "timeZone": "Asia/Nicosia"
+        },
+        {
+          "id": "conference-league-401915616",
+          "title": "Panathinaikos vs Brighton",
+          "teams": [
+            "Panathinaikos",
+            "Brighton"
+          ],
+          "teamIDs": [
+            "espn:soccer:443",
+            "espn:soccer:331"
+          ],
+          "competition": "conference-league",
+          "venue": "Athens Olympic Stadium, Athens",
+          "date": "2026-12-17",
+          "time": "22:00",
+          "timeZone": "Europe/Athens"
+        },
+        {
+          "id": "conference-league-401915622",
+          "title": "Red Star Belgrade vs Trabzonspor",
+          "teams": [
+            "Red Star Belgrade",
+            "Trabzonspor"
+          ],
+          "teamIDs": [
+            "espn:soccer:2290",
+            "espn:soccer:997"
+          ],
+          "competition": "conference-league",
+          "venue": "Rajko Mitic Stadium, Belgrade",
+          "date": "2026-12-17",
+          "time": "21:00",
+          "timeZone": "Europe/Belgrade"
+        },
+        {
+          "id": "conference-league-pending",
+          "title": "Knockout phase",
+          "titles": {
+            "en": "Knockout phase",
+            "es": "Fase eliminatoria"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "conference-league",
+          "date": "2026-12-18",
+          "estimated": true,
+          "pending": true
+        }
+      ],
+      "news": {
+        "introducedInVersion": 73,
+        "publishedAt": "2026-09-18T14:07:24Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -55684,6 +60158,17 @@
       ],
       "competitions": [
         "la-liga"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:1010",
+      "name": "OFI CRETE",
+      "aliases": [
+        "OFI Crete"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -55722,6 +60207,18 @@
       "lastSeen": "2026-09-11"
     },
     {
+      "id": "espn:soccer:103",
+      "name": "AC Milan",
+      "aliases": [
+        "MIL",
+        "Milan"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:104",
       "name": "AS Roma",
       "aliases": [
@@ -55729,6 +60226,17 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:105",
+      "name": "Atalanta",
+      "aliases": [
+        "ATA"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -55761,6 +60269,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:10834",
+      "name": "CSKA Sofia",
+      "aliases": [
+        "CSKA"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:110",
       "name": "Inter",
       "aliases": [
@@ -55781,9 +60300,10 @@
         "JUV"
       ],
       "competitions": [
-        "club-world-cup"
+        "club-world-cup",
+        "europa-league"
       ],
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:114",
@@ -55804,6 +60324,29 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:11505",
+      "name": "Jagiellonia Bialystok",
+      "aliases": [
+        "JAG",
+        "Jagiellonia "
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:11706",
+      "name": "Viktoria Plzen",
+      "aliases": [
+        "PLZ"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -55829,6 +60372,41 @@
       "competitions": [
         "champions-league",
         "club-world-cup"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:126",
+      "name": "SC Freiburg",
+      "aliases": [
+        "Freiburg",
+        "SCF"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:13083",
+      "name": "Hapoel Be'er",
+      "aliases": [
+        "HBE"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:131",
+      "name": "Bayer Leverkusen",
+      "aliases": [
+        "B04",
+        "Leverkusen"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56119,6 +60697,29 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:139",
+      "name": "Ajax Amsterdam",
+      "aliases": [
+        "AJA",
+        "Ajax"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:140",
+      "name": "AZ Alkmaar",
+      "aliases": [
+        "AZ"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:142",
       "name": "Feyenoord",
       "aliases": [
@@ -56131,6 +60732,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:147",
+      "name": "NEC Nijmegen",
+      "aliases": [
+        "NEC"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:148",
       "name": "PSV Eindhoven",
       "aliases": [
@@ -56138,6 +60750,17 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:152",
+      "name": "FC Twente",
+      "aliases": [
+        "TWE"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56201,6 +60824,29 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:167",
+      "name": "Lyon",
+      "aliases": [
+        "LYON"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:169",
+      "name": "Stade Rennais",
+      "aliases": [
+        "REN",
+        "Rennes"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:17362",
       "name": "Minnesota United FC",
       "aliases": [
@@ -56213,6 +60859,18 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:174",
+      "name": "AS Monaco",
+      "aliases": [
+        "MON",
+        "Monaco"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:175",
       "name": "Lens",
       "aliases": [
@@ -56220,6 +60878,17 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:176",
+      "name": "Marseille",
+      "aliases": [
+        "OLM"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56245,6 +60914,18 @@
       ],
       "competitions": [
         "liga-mx"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:17856",
+      "name": "Lincoln Red Imps",
+      "aliases": [
+        "LRI",
+        "Red Imps"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56369,6 +61050,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:1895",
+      "name": "Besiktas",
+      "aliases": [
+        "BES"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:18966",
       "name": "LAFC",
       "aliases": [],
@@ -56417,15 +61109,27 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:19246",
+      "name": "Riga FC",
+      "aliases": [
+        "RIG"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:1929",
       "name": "Benfica",
       "aliases": [
         "SLB"
       ],
       "competitions": [
-        "club-world-cup"
+        "club-world-cup",
+        "europa-league"
       ],
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:193",
@@ -56435,6 +61139,29 @@
       ],
       "competitions": [
         "mls"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:20024",
+      "name": "ARARAT-ARMENIA",
+      "aliases": [
+        "ARARAT-ARM",
+        "Ararat"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:20025",
+      "name": "Iberia 1999",
+      "aliases": [
+        "IBE"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56449,6 +61176,17 @@
         "concachampions"
       ],
       "lastSeen": "2026-09-11"
+    },
+    {
+      "id": "espn:soccer:20028",
+      "name": "Kauno Zalgiris",
+      "aliases": [
+        "ZAL"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:20232",
@@ -56478,6 +61216,18 @@
       "lastSeen": "2026-09-11"
     },
     {
+      "id": "espn:soccer:20301",
+      "name": "Mjällby AIF",
+      "aliases": [
+        "MJA",
+        "Mjällby"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:2057",
       "name": "Alajuelense",
       "aliases": [
@@ -56487,6 +61237,29 @@
         "concachampions"
       ],
       "lastSeen": "2026-09-11"
+    },
+    {
+      "id": "espn:soccer:20703",
+      "name": "Inter D'Escaldes",
+      "aliases": [
+        "IDE"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:20710",
+      "name": "Borac Banja Luka",
+      "aliases": [
+        "BBL",
+        "Borac"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:20776",
@@ -56547,6 +61320,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:21615",
+      "name": "Torreense",
+      "aliases": [
+        "TOR"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:218",
       "name": "Cruz Azul",
       "aliases": [
@@ -56596,6 +61380,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:21943",
+      "name": "Egnatia",
+      "aliases": [
+        "EGN"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:220",
       "name": "Rayados",
       "aliases": [
@@ -56619,6 +61414,17 @@
       ],
       "competitions": [
         "liga-mx"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:22281",
+      "name": "Pafos",
+      "aliases": [
+        "PAF"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56733,6 +61539,18 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:2290",
+      "name": "Red Star Belgrade",
+      "aliases": [
+        "RSB",
+        "Red Star"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:231",
       "name": "Puebla",
       "aliases": [
@@ -56806,6 +61624,28 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:2528",
+      "name": "Kairat Almaty",
+      "aliases": [
+        "KAI"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:256",
+      "name": "Celtic",
+      "aliases": [
+        "CEL"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:2572",
       "name": "Como",
       "aliases": [
@@ -56817,15 +61657,28 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:262",
+      "name": "Heart of Midlothian",
+      "aliases": [
+        "HOM",
+        "Hearts"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:2790",
       "name": "RB Salzburg",
       "aliases": [
         "SLZ"
       ],
       "competitions": [
-        "club-world-cup"
+        "club-world-cup",
+        "europa-league"
       ],
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:2922",
@@ -56834,6 +61687,7 @@
         "GET"
       ],
       "competitions": [
+        "conference-league",
         "la-liga"
       ],
       "lastSeen": "2026-09-18"
@@ -56846,6 +61700,39 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:2990",
+      "name": "Lech Poznan",
+      "aliases": [
+        "LECH"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:2994",
+      "name": "Braga",
+      "aliases": [
+        "SCB"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:3024",
+      "name": "FC Thun",
+      "aliases": [
+        "THUN"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56874,6 +61761,18 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:3101",
+      "name": "FC Nordsjælland",
+      "aliases": [
+        "FCN",
+        "Nordsjælland"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:314",
       "name": "Lincoln City",
       "aliases": [
@@ -56893,7 +61792,19 @@
       ],
       "competitions": [
         "carabao-cup",
+        "conference-league",
         "premier-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:3362",
+      "name": "NK Celje",
+      "aliases": [
+        "NKC"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -56964,6 +61875,7 @@
       ],
       "competitions": [
         "carabao-cup",
+        "europa-league",
         "premier-league"
       ],
       "lastSeen": "2026-09-18"
@@ -57022,6 +61934,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:3611",
+      "name": "KAA Gent",
+      "aliases": [
+        "GENT"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:362",
       "name": "Aston Villa",
       "aliases": [
@@ -57069,6 +61992,7 @@
       ],
       "competitions": [
         "carabao-cup",
+        "europa-league",
         "premier-league"
       ],
       "lastSeen": "2026-09-18"
@@ -57149,6 +62073,18 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:3746",
+      "name": "SK Sturm Graz",
+      "aliases": [
+        "STG",
+        "Sturm Graz"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:3751",
       "name": "Elche",
       "aliases": [
@@ -57206,6 +62142,7 @@
       ],
       "competitions": [
         "carabao-cup",
+        "europa-league",
         "premier-league"
       ],
       "lastSeen": "2026-09-18"
@@ -57305,6 +62242,29 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:433",
+      "name": "Sparta Prague",
+      "aliases": [
+        "SPP",
+        "Sparta"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:435",
+      "name": "Olympiacos",
+      "aliases": [
+        "OLY"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:436",
       "name": "Fenerbahce",
       "aliases": [
@@ -57328,6 +62288,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:441",
+      "name": "Anderlecht",
+      "aliases": [
+        "AND"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:4411",
       "name": "LASK Linz",
       "aliases": [
@@ -57335,6 +62306,17 @@
       ],
       "competitions": [
         "champions-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:443",
+      "name": "Panathinaikos",
+      "aliases": [
+        "PAO"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -57347,6 +62329,28 @@
       ],
       "competitions": [
         "mls"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:489",
+      "name": "Hajduk Split",
+      "aliases": [
+        "HAJ"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:490",
+      "name": "Levski Sofia",
+      "aliases": [
+        "LEV"
+      ],
+      "competitions": [
+        "europa-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -57420,6 +62424,41 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:572",
+      "name": "FC Midtjylland",
+      "aliases": [
+        "MID",
+        "Midtjylland"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:5807",
+      "name": "Union St.-Gilloise",
+      "aliases": [
+        "USG",
+        "Union SG"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:597",
+      "name": "Dinamo Zagreb",
+      "aliases": [
+        "DZG"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:6077",
       "name": "Houston Dynamo FC",
       "aliases": [
@@ -57441,6 +62480,40 @@
         "club-world-cup"
       ],
       "lastSeen": "2026-09-11"
+    },
+    {
+      "id": "espn:soccer:617",
+      "name": "Omonia Nicosia",
+      "aliases": [
+        "OMON",
+        "Omonia"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:620",
+      "name": "SK Brann",
+      "aliases": [
+        "SKBR"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:622",
+      "name": "Ferencvaros",
+      "aliases": [
+        "FER"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
     },
     {
       "id": "espn:soccer:7084",
@@ -57535,6 +62608,71 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:7672",
+      "name": "FC Lugano",
+      "aliases": [
+        "LUG"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:7853",
+      "name": "AGF",
+      "aliases": [],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:7911",
+      "name": "TSG Hoffenheim",
+      "aliases": [
+        "Hoffenheim",
+        "TSG"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:7922",
+      "name": "Jablonec",
+      "aliases": [
+        "JABL"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:8089",
+      "name": "CSU Craiova",
+      "aliases": [
+        "UCRA"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:8169",
+      "name": "KuPS Kuopio",
+      "aliases": [
+        "KUPS"
+      ],
+      "competitions": [
+        "conference-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:819",
       "name": "Flamengo",
       "aliases": [
@@ -57577,6 +62715,7 @@
         "CEL"
       ],
       "competitions": [
+        "europa-league",
         "la-liga"
       ],
       "lastSeen": "2026-09-18"
@@ -57660,6 +62799,7 @@
         "RSO"
       ],
       "competitions": [
+        "europa-league",
         "la-liga"
       ],
       "lastSeen": "2026-09-18"
@@ -57672,6 +62812,18 @@
       ],
       "competitions": [
         "la-liga"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:909",
+      "name": "F.C. København",
+      "aliases": [
+        "KBH",
+        "København"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -57696,6 +62848,17 @@
       "competitions": [
         "la-liga",
         "supercopa-espana"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:936",
+      "name": "Sint-Truidense",
+      "aliases": [
+        "STVV"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     },
@@ -57783,6 +62946,17 @@
       "lastSeen": "2026-09-18"
     },
     {
+      "id": "espn:soccer:987",
+      "name": "Lillestrom",
+      "aliases": [
+        "LSK"
+      ],
+      "competitions": [
+        "europa-league"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
       "id": "espn:soccer:99",
       "name": "Málaga",
       "aliases": [
@@ -57790,6 +62964,17 @@
       ],
       "competitions": [
         "la-liga"
+      ],
+      "lastSeen": "2026-09-18"
+    },
+    {
+      "id": "espn:soccer:997",
+      "name": "Trabzonspor",
+      "aliases": [
+        "TRAB"
+      ],
+      "competitions": [
+        "conference-league"
       ],
       "lastSeen": "2026-09-18"
     }
