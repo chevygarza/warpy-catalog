@@ -1,6 +1,6 @@
 {
-  "version": 74,
-  "updatedAt": "2026-09-18",
+  "version": 75,
+  "updatedAt": "2026-09-19",
   "events": [
     {
       "id": "fifa-world-cup-2030",
@@ -6678,7 +6678,7 @@
       },
       "emoji": "⚾️",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#041E42",
       "url": "https://www.mlb.com/schedule",
       "keywords": [
@@ -6721,201 +6721,6 @@
         "Washington Nationals"
       ],
       "occurrences": [
-        {
-          "id": "mlb-824792",
-          "competition": "mlb",
-          "title": "Baltimore Orioles vs Cleveland Guardians",
-          "teams": [
-            "Baltimore Orioles",
-            "Cleveland Guardians"
-          ],
-          "venue": "Oriole Park at Camden Yards",
-          "date": "2026-09-08",
-          "time": "18:35",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-824228",
-          "competition": "mlb",
-          "title": "Detroit Tigers vs Minnesota Twins",
-          "teams": [
-            "Detroit Tigers",
-            "Minnesota Twins"
-          ],
-          "venue": "Comerica Park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Detroit"
-        },
-        {
-          "id": "mlb-823414",
-          "competition": "mlb",
-          "title": "Philadelphia Phillies vs Houston Astros",
-          "teams": [
-            "Philadelphia Phillies",
-            "Houston Astros"
-          ],
-          "venue": "Citizens Bank Park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-823821",
-          "competition": "mlb",
-          "title": "Miami Marlins vs New York Mets",
-          "teams": [
-            "Miami Marlins",
-            "New York Mets"
-          ],
-          "venue": "loanDepot park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-824714",
-          "competition": "mlb",
-          "title": "Boston Red Sox vs Los Angeles Angels",
-          "teams": [
-            "Boston Red Sox",
-            "Los Angeles Angels"
-          ],
-          "venue": "Fenway Park",
-          "date": "2026-09-08",
-          "time": "18:45",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-823500",
-          "competition": "mlb",
-          "title": "New York Yankees vs Colorado Rockies",
-          "teams": [
-            "New York Yankees",
-            "Colorado Rockies"
-          ],
-          "venue": "Yankee Stadium",
-          "date": "2026-09-08",
-          "time": "19:05",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-824875",
-          "competition": "mlb",
-          "title": "Atlanta Braves vs Tampa Bay Rays",
-          "teams": [
-            "Atlanta Braves",
-            "Tampa Bay Rays"
-          ],
-          "venue": "Truist Park",
-          "date": "2026-09-08",
-          "time": "19:15",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "mlb-824063",
-          "competition": "mlb",
-          "title": "Kansas City Royals vs Arizona Diamondbacks",
-          "teams": [
-            "Kansas City Royals",
-            "Arizona Diamondbacks"
-          ],
-          "venue": "Kauffman Stadium",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "mlb-824551",
-          "competition": "mlb",
-          "title": "Chicago White Sox vs Pittsburgh Pirates",
-          "teams": [
-            "Chicago White Sox",
-            "Pittsburgh Pirates"
-          ],
-          "venue": "Rate Field",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "mlb-823738",
-          "competition": "mlb",
-          "title": "Milwaukee Brewers vs Chicago Cubs",
-          "teams": [
-            "Milwaukee Brewers",
-            "Chicago Cubs"
-          ],
-          "venue": "American Family Field",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "mlb-823250",
-          "competition": "mlb",
-          "title": "San Diego Padres vs Washington Nationals",
-          "teams": [
-            "San Diego Padres",
-            "Washington Nationals"
-          ],
-          "venue": "Petco Park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "mlb-823092",
-          "competition": "mlb",
-          "title": "Seattle Mariners vs Texas Rangers",
-          "teams": [
-            "Seattle Mariners",
-            "Texas Rangers"
-          ],
-          "venue": "T-Mobile Park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "mlb-824957",
-          "competition": "mlb",
-          "title": "Athletics vs Toronto Blue Jays",
-          "teams": [
-            "Athletics",
-            "Toronto Blue Jays"
-          ],
-          "venue": "Sutter Health Park",
-          "date": "2026-09-08",
-          "time": "18:40",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "mlb-823174",
-          "competition": "mlb",
-          "title": "San Francisco Giants vs St. Louis Cardinals",
-          "teams": [
-            "San Francisco Giants",
-            "St. Louis Cardinals"
-          ],
-          "venue": "Oracle Park",
-          "date": "2026-09-08",
-          "time": "18:45",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "mlb-823901",
-          "competition": "mlb",
-          "title": "Los Angeles Dodgers vs Cincinnati Reds",
-          "teams": [
-            "Los Angeles Dodgers",
-            "Cincinnati Reds"
-          ],
-          "venue": "UNIQLO Field at Dodger Stadium",
-          "date": "2026-09-08",
-          "time": "19:10",
-          "timeZone": "America/Los_Angeles"
-        },
         {
           "id": "mlb-824226",
           "competition": "mlb",
@@ -8594,6 +8399,19 @@
           "timeZone": "America/Los_Angeles"
         },
         {
+          "id": "mlb-824545",
+          "competition": "mlb",
+          "title": "Chicago White Sox vs Detroit Tigers",
+          "teams": [
+            "Chicago White Sox",
+            "Detroit Tigers"
+          ],
+          "venue": "Rate Field",
+          "date": "2026-09-19",
+          "time": "13:10",
+          "timeZone": "America/Chicago"
+        },
+        {
           "id": "mlb-824788",
           "competition": "mlb",
           "title": "Baltimore Orioles vs Milwaukee Brewers",
@@ -8693,19 +8511,6 @@
             "Atlanta Braves"
           ],
           "venue": "Daikin Park",
-          "date": "2026-09-19",
-          "time": "18:10",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "mlb-824545",
-          "competition": "mlb",
-          "title": "Chicago White Sox vs Detroit Tigers",
-          "teams": [
-            "Chicago White Sox",
-            "Detroit Tigers"
-          ],
-          "venue": "Rate Field",
           "date": "2026-09-19",
           "time": "18:10",
           "timeZone": "America/Chicago"
@@ -11260,7 +11065,7 @@
       },
       "emoji": "🏈",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#013369",
       "url": "https://www.nfl.com/schedules/",
       "keywords": [
@@ -15148,7 +14953,7 @@
       },
       "emoji": "🏀",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#C9082A",
       "url": "https://www.nba.com/schedule",
       "keywords": [
@@ -31702,7 +31507,7 @@
       },
       "emoji": "⚽️",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#27AE60",
       "url": "https://ligamx.net",
       "keywords": [
@@ -33767,7 +33572,7 @@
       },
       "emoji": "🇪🇸",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#2F80ED",
       "url": "https://www.laliga.com",
       "keywords": [
@@ -33801,40 +33606,6 @@
         "Villarreal"
       ],
       "occurrences": [
-        {
-          "id": "la-liga-401882891",
-          "title": "Getafe vs Celta Vigo",
-          "teams": [
-            "Getafe",
-            "Celta Vigo"
-          ],
-          "teamIDs": [
-            "espn:soccer:2922",
-            "espn:soccer:85"
-          ],
-          "competition": "la-liga",
-          "venue": "Estadio Coliseum, Getafe",
-          "date": "2026-09-07",
-          "time": "19:00",
-          "timeZone": "Europe/Madrid"
-        },
-        {
-          "id": "la-liga-401882893",
-          "title": "Elche vs Real Sociedad",
-          "teams": [
-            "Elche",
-            "Real Sociedad"
-          ],
-          "teamIDs": [
-            "espn:soccer:3751",
-            "espn:soccer:89"
-          ],
-          "competition": "la-liga",
-          "venue": "Estadio Martínez Valero, Elche",
-          "date": "2026-09-07",
-          "time": "21:30",
-          "timeZone": "Europe/Madrid"
-        },
         {
           "id": "la-liga-401882878",
           "title": "Sevilla vs Valencia",
@@ -39911,7 +39682,7 @@
       },
       "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#38003C",
       "url": "https://www.premierleague.com",
       "keywords": [
@@ -45919,7 +45690,7 @@
       },
       "emoji": "⭐️",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#0A1E5C",
       "url": "https://www.uefa.com/uefachampionsleague/",
       "keywords": [
@@ -48457,7 +48228,7 @@
       },
       "emoji": "🇺🇸",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#C8102E",
       "url": "https://www.mlssoccer.com/schedule/",
       "keywords": [
@@ -51402,7 +51173,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#B8860B",
       "url": "https://www.rfef.es",
       "keywords": [
@@ -55221,7 +54992,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#38003C",
       "url": "https://www.efl.com/carabao-cup/",
       "keywords": [
@@ -55687,7 +55458,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#F58220",
       "url": "https://www.uefa.com/uefaeuropaleague/",
       "keywords": [
@@ -58230,7 +58001,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "accent": "#1B9E77",
       "url": "https://www.uefa.com/uefaconferenceleague/",
       "keywords": [
@@ -60152,7 +59923,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:1010",
@@ -60163,7 +59934,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:10125",
@@ -60174,7 +59945,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:102",
@@ -60186,7 +59957,7 @@
         "champions-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:10207",
@@ -60209,7 +59980,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:104",
@@ -60220,7 +59991,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:105",
@@ -60231,7 +60002,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:1068",
@@ -60246,7 +60017,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:10739",
@@ -60259,7 +60030,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:10834",
@@ -60270,7 +60041,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:110",
@@ -60284,7 +60055,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:111",
@@ -60296,7 +60067,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:114",
@@ -60307,7 +60078,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:11420",
@@ -60318,7 +60089,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:11505",
@@ -60330,7 +60101,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:11706",
@@ -60341,7 +60112,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:12011",
@@ -60353,7 +60124,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:124",
@@ -60366,7 +60137,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:126",
@@ -60378,7 +60149,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:13083",
@@ -60389,7 +60160,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:131",
@@ -60401,7 +60172,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:131403",
@@ -60413,7 +60184,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:131412",
@@ -60424,7 +60195,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:131419",
@@ -60436,7 +60207,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:131583",
@@ -60508,7 +60279,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133831",
@@ -60520,7 +60291,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133832",
@@ -60532,7 +60303,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133833",
@@ -60544,7 +60315,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133836",
@@ -60556,7 +60327,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133838",
@@ -60568,7 +60339,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133840",
@@ -60580,7 +60351,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133841",
@@ -60592,7 +60363,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133842",
@@ -60603,7 +60374,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133843",
@@ -60615,7 +60386,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133844",
@@ -60627,7 +60398,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133846",
@@ -60639,7 +60410,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133847",
@@ -60651,7 +60422,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133850",
@@ -60663,7 +60434,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:133851",
@@ -60675,7 +60446,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:134",
@@ -60687,7 +60458,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:139",
@@ -60699,7 +60470,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:140",
@@ -60710,7 +60481,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:142",
@@ -60722,7 +60493,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:147",
@@ -60733,7 +60504,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:148",
@@ -60744,7 +60515,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:152",
@@ -60755,7 +60526,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:1538",
@@ -60766,7 +60537,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:15720",
@@ -60779,7 +60550,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:16",
@@ -60803,7 +60574,7 @@
         "club-world-cup",
         "uefa-super-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:166",
@@ -60814,7 +60585,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:167",
@@ -60825,7 +60596,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:169",
@@ -60837,7 +60608,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:17362",
@@ -60849,7 +60620,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:174",
@@ -60861,7 +60632,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:175",
@@ -60872,7 +60643,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:176",
@@ -60883,7 +60654,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:17606",
@@ -60895,7 +60666,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:17851",
@@ -60908,7 +60679,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:17856",
@@ -60920,7 +60691,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:182",
@@ -60932,7 +60703,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:18267",
@@ -60945,7 +60716,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:183",
@@ -60957,7 +60728,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:18334",
@@ -60968,7 +60739,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:184",
@@ -60980,7 +60751,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:18418",
@@ -60992,7 +60763,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:185",
@@ -61004,7 +60775,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:186",
@@ -61016,7 +60787,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:187",
@@ -61028,7 +60799,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:189",
@@ -61040,7 +60811,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:1895",
@@ -61051,7 +60822,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:18966",
@@ -61062,7 +60833,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:18986",
@@ -61075,7 +60846,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:190",
@@ -61087,7 +60858,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:191",
@@ -61099,7 +60870,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:19246",
@@ -61110,7 +60881,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:1929",
@@ -61122,7 +60893,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:193",
@@ -61133,7 +60904,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20024",
@@ -61145,7 +60916,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20025",
@@ -61156,7 +60927,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20026",
@@ -61179,7 +60950,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20232",
@@ -61195,7 +60966,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2029",
@@ -61218,7 +60989,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2057",
@@ -61240,7 +61011,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20710",
@@ -61252,7 +61023,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20776",
@@ -61263,7 +61034,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:20906",
@@ -61275,7 +61046,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21300",
@@ -61287,7 +61058,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21522",
@@ -61310,7 +61081,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21615",
@@ -61321,7 +61092,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:218",
@@ -61334,7 +61105,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21812",
@@ -61346,7 +61117,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:219",
@@ -61358,7 +61129,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21922",
@@ -61370,7 +61141,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:21943",
@@ -61381,7 +61152,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:220",
@@ -61396,7 +61167,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:222",
@@ -61408,7 +61179,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:22281",
@@ -61419,7 +61190,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:223",
@@ -61432,7 +61203,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:22372",
@@ -61444,7 +61215,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:225",
@@ -61456,7 +61227,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2250",
@@ -61468,7 +61239,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:22529",
@@ -61481,7 +61252,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:226",
@@ -61492,7 +61263,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:227",
@@ -61506,7 +61277,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:228",
@@ -61518,7 +61289,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:229",
@@ -61529,7 +61300,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2290",
@@ -61541,7 +61312,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:231",
@@ -61552,7 +61323,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:232",
@@ -61565,7 +61336,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:233",
@@ -61578,7 +61349,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:234",
@@ -61590,7 +61361,7 @@
         "club-world-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:243",
@@ -61601,7 +61372,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:244",
@@ -61614,7 +61385,7 @@
         "champions-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2528",
@@ -61625,7 +61396,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:256",
@@ -61636,7 +61407,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2572",
@@ -61647,7 +61418,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:262",
@@ -61659,7 +61430,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2790",
@@ -61671,7 +61442,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2922",
@@ -61683,7 +61454,7 @@
         "conference-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2980",
@@ -61694,7 +61465,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2990",
@@ -61705,7 +61476,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:2994",
@@ -61716,7 +61487,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3024",
@@ -61727,7 +61498,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:306",
@@ -61740,7 +61511,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:309",
@@ -61751,7 +61522,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3101",
@@ -61763,7 +61534,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:314",
@@ -61774,7 +61545,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:331",
@@ -61788,7 +61559,7 @@
         "conference-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3362",
@@ -61799,7 +61570,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:337",
@@ -61811,7 +61582,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:338",
@@ -61822,7 +61593,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3385",
@@ -61846,7 +61617,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3445",
@@ -61871,7 +61642,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:357",
@@ -61884,7 +61655,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:359",
@@ -61897,7 +61668,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:360",
@@ -61911,7 +61682,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:361",
@@ -61924,7 +61695,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3611",
@@ -61935,7 +61706,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:362",
@@ -61949,7 +61720,7 @@
         "premier-league",
         "uefa-super-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:363",
@@ -61962,7 +61733,7 @@
         "club-world-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:364",
@@ -61975,7 +61746,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:366",
@@ -61988,7 +61759,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:367",
@@ -62002,7 +61773,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:368",
@@ -62014,7 +61785,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:369",
@@ -62026,7 +61797,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:370",
@@ -62038,7 +61809,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:371",
@@ -62050,7 +61821,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:373",
@@ -62063,7 +61834,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3746",
@@ -62075,7 +61846,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3751",
@@ -62086,7 +61857,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:380",
@@ -62098,7 +61869,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:381",
@@ -62109,7 +61880,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:382",
@@ -62124,7 +61895,7 @@
         "club-world-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:384",
@@ -62138,7 +61909,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:387",
@@ -62150,7 +61921,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:388",
@@ -62163,7 +61934,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:3891",
@@ -62174,7 +61945,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:391",
@@ -62185,7 +61956,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:393",
@@ -62198,7 +61969,7 @@
       "competitions": [
         "premier-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:397",
@@ -62209,7 +61980,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:398",
@@ -62221,7 +61992,7 @@
       "competitions": [
         "carabao-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:432",
@@ -62232,7 +62003,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:433",
@@ -62244,7 +62015,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:435",
@@ -62255,7 +62026,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:436",
@@ -62266,7 +62037,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:437",
@@ -62278,7 +62049,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:441",
@@ -62289,7 +62060,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:4411",
@@ -62300,7 +62071,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:443",
@@ -62311,7 +62082,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:4771",
@@ -62323,7 +62094,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:489",
@@ -62334,7 +62105,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:490",
@@ -62345,7 +62116,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:493",
@@ -62357,7 +62128,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:494",
@@ -62368,7 +62139,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:5",
@@ -62391,7 +62162,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:521",
@@ -62403,7 +62174,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:570",
@@ -62414,7 +62185,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:572",
@@ -62426,7 +62197,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:5807",
@@ -62438,7 +62209,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:597",
@@ -62449,7 +62220,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:6077",
@@ -62461,7 +62232,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:6086",
@@ -62484,7 +62255,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:620",
@@ -62495,7 +62266,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:622",
@@ -62506,7 +62277,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:7084",
@@ -62598,7 +62369,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:7672",
@@ -62609,7 +62380,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:7853",
@@ -62618,7 +62389,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:7911",
@@ -62630,7 +62401,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:7922",
@@ -62641,7 +62412,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:8089",
@@ -62652,7 +62423,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:8169",
@@ -62663,7 +62434,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:819",
@@ -62687,7 +62458,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:8377",
@@ -62711,7 +62482,7 @@
         "europa-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:86",
@@ -62725,7 +62496,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:8625",
@@ -62749,7 +62520,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:88",
@@ -62760,7 +62531,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:884",
@@ -62783,7 +62554,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:89",
@@ -62795,7 +62566,7 @@
         "europa-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:90",
@@ -62806,7 +62577,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:909",
@@ -62818,7 +62589,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:929",
@@ -62842,7 +62613,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:936",
@@ -62853,7 +62624,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:94",
@@ -62864,7 +62635,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:96",
@@ -62875,7 +62646,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:97",
@@ -62886,7 +62657,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:9720",
@@ -62897,7 +62668,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:9723",
@@ -62909,7 +62680,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:9726",
@@ -62923,7 +62694,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:9727",
@@ -62936,7 +62707,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:987",
@@ -62947,7 +62718,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:99",
@@ -62958,7 +62729,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     },
     {
       "id": "espn:soccer:997",
@@ -62969,7 +62740,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-19"
     }
   ],
   "operations": {
