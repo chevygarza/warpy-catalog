@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "updatedAt": "2026-09-19",
   "events": [
     {
@@ -71991,6 +71991,32 @@
         "publishedAt": "2026-09-19T15:24:22Z",
         "eligible": true
       }
+    },
+    {
+      "id": "pokemon-tcg-mega-evolutiondelta-reign-2026",
+      "title": "Pokémon TCG: Mega Evolution—Delta Reign",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-11-06",
+      "url": "https://press.pokemon.com/es-MX/Items/Schedule?period=All&types=3",
+      "keywords": [
+        "pokemon",
+        "tcg",
+        "mega",
+        "evolutiondelta",
+        "reign",
+        "pokémon tcg",
+        "mega evolution",
+        "delta reign",
+        "lanzamiento"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "news": {
+        "introducedInVersion": 80,
+        "publishedAt": "2026-09-19T19:25:30Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -76754,6 +76780,14 @@
       "version": 70,
       "target": "f1-season-2027",
       "at": "2026-09-17T23:08:39.630261+00:00"
+    },
+    "plantel-pok-mon-tcg-mega-evolution-delta-reign-20260919-1323": {
+      "operationID": "plantel-pok-mon-tcg-mega-evolution-delta-reign-20260919-1323",
+      "digest": "ece219b033a37a75e369362afa6e030bbdcc2d9f90371c41479adaceb180d404",
+      "status": "applied",
+      "version": 80,
+      "target": "pokemon-tcg-mega-evolutiondelta-reign-2026",
+      "at": "2026-09-19T19:25:28.686655+00:00"
     }
   }
 }
