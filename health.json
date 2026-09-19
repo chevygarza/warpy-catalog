@@ -1,165 +1,182 @@
 {
-  "checkedAt": "2026-09-19T15:07:27.661489+00:00",
-  "status": "degraded",
+  "checkedAt": "2026-09-19T15:24:22.403526+00:00",
+  "status": "ok",
   "sources": {
     "f1": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mlb": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nfl": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nba": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
-      "status": "failed",
-      "lastSuccessAt": "2026-09-19T14:50:22.876342+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
-      "overrideConflicts": [],
-      "reason": "nba-401914130: equipo espn:basketball:134478 no existe en el registro"
+      "overrideConflicts": []
     },
     "liga-mx": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "la-liga": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "premier-league": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "champions-league": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mls": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "liga-argentina": {
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
+      "warnings": [],
+      "outcome": "publicada",
+      "primaryVerified": true,
+      "overrideConflicts": []
+    },
+    "brasileirao": {
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
+      "status": "ok",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "concachampions": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "europa-league": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [
         "ARARAT-ARMENIA vs Sparta Prague: sin zona para Yerevan, Armenia; hora en UTC",
         "ARARAT-ARMENIA vs AZ Alkmaar: sin zona para Abovyan, Armenia; hora en UTC",
@@ -171,9 +188,9 @@
       "overrideConflicts": []
     },
     "conference-league": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [
         "Egnatia vs FC Midtjylland: sin zona para Tirana, Albania; hora en UTC",
         "KuPS Kuopio vs Trabzonspor: sin zona para Tampere, Finland; hora en UTC",
@@ -205,18 +222,18 @@
       "overrideConflicts": []
     },
     "fa-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-09-19T15:07:27.661489+00:00",
+      "checkedAt": "2026-09-19T15:24:22.403526+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-19T15:07:27.661489+00:00",
+      "lastSuccessAt": "2026-09-19T15:24:22.403526+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -225,7 +242,7 @@
   },
   "findings": [],
   "cadenceHours": 12,
-  "catalogVersion": 77,
+  "catalogVersion": 78,
   "editorial": {
     "checked": 74,
     "confirmed": [
@@ -311,6 +328,7 @@
   },
   "coverage": {
     "automaticSeries": [
+      "brasileirao",
       "campeon-de-campeones",
       "campeones-cup",
       "carabao-cup",
@@ -324,6 +342,7 @@
       "fa-cup",
       "la-liga",
       "leagues-cup",
+      "liga-argentina",
       "liga-mx",
       "mlb",
       "mls",
@@ -443,5 +462,5 @@
       "premier-league"
     ]
   },
-  "publishedAt": "2026-09-19T15:11:01.077076+00:00"
+  "publishedAt": "2026-09-19T15:27:55.138444+00:00"
 }
