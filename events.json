@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "updatedAt": "2026-09-20",
   "events": [
     {
@@ -11855,6 +11855,244 @@
       ],
       "occurrences": [
         {
+          "id": "nfl-401872933",
+          "competition": "nfl",
+          "title": "Atlanta Falcons vs Carolina Panthers",
+          "teams": [
+            "Atlanta Falcons",
+            "Carolina Panthers"
+          ],
+          "teamIDs": [
+            "espn:football:1",
+            "espn:football:29"
+          ],
+          "venue": "Mercedes-Benz Stadium, Atlanta",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "nfl-401872937",
+          "competition": "nfl",
+          "title": "Chicago Bears vs Minnesota Vikings",
+          "teams": [
+            "Chicago Bears",
+            "Minnesota Vikings"
+          ],
+          "teamIDs": [
+            "espn:football:3",
+            "espn:football:16"
+          ],
+          "venue": "Soldier Field, Chicago",
+          "date": "2026-09-20",
+          "time": "12:00",
+          "timeZone": "America/Chicago"
+        },
+        {
+          "id": "nfl-401872939",
+          "competition": "nfl",
+          "title": "Tennessee Titans vs Philadelphia Eagles",
+          "teams": [
+            "Tennessee Titans",
+            "Philadelphia Eagles"
+          ],
+          "teamIDs": [
+            "espn:football:10",
+            "espn:football:21"
+          ],
+          "venue": "Nissan Stadium, Nashville",
+          "date": "2026-09-20",
+          "time": "12:00",
+          "timeZone": "America/Chicago"
+        },
+        {
+          "id": "nfl-401872946",
+          "competition": "nfl",
+          "title": "New England Patriots vs Pittsburgh Steelers",
+          "teams": [
+            "New England Patriots",
+            "Pittsburgh Steelers"
+          ],
+          "teamIDs": [
+            "espn:football:17",
+            "espn:football:23"
+          ],
+          "venue": "Gillette Stadium, Foxborough",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "nfl-401872936",
+          "competition": "nfl",
+          "title": "New York Jets vs Green Bay Packers",
+          "teams": [
+            "New York Jets",
+            "Green Bay Packers"
+          ],
+          "teamIDs": [
+            "espn:football:20",
+            "espn:football:9"
+          ],
+          "venue": "MetLife Stadium, East Rutherford",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "nfl-401872935",
+          "competition": "nfl",
+          "title": "Tampa Bay Buccaneers vs Cleveland Browns",
+          "teams": [
+            "Tampa Bay Buccaneers",
+            "Cleveland Browns"
+          ],
+          "teamIDs": [
+            "espn:football:27",
+            "espn:football:5"
+          ],
+          "venue": "Raymond James Stadium, Tampa",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "nfl-401872938",
+          "competition": "nfl",
+          "title": "Baltimore Ravens vs New Orleans Saints",
+          "teams": [
+            "Baltimore Ravens",
+            "New Orleans Saints"
+          ],
+          "teamIDs": [
+            "espn:football:33",
+            "espn:football:18"
+          ],
+          "venue": "M&T Bank Stadium, Baltimore",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "nfl-401872934",
+          "competition": "nfl",
+          "title": "Houston Texans vs Cincinnati Bengals",
+          "teams": [
+            "Houston Texans",
+            "Cincinnati Bengals"
+          ],
+          "teamIDs": [
+            "espn:football:34",
+            "espn:football:4"
+          ],
+          "venue": "Reliant Stadium, Houston",
+          "date": "2026-09-20",
+          "time": "12:00",
+          "timeZone": "America/Chicago"
+        },
+        {
+          "id": "nfl-401872940",
+          "competition": "nfl",
+          "title": "Denver Broncos vs Jacksonville Jaguars",
+          "teams": [
+            "Denver Broncos",
+            "Jacksonville Jaguars"
+          ],
+          "teamIDs": [
+            "espn:football:7",
+            "espn:football:30"
+          ],
+          "venue": "Empower Field at Mile High, Denver",
+          "date": "2026-09-20",
+          "time": "14:05",
+          "timeZone": "America/Denver"
+        },
+        {
+          "id": "nfl-401872941",
+          "competition": "nfl",
+          "title": "Los Angeles Chargers vs Las Vegas Raiders",
+          "teams": [
+            "Los Angeles Chargers",
+            "Las Vegas Raiders"
+          ],
+          "teamIDs": [
+            "espn:football:24",
+            "espn:football:13"
+          ],
+          "venue": "SoFi Stadium, Inglewood",
+          "date": "2026-09-20",
+          "time": "13:05",
+          "timeZone": "America/Los_Angeles"
+        },
+        {
+          "id": "nfl-401872944",
+          "competition": "nfl",
+          "title": "Dallas Cowboys vs Washington Commanders",
+          "teams": [
+            "Dallas Cowboys",
+            "Washington Commanders"
+          ],
+          "teamIDs": [
+            "espn:football:6",
+            "espn:football:28"
+          ],
+          "venue": "AT&T Stadium, Arlington",
+          "date": "2026-09-20",
+          "time": "15:25",
+          "timeZone": "America/Chicago"
+        },
+        {
+          "id": "nfl-401872943",
+          "competition": "nfl",
+          "title": "Arizona Cardinals vs Seattle Seahawks",
+          "teams": [
+            "Arizona Cardinals",
+            "Seattle Seahawks"
+          ],
+          "teamIDs": [
+            "espn:football:22",
+            "espn:football:26"
+          ],
+          "venue": "State Farm Stadium, Glendale",
+          "date": "2026-09-20",
+          "time": "13:25",
+          "timeZone": "America/Phoenix"
+        },
+        {
+          "id": "nfl-401872942",
+          "competition": "nfl",
+          "title": "San Francisco 49ers vs Miami Dolphins",
+          "teams": [
+            "San Francisco 49ers",
+            "Miami Dolphins"
+          ],
+          "teamIDs": [
+            "espn:football:25",
+            "espn:football:15"
+          ],
+          "venue": "Levi's Stadium, Santa Clara",
+          "date": "2026-09-20",
+          "time": "13:25",
+          "timeZone": "America/Los_Angeles"
+        },
+        {
+          "id": "nfl-401872945",
+          "competition": "nfl",
+          "title": "Kansas City Chiefs vs Indianapolis Colts",
+          "teams": [
+            "Kansas City Chiefs",
+            "Indianapolis Colts"
+          ],
+          "teamIDs": [
+            "espn:football:12",
+            "espn:football:11"
+          ],
+          "venue": "Arrowhead Stadium, Kansas City",
+          "date": "2026-09-20",
+          "time": "19:20",
+          "timeZone": "America/Chicago"
+        },
+        {
           "id": "nfl-401872656",
           "competition": "nfl",
           "title": "Seattle Seahawks vs New England Patriots",
@@ -12142,244 +12380,6 @@
           "date": "2026-09-17",
           "time": "20:15",
           "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872933",
-          "competition": "nfl",
-          "title": "Atlanta Falcons vs Carolina Panthers",
-          "teams": [
-            "Atlanta Falcons",
-            "Carolina Panthers"
-          ],
-          "teamIDs": [
-            "espn:football:1",
-            "espn:football:29"
-          ],
-          "venue": "Mercedes-Benz Stadium, Atlanta",
-          "date": "2026-09-20",
-          "time": "13:00",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872937",
-          "competition": "nfl",
-          "title": "Chicago Bears vs Minnesota Vikings",
-          "teams": [
-            "Chicago Bears",
-            "Minnesota Vikings"
-          ],
-          "teamIDs": [
-            "espn:football:3",
-            "espn:football:16"
-          ],
-          "venue": "Soldier Field, Chicago",
-          "date": "2026-09-20",
-          "time": "12:00",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "nfl-401872939",
-          "competition": "nfl",
-          "title": "Tennessee Titans vs Philadelphia Eagles",
-          "teams": [
-            "Tennessee Titans",
-            "Philadelphia Eagles"
-          ],
-          "teamIDs": [
-            "espn:football:10",
-            "espn:football:21"
-          ],
-          "venue": "Nissan Stadium, Nashville",
-          "date": "2026-09-20",
-          "time": "12:00",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "nfl-401872946",
-          "competition": "nfl",
-          "title": "New England Patriots vs Pittsburgh Steelers",
-          "teams": [
-            "New England Patriots",
-            "Pittsburgh Steelers"
-          ],
-          "teamIDs": [
-            "espn:football:17",
-            "espn:football:23"
-          ],
-          "venue": "Gillette Stadium, Foxborough",
-          "date": "2026-09-20",
-          "time": "13:00",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872936",
-          "competition": "nfl",
-          "title": "New York Jets vs Green Bay Packers",
-          "teams": [
-            "New York Jets",
-            "Green Bay Packers"
-          ],
-          "teamIDs": [
-            "espn:football:20",
-            "espn:football:9"
-          ],
-          "venue": "MetLife Stadium, East Rutherford",
-          "date": "2026-09-20",
-          "time": "13:00",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872935",
-          "competition": "nfl",
-          "title": "Tampa Bay Buccaneers vs Cleveland Browns",
-          "teams": [
-            "Tampa Bay Buccaneers",
-            "Cleveland Browns"
-          ],
-          "teamIDs": [
-            "espn:football:27",
-            "espn:football:5"
-          ],
-          "venue": "Raymond James Stadium, Tampa",
-          "date": "2026-09-20",
-          "time": "13:00",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872938",
-          "competition": "nfl",
-          "title": "Baltimore Ravens vs New Orleans Saints",
-          "teams": [
-            "Baltimore Ravens",
-            "New Orleans Saints"
-          ],
-          "teamIDs": [
-            "espn:football:33",
-            "espn:football:18"
-          ],
-          "venue": "M&T Bank Stadium, Baltimore",
-          "date": "2026-09-20",
-          "time": "13:00",
-          "timeZone": "America/New_York"
-        },
-        {
-          "id": "nfl-401872934",
-          "competition": "nfl",
-          "title": "Houston Texans vs Cincinnati Bengals",
-          "teams": [
-            "Houston Texans",
-            "Cincinnati Bengals"
-          ],
-          "teamIDs": [
-            "espn:football:34",
-            "espn:football:4"
-          ],
-          "venue": "Reliant Stadium, Houston",
-          "date": "2026-09-20",
-          "time": "12:00",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "nfl-401872940",
-          "competition": "nfl",
-          "title": "Denver Broncos vs Jacksonville Jaguars",
-          "teams": [
-            "Denver Broncos",
-            "Jacksonville Jaguars"
-          ],
-          "teamIDs": [
-            "espn:football:7",
-            "espn:football:30"
-          ],
-          "venue": "Empower Field at Mile High, Denver",
-          "date": "2026-09-20",
-          "time": "14:05",
-          "timeZone": "America/Denver"
-        },
-        {
-          "id": "nfl-401872941",
-          "competition": "nfl",
-          "title": "Los Angeles Chargers vs Las Vegas Raiders",
-          "teams": [
-            "Los Angeles Chargers",
-            "Las Vegas Raiders"
-          ],
-          "teamIDs": [
-            "espn:football:24",
-            "espn:football:13"
-          ],
-          "venue": "SoFi Stadium, Inglewood",
-          "date": "2026-09-20",
-          "time": "13:05",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "nfl-401872944",
-          "competition": "nfl",
-          "title": "Dallas Cowboys vs Washington Commanders",
-          "teams": [
-            "Dallas Cowboys",
-            "Washington Commanders"
-          ],
-          "teamIDs": [
-            "espn:football:6",
-            "espn:football:28"
-          ],
-          "venue": "AT&T Stadium, Arlington",
-          "date": "2026-09-20",
-          "time": "15:25",
-          "timeZone": "America/Chicago"
-        },
-        {
-          "id": "nfl-401872943",
-          "competition": "nfl",
-          "title": "Arizona Cardinals vs Seattle Seahawks",
-          "teams": [
-            "Arizona Cardinals",
-            "Seattle Seahawks"
-          ],
-          "teamIDs": [
-            "espn:football:22",
-            "espn:football:26"
-          ],
-          "venue": "State Farm Stadium, Glendale",
-          "date": "2026-09-20",
-          "time": "13:25",
-          "timeZone": "America/Phoenix"
-        },
-        {
-          "id": "nfl-401872942",
-          "competition": "nfl",
-          "title": "San Francisco 49ers vs Miami Dolphins",
-          "teams": [
-            "San Francisco 49ers",
-            "Miami Dolphins"
-          ],
-          "teamIDs": [
-            "espn:football:25",
-            "espn:football:15"
-          ],
-          "venue": "Levi's Stadium, Santa Clara",
-          "date": "2026-09-20",
-          "time": "13:25",
-          "timeZone": "America/Los_Angeles"
-        },
-        {
-          "id": "nfl-401872945",
-          "competition": "nfl",
-          "title": "Kansas City Chiefs vs Indianapolis Colts",
-          "teams": [
-            "Kansas City Chiefs",
-            "Indianapolis Colts"
-          ],
-          "teamIDs": [
-            "espn:football:12",
-            "espn:football:11"
-          ],
-          "venue": "Arrowhead Stadium, Kansas City",
-          "date": "2026-09-20",
-          "time": "19:20",
-          "timeZone": "America/Chicago"
         },
         {
           "id": "nfl-401872947",
