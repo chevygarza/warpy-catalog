@@ -1,5 +1,5 @@
 {
-  "version": 88,
+  "version": 89,
   "updatedAt": "2026-09-22",
   "events": [
     {
@@ -57759,10 +57759,10 @@
           },
           {
             "text": {
-              "es": "El Tokyo Game Show 2026 se celebra en la sede de Makuhari Messe.",
-              "en": "Tokyo Game Show 2026 takes place at the Makuhari Messe venue."
+              "es": "La edición de 2026 reunió un récord de 1138 expositores de 53 países.",
+              "en": "The 2026 edition drew a record 1,138 exhibitors from 53 countries."
             },
-            "source": "https://tgs.cesa.or.jp/2026/en"
+            "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
           }
         ]
       },
@@ -57790,10 +57790,10 @@
         },
         {
           "text": {
-            "es": "El Tokyo Game Show 2026 se celebra en la sede de Makuhari Messe.",
-            "en": "Tokyo Game Show 2026 takes place at the Makuhari Messe venue."
+            "es": "La edición de 2026 reunió un récord de 1138 expositores de 53 países.",
+            "en": "The 2026 edition drew a record 1,138 exhibitors from 53 countries."
           },
-          "source": "https://tgs.cesa.or.jp/2026/en"
+          "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
         }
       ]
     },
@@ -58558,16 +58558,16 @@
       "override": {
         "fact": {
           "text": {
-            "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
-            "en": "Meta Connect 2026 takes place in Menlo Park, California."
+            "es": "Meta Connect 2026 es un evento de dos días centrado en IA, lentes con IA y realidad virtual.",
+            "en": "Meta Connect 2026 is a two-day event focused on AI, AI glasses and virtual reality."
           },
           "source": "https://www.metaconnect.com"
         },
         "facts": [
           {
             "text": {
-              "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
-              "en": "Meta Connect 2026 takes place in Menlo Park, California."
+              "es": "Meta Connect 2026 es un evento de dos días centrado en IA, lentes con IA y realidad virtual.",
+              "en": "Meta Connect 2026 is a two-day event focused on AI, AI glasses and virtual reality."
             },
             "source": "https://www.metaconnect.com"
           },
@@ -58589,16 +58589,16 @@
       },
       "fact": {
         "text": {
-          "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
-          "en": "Meta Connect 2026 takes place in Menlo Park, California."
+          "es": "Meta Connect 2026 es un evento de dos días centrado en IA, lentes con IA y realidad virtual.",
+          "en": "Meta Connect 2026 is a two-day event focused on AI, AI glasses and virtual reality."
         },
         "source": "https://www.metaconnect.com"
       },
       "facts": [
         {
           "text": {
-            "es": "Meta Connect 2026 se celebra en Menlo Park, California.",
-            "en": "Meta Connect 2026 takes place in Menlo Park, California."
+            "es": "Meta Connect 2026 es un evento de dos días centrado en IA, lentes con IA y realidad virtual.",
+            "en": "Meta Connect 2026 is a two-day event focused on AI, AI glasses and virtual reality."
           },
           "source": "https://www.metaconnect.com"
         },
@@ -59145,10 +59145,10 @@
           },
           {
             "text": {
-              "es": "Computex 2027 utilizará el Taipei Nangang Exhibition Center, Hall 2.",
-              "en": "Computex 2027 will use the Taipei Nangang Exhibition Center, Hall 2."
+              "es": "El Hall 1 (TaiNEX 1) de la sede tiene capacidad para 2626 estands estándar.",
+              "en": "The venue's Hall 1 (TaiNEX 1) has capacity for 2,626 standard-size booths."
             },
-            "source": "https://www.computextaipei.com.tw/en/index.html"
+            "source": "https://en.wikipedia.org/wiki/Taipei_Nangang_Exhibition_Center"
           }
         ]
       },
@@ -59176,10 +59176,10 @@
         },
         {
           "text": {
-            "es": "Computex 2027 utilizará el Taipei Nangang Exhibition Center, Hall 2.",
-            "en": "Computex 2027 will use the Taipei Nangang Exhibition Center, Hall 2."
+            "es": "El Hall 1 (TaiNEX 1) de la sede tiene capacidad para 2626 estands estándar.",
+            "en": "The venue's Hall 1 (TaiNEX 1) has capacity for 2,626 standard-size booths."
           },
-          "source": "https://www.computextaipei.com.tw/en/index.html"
+          "source": "https://en.wikipedia.org/wiki/Taipei_Nangang_Exhibition_Center"
         }
       ]
     },
@@ -75525,6 +75525,14 @@
       "version": 88,
       "target": "mls-761877",
       "at": "2026-09-22T21:15:47.912343+00:00"
+    },
+    "plantel-datos-subtitulo-lote-20260922-1626": {
+      "operationID": "plantel-datos-subtitulo-lote-20260922-1626",
+      "digest": "da6c8f6c154c7c0bfc2624f3feb4fe7f3290f02ef9e532342d88924a2df83d46",
+      "status": "applied",
+      "version": 89,
+      "target": "tokyo-game-show-2026,meta-connect-2026,computex-2027",
+      "at": "2026-09-22T22:28:12.119863+00:00"
     }
   }
 }
