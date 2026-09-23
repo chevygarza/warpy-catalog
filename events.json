@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 98,
   "updatedAt": "2026-09-23",
   "events": [
     {
@@ -58227,7 +58227,7 @@
       "emoji": "🥽",
       "category": "tech",
       "date": "2026-09-23",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk_23VLQxsY-xJUaa3bCxO-Loe64krh3jnz79Qs_6kdYLSN8aYX5goDmZIegIRZVuHIyQGR2jqUcwytgkFrm9DziJ26mChcCl57N6B8OH79P41y4p3_w==",
+      "url": "https://www.meta.com/connect/",
       "keywords": [
         "meta",
         "connect",
@@ -58303,7 +58303,7 @@
             "source": "https://www.metaconnect.com"
           }
         ],
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk_23VLQxsY-xJUaa3bCxO-Loe64krh3jnz79Qs_6kdYLSN8aYX5goDmZIegIRZVuHIyQGR2jqUcwytgkFrm9DziJ26mChcCl57N6B8OH79P41y4p3_w=="
+        "url": "https://www.meta.com/connect/"
       },
       "fact": {
         "text": {
@@ -58334,9 +58334,7 @@
           },
           "source": "https://www.metaconnect.com"
         }
-      ],
-      "dateConfirmedAt": "2026-09-23",
-      "dateConfirmed": true
+      ]
     },
     {
       "id": "iphone-duo",
@@ -90012,6 +90010,14 @@
       "version": 97,
       "target": "pokemon-tcg-mega-evolutiondelta-reign-2026,ramadan-2027,starship-flight-14-2026,meta-connect-2026,world-series-2026,zelda-ocarina-of-time-2026",
       "at": "2026-09-23T21:19:46.083166+00:00"
+    },
+    "claude-meta-liga-20260923-1523": {
+      "operationID": "claude-meta-liga-20260923-1523",
+      "digest": "262bc14fcd9fcbf2d185214a72a8347f3bd2395a0a322163a7a16ebacc44c350",
+      "status": "applied",
+      "version": 98,
+      "target": "meta-connect-2026",
+      "at": "2026-09-23T21:24:13.217863+00:00"
     }
   }
 }
