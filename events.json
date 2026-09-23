@@ -1,6 +1,6 @@
 {
-  "version": 89,
-  "updatedAt": "2026-09-22",
+  "version": 90,
+  "updatedAt": "2026-09-23",
   "events": [
     {
       "id": "fifa-world-cup-2030",
@@ -58667,32 +58667,28 @@
         "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
         "fact": {
           "text": {
-            "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
-            "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+            "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
+            "en": "The hinge of the iPhone Duo is engineered from over 100 components."
           },
-          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "quote": "the hinge is engineered from more than 100 components"
         },
         "facts": [
-          {
-            "text": {
-              "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
-              "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
-            },
-            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
-          },
           {
             "text": {
               "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
               "en": "The hinge of the iPhone Duo is engineered from over 100 components."
             },
-            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+            "quote": "the hinge is engineered from more than 100 components"
           },
           {
             "text": {
               "es": "La pantalla interna de 7,6 pulgadas es un 50 % más grande que la del iPhone 18 Pro Max.",
               "en": "The 7.6-inch inner display is 50 percent larger than iPhone 18 Pro Max."
             },
-            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+            "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+            "quote": "is 50 percent larger than iPhone 18 Pro Max"
           }
         ]
       },
@@ -58700,32 +58696,28 @@
       "dateConfirmed": true,
       "fact": {
         "text": {
-          "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
-          "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
+          "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
+          "en": "The hinge of the iPhone Duo is engineered from over 100 components."
         },
-        "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+        "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "quote": "the hinge is engineered from more than 100 components"
       },
       "facts": [
-        {
-          "text": {
-            "es": "El iPhone Duo es el primer iPhone plegable presentado por Apple.",
-            "en": "The iPhone Duo is the first foldable iPhone introduced by Apple."
-          },
-          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
-        },
         {
           "text": {
             "es": "La bisagra del iPhone Duo fue diseñada con más de 100 componentes.",
             "en": "The hinge of the iPhone Duo is engineered from over 100 components."
           },
-          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "quote": "the hinge is engineered from more than 100 components"
         },
         {
           "text": {
             "es": "La pantalla interna de 7,6 pulgadas es un 50 % más grande que la del iPhone 18 Pro Max.",
             "en": "The 7.6-inch inner display is 50 percent larger than iPhone 18 Pro Max."
           },
-          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+          "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "quote": "is 50 percent larger than iPhone 18 Pro Max"
         }
       ]
     },
@@ -75533,6 +75525,14 @@
       "version": 89,
       "target": "tokyo-game-show-2026,meta-connect-2026,computex-2027",
       "at": "2026-09-22T22:28:12.119863+00:00"
+    },
+    "plantel-iphone-duo-facts-20260922-1910": {
+      "operationID": "plantel-iphone-duo-facts-20260922-1910",
+      "digest": "bb5ab772892363f127db1b665a4b7637aeed9c134720f5926dea99229160f97e",
+      "status": "applied",
+      "version": 90,
+      "target": "iphone-duo",
+      "at": "2026-09-23T01:10:54.580220+00:00"
     }
   }
 }
