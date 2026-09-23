@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "updatedAt": "2026-09-23",
   "events": [
     {
@@ -2138,7 +2138,9 @@
             },
             "source": "https://en.wikipedia.org/wiki/World_Series"
           }
-        ]
+        ],
+        "endDate": "2026-10-31",
+        "url": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
       },
       "origin": "telegram",
       "fact": {
@@ -2170,7 +2172,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/World_Series"
         }
-      ]
+      ],
+      "endDate": "2026-10-31",
+      "url": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
     },
     {
       "id": "oktoberfest-2026",
@@ -3567,6 +3571,13 @@
               "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
             },
             "source": "https://en.wikipedia.org/wiki/Ramadan"
+          },
+          {
+            "text": {
+              "es": "El Ramadán es el noveno mes del calendario islámico y dura entre veintinueve y treinta días.",
+              "en": "Ramadan is the ninth month of the Islamic calendar and lasts twenty-nine to thirty days."
+            },
+            "source": "https://en.wikipedia.org/wiki/Ramadan"
           }
         ]
       },
@@ -3583,6 +3594,13 @@
           "text": {
             "es": "Según el calendario Umm al-Qura, el Ramadán del año 1448 AH finaliza el 8 de marzo de 2027.",
             "en": "According to the Umm al-Qura calendar, Ramadan for 1448 AH ends on 8 March 2027."
+          },
+          "source": "https://en.wikipedia.org/wiki/Ramadan"
+        },
+        {
+          "text": {
+            "es": "El Ramadán es el noveno mes del calendario islámico y dura entre veintinueve y treinta días.",
+            "en": "Ramadan is the ninth month of the Islamic calendar and lasts twenty-nine to thirty days."
           },
           "source": "https://en.wikipedia.org/wiki/Ramadan"
         }
@@ -57853,7 +57871,7 @@
       "emoji": "🎮",
       "category": "entertainment",
       "date": "2026-11-05",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/",
+      "url": "https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(videojuego_de_2026)",
       "keywords": [
         "the",
         "legend",
@@ -57903,7 +57921,7 @@
         "accent": "#27AE60"
       },
       "override": {
-        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/",
+        "url": "https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(videojuego_de_2026)",
         "fact": {
           "text": {
             "es": "Esta versión del juego para Nintendo Switch 2 se lanza el 5 de noviembre de 2026.",
@@ -57965,11 +57983,8 @@
           "source": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-125697/"
         }
       ],
-      "dateIssue": {
-        "kind": "unsupported",
-        "since": "2026-09-23",
-        "detail": "la fecha no está en una oración que nombre al evento"
-      }
+      "dateConfirmedAt": "2026-09-23",
+      "dateConfirmed": true
     },
     {
       "id": "the-game-awards-2026",
@@ -58212,7 +58227,7 @@
       "emoji": "🥽",
       "category": "tech",
       "date": "2026-09-23",
-      "url": "https://www.meta.com/connect/",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk_23VLQxsY-xJUaa3bCxO-Loe64krh3jnz79Qs_6kdYLSN8aYX5goDmZIegIRZVuHIyQGR2jqUcwytgkFrm9DziJ26mChcCl57N6B8OH79P41y4p3_w==",
       "keywords": [
         "meta",
         "connect",
@@ -58287,7 +58302,8 @@
             },
             "source": "https://www.metaconnect.com"
           }
-        ]
+        ],
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk_23VLQxsY-xJUaa3bCxO-Loe64krh3jnz79Qs_6kdYLSN8aYX5goDmZIegIRZVuHIyQGR2jqUcwytgkFrm9DziJ26mChcCl57N6B8OH79P41y4p3_w=="
       },
       "fact": {
         "text": {
@@ -58319,11 +58335,8 @@
           "source": "https://www.metaconnect.com"
         }
       ],
-      "dateIssue": {
-        "kind": "unsupported",
-        "since": "2026-09-23",
-        "detail": "la fecha aparece sin una palabra de lanzamiento o celebración cerca"
-      }
+      "dateConfirmedAt": "2026-09-23",
+      "dateConfirmed": true
     },
     {
       "id": "iphone-duo",
@@ -60405,13 +60418,6 @@
         "publishedAt": "2026-09-15T18:08:54Z",
         "eligible": true
       },
-      "fact": {
-        "text": {
-          "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
-          "en": "Flight 14 will attempt to catch the Starship on its return."
-        },
-        "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
-      },
       "sourceSnapshot": {
         "id": "starship-flight-14-2026",
         "title": "Starship Flight 14",
@@ -60439,6 +60445,7 @@
         }
       },
       "override": {
+        "date": "2026-09-28",
         "fact": {
           "text": {
             "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
@@ -60446,8 +60453,46 @@
           },
           "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
         },
-        "date": "2026-09-28"
-      }
+        "facts": [
+          {
+            "text": {
+              "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
+              "en": "Flight 14 will attempt to catch the Starship on its return."
+            },
+            "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
+          },
+          {
+            "text": {
+              "es": "El Vuelo 14 planea desplegar 26 satélites Starlink V3, tres de ellos con cámaras.",
+              "en": "Flight 14 is planned to deploy 26 Starlink V3 satellites, including three with cameras."
+            },
+            "source": "https://en.wikipedia.org/wiki/Starship_flight_14"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
+          "en": "Flight 14 will attempt to catch the Starship on its return."
+        },
+        "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Vuelo 14 intentará atrapar la nave Starship en su regreso.",
+            "en": "Flight 14 will attempt to catch the Starship on its return."
+          },
+          "source": "https://en.wikipedia.org/wiki/SpaceX_Starship_flight_tests"
+        },
+        {
+          "text": {
+            "es": "El Vuelo 14 planea desplegar 26 satélites Starlink V3, tres de ellos con cámaras.",
+            "en": "Flight 14 is planned to deploy 26 Starlink V3 satellites, including three with cameras."
+          },
+          "source": "https://en.wikipedia.org/wiki/Starship_flight_14"
+        }
+      ]
     },
     {
       "id": "tesla-roadster-2026",
@@ -70430,10 +70475,56 @@
         }
       },
       "override": {
-        "subcategory": "launches"
+        "subcategory": "launches",
+        "fact": {
+          "text": {
+            "es": "Delta Reign es la primera expansión en introducir las cartas divididas Legendary Stadium.",
+            "en": "Delta Reign is the first to introduce the series' split Legendary Stadium cards."
+          },
+          "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Delta Reign es la primera expansión en introducir las cartas divididas Legendary Stadium.",
+              "en": "Delta Reign is the first to introduce the series' split Legendary Stadium cards."
+            },
+            "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+          },
+          {
+            "text": {
+              "es": "Delta Reign marca el regreso de Mega Rayquaza por primera vez desde dos expansiones de 2015.",
+              "en": "Delta Reign marks the return of Mega Rayquaza for the first time since two 2015 expansions."
+            },
+            "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+          }
+        ]
       },
       "dateConfirmedAt": "2026-09-23",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "fact": {
+        "text": {
+          "es": "Delta Reign es la primera expansión en introducir las cartas divididas Legendary Stadium.",
+          "en": "Delta Reign is the first to introduce the series' split Legendary Stadium cards."
+        },
+        "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Delta Reign es la primera expansión en introducir las cartas divididas Legendary Stadium.",
+            "en": "Delta Reign is the first to introduce the series' split Legendary Stadium cards."
+          },
+          "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+        },
+        {
+          "text": {
+            "es": "Delta Reign marca el regreso de Mega Rayquaza por primera vez desde dos expansiones de 2015.",
+            "en": "Delta Reign marks the return of Mega Rayquaza for the first time since two 2015 expansions."
+          },
+          "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
+        }
+      ]
     },
     {
       "id": "liga-expansion",
@@ -89913,6 +90004,14 @@
       "version": 96,
       "target": "annular-solar-eclipse-on-february-6-2027-2027,nasa-s-spacex-crew-13-2026,rayman-legends-retold-2026,professor-layton-and-the-new-world-of-steam-2026,python-3-15-0-2026,reality-fracture-2026,fedora-linux-45-2026",
       "at": "2026-09-23T21:12:25.588391+00:00"
+    },
+    "plantel-reponer-ediciones-20260923-1511": {
+      "operationID": "plantel-reponer-ediciones-20260923-1511",
+      "digest": "94adcfde98548884fb397b00ccde705ae439f548f162c0b5e8793836b364ffa0",
+      "status": "applied",
+      "version": 97,
+      "target": "pokemon-tcg-mega-evolutiondelta-reign-2026,ramadan-2027,starship-flight-14-2026,meta-connect-2026,world-series-2026,zelda-ocarina-of-time-2026",
+      "at": "2026-09-23T21:19:46.083166+00:00"
     }
   }
 }
