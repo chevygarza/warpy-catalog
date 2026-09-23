@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 92,
   "updatedAt": "2026-09-23",
   "events": [
     {
@@ -70733,11 +70733,40 @@
         "lanzamiento"
       ],
       "origin": "telegram",
-      "subcategory": "gaming",
+      "subcategory": "launches",
       "news": {
         "introducedInVersion": 80,
         "publishedAt": "2026-09-19T19:25:30Z",
         "eligible": true
+      },
+      "sourceSnapshot": {
+        "id": "pokemon-tcg-mega-evolutiondelta-reign-2026",
+        "title": "Pokémon TCG: Mega Evolution—Delta Reign",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-11-06",
+        "url": "https://press.pokemon.com/es-MX/Items/Schedule?period=All&types=3",
+        "keywords": [
+          "pokemon",
+          "tcg",
+          "mega",
+          "evolutiondelta",
+          "reign",
+          "pokémon tcg",
+          "mega evolution",
+          "delta reign",
+          "lanzamiento"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "news": {
+          "introducedInVersion": 80,
+          "publishedAt": "2026-09-19T19:25:30Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "subcategory": "launches"
       }
     }
   ],
@@ -75542,6 +75571,14 @@
       "version": 91,
       "target": "starship-flight-14-2026",
       "at": "2026-09-23T02:05:50.993264+00:00"
+    },
+    "claude-pokemon-lanzamientos-20260922-2022": {
+      "operationID": "claude-pokemon-lanzamientos-20260922-2022",
+      "digest": "3ed7804d32feeefe78b1e1665379d2b651dbfc38c24ae31141b7d4576bd51c0e",
+      "status": "applied",
+      "version": 92,
+      "target": "pokemon-tcg-mega-evolutiondelta-reign-2026",
+      "at": "2026-09-23T02:23:45.157525+00:00"
     }
   }
 }
