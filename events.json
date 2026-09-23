@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 96,
   "updatedAt": "2026-09-23",
   "events": [
     {
@@ -82454,6 +82454,178 @@
         "publishedAt": "2026-09-23T18:42:21Z",
         "eligible": true
       }
+    },
+    {
+      "id": "annular-solar-eclipse-on-february-6-2027-2027",
+      "title": "Annular Solar Eclipse on February 6, 2027",
+      "emoji": "🪐",
+      "category": "space",
+      "date": "2027-02-06",
+      "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_February_6,_2027",
+      "keywords": [
+        "annular",
+        "solar",
+        "eclipse",
+        "february",
+        "2027",
+        "solar eclipse",
+        "annular eclipse",
+        "astronomy"
+      ],
+      "origin": "telegram",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "nasa-s-spacex-crew-13-2026",
+      "title": "NASA's SpaceX Crew-13",
+      "emoji": "🪐",
+      "category": "space",
+      "date": "2026-10-01",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-13",
+      "keywords": [
+        "nasa",
+        "spacex",
+        "crew",
+        "crew-13",
+        "falcon 9",
+        "iss"
+      ],
+      "origin": "telegram",
+      "subtitle": "Commercial Crew Program",
+      "estimated": true,
+      "venue": "Cape Canaveral Space Force Station, Florida",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "rayman-legends-retold-2026",
+      "title": "Rayman Legends Retold",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-12-03",
+      "url": "https://store.ubisoft.com/us/rayman-legends-retold/",
+      "keywords": [
+        "rayman",
+        "legends",
+        "retold",
+        "videojuego",
+        "ubisoft",
+        "plataformas",
+        "remake"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "dateConfirmedAt": "2026-09-23",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "professor-layton-and-the-new-world-of-steam-2026",
+      "title": "Professor Layton and the New World of Steam",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-12-10",
+      "url": "https://www.layton.jp/jouki/en/",
+      "keywords": [
+        "professor",
+        "layton",
+        "and",
+        "the",
+        "new",
+        "world",
+        "steam",
+        "videojuego",
+        "level-5",
+        "puzles",
+        "aventura"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "python-3-15-0-2026",
+      "title": "Python 3.15.0",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-01",
+      "url": "https://peps.python.org/pep-0790/",
+      "keywords": [
+        "python",
+        "python 3.15",
+        "lenguaje de programación",
+        "software libre"
+      ],
+      "origin": "telegram",
+      "subtitle": "Python Software Foundation",
+      "subcategory": "launches",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "reality-fracture-2026",
+      "title": "Reality Fracture",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-02",
+      "url": "https://en.wikipedia.org/wiki/List_of_Magic:_The_Gathering_sets",
+      "keywords": [
+        "reality",
+        "fracture",
+        "magic: the gathering",
+        "reality fracture",
+        "wizards of the coast",
+        "cartas coleccionables"
+      ],
+      "origin": "telegram",
+      "subtitle": "Magic: The Gathering",
+      "subcategory": "launches",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "fedora-linux-45-2026",
+      "title": "Fedora Linux 45",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-20",
+      "url": "https://fedoraproject.org/wiki/Changes/Python3.15",
+      "keywords": [
+        "fedora",
+        "linux",
+        "fedora linux 45",
+        "sistema operativo",
+        "red hat"
+      ],
+      "origin": "telegram",
+      "subtitle": "The Fedora Project",
+      "subcategory": "launches",
+      "news": {
+        "introducedInVersion": 96,
+        "publishedAt": "2026-09-23T21:12:29Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -89733,6 +89905,14 @@
       "version": 94,
       "target": "asian-games-2026,oktoberfest-2026",
       "at": "2026-09-23T15:26:04.487262+00:00"
+    },
+    "plantel-reponer-altas-20260923-1511": {
+      "operationID": "plantel-reponer-altas-20260923-1511",
+      "digest": "097997284fab2bd669615aa1d254d56a7ee7db315384fb3a73719f415b987649",
+      "status": "applied",
+      "version": 96,
+      "target": "annular-solar-eclipse-on-february-6-2027-2027,nasa-s-spacex-crew-13-2026,rayman-legends-retold-2026,professor-layton-and-the-new-world-of-steam-2026,python-3-15-0-2026,reality-fracture-2026,fedora-linux-45-2026",
+      "at": "2026-09-23T21:12:25.588391+00:00"
     }
   }
 }
