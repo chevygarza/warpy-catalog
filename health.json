@@ -1,85 +1,85 @@
 {
-  "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+  "checkedAt": "2026-09-23T16:44:41.891910+00:00",
   "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mlb": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "failed",
       "lastSuccessAt": "2026-09-22T17:39:04.103237+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "reason": "aviso: events[3] (nfl-kickoff-2026) ya pasó (2026-09-10); la app lo oculta sola\naviso: events[12] (asian-games-2026) ya pasó (2026-09-19); la app lo oculta sola\naviso: events[19] (oktoberfest-2026) ya pasó (2026-09-19); la app lo oculta sola\naviso: events[67] (marvels-wolverine) ya pasó (2026-09-15); la app lo oculta sola\naviso: events[68] (tokyo-game-show-2026) ya pasó (2026-09-17); la app lo oculta sola\naviso: events[74] (iphone-18-pro) ya pasó (2026-09-18); la app lo oculta sola\naviso: events[81] (pokemon-30th-celebration-set-2026) ya pasó (2026-09-16); la app lo oculta sola\naviso: events[92] (starship-flight-14-2026) ya pasó (2026-09-22); la app lo oculta sola\naviso: events[94] (xbox-tokyo-game-show-broadcast-2026) ya pasó (2026-09-17); la app lo oculta sola\nerror: events[57] (mlb).occurrences[129]: id repetido mlb-824785\n101 eventos, versión 91, 375 equipos en el registro, 1 errores\n",
-      "consecutiveFailures": 1
+      "reason": "aviso: events[3] (nfl-kickoff-2026) ya pasó (2026-09-10); la app lo oculta sola\naviso: events[12] (asian-games-2026) ya pasó (2026-09-19); la app lo oculta sola\naviso: events[19] (oktoberfest-2026) ya pasó (2026-09-19); la app lo oculta sola\naviso: events[67] (marvels-wolverine) ya pasó (2026-09-15); la app lo oculta sola\naviso: events[68] (tokyo-game-show-2026) ya pasó (2026-09-17); la app lo oculta sola\naviso: events[74] (iphone-18-pro) ya pasó (2026-09-18); la app lo oculta sola\naviso: events[81] (pokemon-30th-celebration-set-2026) ya pasó (2026-09-16); la app lo oculta sola\naviso: events[94] (xbox-tokyo-game-show-broadcast-2026) ya pasó (2026-09-17); la app lo oculta sola\nerror: events[57] (mlb).occurrences[129]: id repetido mlb-824785\n101 eventos, versión 95, 375 equipos en el registro, 1 errores\n",
+      "consecutiveFailures": 2
     },
     "nfl": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "nba": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "liga-mx": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "la-liga": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "premier-league": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "champions-league": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "mls": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -88,99 +88,99 @@
       ]
     },
     "liga-argentina": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "brasileirao": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "concachampions": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "europa-league": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [
         "ARARAT-ARMENIA vs Sparta Prague: sin zona para Yerevan, Armenia; hora en UTC",
         "ARARAT-ARMENIA vs AZ Alkmaar: sin zona para Abovyan, Armenia; hora en UTC",
@@ -192,9 +192,9 @@
       "overrideConflicts": []
     },
     "conference-league": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [
         "Egnatia vs FC Midtjylland: sin zona para Tirana, Albania; hora en UTC",
         "KuPS Kuopio vs Trabzonspor: sin zona para Tampere, Finland; hora en UTC",
@@ -226,18 +226,18 @@
       "overrideConflicts": []
     },
     "fa-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
       "overrideConflicts": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-09-23T01:31:39.503862+00:00",
+      "checkedAt": "2026-09-23T16:44:41.891910+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-09-23T01:31:39.503862+00:00",
+      "lastSuccessAt": "2026-09-23T16:44:41.891910+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -250,12 +250,18 @@
       "verdict": "revisar",
       "subject": "zelda-ocarina-of-time-2026",
       "detail": "la fuente ya no respalda la fecha publicada desde 2026-09-23: posible aplazamiento; dile a Cronos «edita <evento> a la fecha nueva» o no hagas nada si sigue igual"
+    },
+    {
+      "area": "fuente",
+      "verdict": "revisar",
+      "subject": "meta-connect-2026",
+      "detail": "la fuente ya no respalda la fecha publicada desde 2026-09-23: posible aplazamiento; dile a Cronos «edita <evento> a la fecha nueva» o no hagas nada si sigue igual"
     }
   ],
   "cadenceHours": 12,
   "catalogVersion": 94,
   "editorial": {
-    "checked": 72,
+    "checked": 73,
     "confirmed": [
       "super-bowl-lxi-2027",
       "super-bowl-lxii-2028",
@@ -269,7 +275,6 @@
       "ace-combat-8",
       "gears-of-war-e-day",
       "the-game-awards-2026",
-      "meta-connect-2026",
       "iphone-duo",
       "aws-reinvent-2026",
       "nvidia-gtc-2027",
@@ -329,7 +334,8 @@
       "presidents-day-2027",
       "mothers-day-us-2027",
       "fathers-day-us-2027",
-      "columbus-day-2026"
+      "columbus-day-2026",
+      "starship-flight-14-2026"
     ],
     "open": [
       {
@@ -337,6 +343,12 @@
         "kind": "unsupported",
         "since": "2026-09-23",
         "detail": "la fecha no está en una oración que nombre al evento"
+      },
+      {
+        "id": "meta-connect-2026",
+        "kind": "unsupported",
+        "since": "2026-09-23",
+        "detail": "la fecha aparece sin una palabra de lanzamiento o celebración cerca"
       }
     ],
     "unreachable": []
@@ -462,9 +474,9 @@
   "secondary": {
     "status": "conflict",
     "counts": {
-      "ok": 32,
-      "revisar": 2,
-      "sin cruce": 85
+      "ok": 31,
+      "revisar": 3,
+      "sin cruce": 83
     },
     "report": "audit.json",
     "supportedSeries": [
@@ -478,5 +490,5 @@
       "premier-league"
     ]
   },
-  "publishedAt": "2026-09-23T15:27:04.534317+00:00"
+  "publishedAt": "2026-09-23T16:48:09.972871+00:00"
 }
