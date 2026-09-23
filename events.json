@@ -1,5 +1,5 @@
 {
-  "version": 93,
+  "version": 94,
   "updatedAt": "2026-09-23",
   "events": [
     {
@@ -1465,7 +1465,9 @@
             },
             "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
           }
-        ]
+        ],
+        "endDate": "2026-10-04",
+        "url": "https://en.wikipedia.org/wiki/2026_Asian_Games"
       },
       "origin": "telegram",
       "fact": {
@@ -1497,7 +1499,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2026_Asian_Games"
         }
-      ]
+      ],
+      "endDate": "2026-10-04",
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games"
     },
     {
       "id": "ryder-cup-2027",
@@ -2232,7 +2236,9 @@
             },
             "source": "https://en.wikipedia.org/wiki/Oktoberfest"
           }
-        ]
+        ],
+        "endDate": "2026-10-04",
+        "url": "https://www.oktoberfest.de/en"
       },
       "origin": "telegram",
       "fact": {
@@ -2264,7 +2270,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Oktoberfest"
         }
-      ]
+      ],
+      "endDate": "2026-10-04",
+      "url": "https://www.oktoberfest.de/en"
     },
     {
       "id": "halloween-2026",
@@ -75593,6 +75601,14 @@
       "version": 93,
       "target": "iphone-18-pro,iphone-duo",
       "at": "2026-09-23T02:48:25.985400+00:00"
+    },
+    "claude-fechas-fin-20260923-0924": {
+      "operationID": "claude-fechas-fin-20260923-0924",
+      "digest": "1cd039fe7b49382a8c80bba78bcca2a37a677e689633e50e96e0a917dcf801f8",
+      "status": "applied",
+      "version": 94,
+      "target": "asian-games-2026,oktoberfest-2026",
+      "at": "2026-09-23T15:26:04.487262+00:00"
     }
   }
 }
