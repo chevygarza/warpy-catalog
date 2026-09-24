@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "updatedAt": "2026-09-24",
   "events": [
     {
@@ -69502,6 +69502,7 @@
       "symbol": "soccerball",
       "backdrop": "futbol",
       "duration": 120,
+      "country": "MX",
       "subtitle": "Pick your team",
       "subtitles": {
         "en": "Pick your team",
@@ -69509,7 +69510,7 @@
       },
       "emoji": "⚽️",
       "category": "sports",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "accent": "#1F6F43",
       "url": "https://ligamx.net",
       "keywords": [
@@ -69546,69 +69547,6 @@
         "Venados FC"
       ],
       "occurrences": [
-        {
-          "id": "liga-expansion-401886376",
-          "title": "Correcaminos UAT vs Cancún FC",
-          "teams": [
-            "Correcaminos UAT",
-            "Cancún FC"
-          ],
-          "teamIDs": [
-            "espn:soccer:8931",
-            "espn:soccer:20724"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Marte R. Gómez, Tamaulipas",
-          "date": "2026-09-11",
-          "time": "19:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
-          "id": "liga-expansion-401886374",
-          "title": "Tlaxcala FC vs Club Jaiba Brava",
-          "teams": [
-            "Tlaxcala FC",
-            "Club Jaiba Brava"
-          ],
-          "teamIDs": [
-            "espn:soccer:20722",
-            "espn:soccer:10131"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Tlahuicole, Tlaxcala",
-          "date": "2026-09-12",
-          "time": "16:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
-          "id": "liga-expansion-401886373",
-          "title": "Venados FC vs Tepatitlán FC",
-          "teams": [
-            "Venados FC",
-            "Tepatitlán FC"
-          ],
-          "teamIDs": [
-            "espn:soccer:10124",
-            "espn:soccer:20721"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Carlos Iturralde Rivero, Mérida",
-          "date": "2026-09-12",
-          "time": "17:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
         {
           "id": "liga-expansion-401886372",
           "title": "Dorados de Sinaloa vs Tapatío",
@@ -69715,27 +69653,6 @@
           }
         },
         {
-          "id": "liga-expansion-401887410",
-          "title": "Piratas vs Venados FC",
-          "teams": [
-            "Piratas",
-            "Venados FC"
-          ],
-          "teamIDs": [
-            "espn:soccer:131881",
-            "espn:soccer:10124"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Luis de la Fuente, Veracruz",
-          "date": "2026-09-18",
-          "time": "19:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-expansion-401886369",
           "title": "Tepatitlán FC vs Mineros de Zacatecas",
           "teams": [
@@ -69748,6 +69665,27 @@
           ],
           "competition": "liga-expansion",
           "venue": "Estadio Gregorio Tepa Gómez, Tepatitlán de Morelos",
+          "date": "2026-09-18",
+          "time": "19:00",
+          "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401887410",
+          "title": "Piratas vs Venados FC",
+          "teams": [
+            "Piratas",
+            "Venados FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:131881",
+            "espn:soccer:10124"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Luis de la Fuente, Veracruz",
           "date": "2026-09-18",
           "time": "19:00",
           "timeZone": "America/Mexico_City",
@@ -69778,21 +69716,21 @@
           }
         },
         {
-          "id": "liga-expansion-401886366",
-          "title": "Cancún FC vs Alebrijes de Oaxaca",
+          "id": "liga-expansion-401886364",
+          "title": "Club Jaiba Brava vs Dorados de Sinaloa",
           "teams": [
-            "Cancún FC",
-            "Alebrijes de Oaxaca"
+            "Club Jaiba Brava",
+            "Dorados de Sinaloa"
           ],
           "teamIDs": [
-            "espn:soccer:20724",
-            "espn:soccer:17233"
+            "espn:soccer:10131",
+            "espn:soccer:3432"
           ],
           "competition": "liga-expansion",
-          "venue": "Estadio Andrés Quintana Roo, Cancún",
+          "venue": "Estadio Tamaulipas, Tampico",
           "date": "2026-09-19",
-          "time": "20:00",
-          "timeZone": "America/Cancun",
+          "time": "19:00",
+          "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -69820,21 +69758,21 @@
           }
         },
         {
-          "id": "liga-expansion-401886364",
-          "title": "Club Jaiba Brava vs Dorados de Sinaloa",
+          "id": "liga-expansion-401886366",
+          "title": "Cancún FC vs Alebrijes de Oaxaca",
           "teams": [
-            "Club Jaiba Brava",
-            "Dorados de Sinaloa"
+            "Cancún FC",
+            "Alebrijes de Oaxaca"
           ],
           "teamIDs": [
-            "espn:soccer:10131",
-            "espn:soccer:3432"
+            "espn:soccer:20724",
+            "espn:soccer:17233"
           ],
           "competition": "liga-expansion",
-          "venue": "Estadio Tamaulipas, Tampico",
+          "venue": "Estadio Andrés Quintana Roo, Cancún",
           "date": "2026-09-19",
-          "time": "19:00",
-          "timeZone": "America/Mexico_City",
+          "time": "20:00",
+          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70072,21 +70010,21 @@
           }
         },
         {
-          "id": "liga-expansion-401886353",
-          "title": "Cancún FC vs Tapatío",
+          "id": "liga-expansion-401886351",
+          "title": "Durango vs Mineros de Zacatecas",
           "teams": [
-            "Cancún FC",
-            "Tapatío"
+            "Durango",
+            "Mineros de Zacatecas"
           ],
           "teamIDs": [
-            "espn:soccer:20724",
-            "espn:soccer:20720"
+            "espn:soccer:21534",
+            "espn:soccer:17514"
           ],
           "competition": "liga-expansion",
-          "venue": "Estadio Andrés Quintana Roo, Cancún",
+          "venue": "Estadio Francisco Zarco, Durango",
           "date": "2026-10-03",
-          "time": "20:00",
-          "timeZone": "America/Cancun",
+          "time": "19:00",
+          "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70114,27 +70052,6 @@
           }
         },
         {
-          "id": "liga-expansion-401886351",
-          "title": "Durango vs Mineros de Zacatecas",
-          "teams": [
-            "Durango",
-            "Mineros de Zacatecas"
-          ],
-          "teamIDs": [
-            "espn:soccer:21534",
-            "espn:soccer:17514"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Francisco Zarco, Durango",
-          "date": "2026-10-03",
-          "time": "19:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-expansion-401887408",
           "title": "Piratas vs Alebrijes de Oaxaca",
           "teams": [
@@ -70150,6 +70067,27 @@
           "date": "2026-10-03",
           "time": "19:00",
           "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401886353",
+          "title": "Cancún FC vs Tapatío",
+          "teams": [
+            "Cancún FC",
+            "Tapatío"
+          ],
+          "teamIDs": [
+            "espn:soccer:20724",
+            "espn:soccer:20720"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Andrés Quintana Roo, Cancún",
+          "date": "2026-10-03",
+          "time": "20:00",
+          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70282,27 +70220,6 @@
           }
         },
         {
-          "id": "liga-expansion-401886344",
-          "title": "Club Jaiba Brava vs Durango",
-          "teams": [
-            "Club Jaiba Brava",
-            "Durango"
-          ],
-          "teamIDs": [
-            "espn:soccer:10131",
-            "espn:soccer:21534"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Tamaulipas, Tampico",
-          "date": "2026-10-10",
-          "time": "19:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-expansion-401886345",
           "title": "Dorados de Sinaloa vs Cruz Azul Hidalgo",
           "teams": [
@@ -70336,6 +70253,27 @@
           ],
           "competition": "liga-expansion",
           "venue": "Estadio Carlos Vega Villalba, Zacatecas",
+          "date": "2026-10-10",
+          "time": "19:00",
+          "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401886344",
+          "title": "Club Jaiba Brava vs Durango",
+          "teams": [
+            "Club Jaiba Brava",
+            "Durango"
+          ],
+          "teamIDs": [
+            "espn:soccer:10131",
+            "espn:soccer:21534"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Tamaulipas, Tampico",
           "date": "2026-10-10",
           "time": "19:00",
           "timeZone": "America/Mexico_City",
@@ -70421,29 +70359,8 @@
           "competition": "liga-expansion",
           "venue": "Estadio 10 de Diciembre, Hidalgo",
           "date": "2026-10-17",
-          "time": "15:45",
+          "time": "12:00",
           "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
-          "id": "liga-expansion-401886337",
-          "title": "Cancún FC vs Venados FC",
-          "teams": [
-            "Cancún FC",
-            "Venados FC"
-          ],
-          "teamIDs": [
-            "espn:soccer:20724",
-            "espn:soccer:10124"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Andrés Quintana Roo, Cancún",
-          "date": "2026-10-17",
-          "time": "20:00",
-          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70486,6 +70403,27 @@
           "date": "2026-10-17",
           "time": "19:00",
           "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401886337",
+          "title": "Cancún FC vs Venados FC",
+          "teams": [
+            "Cancún FC",
+            "Venados FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:20724",
+            "espn:soccer:10124"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Andrés Quintana Roo, Cancún",
+          "date": "2026-10-17",
+          "time": "20:00",
+          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70576,27 +70514,6 @@
           }
         },
         {
-          "id": "liga-expansion-401886333",
-          "title": "Tapatío vs Club Atlético Morelia",
-          "teams": [
-            "Tapatío",
-            "Club Atlético Morelia"
-          ],
-          "teamIDs": [
-            "espn:soccer:20720",
-            "espn:soccer:221"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Akron, Guadalajara",
-          "date": "2026-10-24",
-          "time": "17:00",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-expansion-401886332",
           "title": "Venados FC vs Durango",
           "teams": [
@@ -70618,20 +70535,20 @@
           }
         },
         {
-          "id": "liga-expansion-401886331",
-          "title": "Club Jaiba Brava vs Club Atlético La Paz",
+          "id": "liga-expansion-401886333",
+          "title": "Tapatío vs Club Atlético Morelia",
           "teams": [
-            "Club Jaiba Brava",
-            "Club Atlético La Paz"
+            "Tapatío",
+            "Club Atlético Morelia"
           ],
           "teamIDs": [
-            "espn:soccer:10131",
-            "espn:soccer:21533"
+            "espn:soccer:20720",
+            "espn:soccer:221"
           ],
           "competition": "liga-expansion",
-          "venue": "Estadio Tamaulipas, Tampico",
+          "venue": "Estadio Akron, Guadalajara",
           "date": "2026-10-24",
-          "time": "18:00",
+          "time": "17:00",
           "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
@@ -70672,6 +70589,27 @@
           ],
           "competition": "liga-expansion",
           "venue": "Estadio Carlos Vega Villalba, Zacatecas",
+          "date": "2026-10-24",
+          "time": "18:00",
+          "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401886331",
+          "title": "Club Jaiba Brava vs Club Atlético La Paz",
+          "teams": [
+            "Club Jaiba Brava",
+            "Club Atlético La Paz"
+          ],
+          "teamIDs": [
+            "espn:soccer:10131",
+            "espn:soccer:21533"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Tamaulipas, Tampico",
           "date": "2026-10-24",
           "time": "18:00",
           "timeZone": "America/Mexico_City",
@@ -70744,6 +70682,27 @@
           }
         },
         {
+          "id": "liga-expansion-401886325",
+          "title": "Club Atlético La Paz vs Dorados de Sinaloa",
+          "teams": [
+            "Club Atlético La Paz",
+            "Dorados de Sinaloa"
+          ],
+          "teamIDs": [
+            "espn:soccer:21533",
+            "espn:soccer:3432"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Guaycura, La Paz",
+          "date": "2026-10-30",
+          "time": "20:00",
+          "timeZone": "America/Mazatlan",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
           "id": "liga-expansion-401886326",
           "title": "Leones Negros vs Tepatitlán FC",
           "teams": [
@@ -70793,27 +70752,6 @@
           "origin": "telegram"
         },
         {
-          "id": "liga-expansion-401886325",
-          "title": "Club Atlético La Paz vs Dorados de Sinaloa",
-          "teams": [
-            "Club Atlético La Paz",
-            "Dorados de Sinaloa"
-          ],
-          "teamIDs": [
-            "espn:soccer:21533",
-            "espn:soccer:3432"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Guaycura, La Paz",
-          "date": "2026-10-30",
-          "time": "20:00",
-          "timeZone": "America/Mazatlan",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
           "id": "liga-expansion-401886324",
           "title": "Cruz Azul Hidalgo vs Tlaxcala FC",
           "teams": [
@@ -70829,27 +70767,6 @@
           "date": "2026-10-31",
           "time": "15:45",
           "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          }
-        },
-        {
-          "id": "liga-expansion-401886262",
-          "title": "Cancún FC vs Club Jaiba Brava",
-          "teams": [
-            "Cancún FC",
-            "Club Jaiba Brava"
-          ],
-          "teamIDs": [
-            "espn:soccer:20724",
-            "espn:soccer:10131"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Andrés Quintana Roo, Cancún",
-          "date": "2026-10-31",
-          "time": "20:00",
-          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -70892,6 +70809,27 @@
           "date": "2026-10-31",
           "time": "19:00",
           "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          }
+        },
+        {
+          "id": "liga-expansion-401886262",
+          "title": "Cancún FC vs Club Jaiba Brava",
+          "teams": [
+            "Cancún FC",
+            "Club Jaiba Brava"
+          ],
+          "teamIDs": [
+            "espn:soccer:20724",
+            "espn:soccer:10131"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Andrés Quintana Roo, Cancún",
+          "date": "2026-10-31",
+          "time": "20:00",
+          "timeZone": "America/Cancun",
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
@@ -83425,7 +83363,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#31B1CE",
+        "#007550"
+      ]
     },
     {
       "id": "espn:soccer:10125",
@@ -83452,7 +83394,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#F7AA25",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:10131",
@@ -83464,7 +83410,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:10158",
@@ -84070,7 +84020,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:132",
@@ -84671,7 +84625,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#050505",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:17362",
@@ -84730,7 +84688,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#C80404",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:176",
@@ -85504,7 +85466,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:20721",
@@ -85516,7 +85482,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:20722",
@@ -85528,7 +85498,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:20724",
@@ -85540,7 +85514,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:20776",
@@ -85748,7 +85726,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:21534",
@@ -85759,7 +85741,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:216",
@@ -85900,7 +85886,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#FFD011",
+        "#212121"
+      ]
     },
     {
       "id": "espn:soccer:222",
@@ -87218,7 +87208,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#FFFF00",
+        "#001C58"
+      ]
     },
     {
       "id": "espn:soccer:3445",
@@ -90506,7 +90500,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#E4370C",
+        "#000000"
+      ]
     },
     {
       "id": "espn:soccer:8937",
@@ -90733,7 +90731,11 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24",
+      "colors": [
+        "#000000",
+        "#C60000"
+      ]
     },
     {
       "id": "espn:soccer:94",
