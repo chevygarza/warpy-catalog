@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "updatedAt": "2026-09-24",
   "events": [
     {
@@ -81751,6 +81751,107 @@
         "publishedAt": "2026-09-23T21:12:29Z",
         "eligible": true
       }
+    },
+    {
+      "id": "penumbral-lunar-eclipse-on-february-2021-2027-2027",
+      "title": "Penumbral Lunar Eclipse on February 20–21, 2027",
+      "emoji": "🪐",
+      "category": "space",
+      "date": "2027-02-20",
+      "url": "https://en.wikipedia.org/wiki/February_2027_lunar_eclipse",
+      "keywords": [
+        "penumbral",
+        "lunar",
+        "eclipse",
+        "february",
+        "2021",
+        "2027",
+        "lunar eclipse",
+        "penumbral eclipse",
+        "full moon",
+        "astronomy"
+      ],
+      "origin": "telegram",
+      "endDate": "2027-02-21",
+      "fact": {
+        "text": {
+          "es": "El eclipse penumbral del 20 de febrero de 2027 durará 240 minutos y 59 segundos.",
+          "en": "The penumbral lunar eclipse on February 20, 2027, will last 240 minutes and 59 seconds."
+        },
+        "source": "https://en.wikipedia.org/wiki/February_2027_lunar_eclipse"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El eclipse penumbral del 20 de febrero de 2027 durará 240 minutos y 59 segundos.",
+            "en": "The penumbral lunar eclipse on February 20, 2027, will last 240 minutes and 59 seconds."
+          },
+          "source": "https://en.wikipedia.org/wiki/February_2027_lunar_eclipse"
+        },
+        {
+          "text": {
+            "es": "El eclipse penumbral de febrero de 2027 será el número 19 de los 73 del ciclo Saros 143.",
+            "en": "The February 2027 penumbral eclipse is the 19th of 73 in the Saros 143 cycle."
+          },
+          "source": "https://en.wikipedia.org/wiki/February_2027_lunar_eclipse"
+        }
+      ],
+      "news": {
+        "introducedInVersion": 102,
+        "publishedAt": "2026-09-24T16:41:17Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "nauctis-the-sunken-realm-2027",
+      "title": "Nauctis: The Sunken Realm",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2027-02-05",
+      "url": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027",
+      "keywords": [
+        "nauctis",
+        "the",
+        "sunken",
+        "realm",
+        "magic the gathering",
+        "nauctis the sunken realm",
+        "wizards of the coast",
+        "tcg"
+      ],
+      "origin": "telegram",
+      "subtitle": "Magic: The Gathering",
+      "subcategory": "launches",
+      "dateConfirmedAt": "2026-09-24",
+      "dateConfirmed": true,
+      "fact": {
+        "text": {
+          "es": "Nauctis: The Sunken Realm se lanzará el 5 de febrero de 2027 como el primer set del año.",
+          "en": "Nauctis: The Sunken Realm releases on February 5, 2027, as the first set of the year."
+        },
+        "source": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Nauctis: The Sunken Realm se lanzará el 5 de febrero de 2027 como el primer set del año.",
+            "en": "Nauctis: The Sunken Realm releases on February 5, 2027, as the first set of the year."
+          },
+          "source": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
+        },
+        {
+          "text": {
+            "es": "El plano submarino de Nauctis incluye habitantes como tritones, focas y homáridos.",
+            "en": "The undersea plane of Nauctis features denizens including merfolk, seals, and homarids."
+          },
+          "source": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
+        }
+      ],
+      "news": {
+        "introducedInVersion": 102,
+        "publishedAt": "2026-09-24T16:41:17Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -91113,6 +91214,14 @@
       "version": 101,
       "target": "liga-expansion-401886326",
       "at": "2026-09-24T16:33:48.223904+00:00"
+    },
+    "plantel-reponer-altas-20260924-1040": {
+      "operationID": "plantel-reponer-altas-20260924-1040",
+      "digest": "ebd5a12cc8740c515ef75678e45f692a09843b355d78a5794c71acbb15975753",
+      "status": "applied",
+      "version": 102,
+      "target": "penumbral-lunar-eclipse-on-february-2021-2027-2027,nauctis-the-sunken-realm-2027",
+      "at": "2026-09-24T16:41:17.023086+00:00"
     }
   }
 }
