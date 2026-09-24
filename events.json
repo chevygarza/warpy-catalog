@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "updatedAt": "2026-09-24",
   "events": [
     {
@@ -70754,7 +70754,35 @@
           "stage": {
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
-          }
+          },
+          "status": "scheduled",
+          "sourceSnapshot": {
+            "id": "liga-expansion-401886326",
+            "title": "Leones Negros vs Tepatitlán FC",
+            "teams": [
+              "Leones Negros",
+              "Tepatitlán FC"
+            ],
+            "teamIDs": [
+              "espn:soccer:10129",
+              "espn:soccer:20721"
+            ],
+            "competition": "liga-expansion",
+            "venue": "Estadio Jalisco, Guadalajara",
+            "date": "2026-10-30",
+            "time": "20:45",
+            "timeZone": "America/Mexico_City",
+            "stage": {
+              "en": "Apertura 2026",
+              "es": "Torneo Apertura 2026"
+            }
+          },
+          "override": {
+            "date": "2026-10-30",
+            "status": "scheduled",
+            "sourceStatus": null
+          },
+          "origin": "telegram"
         },
         {
           "id": "liga-expansion-401886325",
@@ -91077,6 +91105,14 @@
       "version": 98,
       "target": "meta-connect-2026",
       "at": "2026-09-23T21:24:13.217863+00:00"
+    },
+    "plantel-liga-expansion-401886326-20260924-1032": {
+      "operationID": "plantel-liga-expansion-401886326-20260924-1032",
+      "digest": "1b85fee294963c5c0fd4230ce6965148f561c1f87af38be33809901c5644f832",
+      "status": "applied",
+      "version": 101,
+      "target": "liga-expansion-401886326",
+      "at": "2026-09-24T16:33:48.223904+00:00"
     }
   }
 }
