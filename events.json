@@ -1,5 +1,5 @@
 {
-  "version": 104,
+  "version": 105,
   "updatedAt": "2026-09-24",
   "events": [
     {
@@ -1138,7 +1138,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
           }
-        ]
+        ],
+        "url": "https://www.uefa.com/euro2028/news/028f-1b599fe02d18-0c758142f5e4-1000--euro-2028-all-you-need-to-know/"
       },
       "origin": "telegram",
       "fact": {
@@ -1171,11 +1172,7 @@
           "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
         }
       ],
-      "dateIssue": {
-        "kind": "unsupported",
-        "since": "2026-09-23",
-        "detail": "la página trae otras fechas de lanzamiento y el nombre no está junto a esta: no se puede atribuir; la cláusula de esa fecha nombra otro producto o edición"
-      }
+      "url": "https://www.uefa.com/euro2028/news/028f-1b599fe02d18-0c758142f5e4-1000--euro-2028-all-you-need-to-know/"
     },
     {
       "id": "rugby-world-cup-2027",
@@ -91676,6 +91673,14 @@
       "version": 103,
       "target": "annular-solar-eclipse-on-february-6-2027-2027,nasa-s-spacex-crew-13-2026,rayman-legends-retold-2026,professor-layton-and-the-new-world-of-steam-2026,python-3-15-0-2026,fedora-linux-45-2026,thanksgiving-2026,hanukkah-2026",
       "at": "2026-09-24T16:48:27.814526+00:00"
+    },
+    "plantel-uefa-euro-2028-20260924-1518": {
+      "operationID": "plantel-uefa-euro-2028-20260924-1518",
+      "digest": "29defe91e94f82e775ddffe450372f3c51efce7935ad98b4e572598d9bba0e9c",
+      "status": "applied",
+      "version": 105,
+      "target": "uefa-euro-2028",
+      "at": "2026-09-24T21:19:48.692059+00:00"
     }
   }
 }
