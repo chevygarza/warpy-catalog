@@ -1,5 +1,5 @@
 {
-  "version": 112,
+  "version": 113,
   "updatedAt": "2026-09-25",
   "events": [
     {
@@ -2696,7 +2696,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
           }
-        ]
+        ],
+        "url": "https://www.rockstargames.com/VI"
       },
       "origin": "telegram",
       "fact": {
@@ -2730,7 +2731,8 @@
         }
       ],
       "shortName": "GTA VI",
-      "popularity": "A"
+      "popularity": "A",
+      "url": "https://www.rockstargames.com/VI"
     },
     {
       "id": "thanksgiving-2026",
@@ -3081,7 +3083,6 @@
       "date": "2026-12-18",
       "startDate": "2025-07-25",
       "accent": "#EB5757",
-      "estimated": true,
       "keywords": [
         "marvel",
         "avengers",
@@ -3144,7 +3145,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
           }
-        ]
+        ],
+        "estimated": null
       },
       "origin": "telegram",
       "fact": {
@@ -4734,10 +4736,9 @@
       },
       "emoji": "🦇",
       "category": "entertainment",
-      "date": "2027-10-01",
+      "date": "2028-02-18",
       "startDate": "2022-03-04",
       "accent": "#1C1C1E",
-      "estimated": true,
       "keywords": [
         "batman",
         "dc",
@@ -4798,7 +4799,9 @@
             },
             "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
           }
-        ]
+        ],
+        "date": "2028-02-18",
+        "estimated": null
       },
       "origin": "telegram",
       "fact": {
@@ -4846,7 +4849,6 @@
       "date": "2027-12-17",
       "startDate": "2026-12-18",
       "accent": "#EB5757",
-      "estimated": true,
       "keywords": [
         "marvel",
         "avengers",
@@ -4902,7 +4904,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/Avengers%3A_Secret_Wars"
           }
-        ]
+        ],
+        "estimated": null
       },
       "origin": "telegram",
       "fact": {
@@ -81196,7 +81199,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/Professor_Layton_and_the_New_World_of_Steam"
           }
-        ]
+        ],
+        "url": "https://www.layton.jp/jouki/en/"
       },
       "fact": {
         "text": {
@@ -93553,6 +93557,14 @@
       "version": 112,
       "target": "resurrection-of-the-christ-part-two-2028,lilo-and-stitch-2-2028,days-of-thunder-2-2028,incredibles-3-2028,call-of-duty-2028,donkey-2028,ghost-rider-2028",
       "at": "2026-09-25T20:25:08.753800+00:00"
+    },
+    "estrenos-24m-cambios-20260926": {
+      "operationID": "estrenos-24m-cambios-20260926",
+      "digest": "3f3a219e03789f2bd3685807f0a8e9e1bfc3c5b9b563b8c9e1aed54ca8312966",
+      "status": "applied",
+      "version": 113,
+      "target": "the-batman-part-ii,avengers-doomsday,avengers-secret-wars,gta-vi,professor-layton-and-the-new-world-of-steam-2026",
+      "at": "2026-09-25T20:32:30.344362+00:00"
     }
   }
 }
