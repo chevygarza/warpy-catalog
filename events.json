@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "updatedAt": "2026-09-25",
   "events": [
     {
@@ -81544,6 +81544,789 @@
       },
       "shortName": "MTG Nauctis",
       "popularity": "C"
+    },
+    {
+      "id": "star-wars-galactic-racer-2026",
+      "title": "Star Wars: Galactic Racer",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-06",
+      "url": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer",
+      "keywords": [
+        "star",
+        "wars",
+        "galactic",
+        "racer"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Star Wars: Galactic Racer",
+        "es": "Star Wars: Galactic Racer"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "SW Racer",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "castlevania-belmonts-curse-2026",
+      "title": "Castlevania: Belmont's Curse",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-15",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/",
+      "keywords": [
+        "castlevania",
+        "belmont",
+        "curse"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Castlevania: Belmont's Curse",
+        "es": "Castlevania: Belmont's Curse"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch, PC · Lanzamiento"
+      },
+      "shortName": "Castlevania",
+      "popularity": "B",
+      "sourceUnreachableSince": "2026-09-25",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "nintendo-switch-sports-resort-2026",
+      "title": "Nintendo Switch Sports Resort",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-22",
+      "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/",
+      "keywords": [
+        "nintendo",
+        "switch",
+        "sports",
+        "resort"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Nintendo Switch Sports Resort",
+        "es": "Nintendo Switch Sports Resort"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Sport Resort",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-2026",
+      "title": "Call of Duty: Modern Warfare 4",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-23",
+      "url": "https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-announcement",
+      "keywords": [
+        "call",
+        "duty",
+        "modern",
+        "warfare"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Call of Duty: Modern Warfare 4",
+        "es": "Call of Duty: Modern Warfare 4"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "CoD MW4",
+      "popularity": "A",
+      "sourceUnreachableSince": "2026-09-25",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "phantom-blade-zero-2026",
+      "title": "Phantom Blade Zero",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-10-29",
+      "url": "https://www.playstation.com/en-us/games/phantom-blade-zero/",
+      "keywords": [
+        "phantom",
+        "blade",
+        "zero"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Phantom Blade Zero",
+        "es": "Phantom Blade Zero"
+      },
+      "subtitles": {
+        "en": "PS5, PC · Launch",
+        "es": "PS5, PC · Lanzamiento"
+      },
+      "shortName": "Blade Zero",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-duskbloods-2026",
+      "title": "The Duskbloods",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-11-15",
+      "url": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/",
+      "keywords": [
+        "the",
+        "duskbloods"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "The Duskbloods",
+        "es": "The Duskbloods"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Duskbloods",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "attack-on-titan-3-2026",
+      "title": "Attack on Titan 3",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2026-12-10",
+      "url": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/",
+      "keywords": [
+        "attack",
+        "titan"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Attack on Titan 3",
+        "es": "Attack on Titan 3"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "AoT 3",
+      "popularity": "C",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "stranger-than-heaven-2027",
+      "title": "Stranger Than Heaven",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-01-15",
+      "url": "https://www.sega.co.jp/en/release/260608_3.html",
+      "keywords": [
+        "stranger",
+        "than",
+        "heaven"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Stranger Than Heaven",
+        "es": "Stranger Than Heaven"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "Str. Heaven",
+      "popularity": "C",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "metroid-ravenous-2027",
+      "title": "Metroid Ravenous",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-01-28",
+      "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+      "keywords": [
+        "metroid",
+        "ravenous"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Metroid Ravenous",
+        "es": "Metroid Ravenous"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Metroid",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "until-dawn-2-2027",
+      "title": "Until Dawn 2",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-01-28",
+      "url": "https://www.playstation.com/en-us/games/until-dawn-2/",
+      "keywords": [
+        "until",
+        "dawn"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Until Dawn 2",
+        "es": "Until Dawn 2"
+      },
+      "subtitles": {
+        "en": "PS5 · Launch",
+        "es": "PS5 · Lanzamiento"
+      },
+      "shortName": "Until Dawn 2",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "metro-2039-2027",
+      "title": "Metro 2039",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-02-04",
+      "url": "https://www.deepsilver.com/games/metro2039/news/metro-2039-launches-february-4th-2027",
+      "keywords": [
+        "metro",
+        "2039"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Metro 2039",
+        "es": "Metro 2039"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "Metro 2039",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "tomb-raider-legacy-of-atlantis-2027",
+      "title": "Tomb Raider: Legacy of Atlantis",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-02-12",
+      "url": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis",
+      "keywords": [
+        "tomb",
+        "raider",
+        "legacy",
+        "atlantis"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Tomb Raider: Legacy of Atlantis",
+        "es": "Tomb Raider: Legacy of Atlantis"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "Tomb Raider",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "god-of-war-laufey-2027",
+      "title": "God of War Laufey",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-02-16",
+      "url": "https://www.playstation.com/en-us/games/god-of-war-laufey/",
+      "keywords": [
+        "god",
+        "war",
+        "laufey"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "God of War Laufey",
+        "es": "God of War Laufey"
+      },
+      "subtitles": {
+        "en": "PS5 · Launch",
+        "es": "PS5 · Lanzamiento"
+      },
+      "shortName": "God of War",
+      "popularity": "A",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "persona-4-revival-2027",
+      "title": "Persona 4 Revival",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-02-18",
+      "url": "https://asia.sega.com/p4r/en/",
+      "keywords": [
+        "persona",
+        "revival"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Persona 4 Revival",
+        "es": "Persona 4 Revival"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "Persona 4",
+      "popularity": "C",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "fable-2027",
+      "title": "Fable",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-02-23",
+      "url": "https://www.fablethegame.com/en-US",
+      "keywords": [
+        "fable"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Fable",
+        "es": "Fable"
+      },
+      "subtitles": {
+        "en": "Xbox Series X|S, PS5, PC · Launch",
+        "es": "Xbox Series X|S, PS5, PC · Lanzamiento"
+      },
+      "shortName": "Fable",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "exodus-2027",
+      "title": "Exodus",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-04-07",
+      "url": "https://www.exodusgame.com/en-US",
+      "keywords": [
+        "exodus"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Exodus",
+        "es": "Exodus"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "Exodus",
+      "popularity": "C",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "final-fantasy-vii-revelation-2027",
+      "title": "Final Fantasy VII Revelation",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-04-08",
+      "url": "https://na.finalfantasy.com/news/2840",
+      "keywords": [
+        "final",
+        "fantasy",
+        "vii",
+        "revelation"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Final Fantasy VII Revelation",
+        "es": "Final Fantasy VII Revelation"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "FFVII",
+      "popularity": "A",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "kirby-and-the-world-beyond-2027",
+      "title": "Kirby and the World Beyond",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-04-15",
+      "url": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/",
+      "keywords": [
+        "kirby",
+        "and",
+        "the",
+        "world",
+        "beyond"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Kirby and the World Beyond",
+        "es": "Kirby and the World Beyond"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Kirby",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "spyro-a-realm-beyond-2027",
+      "title": "Spyro: A Realm Beyond",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-04-15",
+      "url": "https://news.xbox.com/en-us/2026/06/07/spyro-a-realm-beyond-reveal-xbox-games-showcase-2026/",
+      "keywords": [
+        "spyro",
+        "realm",
+        "beyond"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Spyro: A Realm Beyond",
+        "es": "Spyro: A Realm Beyond"
+      },
+      "subtitles": {
+        "en": "Xbox Series X|S, PS5, Switch 2, PC · Launch",
+        "es": "Xbox Series X|S, PS5, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "Spyro",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "mega-man-dual-override-2027",
+      "title": "Mega Man: Dual Override",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-04-15",
+      "url": "https://www.capcom-games.com/megaman/do/en-us/",
+      "keywords": [
+        "mega",
+        "man",
+        "dual",
+        "override"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Mega Man: Dual Override",
+        "es": "Mega Man: Dual Override"
+      },
+      "subtitles": {
+        "en": "PS5, PS4, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Launch",
+        "es": "PS5, PS4, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Lanzamiento"
+      },
+      "shortName": "Mega Man",
+      "popularity": "C",
+      "estimated": true,
+      "sourceUnreachableSince": "2026-09-25",
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "resident-evil-veronica-2027",
+      "title": "Resident Evil Veronica",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-07-01",
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e260608.html",
+      "keywords": [
+        "resident",
+        "evil",
+        "veronica"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Resident Evil Veronica",
+        "es": "Resident Evil Veronica"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+        "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+      },
+      "shortName": "RE Veronica",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dragon-ball-xenoverse-3-2027",
+      "title": "Dragon Ball Xenoverse 3",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-07-01",
+      "url": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3",
+      "keywords": [
+        "dragon",
+        "ball",
+        "xenoverse"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Dragon Ball Xenoverse 3",
+        "es": "Dragon Ball Xenoverse 3"
+      },
+      "subtitles": {
+        "en": "PS5, Xbox Series X|S, PC · Launch",
+        "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+      },
+      "shortName": "Xenoverse 3",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "state-of-decay-3-2027",
+      "title": "State of Decay 3",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-07-01",
+      "url": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/",
+      "keywords": [
+        "state",
+        "decay"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "State of Decay 3",
+        "es": "State of Decay 3"
+      },
+      "subtitles": {
+        "en": "Xbox Series X|S, PS5, PC · Launch",
+        "es": "Xbox Series X|S, PS5, PC · Lanzamiento"
+      },
+      "shortName": "SoD3",
+      "popularity": "C",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "xenoblade-genesis-2027",
+      "title": "Xenoblade Genesis",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-07-01",
+      "url": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/",
+      "keywords": [
+        "xenoblade",
+        "genesis"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Xenoblade Genesis",
+        "es": "Xenoblade Genesis"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Xenoblade",
+      "popularity": "C",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "pokemon-winds-and-waves-2027",
+      "title": "Pokémon Winds and Pokémon Waves",
+      "emoji": "🎮",
+      "category": "entertainment",
+      "date": "2027-07-01",
+      "url": "https://windswaves.pokemon.com/en-us/",
+      "keywords": [
+        "pokemon",
+        "winds",
+        "and",
+        "waves",
+        "viento",
+        "ola"
+      ],
+      "origin": "telegram",
+      "subcategory": "gaming",
+      "titles": {
+        "en": "Pokémon Winds and Pokémon Waves",
+        "es": "Pokémon Viento y Pokémon Ola"
+      },
+      "subtitles": {
+        "en": "Switch 2 · Launch",
+        "es": "Switch 2 · Lanzamiento"
+      },
+      "shortName": "Pokémon",
+      "popularity": "A",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 109,
+        "publishedAt": "2026-09-25T20:12:20Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -90994,6 +91777,14 @@
       "version": 105,
       "target": "uefa-euro-2028",
       "at": "2026-09-24T21:19:48.692059+00:00"
+    },
+    "estrenos-24m-altas-1-20260926": {
+      "operationID": "estrenos-24m-altas-1-20260926",
+      "digest": "e9a925674c956fdcd44be6439a840f9dfcbb19e4b148fcc9479082a8389694ed",
+      "status": "applied",
+      "version": 109,
+      "target": "star-wars-galactic-racer-2026,castlevania-belmonts-curse-2026,nintendo-switch-sports-resort-2026,call-of-duty-modern-warfare-4-2026,phantom-blade-zero-2026,the-duskbloods-2026,attack-on-titan-3-2026,stranger-than-heaven-2027,metroid-ravenous-2027,until-dawn-2-2027,metro-2039-2027,tomb-raider-legacy-of-atlantis-2027,god-of-war-laufey-2027,persona-4-revival-2027,fable-2027,exodus-2027,final-fantasy-vii-revelation-2027,kirby-and-the-world-beyond-2027,spyro-a-realm-beyond-2027,mega-man-dual-override-2027,resident-evil-veronica-2027,dragon-ball-xenoverse-3-2027,state-of-decay-3-2027,xenoblade-genesis-2027,pokemon-winds-and-waves-2027",
+      "at": "2026-09-25T20:11:37.536651+00:00"
     }
   }
 }
