@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "updatedAt": "2026-09-25",
   "events": [
     {
@@ -131,7 +131,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2030"
         }
-      ]
+      ],
+      "shortName": "Mundial 2030",
+      "popularity": "A"
     },
     {
       "id": "super-bowl-lxi-2027",
@@ -244,7 +246,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "SB LXI",
+      "popularity": "A"
     },
     {
       "id": "super-bowl-lxii-2028",
@@ -353,7 +357,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "SB LXII",
+      "popularity": "A"
     },
     {
       "id": "nfl-kickoff-2026",
@@ -472,7 +478,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2026_NFL_season"
         }
-      ]
+      ],
+      "shortName": "Kickoff NFL",
+      "popularity": "A"
     },
     {
       "id": "olympics-la-2028",
@@ -589,7 +597,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-23",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "LA 2028",
+      "popularity": "A"
     },
     {
       "id": "winter-olympics-2030",
@@ -706,7 +716,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2030_Winter_Olympics"
         }
-      ]
+      ],
+      "shortName": "Invierno 30",
+      "popularity": "B"
     },
     {
       "id": "olympics-brisbane-2032",
@@ -819,7 +831,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Brisbane_2032"
         }
-      ]
+      ],
+      "shortName": "Brisbane 32",
+      "popularity": "A"
     },
     {
       "id": "winter-olympics-2034",
@@ -928,7 +942,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2034_Winter_Olympics"
         }
-      ]
+      ],
+      "shortName": "Invierno 34",
+      "popularity": "B"
     },
     {
       "id": "womens-world-cup-2027",
@@ -1049,7 +1065,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2027_FIFA_Women%27s_World_Cup"
         }
-      ]
+      ],
+      "shortName": "Mundial Fem.",
+      "popularity": "B"
     },
     {
       "id": "uefa-euro-2028",
@@ -1172,7 +1190,9 @@
           "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2028"
         }
       ],
-      "url": "https://www.uefa.com/euro2028/news/028f-1b599fe02d18-0c758142f5e4-1000--euro-2028-all-you-need-to-know/"
+      "url": "https://www.uefa.com/euro2028/news/028f-1b599fe02d18-0c758142f5e4-1000--euro-2028-all-you-need-to-know/",
+      "shortName": "Eurocopa 28",
+      "popularity": "A"
     },
     {
       "id": "rugby-world-cup-2027",
@@ -1275,7 +1295,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2027_Rugby_World_Cup"
         }
-      ]
+      ],
+      "shortName": "Rugby 2027",
+      "popularity": "B"
     },
     {
       "id": "cricket-world-cup-2027",
@@ -1388,7 +1410,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2027_Cricket_World_Cup"
         }
-      ]
+      ],
+      "shortName": "Cricket 2027",
+      "popularity": "C"
     },
     {
       "id": "asian-games-2026",
@@ -1503,7 +1527,9 @@
         }
       ],
       "endDate": "2026-10-04",
-      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games",
+      "shortName": "Juegos Asia",
+      "popularity": "C"
     },
     {
       "id": "ryder-cup-2027",
@@ -1608,7 +1634,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
         }
-      ]
+      ],
+      "shortName": "Ryder Cup",
+      "popularity": "B"
     },
     {
       "id": "wimbledon-2027",
@@ -1711,7 +1739,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club"
         }
-      ]
+      ],
+      "shortName": "Wimbledon",
+      "popularity": "B"
     },
     {
       "id": "tour-de-france-2027",
@@ -1822,7 +1852,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Tour_de_France"
         }
-      ]
+      ],
+      "shortName": "Tour Francia",
+      "popularity": "B"
     },
     {
       "id": "f1-season-2027",
@@ -1939,7 +1971,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/F%C3%B3rmula_1"
         }
-      ]
+      ],
+      "shortName": "F1 2027",
+      "popularity": "A"
     },
     {
       "id": "nba-finals-2027",
@@ -2054,7 +2088,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/NBA_Finals"
         }
-      ]
+      ],
+      "shortName": "Finales NBA",
+      "popularity": "A"
     },
     {
       "id": "world-series-2026",
@@ -2171,7 +2207,9 @@
         }
       ],
       "endDate": "2026-10-31",
-      "url": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+      "url": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season",
+      "shortName": "World Series",
+      "popularity": "A"
     },
     {
       "id": "oktoberfest-2026",
@@ -2278,7 +2316,9 @@
         }
       ],
       "endDate": "2026-10-04",
-      "url": "https://www.oktoberfest.de/en"
+      "url": "https://www.oktoberfest.de/en",
+      "shortName": "Oktoberfest",
+      "popularity": "B"
     },
     {
       "id": "halloween-2026",
@@ -2377,7 +2417,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Halloween"
         }
-      ]
+      ],
+      "shortName": "Halloween",
+      "popularity": "A"
     },
     {
       "id": "dia-de-muertos-2026",
@@ -2480,7 +2522,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
         }
-      ]
+      ],
+      "shortName": "Día Muertos",
+      "popularity": "A"
     },
     {
       "id": "diwali-2026",
@@ -2573,7 +2617,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Diwali"
         }
-      ]
+      ],
+      "shortName": "Diwali",
+      "popularity": "B"
     },
     {
       "id": "gta-vi",
@@ -2682,7 +2728,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
         }
-      ]
+      ],
+      "shortName": "GTA VI",
+      "popularity": "A"
     },
     {
       "id": "thanksgiving-2026",
@@ -2801,7 +2849,9 @@
           "source": "https://en.wikipedia.org/wiki/Thanksgiving_%28United_States%29"
         }
       ],
-      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)"
+      "url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+      "shortName": "Thanksgiving",
+      "popularity": "A"
     },
     {
       "id": "black-friday-2026",
@@ -2898,7 +2948,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29"
         }
-      ]
+      ],
+      "shortName": "Black Friday",
+      "popularity": "A"
     },
     {
       "id": "hanukkah-2026",
@@ -3013,7 +3065,9 @@
       "endDate": "2026-12-12",
       "url": "https://www.hebcal.com/holidays/chanukah-2026",
       "dateConfirmedAt": "2026-09-24",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Janucá",
+      "popularity": "C"
     },
     {
       "id": "avengers-doomsday",
@@ -3124,7 +3178,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Doomsday",
+      "popularity": "A"
     },
     {
       "id": "christmas-2026",
@@ -3231,7 +3287,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Navidad"
         }
-      ]
+      ],
+      "shortName": "Navidad",
+      "popularity": "A"
     },
     {
       "id": "new-year-2027",
@@ -3338,7 +3396,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/New_Year%27s_Day"
         }
-      ]
+      ],
+      "shortName": "Año Nuevo",
+      "popularity": "A"
     },
     {
       "id": "ces-2027",
@@ -3437,7 +3497,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Consumer_Electronics_Show"
         }
-      ]
+      ],
+      "shortName": "CES 2027",
+      "popularity": "B"
     },
     {
       "id": "lunar-new-year-2027",
@@ -3516,7 +3578,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo_chino"
         }
-      ]
+      ],
+      "shortName": "Año Chino",
+      "popularity": "B"
     },
     {
       "id": "ramadan-2027",
@@ -3609,7 +3673,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Ramadan"
         }
-      ]
+      ],
+      "shortName": "Ramadán",
+      "popularity": "B"
     },
     {
       "id": "valentines-2027",
@@ -3712,7 +3778,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
         }
-      ]
+      ],
+      "shortName": "San Valentín",
+      "popularity": "A"
     },
     {
       "id": "oscars-2027",
@@ -3823,7 +3891,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Academy_Awards"
         }
-      ]
+      ],
+      "shortName": "Los Óscar",
+      "popularity": "A"
     },
     {
       "id": "pi-day-2027",
@@ -3926,7 +3996,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Pi_Day"
         }
-      ]
+      ],
+      "shortName": "Día de Pi",
+      "popularity": "C"
     },
     {
       "id": "easter-2027",
@@ -4027,7 +4099,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Pascua"
         }
-      ]
+      ],
+      "shortName": "Pascua",
+      "popularity": "B"
     },
     {
       "id": "coachella-2027",
@@ -4132,7 +4206,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival"
         }
-      ]
+      ],
+      "shortName": "Coachella",
+      "popularity": "B"
     },
     {
       "id": "earth-day-2027",
@@ -4233,7 +4309,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Earth_Day"
         }
-      ]
+      ],
+      "shortName": "Día Tierra",
+      "popularity": "C"
     },
     {
       "id": "eurovision-2027",
@@ -4324,7 +4402,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n"
         }
-      ]
+      ],
+      "shortName": "Eurovisión",
+      "popularity": "B"
     },
     {
       "id": "wwdc-2027",
@@ -4423,7 +4503,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"
         }
-      ]
+      ],
+      "shortName": "WWDC 2027",
+      "popularity": "B"
     },
     {
       "id": "comic-con-2027",
@@ -4520,7 +4602,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
         }
-      ]
+      ],
+      "shortName": "Comic-Con",
+      "popularity": "B"
     },
     {
       "id": "solar-eclipse-2027",
@@ -4637,7 +4721,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Eclipse 2027",
+      "popularity": "B"
     },
     {
       "id": "the-batman-part-ii",
@@ -4744,7 +4830,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/The_Batman_%E2%80%93_Part_II"
         }
-      ]
+      ],
+      "shortName": "The Batman 2",
+      "popularity": "B"
     },
     {
       "id": "avengers-secret-wars",
@@ -4841,7 +4929,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Secret Wars",
+      "popularity": "A"
     },
     {
       "id": "leap-day-2028",
@@ -4950,7 +5040,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/29_de_febrero"
         }
-      ]
+      ],
+      "shortName": "29 feb 2028",
+      "popularity": "C"
     },
     {
       "id": "solar-eclipse-2028",
@@ -5067,7 +5159,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Eclipse 2028",
+      "popularity": "B"
     },
     {
       "id": "expo-2030-riyadh",
@@ -5176,7 +5270,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Expo_2030"
         }
-      ]
+      ],
+      "shortName": "Expo 2030",
+      "popularity": "C"
     },
     {
       "id": "y2k38",
@@ -5285,7 +5381,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Year_2038_problem"
         }
-      ]
+      ],
+      "shortName": "Y2K38",
+      "popularity": "C"
     },
     {
       "id": "halley-2061",
@@ -5386,7 +5484,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Halley",
+      "popularity": "C"
     },
     {
       "id": "grito-independencia-2026",
@@ -5511,7 +5611,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Cry_of_Dolores"
         }
-      ]
+      ],
+      "shortName": "El Grito",
+      "popularity": "A"
     },
     {
       "id": "guadalupe-reyes-2026",
@@ -5624,7 +5726,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Guadalupe-Reyes_Marathon"
         }
-      ]
+      ],
+      "shortName": "Lupe-Reyes",
+      "popularity": "B"
     },
     {
       "id": "buen-fin-2026",
@@ -5735,7 +5839,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/El_Buen_Fin"
         }
-      ]
+      ],
+      "shortName": "El Buen Fin",
+      "popularity": "B"
     },
     {
       "id": "hot-sale-2027",
@@ -5846,7 +5952,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Hot_Sale_M%C3%A9xico"
         }
-      ]
+      ],
+      "shortName": "Hot Sale",
+      "popularity": "B"
     },
     {
       "id": "liga-mx-apertura-2026-final",
@@ -5967,7 +6075,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Liga_MX"
         }
-      ]
+      ],
+      "shortName": "Final LigaMX",
+      "popularity": "A"
     },
     {
       "id": "dia-de-la-madre-mx-2027",
@@ -6082,7 +6192,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Madre"
         }
-      ]
+      ],
+      "shortName": "Día Madres",
+      "popularity": "A"
     },
     {
       "id": "f1",
@@ -6691,7 +6803,9 @@
           }
         }
       ],
-      "featured": true
+      "featured": true,
+      "shortName": "F1",
+      "popularity": "A"
     },
     {
       "id": "mlb",
@@ -8995,7 +9109,7 @@
           ],
           "venue": "Fenway Park",
           "date": "2026-09-25",
-          "time": "18:05",
+          "time": "17:35",
           "timeZone": "America/New_York",
           "teamIDs": [
             "mlb:baseball:111",
@@ -9003,7 +9117,7 @@
           ]
         },
         {
-          "id": "mlb-823489",
+          "id": "mlb-823491",
           "competition": "mlb",
           "title": "New York Yankees vs Baltimore Orioles (Game 1)",
           "teams": [
@@ -9020,7 +9134,7 @@
           ]
         },
         {
-          "id": "mlb-823491",
+          "id": "mlb-823489",
           "competition": "mlb",
           "title": "New York Yankees vs Baltimore Orioles (Game 2)",
           "teams": [
@@ -9749,6 +9863,20 @@
           "estimated": true
         },
         {
+          "id": "mlb-849845",
+          "competition": "mlb",
+          "title": "Atlanta Braves vs NL Wild Card #3",
+          "teams": [
+            "Atlanta Braves",
+            "NL Wild Card #3"
+          ],
+          "venue": "Truist Park",
+          "date": "2026-09-29",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true
+        },
+        {
           "id": "mlb-849843",
           "competition": "mlb",
           "title": "NL Wild Card #1 vs NL Wild Card #2",
@@ -9777,27 +9905,6 @@
           "estimated": true
         },
         {
-          "id": "mlb-849845",
-          "title": "Postseason",
-          "titles": {
-            "en": "Postseason",
-            "es": "Postemporada"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-09-29",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "NL Stadium"
-        },
-        {
           "id": "mlb-849848",
           "competition": "mlb",
           "title": "New York Yankees vs AL Wild Card #2",
@@ -9806,6 +9913,20 @@
             "AL Wild Card #2"
           ],
           "venue": "Yankee Stadium",
+          "date": "2026-09-30",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true
+        },
+        {
+          "id": "mlb-849841",
+          "competition": "mlb",
+          "title": "Atlanta Braves vs NL Wild Card #3",
+          "teams": [
+            "Atlanta Braves",
+            "NL Wild Card #3"
+          ],
+          "venue": "Truist Park",
           "date": "2026-09-30",
           "time": "03:33",
           "timeZone": "America/New_York",
@@ -9840,27 +9961,6 @@
           "estimated": true
         },
         {
-          "id": "mlb-849841",
-          "title": "Postseason",
-          "titles": {
-            "en": "Postseason",
-            "es": "Postemporada"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-09-30",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "NL Stadium"
-        },
-        {
           "id": "mlb-849847",
           "competition": "mlb",
           "title": "New York Yankees vs AL Wild Card #2",
@@ -9869,6 +9969,20 @@
             "AL Wild Card #2"
           ],
           "venue": "Yankee Stadium",
+          "date": "2026-10-01",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true
+        },
+        {
+          "id": "mlb-849844",
+          "competition": "mlb",
+          "title": "Atlanta Braves vs NL Wild Card #3",
+          "teams": [
+            "Atlanta Braves",
+            "NL Wild Card #3"
+          ],
+          "venue": "Truist Park",
           "date": "2026-10-01",
           "time": "03:33",
           "timeZone": "America/New_York",
@@ -9901,27 +10015,6 @@
           "time": "03:33",
           "timeZone": "America/New_York",
           "estimated": true
-        },
-        {
-          "id": "mlb-849844",
-          "title": "Postseason",
-          "titles": {
-            "en": "Postseason",
-            "es": "Postemporada"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-01",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "NL Stadium"
         },
         {
           "id": "mlb-849835",
@@ -9966,27 +10059,6 @@
           "venue": "AL Stadium"
         },
         {
-          "id": "mlb-849828",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-03",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "NL Stadium"
-        },
-        {
           "id": "mlb-849830",
           "title": "Quarterfinals",
           "titles": {
@@ -10002,13 +10074,13 @@
           "competition": "mlb",
           "date": "2026-10-03",
           "time": "03:33",
-          "timeZone": "America/New_York",
+          "timeZone": "America/Chicago",
           "estimated": true,
           "pending": true,
-          "venue": "NL Stadium"
+          "venue": "American Family Field"
         },
         {
-          "id": "mlb-849823",
+          "id": "mlb-849828",
           "title": "Quarterfinals",
           "titles": {
             "en": "Quarterfinals",
@@ -10021,12 +10093,12 @@
           },
           "teams": [],
           "competition": "mlb",
-          "date": "2026-10-04",
+          "date": "2026-10-03",
           "time": "03:33",
-          "timeZone": "America/New_York",
+          "timeZone": "America/Los_Angeles",
           "estimated": true,
           "pending": true,
-          "venue": "NL Stadium"
+          "venue": "UNIQLO Field at Dodger Stadium"
         },
         {
           "id": "mlb-849825",
@@ -10044,10 +10116,31 @@
           "competition": "mlb",
           "date": "2026-10-04",
           "time": "03:33",
-          "timeZone": "America/New_York",
+          "timeZone": "America/Chicago",
           "estimated": true,
           "pending": true,
-          "venue": "NL Stadium"
+          "venue": "American Family Field"
+        },
+        {
+          "id": "mlb-849823",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-04",
+          "time": "03:33",
+          "timeZone": "America/Los_Angeles",
+          "estimated": true,
+          "pending": true,
+          "venue": "UNIQLO Field at Dodger Stadium"
         },
         {
           "id": "mlb-849839",
@@ -10155,27 +10248,6 @@
           "venue": "AL Stadium"
         },
         {
-          "id": "mlb-849833",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-07",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "AL Stadium"
-        },
-        {
           "id": "mlb-849822",
           "title": "Quarterfinals",
           "titles": {
@@ -10216,6 +10288,27 @@
           "estimated": true,
           "pending": true,
           "venue": "NL Stadium"
+        },
+        {
+          "id": "mlb-849833",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-07",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true,
+          "pending": true,
+          "venue": "AL Stadium"
         },
         {
           "id": "mlb-849837",
@@ -10260,27 +10353,6 @@
           "venue": "AL Stadium"
         },
         {
-          "id": "mlb-849821",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-09",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "NL Stadium"
-        },
-        {
           "id": "mlb-849824",
           "title": "Quarterfinals",
           "titles": {
@@ -10296,10 +10368,31 @@
           "competition": "mlb",
           "date": "2026-10-09",
           "time": "03:33",
-          "timeZone": "America/New_York",
+          "timeZone": "America/Chicago",
           "estimated": true,
           "pending": true,
-          "venue": "NL Stadium"
+          "venue": "American Family Field"
+        },
+        {
+          "id": "mlb-849821",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-09",
+          "time": "03:33",
+          "timeZone": "America/Los_Angeles",
+          "estimated": true,
+          "pending": true,
+          "venue": "UNIQLO Field at Dodger Stadium"
         },
         {
           "id": "mlb-849836",
@@ -10784,7 +10877,9 @@
           "pending": true,
           "venue": "TBD"
         }
-      ]
+      ],
+      "shortName": "MLB",
+      "popularity": "A"
     },
     {
       "id": "nfl",
@@ -15283,7 +15378,9 @@
           "pending": true
         }
       ],
-      "featured": true
+      "featured": true,
+      "shortName": "NFL",
+      "popularity": "A"
     },
     {
       "id": "nba",
@@ -36902,7 +36999,9 @@
           "estimated": true,
           "pending": true
         }
-      ]
+      ],
+      "shortName": "NBA",
+      "popularity": "A"
     },
     {
       "id": "liga-mx",
@@ -38821,7 +38920,9 @@
           "pending": true
         }
       ],
-      "featured": true
+      "featured": true,
+      "shortName": "Liga MX",
+      "popularity": "A"
     },
     {
       "id": "la-liga",
@@ -44769,7 +44870,9 @@
           "timeZone": "Europe/Madrid",
           "estimated": true
         }
-      ]
+      ],
+      "shortName": "LaLiga",
+      "popularity": "A"
     },
     {
       "id": "premier-league",
@@ -50625,7 +50728,9 @@
           "time": "16:00",
           "timeZone": "Europe/London"
         }
-      ]
+      ],
+      "shortName": "Premier",
+      "popularity": "A"
     },
     {
       "id": "champions-league",
@@ -52858,7 +52963,9 @@
           "estimated": true,
           "pending": true
         }
-      ]
+      ],
+      "shortName": "Champions",
+      "popularity": "A"
     },
     {
       "id": "mls",
@@ -55330,7 +55437,9 @@
           "estimated": true,
           "pending": true
         }
-      ]
+      ],
+      "shortName": "MLS",
+      "popularity": "B"
     },
     {
       "id": "rayados-a-vs-rayados-b-2026",
@@ -55745,7 +55854,9 @@
           "time": "18:00",
           "timeZone": "Europe/Madrid"
         }
-      ]
+      ],
+      "shortName": "Copa del Rey",
+      "popularity": "B"
     },
     {
       "id": "marvels-wolverine",
@@ -55861,7 +55972,9 @@
           },
           "source": "https://www.playstation.com/en-us/games/marvels-wolverine/"
         }
-      ]
+      ],
+      "shortName": "Wolverine",
+      "popularity": "B"
     },
     {
       "id": "tokyo-game-show-2026",
@@ -55983,7 +56096,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Tokyo_Game_Show"
         }
-      ]
+      ],
+      "shortName": "TGS 2026",
+      "popularity": "C"
     },
     {
       "id": "ea-sports-fc-27",
@@ -56101,7 +56216,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/EA_Sports_FC_27"
         }
-      ]
+      ],
+      "shortName": "EA FC 27",
+      "popularity": "B"
     },
     {
       "id": "ace-combat-8",
@@ -56219,7 +56336,9 @@
           },
           "source": "https://acecombat.jp/en/news/20261002/"
         }
-      ]
+      ],
+      "shortName": "Ace Combat 8",
+      "popularity": "C"
     },
     {
       "id": "gears-of-war-e-day",
@@ -56335,7 +56454,9 @@
           },
           "source": "https://www.xbox.com/en-US/games/gears-of-war-eday"
         }
-      ]
+      ],
+      "shortName": "Gears E-Day",
+      "popularity": "B"
     },
     {
       "id": "zelda-ocarina-of-time-2026",
@@ -56456,7 +56577,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-23",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Zelda OoT",
+      "popularity": "A"
     },
     {
       "id": "the-game-awards-2026",
@@ -56578,7 +56701,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/The_Game_Awards"
         }
-      ]
+      ],
+      "shortName": "Game Awards",
+      "popularity": "B"
     },
     {
       "id": "iphone-18-pro",
@@ -56691,7 +56816,9 @@
           "source": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
         }
       ],
-      "subcategory": "launches"
+      "subcategory": "launches",
+      "shortName": "iPhone 18",
+      "popularity": "A"
     },
     {
       "id": "meta-connect-2026",
@@ -56806,7 +56933,9 @@
           },
           "source": "https://www.metaconnect.com"
         }
-      ]
+      ],
+      "shortName": "Meta Connect",
+      "popularity": "C"
     },
     {
       "id": "iphone-duo",
@@ -56906,7 +57035,9 @@
           "source": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
         }
       ],
-      "subcategory": "launches"
+      "subcategory": "launches",
+      "shortName": "iPhone Duo",
+      "popularity": "B"
     },
     {
       "id": "aws-reinvent-2026",
@@ -57022,7 +57153,9 @@
           },
           "source": "https://aws.amazon.com/events/reinvent/faqs/"
         }
-      ]
+      ],
+      "shortName": "re:Invent",
+      "popularity": "C"
     },
     {
       "id": "mwc-2027",
@@ -57132,7 +57265,9 @@
           },
           "source": "https://www.mwcbarcelona.com/about"
         }
-      ]
+      ],
+      "shortName": "MWC 2027",
+      "popularity": "C"
     },
     {
       "id": "nvidia-gtc-2027",
@@ -57248,7 +57383,9 @@
           },
           "source": "https://www.nvidia.com/gtc/"
         }
-      ]
+      ],
+      "shortName": "NVIDIA GTC",
+      "popularity": "C"
     },
     {
       "id": "computex-2027",
@@ -57362,7 +57499,9 @@
         }
       ],
       "dateConfirmedAt": "2026-09-23",
-      "dateConfirmed": true
+      "dateConfirmed": true,
+      "shortName": "Computex",
+      "popularity": "C"
     },
     {
       "id": "pokemon-30th-celebration-set-2026",
@@ -57471,7 +57610,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"
         }
-      ]
+      ],
+      "shortName": "Pokémon 30C",
+      "popularity": "B"
     },
     {
       "id": "independence-day-us-2026",
@@ -57605,7 +57746,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29"
         }
-      ]
+      ],
+      "shortName": "4 de julio",
+      "popularity": "B"
     },
     {
       "id": "memorial-day-2026",
@@ -57745,7 +57888,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Memorial_Day"
         }
-      ]
+      ],
+      "shortName": "Memorial Day",
+      "popularity": "C"
     },
     {
       "id": "labor-day-us-2026",
@@ -57887,7 +58032,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Labor_Day"
         }
-      ]
+      ],
+      "shortName": "Labor Day",
+      "popularity": "C"
     },
     {
       "id": "juneteenth-2027",
@@ -58013,7 +58160,9 @@
           },
           "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
         }
-      ]
+      ],
+      "shortName": "Juneteenth",
+      "popularity": "C"
     },
     {
       "id": "veterans-day-2026",
@@ -58141,7 +58290,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Veterans_Day"
         }
-      ]
+      ],
+      "shortName": "Veteranos",
+      "popularity": "C"
     },
     {
       "id": "mlk-day-2027",
@@ -58287,7 +58438,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day"
         }
-      ]
+      ],
+      "shortName": "Día de MLK",
+      "popularity": "C"
     },
     {
       "id": "presidents-day-2027",
@@ -58429,7 +58582,9 @@
           },
           "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
         }
-      ]
+      ],
+      "shortName": "Presidentes",
+      "popularity": "C"
     },
     {
       "id": "mothers-day-us-2027",
@@ -58573,7 +58728,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Mother%27s_Day_%28United_States%29"
         }
-      ]
+      ],
+      "shortName": "Mother's Day",
+      "popularity": "A"
     },
     {
       "id": "fathers-day-us-2027",
@@ -58717,7 +58874,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Father%27s_Day_%28United_States%29"
         }
-      ]
+      ],
+      "shortName": "Día Padre",
+      "popularity": "B"
     },
     {
       "id": "columbus-day-2026",
@@ -58861,7 +59020,9 @@
           },
           "source": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
         }
-      ]
+      ],
+      "shortName": "12 de oct",
+      "popularity": "C"
     },
     {
       "id": "starship-flight-14-2026",
@@ -58962,7 +59123,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Starship_flight_14"
         }
-      ]
+      ],
+      "shortName": "Starship 14",
+      "popularity": "B"
     },
     {
       "id": "tesla-roadster-2026",
@@ -59079,7 +59242,9 @@
           },
           "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
         }
-      ]
+      ],
+      "shortName": "Roadster",
+      "popularity": "B"
     },
     {
       "id": "xbox-tokyo-game-show-broadcast-2026",
@@ -59193,7 +59358,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Tokyo_Game_Show"
         }
-      ]
+      ],
+      "shortName": "Xbox TGS",
+      "popularity": "C"
     },
     {
       "id": "carabao-cup",
@@ -59548,6 +59715,8 @@
           "timeZone": "Europe/London"
         }
       ],
+      "shortName": "Carabao Cup",
+      "popularity": "C",
       "news": {
         "introducedInVersion": 72,
         "publishedAt": "2026-09-18T13:52:26Z",
@@ -62092,6 +62261,8 @@
           "pending": true
         }
       ],
+      "shortName": "Europa Lg",
+      "popularity": "B",
       "news": {
         "introducedInVersion": 73,
         "publishedAt": "2026-09-18T14:07:24Z",
@@ -64024,6 +64195,8 @@
           "pending": true
         }
       ],
+      "shortName": "Conference",
+      "popularity": "C",
       "news": {
         "introducedInVersion": 73,
         "publishedAt": "2026-09-18T14:07:24Z",
@@ -66465,6 +66638,8 @@
           "estimated": true
         }
       ],
+      "shortName": "Liga Arg.",
+      "popularity": "B",
       "news": {
         "introducedInVersion": 78,
         "publishedAt": "2026-09-19T15:24:22Z",
@@ -68550,6 +68725,8 @@
           "estimated": true
         }
       ],
+      "shortName": "Brasileirão",
+      "popularity": "B",
       "news": {
         "introducedInVersion": 78,
         "publishedAt": "2026-09-19T15:24:22Z",
@@ -68657,7 +68834,9 @@
           },
           "source": "https://www.ign.com/articles/pokemon-tcg-delta-reign-etb-first-look"
         }
-      ]
+      ],
+      "shortName": "Pokémon DLR",
+      "popularity": "C"
     },
     {
       "id": "liga-expansion",
@@ -69962,6 +70141,8 @@
           "pending": true
         }
       ],
+      "shortName": "Expansión",
+      "popularity": "C",
       "news": {
         "introducedInVersion": 95,
         "publishedAt": "2026-09-23T18:42:21Z",
@@ -71187,6 +71368,31 @@
           }
         },
         {
+          "id": "selecciones-401920041",
+          "title": "Sudán vs Etiopía",
+          "titles": {
+            "en": "Sudan vs Ethiopia",
+            "es": "Sudán vs Etiopía"
+          },
+          "teams": [
+            "Sudán",
+            "Etiopía"
+          ],
+          "teamIDs": [
+            "espn:soccer:4319",
+            "espn:soccer:5777"
+          ],
+          "competition": "selecciones",
+          "venue": "Juba National Stadium, Juba National Stadium",
+          "date": "2026-09-25",
+          "time": "15:00",
+          "timeZone": "Africa/Juba",
+          "stage": {
+            "en": "AFCON qualifier",
+            "es": "Eliminatoria de la Copa Africana"
+          }
+        },
+        {
           "id": "selecciones-401920043",
           "title": "Níger vs Lesoto",
           "titles": {
@@ -71356,31 +71562,6 @@
           "date": "2026-09-25",
           "time": "17:00",
           "timeZone": "Africa/Lagos",
-          "stage": {
-            "en": "AFCON qualifier",
-            "es": "Eliminatoria de la Copa Africana"
-          }
-        },
-        {
-          "id": "selecciones-401920041",
-          "title": "Sudán vs Etiopía",
-          "titles": {
-            "en": "Sudan vs Ethiopia",
-            "es": "Sudán vs Etiopía"
-          },
-          "teams": [
-            "Sudán",
-            "Etiopía"
-          ],
-          "teamIDs": [
-            "espn:soccer:4319",
-            "espn:soccer:5777"
-          ],
-          "competition": "selecciones",
-          "venue": "Juba National Stadium, Juba National Stadium",
-          "date": "2026-09-25",
-          "time": "18:00",
-          "timeZone": "Africa/Juba",
           "stage": {
             "en": "AFCON qualifier",
             "es": "Eliminatoria de la Copa Africana"
@@ -72452,7 +72633,7 @@
             "espn:soccer:4863"
           ],
           "competition": "selecciones",
-          "venue": "Cook Islands Football Association Academy",
+          "venue": "Cook Islands Football Association Academy, Matavera",
           "date": "2026-09-27",
           "time": "04:00",
           "timeZone": "UTC",
@@ -74413,31 +74594,6 @@
           }
         },
         {
-          "id": "selecciones-401903234",
-          "title": "México vs Perú",
-          "titles": {
-            "en": "Mexico vs Peru",
-            "es": "México vs Perú"
-          },
-          "teams": [
-            "México",
-            "Perú"
-          ],
-          "teamIDs": [
-            "espn:soccer:203",
-            "espn:soccer:211"
-          ],
-          "competition": "selecciones",
-          "venue": "Red Bull Arena, Harrison, New Jersey",
-          "date": "2026-09-29",
-          "time": "21:00",
-          "timeZone": "America/New_York",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          }
-        },
-        {
           "id": "selecciones-401861083",
           "title": "Bulgaria vs Estonia",
           "titles": {
@@ -74460,6 +74616,31 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
+          }
+        },
+        {
+          "id": "selecciones-401903234",
+          "title": "México vs Perú",
+          "titles": {
+            "en": "Mexico vs Peru",
+            "es": "México vs Perú"
+          },
+          "teams": [
+            "México",
+            "Perú"
+          ],
+          "teamIDs": [
+            "espn:soccer:203",
+            "espn:soccer:211"
+          ],
+          "competition": "selecciones",
+          "venue": "Red Bull Arena, Harrison, New Jersey",
+          "date": "2026-09-29",
+          "time": "22:30",
+          "timeZone": "America/New_York",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
@@ -74680,7 +74861,7 @@
             "espn:soccer:4863"
           ],
           "competition": "selecciones",
-          "venue": "Cook Islands Football Association Academy",
+          "venue": "Cook Islands Football Association Academy, Matavera",
           "date": "2026-10-01",
           "time": "02:00",
           "timeZone": "UTC",
@@ -77248,31 +77429,6 @@
           }
         },
         {
-          "id": "selecciones-401903298",
-          "title": "México vs Chile",
-          "titles": {
-            "en": "Mexico vs Chile",
-            "es": "México vs Chile"
-          },
-          "teams": [
-            "México",
-            "Chile"
-          ],
-          "teamIDs": [
-            "espn:soccer:203",
-            "espn:soccer:207"
-          ],
-          "competition": "selecciones",
-          "venue": "Los Angeles Memorial Coliseum, Los Angeles, California",
-          "date": "2026-10-06",
-          "time": "16:00",
-          "timeZone": "America/Los_Angeles",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          }
-        },
-        {
           "id": "selecciones-401861135",
           "title": "Kazajistán vs Islas Feroe",
           "titles": {
@@ -77342,6 +77498,31 @@
           "date": "2026-10-06",
           "time": "19:00",
           "timeZone": "America/Chicago",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
+          "id": "selecciones-401903298",
+          "title": "México vs Chile",
+          "titles": {
+            "en": "Mexico vs Chile",
+            "es": "México vs Chile"
+          },
+          "teams": [
+            "México",
+            "Chile"
+          ],
+          "teamIDs": [
+            "espn:soccer:203",
+            "espn:soccer:207"
+          ],
+          "competition": "selecciones",
+          "venue": "Los Angeles Memorial Coliseum, Los Angeles, California",
+          "date": "2026-10-06",
+          "time": "19:30",
+          "timeZone": "America/Los_Angeles",
           "stage": {
             "en": "Friendly",
             "es": "Amistoso"
@@ -77445,31 +77626,6 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
-          }
-        },
-        {
-          "id": "selecciones-401905332",
-          "title": "Colombia vs Perú",
-          "titles": {
-            "en": "Colombia vs Peru",
-            "es": "Colombia vs Perú"
-          },
-          "teams": [
-            "Colombia",
-            "Perú"
-          ],
-          "teamIDs": [
-            "espn:soccer:208",
-            "espn:soccer:211"
-          ],
-          "competition": "selecciones",
-          "venue": "Nu Stadium, Miami, Florida",
-          "date": "2026-10-06",
-          "time": "19:45",
-          "timeZone": "America/New_York",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
           }
         },
         {
@@ -77795,6 +77951,31 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
+          }
+        },
+        {
+          "id": "selecciones-401905332",
+          "title": "Colombia vs Perú",
+          "titles": {
+            "en": "Colombia vs Peru",
+            "es": "Colombia vs Perú"
+          },
+          "teams": [
+            "Colombia",
+            "Perú"
+          ],
+          "teamIDs": [
+            "espn:soccer:208",
+            "espn:soccer:211"
+          ],
+          "competition": "selecciones",
+          "venue": "Nu Stadium, Miami, Florida",
+          "date": "2026-10-06",
+          "time": "23:00",
+          "timeZone": "America/New_York",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
@@ -80629,6 +80810,8 @@
         }
       ],
       "teamsOnly": true,
+      "shortName": "Selecciones",
+      "popularity": "C",
       "news": {
         "introducedInVersion": 95,
         "publishedAt": "2026-09-23T18:42:21Z",
@@ -80729,7 +80912,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Solar_eclipse_of_February_6,_2027"
         }
-      ]
+      ],
+      "shortName": "Eclipse feb",
+      "popularity": "C"
     },
     {
       "id": "nasa-s-spacex-crew-13-2026",
@@ -80827,7 +81012,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/SpaceX_Crew-13"
         }
-      ]
+      ],
+      "shortName": "Crew-13",
+      "popularity": "C"
     },
     {
       "id": "rayman-legends-retold-2026",
@@ -80927,7 +81114,9 @@
           },
           "source": "https://store.ubisoft.com/us/rayman-legends-retold/"
         }
-      ]
+      ],
+      "shortName": "Rayman",
+      "popularity": "C"
     },
     {
       "id": "professor-layton-and-the-new-world-of-steam-2026",
@@ -81031,7 +81220,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/Professor_Layton_and_the_New_World_of_Steam"
         }
-      ]
+      ],
+      "shortName": "Prof. Layton",
+      "popularity": "C"
     },
     {
       "id": "python-3-15-0-2026",
@@ -81123,7 +81314,9 @@
           },
           "source": "https://peps.python.org/pep-0790/"
         }
-      ]
+      ],
+      "shortName": "Python 3.15",
+      "popularity": "C"
     },
     {
       "id": "reality-fracture-2026",
@@ -81147,7 +81340,9 @@
         "introducedInVersion": 96,
         "publishedAt": "2026-09-23T21:12:29Z",
         "eligible": true
-      }
+      },
+      "shortName": "MTG FRA",
+      "popularity": "C"
     },
     {
       "id": "fedora-linux-45-2026",
@@ -81241,7 +81436,9 @@
           },
           "source": "https://fedoraproject.org/wiki/Changes/Python3.15"
         }
-      ]
+      ],
+      "shortName": "Fedora 45",
+      "popularity": "C"
     },
     {
       "id": "penumbral-lunar-eclipse-on-february-2021-2027-2027",
@@ -81291,7 +81488,9 @@
         "introducedInVersion": 102,
         "publishedAt": "2026-09-24T16:41:17Z",
         "eligible": true
-      }
+      },
+      "shortName": "Eclipse luna",
+      "popularity": "C"
     },
     {
       "id": "nauctis-the-sunken-realm-2027",
@@ -81342,7 +81541,9 @@
         "introducedInVersion": 102,
         "publishedAt": "2026-09-24T16:41:17Z",
         "eligible": true
-      }
+      },
+      "shortName": "MTG Nauctis",
+      "popularity": "C"
     }
   ],
   "teams": [
