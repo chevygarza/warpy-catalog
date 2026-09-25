@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "updatedAt": "2026-09-25",
   "events": [
     {
@@ -83091,6 +83091,778 @@
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
       }
+    },
+    {
+      "id": "resurrection-of-the-christ-part-one-2027",
+      "title": "The Resurrection of the Christ: Part One",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-05-06",
+      "url": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/",
+      "keywords": [
+        "the",
+        "resurrection",
+        "christ",
+        "part",
+        "one",
+        "resurreccion",
+        "cristo",
+        "parte",
+        "uno"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Resurrection of the Christ: Part One",
+        "es": "La Resurrección de Cristo: Parte Uno"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Resurrect. 1",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "star-wars-starfighter-2027",
+      "title": "Star Wars: Starfighter",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-05-28",
+      "url": "https://www.starwars.com/films/star-wars-starfighter",
+      "keywords": [
+        "star",
+        "wars",
+        "starfighter"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Star Wars: Starfighter",
+        "es": "Star Wars: Starfighter"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Starfighter",
+      "popularity": "A",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "how-to-train-your-dragon-2-2027",
+      "title": "How to Train Your Dragon 2",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-06-11",
+      "url": "https://www.universalpictures.com/movies/how-to-train-your-dragon-2",
+      "keywords": [
+        "how",
+        "train",
+        "your",
+        "dragon",
+        "como",
+        "entrenar"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "How to Train Your Dragon 2",
+        "es": "Cómo entrenar a tu dragón 2"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Dragon 2",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "spider-man-beyond-the-spider-verse-2027",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-06-18",
+      "url": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse",
+      "keywords": [
+        "spider",
+        "man",
+        "beyond",
+        "the",
+        "verse",
+        "mas",
+        "alla",
+        "del",
+        "verso"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Spider-Man: Beyond the Spider-Verse",
+        "es": "Spider-Man: Más allá del Spider-Verso"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Spider-Verse",
+      "popularity": "A",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "shrek-5-2027",
+      "title": "Shrek 5",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-06-30",
+      "url": "https://www.dreamworks.com/shrek",
+      "keywords": [
+        "shrek"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Shrek 5",
+        "es": "Shrek 5"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Shrek 5",
+      "popularity": "A",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "man-of-tomorrow-2027",
+      "title": "Man of Tomorrow",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-07-09",
+      "url": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027",
+      "keywords": [
+        "man",
+        "tomorrow"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Man of Tomorrow",
+        "es": "Man of Tomorrow"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Superman 2",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "a-minecraft-movie-squared-2027",
+      "title": "A Minecraft Movie Squared",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-07-23",
+      "url": "https://x.com/Minecraft/status/2060783468909678938",
+      "keywords": [
+        "minecraft",
+        "movie",
+        "squared"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "A Minecraft Movie Squared",
+        "es": "A Minecraft Movie Squared"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Minecraft 2",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "a-quiet-place-part-iii-2027",
+      "title": "A Quiet Place Part III",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-07-30",
+      "url": "https://deadline.com/2025/10/a-quiet-place-part-iii-john-krasinski-1236476483/",
+      "keywords": [
+        "quiet",
+        "place",
+        "part",
+        "iii",
+        "lugar",
+        "silencio",
+        "parte"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "A Quiet Place Part III",
+        "es": "Un Lugar en Silencio Parte III"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Quiet Place",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-bluey-movie-2027",
+      "title": "The Bluey Movie",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-08-06",
+      "url": "https://movies.disney.com/the-bluey-movie",
+      "keywords": [
+        "the",
+        "bluey",
+        "movie",
+        "pelicula"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Bluey Movie",
+        "es": "Bluey: La Película"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Bluey",
+      "popularity": "B",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "tmnt-mutant-mayhem-2-2027",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-08-13",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/teenage-mutant-ninja-turtles-mutant-mayhem-2-moves-up-1236511261/",
+      "keywords": [
+        "teenage",
+        "mutant",
+        "ninja",
+        "turtles",
+        "mayhem",
+        "tortugas",
+        "caos",
+        "mutante"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+        "es": "Tortugas Ninja: Caos Mutante 2"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Turtles 2",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-new-simpsons-movie-2027",
+      "title": "The New Simpsons Movie",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-09-03",
+      "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+      "keywords": [
+        "the",
+        "new",
+        "simpsons",
+        "movie",
+        "los",
+        "simpson",
+        "nueva",
+        "pelicula"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The New Simpsons Movie",
+        "es": "Los Simpson, la nueva película"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Simpsons 2",
+      "popularity": "A",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-conjuring-first-communion-2027",
+      "title": "The Conjuring: First Communion",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-09-10",
+      "url": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/",
+      "keywords": [
+        "the",
+        "conjuring",
+        "first",
+        "communion",
+        "conjuro",
+        "primera",
+        "comunion"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Conjuring: First Communion",
+        "es": "El Conjuro: Primera Comunión"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Conjuring",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-haunting-of-hotel-transylvania-2027",
+      "title": "The Haunting of Hotel Transylvania",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-10-08",
+      "url": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania",
+      "keywords": [
+        "the",
+        "haunting",
+        "hotel",
+        "transylvania"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Haunting of Hotel Transylvania",
+        "es": "The Haunting of Hotel Transylvania"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Transylvania",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-mummy-4-2027",
+      "title": "The Mummy 4",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-10-15",
+      "url": "https://www.universalpictures.com/movies/the-mummy-franchise/",
+      "keywords": [
+        "the",
+        "mummy",
+        "momia"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Mummy 4",
+        "es": "La Momia 4"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Mummy 4",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "charlie-vs-the-chocolate-factory-2027",
+      "title": "Charlie vs. the Chocolate Factory",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-11-05",
+      "url": "https://www.netflix.com/tudum/articles/charlie-vs-the-chocolate-factory-theatrical-release",
+      "keywords": [
+        "charlie",
+        "the",
+        "chocolate",
+        "factory"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Charlie vs. the Chocolate Factory",
+        "es": "Charlie vs. the Chocolate Factory"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Charlie",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "helldivers-2027",
+      "title": "Helldivers",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-11-10",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alan-ritchson-replaces-jason-momoa-helldivers-movie-1236705311/",
+      "keywords": [
+        "helldivers"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Helldivers",
+        "es": "Helldivers"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Helldivers",
+      "popularity": "C",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "frozen-3-2027",
+      "title": "Frozen 3",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-11-24",
+      "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+      "keywords": [
+        "frozen"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Frozen 3",
+        "es": "Frozen 3"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Frozen 3",
+      "popularity": "A",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "lotr-the-hunt-for-gollum-2027",
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2027-12-17",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-hunt-gollum-december-2027-release-evil-dead-1236211003/",
+      "keywords": [
+        "the",
+        "lord",
+        "rings",
+        "hunt",
+        "for",
+        "gollum",
+        "senor",
+        "los",
+        "anillos",
+        "caza"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Lord of the Rings: The Hunt for Gollum",
+        "es": "El Señor de los Anillos: La Caza de Gollum"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Gollum",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "elden-ring-2028",
+      "title": "Elden Ring",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-03-03",
+      "url": "https://www.bandainamcoent.com/news/elden-ring-live-action-adaptation-in-theaters-march-3-2028",
+      "keywords": [
+        "elden",
+        "ring"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Elden Ring",
+        "es": "Elden Ring"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Elden Ring",
+      "popularity": "C",
+      "dateConfirmedAt": "2026-09-25",
+      "dateConfirmed": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "ghost-market-2028",
+      "title": "Ghost Market",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-03-10",
+      "url": "https://www.pixar.com/ghost-market",
+      "keywords": [
+        "ghost",
+        "market"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Ghost Market",
+        "es": "Ghost Market"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Ghost Market",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "fast-forever-2028",
+      "title": "Fast Forever",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-03-17",
+      "url": "https://www.universalpictures.com/movies/fast-forever/",
+      "keywords": [
+        "fast",
+        "forever"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Fast Forever",
+        "es": "Fast Forever"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Fast Forever",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "tangled-2028",
+      "title": "Tangled",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-03-31",
+      "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+      "keywords": [
+        "tangled",
+        "enredados"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Tangled",
+        "es": "Enredados"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Tangled",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "the-beatles-2028",
+      "title": "The Beatles – A Four-Film Cinematic Event",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-04-07",
+      "url": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event",
+      "keywords": [
+        "the",
+        "beatles",
+        "four",
+        "film",
+        "cinematic",
+        "event"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "The Beatles – A Four-Film Cinematic Event",
+        "es": "The Beatles – A Four-Film Cinematic Event"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "The Beatles",
+      "popularity": "B",
+      "estimated": true,
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "x-men-2028",
+      "title": "X-Men",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-05-05",
+      "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+      "keywords": [
+        "men"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "X-Men",
+        "es": "X-Men"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "X-Men",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "final-destination-7-2028",
+      "title": "Final Destination 7",
+      "emoji": "🎬",
+      "category": "entertainment",
+      "date": "2028-05-12",
+      "url": "https://variety.com/2026/film/news/oceans-prequel-gladys-final-destination-7-release-dates-1236722033/",
+      "keywords": [
+        "final",
+        "destination",
+        "destino"
+      ],
+      "origin": "telegram",
+      "titles": {
+        "en": "Final Destination 7",
+        "es": "Destino Final 7"
+      },
+      "subtitles": {
+        "en": "In theaters",
+        "es": "Estreno en cines"
+      },
+      "shortName": "Final Dest 7",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 111,
+        "publishedAt": "2026-09-25T20:21:55Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -92557,6 +93329,14 @@
       "version": 110,
       "target": "clockwork-revolution-2027,the-wolf-among-us-2-2027,kingdom-hearts-iv-2027,tomb-raider-catalyst-2028,the-witcher-iv-2028,digger-2026,street-fighter-2026,clayface-2026,the-cat-in-the-hat-2026,hunger-games-sunrise-on-the-reaping-2026,focker-in-law-2026,hexed-2026,dune-part-three-2026,angry-birds-movie-3-2026,further-mis-adventures-of-cliff-booth-2026,jumanji-open-world-2026,ice-age-boiling-point-2027,narnia-the-magicians-nephew-2027,the-revenge-of-la-llorona-2027,gatto-2027,the-exorcist-martyrs-2027,sonic-the-hedgehog-4-2027,godzilla-x-kong-supernova-2027,not-alone-2027,the-legend-of-zelda-2027",
       "at": "2026-09-25T20:18:11.511460+00:00"
+    },
+    "estrenos-24m-altas-3-20260926": {
+      "operationID": "estrenos-24m-altas-3-20260926",
+      "digest": "3eeaf99443be7edbfd037ab20f751d69fa7f255de51a8c632d954e858fb4b06b",
+      "status": "applied",
+      "version": 111,
+      "target": "resurrection-of-the-christ-part-one-2027,star-wars-starfighter-2027,how-to-train-your-dragon-2-2027,spider-man-beyond-the-spider-verse-2027,shrek-5-2027,man-of-tomorrow-2027,a-minecraft-movie-squared-2027,a-quiet-place-part-iii-2027,the-bluey-movie-2027,tmnt-mutant-mayhem-2-2027,the-new-simpsons-movie-2027,the-conjuring-first-communion-2027,the-haunting-of-hotel-transylvania-2027,the-mummy-4-2027,charlie-vs-the-chocolate-factory-2027,helldivers-2027,frozen-3-2027,lotr-the-hunt-for-gollum-2027,elden-ring-2028,ghost-market-2028,fast-forever-2028,tangled-2028,the-beatles-2028,x-men-2028,final-destination-7-2028",
+      "at": "2026-09-25T20:21:42.306337+00:00"
     }
   }
 }
