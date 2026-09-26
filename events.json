@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -69946,7 +69946,6 @@
         "Tayikistán",
         "Togo",
         "Trinidad y Tobago",
-        "Turkmenistán",
         "Turquía",
         "Túnez",
         "Ucrania",
@@ -73764,6 +73763,31 @@
           }
         },
         {
+          "id": "selecciones-401911182",
+          "title": "Rusia vs Irán",
+          "titles": {
+            "en": "Russia vs Iran",
+            "es": "Rusia vs Irán"
+          },
+          "teams": [
+            "Rusia",
+            "Irán"
+          ],
+          "teamIDs": [
+            "espn:soccer:454",
+            "espn:soccer:469"
+          ],
+          "competition": "selecciones",
+          "venue": "Kazan Arena, Kazan",
+          "date": "2026-09-29",
+          "time": "19:00",
+          "timeZone": "Europe/Moscow",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401919992",
           "title": "Benín vs Mauritania",
           "titles": {
@@ -73861,31 +73885,6 @@
           "stage": {
             "en": "AFCON qualifier",
             "es": "Eliminatoria de la Copa Africana"
-          }
-        },
-        {
-          "id": "selecciones-401911182",
-          "title": "Rusia vs Irán",
-          "titles": {
-            "en": "Russia vs Iran",
-            "es": "Rusia vs Irán"
-          },
-          "teams": [
-            "Rusia",
-            "Irán"
-          ],
-          "teamIDs": [
-            "espn:soccer:454",
-            "espn:soccer:469"
-          ],
-          "competition": "selecciones",
-          "venue": "Kazan Arena, Kazan",
-          "date": "2026-09-29",
-          "time": "19:30",
-          "timeZone": "Europe/Moscow",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
           }
         },
         {
@@ -75145,18 +75144,18 @@
         },
         {
           "id": "selecciones-401914141",
-          "title": "China vs Turkmenistán",
+          "title": "China vs Palestina",
           "titles": {
-            "en": "China vs Turkmenistan",
-            "es": "China vs Turkmenistán"
+            "en": "China vs Palestine",
+            "es": "China vs Palestina"
           },
           "teams": [
             "China",
-            "Turkmenistán"
+            "Palestina"
           ],
           "teamIDs": [
             "espn:soccer:658",
-            "espn:soccer:7507"
+            "espn:soccer:6167"
           ],
           "competition": "selecciones",
           "venue": "Chongqing Longxing Football Stadium, Chongqing",
@@ -76197,6 +76196,31 @@
           }
         },
         {
+          "id": "selecciones-401925303",
+          "title": "Bolivia vs Gambia",
+          "titles": {
+            "en": "Bolivia vs Gambia",
+            "es": "Bolivia vs Gambia"
+          },
+          "teams": [
+            "Bolivia",
+            "Gambia"
+          ],
+          "teamIDs": [
+            "espn:soccer:204",
+            "espn:soccer:7368"
+          ],
+          "competition": "selecciones",
+          "venue": "Estadio Ramón Tahuichi, Santa Cruz",
+          "date": "2026-10-04",
+          "time": "18:30",
+          "timeZone": "America/La_Paz",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401900586",
           "title": "Aruba vs Anguila",
           "titles": {
@@ -77074,6 +77098,31 @@
           }
         },
         {
+          "id": "selecciones-401917360",
+          "title": "Rusia vs Nigeria",
+          "titles": {
+            "en": "Russia vs Nigeria",
+            "es": "Rusia vs Nigeria"
+          },
+          "teams": [
+            "Rusia",
+            "Nigeria"
+          ],
+          "teamIDs": [
+            "espn:soccer:454",
+            "espn:soccer:657"
+          ],
+          "competition": "selecciones",
+          "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+          "date": "2026-10-06",
+          "time": "19:00",
+          "timeZone": "Europe/Moscow",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401903298",
           "title": "México vs Chile",
           "titles": {
@@ -77243,31 +77292,6 @@
           "date": "2026-10-06",
           "time": "20:00",
           "timeZone": "Asia/Seoul",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          }
-        },
-        {
-          "id": "selecciones-401917360",
-          "title": "Rusia vs Nigeria",
-          "titles": {
-            "en": "Russia vs Nigeria",
-            "es": "Rusia vs Nigeria"
-          },
-          "teams": [
-            "Rusia",
-            "Nigeria"
-          ],
-          "teamIDs": [
-            "espn:soccer:454",
-            "espn:soccer:657"
-          ],
-          "competition": "selecciones",
-          "venue": "Nizhny Novgorod Stadium, Nizhny Novgorod",
-          "date": "2026-10-06",
-          "time": "20:00",
-          "timeZone": "Europe/Moscow",
           "stage": {
             "en": "Friendly",
             "es": "Amistoso"
