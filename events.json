@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -83642,6 +83642,56 @@
         "publishedAt": "2026-09-25T20:25:12Z",
         "eligible": true
       }
+    },
+    {
+      "id": "ubuntu-26-10-2026",
+      "title": "Ubuntu 26.10",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-15",
+      "url": "https://en.wikipedia.org/wiki/Ubuntu",
+      "keywords": [
+        "ubuntu",
+        "linux",
+        "canonical",
+        "operating system"
+      ],
+      "origin": "telegram",
+      "subtitle": "Canonical",
+      "subcategory": "launches",
+      "titles": {
+        "en": "Ubuntu 26.10",
+        "es": "Ubuntu 26.10"
+      },
+      "shortName": "Ubuntu 26.10",
+      "fact": {
+        "text": {
+          "es": "Ubuntu 26.10, apodada Stonking Stingray, estrena imágenes identificadas como AMD64v3.",
+          "en": "Ubuntu 26.10, dubbed Stonking Stingray, debuts images identified as AMD64v3."
+        },
+        "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Ubuntu 26.10, apodada Stonking Stingray, estrena imágenes identificadas como AMD64v3.",
+            "en": "Ubuntu 26.10, dubbed Stonking Stingray, debuts images identified as AMD64v3."
+          },
+          "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+        },
+        {
+          "text": {
+            "es": "Ubuntu 26.10 es la primera versión en ofrecer soporte para x86-64-v3 desde la instalación.",
+            "en": "Ubuntu 26.10 is the first version to offer x86-64-v3 support right from installation."
+          },
+          "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+        }
+      ],
+      "news": {
+        "introducedInVersion": 115,
+        "publishedAt": "2026-09-26T15:43:03Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -93132,6 +93182,14 @@
       "version": 113,
       "target": "the-batman-part-ii,avengers-doomsday,avengers-secret-wars,gta-vi,professor-layton-and-the-new-world-of-steam-2026",
       "at": "2026-09-25T20:32:30.344362+00:00"
+    },
+    "plantel-reponer-altas-20260926-0941": {
+      "operationID": "plantel-reponer-altas-20260926-0941",
+      "digest": "9120cfeaf10fdb1c35f9d1fab47c481d1352350e48740dab9bcc2ad709a254e6",
+      "status": "applied",
+      "version": 115,
+      "target": "ubuntu-26-10-2026",
+      "at": "2026-09-26T15:43:01.373374+00:00"
     }
   }
 }
