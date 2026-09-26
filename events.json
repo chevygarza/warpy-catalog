@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -85572,7 +85572,91 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "ice-age-boiling-point-2027",
+        "title": "Ice Age: Boiling Point",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-02-05",
+        "url": "https://movies.disney.com/ice-age-boiling-point",
+        "keywords": [
+          "ice",
+          "age",
+          "boiling",
+          "point",
+          "era",
+          "hielo",
+          "mundo",
+          "lava"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Ice Age: Boiling Point",
+          "es": "La Era de Hielo: Mundo de Lava"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Ice Age 6",
+        "popularity": "A",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película está dirigida por John Donkin y producida por Lori Forte.",
+            "en": "The film is directed by John Donkin and produced by Lori Forte."
+          },
+          "source": "https://movies.disney.com/ice-age-boiling-point"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película está dirigida por John Donkin y producida por Lori Forte.",
+              "en": "The film is directed by John Donkin and produced by Lori Forte."
+            },
+            "source": "https://movies.disney.com/ice-age-boiling-point"
+          },
+          {
+            "text": {
+              "es": "El reparto incluye a Ray Romano, Denis Leary, John Leguizamo, Simon Pegg y Queen Latifah.",
+              "en": "The cast includes Ray Romano, Denis Leary, John Leguizamo, Simon Pegg, and Queen Latifah."
+            },
+            "source": "https://movies.disney.com/ice-age-boiling-point"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película está dirigida por John Donkin y producida por Lori Forte.",
+          "en": "The film is directed by John Donkin and produced by Lori Forte."
+        },
+        "source": "https://movies.disney.com/ice-age-boiling-point"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película está dirigida por John Donkin y producida por Lori Forte.",
+            "en": "The film is directed by John Donkin and produced by Lori Forte."
+          },
+          "source": "https://movies.disney.com/ice-age-boiling-point"
+        },
+        {
+          "text": {
+            "es": "El reparto incluye a Ray Romano, Denis Leary, John Leguizamo, Simon Pegg y Queen Latifah.",
+            "en": "The cast includes Ray Romano, Denis Leary, John Leguizamo, Simon Pegg, and Queen Latifah."
+          },
+          "source": "https://movies.disney.com/ice-age-boiling-point"
+        }
+      ]
     },
     {
       "id": "narnia-the-magicians-nephew-2027",
@@ -85605,7 +85689,88 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "narnia-the-magicians-nephew-2027",
+        "title": "Narnia: The Magician's Nephew",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-02-12",
+        "url": "https://www.netflix.com/tudum/articles/narnia-release-date",
+        "keywords": [
+          "narnia",
+          "the",
+          "magician",
+          "nephew",
+          "sobrino",
+          "del",
+          "mago"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Narnia: The Magician's Nephew",
+          "es": "Narnia: El sobrino del mago"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Narnia",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Meryl Streep dará voz o vida a Aslan, el gran león creador de Narnia.",
+            "en": "Meryl Streep will portray Aslan, the great lion responsible for creating Narnia."
+          },
+          "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Meryl Streep dará voz o vida a Aslan, el gran león creador de Narnia.",
+              "en": "Meryl Streep will portray Aslan, the great lion responsible for creating Narnia."
+            },
+            "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+          },
+          {
+            "text": {
+              "es": "Será la primera película de Netflix en recibir un estreno teatral a gran escala.",
+              "en": "It will be the first film by Netflix to receive a wide theatrical release."
+            },
+            "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Meryl Streep dará voz o vida a Aslan, el gran león creador de Narnia.",
+          "en": "Meryl Streep will portray Aslan, the great lion responsible for creating Narnia."
+        },
+        "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Meryl Streep dará voz o vida a Aslan, el gran león creador de Narnia.",
+            "en": "Meryl Streep will portray Aslan, the great lion responsible for creating Narnia."
+          },
+          "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+        },
+        {
+          "text": {
+            "es": "Será la primera película de Netflix en recibir un estreno teatral a gran escala.",
+            "en": "It will be the first film by Netflix to receive a wide theatrical release."
+          },
+          "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
+        }
+      ]
     },
     {
       "id": "the-revenge-of-la-llorona-2027",
@@ -85634,7 +85799,84 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-revenge-of-la-llorona-2027",
+        "title": "The Revenge of La Llorona",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-02-26",
+        "url": "https://deadline.com/2026/07/the-batman-ii-jj-abrams-the-great-beyond-release-date-changes-1236982669/",
+        "keywords": [
+          "the",
+          "revenge",
+          "llorona"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Revenge of La Llorona",
+          "es": "The Revenge of La Llorona"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "La Llorona",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Santiago Menghini dirigió la secuela Revenge of La Llorona a partir de un guion de Sean Tretta.",
+            "en": "Santiago Menghini directed the sequel Revenge of La Llorona from a screenplay by Sean Tretta."
+          },
+          "source": "https://deadline.com/2026/07/the-batman-ii-jj-abrams-the-great-beyond-release-date-changes-1236982669/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Santiago Menghini dirigió la secuela Revenge of La Llorona a partir de un guion de Sean Tretta.",
+              "en": "Santiago Menghini directed the sequel Revenge of La Llorona from a screenplay by Sean Tretta."
+            },
+            "source": "https://deadline.com/2026/07/the-batman-ii-jj-abrams-the-great-beyond-release-date-changes-1236982669/"
+          },
+          {
+            "text": {
+              "es": "El rodaje de la película comenzó en octubre de 2025 en Búfalo, Nueva York.",
+              "en": "Filming for the movie began in October 2025 in Buffalo, New York."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Revenge_of_La_Llorona"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Santiago Menghini dirigió la secuela Revenge of La Llorona a partir de un guion de Sean Tretta.",
+          "en": "Santiago Menghini directed the sequel Revenge of La Llorona from a screenplay by Sean Tretta."
+        },
+        "source": "https://deadline.com/2026/07/the-batman-ii-jj-abrams-the-great-beyond-release-date-changes-1236982669/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Santiago Menghini dirigió la secuela Revenge of La Llorona a partir de un guion de Sean Tretta.",
+            "en": "Santiago Menghini directed the sequel Revenge of La Llorona from a screenplay by Sean Tretta."
+          },
+          "source": "https://deadline.com/2026/07/the-batman-ii-jj-abrams-the-great-beyond-release-date-changes-1236982669/"
+        },
+        {
+          "text": {
+            "es": "El rodaje de la película comenzó en octubre de 2025 en Búfalo, Nueva York.",
+            "en": "Filming for the movie began in October 2025 in Buffalo, New York."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Revenge_of_La_Llorona"
+        }
+      ]
     },
     {
       "id": "gatto-2027",
@@ -85661,7 +85903,82 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "gatto-2027",
+        "title": "Gatto",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-03-05",
+        "url": "https://www.pixar.com/gatto",
+        "keywords": [
+          "gatto"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Gatto",
+          "es": "Gatto"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Gatto",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Mark Ruffalo da voz al gato protagonista Nero en la película de Pixar Gatto.",
+            "en": "Mark Ruffalo voices the main cat Nero in Pixar's film Gatto."
+          },
+          "source": "https://www.pixar.com/gatto"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Mark Ruffalo da voz al gato protagonista Nero en la película de Pixar Gatto.",
+              "en": "Mark Ruffalo voices the main cat Nero in Pixar's film Gatto."
+            },
+            "source": "https://www.pixar.com/gatto"
+          },
+          {
+            "text": {
+              "es": "Enrico Casarosa dirige la película animada Gatto de Pixar.",
+              "en": "Enrico Casarosa directs Pixar's animated film Gatto."
+            },
+            "source": "https://www.pixar.com/gatto"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Mark Ruffalo da voz al gato protagonista Nero en la película de Pixar Gatto.",
+          "en": "Mark Ruffalo voices the main cat Nero in Pixar's film Gatto."
+        },
+        "source": "https://www.pixar.com/gatto"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Mark Ruffalo da voz al gato protagonista Nero en la película de Pixar Gatto.",
+            "en": "Mark Ruffalo voices the main cat Nero in Pixar's film Gatto."
+          },
+          "source": "https://www.pixar.com/gatto"
+        },
+        {
+          "text": {
+            "es": "Enrico Casarosa dirige la película animada Gatto de Pixar.",
+            "en": "Enrico Casarosa directs Pixar's animated film Gatto."
+          },
+          "source": "https://www.pixar.com/gatto"
+        }
+      ]
     },
     {
       "id": "the-exorcist-martyrs-2027",
@@ -85690,7 +86007,84 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-exorcist-martyrs-2027",
+        "title": "The Exorcist: Martyrs",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-03-12",
+        "url": "https://www.universalpictures.com/movies/untitled-mike-flanagan-exorcist-movie/",
+        "keywords": [
+          "the",
+          "exorcist",
+          "martyrs"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Exorcist: Martyrs",
+          "es": "The Exorcist: Martyrs"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Exorcist",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película es la séptima entrega de la franquicia de El Exorcista.",
+            "en": "The film is the seventh installment overall in The Exorcist franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película es la séptima entrega de la franquicia de El Exorcista.",
+              "en": "The film is the seventh installment overall in The Exorcist franchise."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+          },
+          {
+            "text": {
+              "es": "Mike Flanagan fue contratado como director y coguionista de la película en abril de 2024.",
+              "en": "Mike Flanagan was hired as director and co-writer of the film in April 2024."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película es la séptima entrega de la franquicia de El Exorcista.",
+          "en": "The film is the seventh installment overall in The Exorcist franchise."
+        },
+        "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película es la séptima entrega de la franquicia de El Exorcista.",
+            "en": "The film is the seventh installment overall in The Exorcist franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+        },
+        {
+          "text": {
+            "es": "Mike Flanagan fue contratado como director y coguionista de la película en abril de 2024.",
+            "en": "Mike Flanagan was hired as director and co-writer of the film in April 2024."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
+        }
+      ]
     },
     {
       "id": "sonic-the-hedgehog-4-2027",
@@ -85751,7 +86145,86 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "godzilla-x-kong-supernova-2027",
+        "title": "Godzilla x Kong: Supernova",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-03-26",
+        "url": "https://www.legendary.com/film/godzilla-x-kong-supernova/",
+        "keywords": [
+          "godzilla",
+          "kong",
+          "supernova"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Godzilla x Kong: Supernova",
+          "es": "Godzilla y Kong: Supernova"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Godzilla",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Warner Bros. es la distribuidora de Godzilla x Kong: Supernova.",
+            "en": "Warner Bros. is the distributor for Godzilla x Kong: Supernova."
+          },
+          "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Warner Bros. es la distribuidora de Godzilla x Kong: Supernova.",
+              "en": "Warner Bros. is the distributor for Godzilla x Kong: Supernova."
+            },
+            "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+          },
+          {
+            "text": {
+              "es": "Grant Sputore fue elegido como director para la secuela de Godzilla x Kong.",
+              "en": "Grant Sputore was set as the director for the Godzilla x Kong sequel."
+            },
+            "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Warner Bros. es la distribuidora de Godzilla x Kong: Supernova.",
+          "en": "Warner Bros. is the distributor for Godzilla x Kong: Supernova."
+        },
+        "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Warner Bros. es la distribuidora de Godzilla x Kong: Supernova.",
+            "en": "Warner Bros. is the distributor for Godzilla x Kong: Supernova."
+          },
+          "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+        },
+        {
+          "text": {
+            "es": "Grant Sputore fue elegido como director para la secuela de Godzilla x Kong.",
+            "en": "Grant Sputore was set as the director for the Godzilla x Kong sequel."
+          },
+          "source": "https://www.legendary.com/film/godzilla-x-kong-supernova/"
+        }
+      ]
     },
     {
       "id": "not-alone-2027",
@@ -85779,7 +86252,69 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "not-alone-2027",
+        "title": "Not Alone",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-04-16",
+        "url": "https://www.notalonemovie.com/",
+        "keywords": [
+          "not",
+          "alone"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Not Alone",
+          "es": "Not Alone"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Not Alone",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Esta película animada de 2027 es una producción del estudio Illumination.",
+            "en": "This 2027 animated film is produced by Illumination."
+          },
+          "source": "https://en.wikipedia.org/wiki/Not_Alone"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Esta película animada de 2027 es una producción del estudio Illumination.",
+              "en": "This 2027 animated film is produced by Illumination."
+            },
+            "source": "https://en.wikipedia.org/wiki/Not_Alone"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Esta película animada de 2027 es una producción del estudio Illumination.",
+          "en": "This 2027 animated film is produced by Illumination."
+        },
+        "source": "https://en.wikipedia.org/wiki/Not_Alone"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Esta película animada de 2027 es una producción del estudio Illumination.",
+            "en": "This 2027 animated film is produced by Illumination."
+          },
+          "source": "https://en.wikipedia.org/wiki/Not_Alone"
+        }
+      ]
     },
     {
       "id": "the-legend-of-zelda-2027",
@@ -85808,7 +86343,84 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-legend-of-zelda-2027",
+        "title": "The Legend of Zelda",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-04-30",
+        "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html",
+        "keywords": [
+          "the",
+          "legend",
+          "zelda"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Legend of Zelda",
+          "es": "The Legend of Zelda"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Zelda",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Wes Ball dirige la película y Bo Bragason interpreta a la princesa Zelda.",
+            "en": "Wes Ball directs the film, while Bo Bragason stars as Zelda."
+          },
+          "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Wes Ball dirige la película y Bo Bragason interpreta a la princesa Zelda.",
+              "en": "Wes Ball directs the film, while Bo Bragason stars as Zelda."
+            },
+            "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+          },
+          {
+            "text": {
+              "es": "Benjamin Evan Ainsworth interpreta el papel de Link en la película.",
+              "en": "Benjamin Evan Ainsworth stars as Link in the film."
+            },
+            "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Wes Ball dirige la película y Bo Bragason interpreta a la princesa Zelda.",
+          "en": "Wes Ball directs the film, while Bo Bragason stars as Zelda."
+        },
+        "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Wes Ball dirige la película y Bo Bragason interpreta a la princesa Zelda.",
+            "en": "Wes Ball directs the film, while Bo Bragason stars as Zelda."
+          },
+          "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+        },
+        {
+          "text": {
+            "es": "Benjamin Evan Ainsworth interpreta el papel de Link en la película.",
+            "en": "Benjamin Evan Ainsworth stars as Link in the film."
+          },
+          "source": "https://www.nintendo.co.jp/corporate/release/en/2026/260908.html"
+        }
+      ]
     },
     {
       "id": "resurrection-of-the-christ-part-one-2027",
@@ -85845,7 +86457,92 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "resurrection-of-the-christ-part-one-2027",
+        "title": "The Resurrection of the Christ: Part One",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-05-06",
+        "url": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/",
+        "keywords": [
+          "the",
+          "resurrection",
+          "christ",
+          "part",
+          "one",
+          "resurreccion",
+          "cristo",
+          "parte",
+          "uno"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Resurrection of the Christ: Part One",
+          "es": "La Resurrección de Cristo: Parte Uno"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Resurrect. 1",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El rodaje de la película concluyó tras 134 días de filmación en distintas ciudades de Italia.",
+            "en": "Filming for the movie concluded after shooting for 134 days across various cities in Italy."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El rodaje de la película concluyó tras 134 días de filmación en distintas ciudades de Italia.",
+              "en": "Filming for the movie concluded after shooting for 134 days across various cities in Italy."
+            },
+            "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+          },
+          {
+            "text": {
+              "es": "El actor Jaakko Ohtonen interpreta a Jesús en esta película dirigida por Mel Gibson.",
+              "en": "Actor Jaakko Ohtonen portrays Jesus in this film directed by Mel Gibson."
+            },
+            "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El rodaje de la película concluyó tras 134 días de filmación en distintas ciudades de Italia.",
+          "en": "Filming for the movie concluded after shooting for 134 days across various cities in Italy."
+        },
+        "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El rodaje de la película concluyó tras 134 días de filmación en distintas ciudades de Italia.",
+            "en": "Filming for the movie concluded after shooting for 134 days across various cities in Italy."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        },
+        {
+          "text": {
+            "es": "El actor Jaakko Ohtonen interpreta a Jesús en esta película dirigida por Mel Gibson.",
+            "en": "Actor Jaakko Ohtonen portrays Jesus in this film directed by Mel Gibson."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        }
+      ]
     },
     {
       "id": "star-wars-starfighter-2027",
@@ -85876,7 +86573,86 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "star-wars-starfighter-2027",
+        "title": "Star Wars: Starfighter",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-05-28",
+        "url": "https://www.starwars.com/films/star-wars-starfighter",
+        "keywords": [
+          "star",
+          "wars",
+          "starfighter"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Star Wars: Starfighter",
+          "es": "Star Wars: Starfighter"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Starfighter",
+        "popularity": "A",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Ryan Gosling protagoniza la película como Kade Auberon.",
+            "en": "Ryan Gosling stars in the film as Kade Auberon."
+          },
+          "source": "https://www.starwars.com/films/star-wars-starfighter"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Ryan Gosling protagoniza la película como Kade Auberon.",
+              "en": "Ryan Gosling stars in the film as Kade Auberon."
+            },
+            "source": "https://www.starwars.com/films/star-wars-starfighter"
+          },
+          {
+            "text": {
+              "es": "El guion del filme fue escrito por Jonathan Tropper.",
+              "en": "The film's script is written by Jonathan Tropper."
+            },
+            "source": "https://www.starwars.com/films/star-wars-starfighter"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Ryan Gosling protagoniza la película como Kade Auberon.",
+          "en": "Ryan Gosling stars in the film as Kade Auberon."
+        },
+        "source": "https://www.starwars.com/films/star-wars-starfighter"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Ryan Gosling protagoniza la película como Kade Auberon.",
+            "en": "Ryan Gosling stars in the film as Kade Auberon."
+          },
+          "source": "https://www.starwars.com/films/star-wars-starfighter"
+        },
+        {
+          "text": {
+            "es": "El guion del filme fue escrito por Jonathan Tropper.",
+            "en": "The film's script is written by Jonathan Tropper."
+          },
+          "source": "https://www.starwars.com/films/star-wars-starfighter"
+        }
+      ]
     },
     {
       "id": "how-to-train-your-dragon-2-2027",
@@ -98017,6 +98793,14 @@
       "version": 127,
       "target": "metro-2039-2027",
       "at": "2026-09-26T17:22:05.535355+00:00"
+    },
+    "plantel-reponer-datos-5-20260926-1124": {
+      "operationID": "plantel-reponer-datos-5-20260926-1124",
+      "digest": "bc9b6132b08616847b6a9c49e045fa53f3cf9614c5ce800eb31632e3bc6c91b4",
+      "status": "applied",
+      "version": 128,
+      "target": "ice-age-boiling-point-2027,narnia-the-magicians-nephew-2027,the-revenge-of-la-llorona-2027,gatto-2027,the-exorcist-martyrs-2027,godzilla-x-kong-supernova-2027,not-alone-2027,the-legend-of-zelda-2027,resurrection-of-the-christ-part-one-2027,star-wars-starfighter-2027",
+      "at": "2026-09-26T17:26:08.411434+00:00"
     }
   }
 }
