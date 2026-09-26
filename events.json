@@ -1,5 +1,5 @@
 {
-  "version": 122,
+  "version": 123,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -86998,7 +86998,84 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-mummy-4-2027",
+        "title": "The Mummy 4",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-10-15",
+        "url": "https://www.universalpictures.com/movies/the-mummy-franchise/",
+        "keywords": [
+          "the",
+          "mummy",
+          "momia"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Mummy 4",
+          "es": "La Momia 4"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Mummy 4",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Es una secuela directa de las dos primeras películas e ignora los eventos del filme de 2008.",
+            "en": "It is a direct sequel to the first two films, ignoring the events of the 2008 movie."
+          },
+          "source": "https://es.wikipedia.org/wiki/La_momia_4"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Es una secuela directa de las dos primeras películas e ignora los eventos del filme de 2008.",
+              "en": "It is a direct sequel to the first two films, ignoring the events of the 2008 movie."
+            },
+            "source": "https://es.wikipedia.org/wiki/La_momia_4"
+          },
+          {
+            "text": {
+              "es": "El rodaje principal comenzó el 7 de septiembre de 2026 en Londres y Marruecos.",
+              "en": "Principal photography began on September 7, 2026, in London and Morocco."
+            },
+            "source": "https://es.wikipedia.org/wiki/La_momia_4"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Es una secuela directa de las dos primeras películas e ignora los eventos del filme de 2008.",
+          "en": "It is a direct sequel to the first two films, ignoring the events of the 2008 movie."
+        },
+        "source": "https://es.wikipedia.org/wiki/La_momia_4"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Es una secuela directa de las dos primeras películas e ignora los eventos del filme de 2008.",
+            "en": "It is a direct sequel to the first two films, ignoring the events of the 2008 movie."
+          },
+          "source": "https://es.wikipedia.org/wiki/La_momia_4"
+        },
+        {
+          "text": {
+            "es": "El rodaje principal comenzó el 7 de septiembre de 2026 en Londres y Marruecos.",
+            "en": "Principal photography began on September 7, 2026, in London and Morocco."
+          },
+          "source": "https://es.wikipedia.org/wiki/La_momia_4"
+        }
+      ]
     },
     {
       "id": "charlie-vs-the-chocolate-factory-2027",
@@ -87055,7 +87132,35 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "helldivers-2027",
+        "title": "Helldivers",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-11-10",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/alan-ritchson-replaces-jason-momoa-helldivers-movie-1236705311/",
+        "keywords": [
+          "helldivers"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Helldivers",
+          "es": "Helldivers"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Helldivers",
+        "popularity": "C",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {}
     },
     {
       "id": "frozen-3-2027",
@@ -87084,7 +87189,84 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "frozen-3-2027",
+        "title": "Frozen 3",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-11-24",
+        "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+        "keywords": [
+          "frozen"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Frozen 3",
+          "es": "Frozen 3"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Frozen 3",
+        "popularity": "A",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Frozen III es la 66.ª película animada producida por Walt Disney Animation Studios.",
+            "en": "Frozen III is the 66th animated feature produced by Walt Disney Animation Studios."
+          },
+          "source": "https://es.wikipedia.org/wiki/Frozen_III"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Frozen III es la 66.ª película animada producida por Walt Disney Animation Studios.",
+              "en": "Frozen III is the 66th animated feature produced by Walt Disney Animation Studios."
+            },
+            "source": "https://es.wikipedia.org/wiki/Frozen_III"
+          },
+          {
+            "text": {
+              "es": "Trent Correy, director de Once Upon a Studio, firmó para ejercer como codirector del filme.",
+              "en": "Trent Correy, director of Once Upon a Studio, signed on to serve as the film's co-director."
+            },
+            "source": "https://es.wikipedia.org/wiki/Frozen_III"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Frozen III es la 66.ª película animada producida por Walt Disney Animation Studios.",
+          "en": "Frozen III is the 66th animated feature produced by Walt Disney Animation Studios."
+        },
+        "source": "https://es.wikipedia.org/wiki/Frozen_III"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Frozen III es la 66.ª película animada producida por Walt Disney Animation Studios.",
+            "en": "Frozen III is the 66th animated feature produced by Walt Disney Animation Studios."
+          },
+          "source": "https://es.wikipedia.org/wiki/Frozen_III"
+        },
+        {
+          "text": {
+            "es": "Trent Correy, director de Once Upon a Studio, firmó para ejercer como codirector del filme.",
+            "en": "Trent Correy, director of Once Upon a Studio, signed on to serve as the film's co-director."
+          },
+          "source": "https://es.wikipedia.org/wiki/Frozen_III"
+        }
+      ]
     },
     {
       "id": "lotr-the-hunt-for-gollum-2027",
@@ -87120,7 +87302,44 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "lotr-the-hunt-for-gollum-2027",
+        "title": "The Lord of the Rings: The Hunt for Gollum",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-12-17",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-hunt-gollum-december-2027-release-evil-dead-1236211003/",
+        "keywords": [
+          "the",
+          "lord",
+          "rings",
+          "hunt",
+          "for",
+          "gollum",
+          "senor",
+          "los",
+          "anillos",
+          "caza"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Lord of the Rings: The Hunt for Gollum",
+          "es": "El Señor de los Anillos: La Caza de Gollum"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Gollum",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {}
     },
     {
       "id": "elden-ring-2028",
@@ -87179,7 +87398,84 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "ghost-market-2028",
+        "title": "Ghost Market",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-03-10",
+        "url": "https://www.pixar.com/ghost-market",
+        "keywords": [
+          "ghost",
+          "market"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Ghost Market",
+          "es": "Ghost Market"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Ghost Market",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Trevor Jimenez y Jesse Andrews dirigen la película de Pixar.",
+            "en": "Trevor Jimenez and Jesse Andrews direct the Pixar film."
+          },
+          "source": "https://www.pixar.com/ghost-market"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Trevor Jimenez y Jesse Andrews dirigen la película de Pixar.",
+              "en": "Trevor Jimenez and Jesse Andrews direct the Pixar film."
+            },
+            "source": "https://www.pixar.com/ghost-market"
+          },
+          {
+            "text": {
+              "es": "Becky Neiman-Cobb está a cargo de la producción de la película.",
+              "en": "Becky Neiman-Cobb is producing the movie."
+            },
+            "source": "https://www.pixar.com/ghost-market"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Trevor Jimenez y Jesse Andrews dirigen la película de Pixar.",
+          "en": "Trevor Jimenez and Jesse Andrews direct the Pixar film."
+        },
+        "source": "https://www.pixar.com/ghost-market"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Trevor Jimenez y Jesse Andrews dirigen la película de Pixar.",
+            "en": "Trevor Jimenez and Jesse Andrews direct the Pixar film."
+          },
+          "source": "https://www.pixar.com/ghost-market"
+        },
+        {
+          "text": {
+            "es": "Becky Neiman-Cobb está a cargo de la producción de la película.",
+            "en": "Becky Neiman-Cobb is producing the movie."
+          },
+          "source": "https://www.pixar.com/ghost-market"
+        }
+      ]
     },
     {
       "id": "fast-forever-2028",
@@ -87207,7 +87503,83 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "fast-forever-2028",
+        "title": "Fast Forever",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-03-17",
+        "url": "https://www.universalpictures.com/movies/fast-forever/",
+        "keywords": [
+          "fast",
+          "forever"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Fast Forever",
+          "es": "Fast Forever"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Fast Forever",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Fast Forever es la undécima y última entrega de la franquicia principal de Fast & Furious.",
+            "en": "Fast Forever is the eleventh and final installment in the main Fast & Furious franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Fast Forever es la undécima y última entrega de la franquicia principal de Fast & Furious.",
+              "en": "Fast Forever is the eleventh and final installment in the main Fast & Furious franchise."
+            },
+            "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+          },
+          {
+            "text": {
+              "es": "El rodaje de la película Fast Forever se prevé que se desarrolle en Los Ángeles.",
+              "en": "Filming for Fast Forever is expected to take place in Los Angeles."
+            },
+            "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Fast Forever es la undécima y última entrega de la franquicia principal de Fast & Furious.",
+          "en": "Fast Forever is the eleventh and final installment in the main Fast & Furious franchise."
+        },
+        "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Fast Forever es la undécima y última entrega de la franquicia principal de Fast & Furious.",
+            "en": "Fast Forever is the eleventh and final installment in the main Fast & Furious franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+        },
+        {
+          "text": {
+            "es": "El rodaje de la película Fast Forever se prevé que se desarrolle en Los Ángeles.",
+            "en": "Filming for Fast Forever is expected to take place in Los Angeles."
+          },
+          "source": "https://es.wikipedia.org/wiki/Fast_Forever"
+        }
+      ]
     },
     {
       "id": "tangled-2028",
@@ -87268,7 +87640,88 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-beatles-2028",
+        "title": "The Beatles – A Four-Film Cinematic Event",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-04-07",
+        "url": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event",
+        "keywords": [
+          "the",
+          "beatles",
+          "four",
+          "film",
+          "cinematic",
+          "event"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Beatles – A Four-Film Cinematic Event",
+          "es": "The Beatles – A Four-Film Cinematic Event"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "The Beatles",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Sam Mendes dirige los cuatro filmes concebidos desde la perspectiva de cada miembro de la banda.",
+            "en": "Sam Mendes is directing four films told from each band member's distinct point of view."
+          },
+          "source": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Sam Mendes dirige los cuatro filmes concebidos desde la perspectiva de cada miembro de la banda.",
+              "en": "Sam Mendes is directing four films told from each band member's distinct point of view."
+            },
+            "source": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event"
+          },
+          {
+            "text": {
+              "es": "Harris Dickinson encarna a John Lennon y Paul Mescal interpreta a Paul McCartney.",
+              "en": "Harris Dickinson portrays John Lennon and Paul Mescal plays Paul McCartney."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Beatles_-_A_Four-Film_Cinematic_Event"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Sam Mendes dirige los cuatro filmes concebidos desde la perspectiva de cada miembro de la banda.",
+          "en": "Sam Mendes is directing four films told from each band member's distinct point of view."
+        },
+        "source": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Sam Mendes dirige los cuatro filmes concebidos desde la perspectiva de cada miembro de la banda.",
+            "en": "Sam Mendes is directing four films told from each band member's distinct point of view."
+          },
+          "source": "https://www.thebeatles.com/new-cast-added-beatles-four-film-event"
+        },
+        {
+          "text": {
+            "es": "Harris Dickinson encarna a John Lennon y Paul Mescal interpreta a Paul McCartney.",
+            "en": "Harris Dickinson portrays John Lennon and Paul Mescal plays Paul McCartney."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Beatles_-_A_Four-Film_Cinematic_Event"
+        }
+      ]
     },
     {
       "id": "x-men-2028",
@@ -87359,7 +87812,90 @@
         "introducedInVersion": 112,
         "publishedAt": "2026-09-25T20:25:12Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "resurrection-of-the-christ-part-two-2028",
+        "title": "The Resurrection of the Christ: Part Two",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-05-25",
+        "url": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/",
+        "keywords": [
+          "the",
+          "resurrection",
+          "christ",
+          "part",
+          "two",
+          "resurreccion",
+          "cristo",
+          "parte",
+          "dos"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Resurrection of the Christ: Part Two",
+          "es": "La Resurrección de Cristo: Parte Dos"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Resurrect. 2",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 112,
+          "publishedAt": "2026-09-25T20:25:12Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El rodaje de la secuela duró 134 días en localidades italianas como Roma, Bari y Matera.",
+            "en": "Filming for the follow-up concluded after shooting for 134 days across Italian locations like Rome."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El rodaje de la secuela duró 134 días en localidades italianas como Roma, Bari y Matera.",
+              "en": "Filming for the follow-up concluded after shooting for 134 days across Italian locations like Rome."
+            },
+            "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+          },
+          {
+            "text": {
+              "es": "Jaakko Ohtonen, Mariela Garriga y Rupert Everett forman parte del elenco de la producción.",
+              "en": "Jaakko Ohtonen, Mariela Garriga, and Rupert Everett star in the film."
+            },
+            "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El rodaje de la secuela duró 134 días en localidades italianas como Roma, Bari y Matera.",
+          "en": "Filming for the follow-up concluded after shooting for 134 days across Italian locations like Rome."
+        },
+        "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El rodaje de la secuela duró 134 días en localidades italianas como Roma, Bari y Matera.",
+            "en": "Filming for the follow-up concluded after shooting for 134 days across Italian locations like Rome."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        },
+        {
+          "text": {
+            "es": "Jaakko Ohtonen, Mariela Garriga y Rupert Everett forman parte del elenco de la producción.",
+            "en": "Jaakko Ohtonen, Mariela Garriga, and Rupert Everett star in the film."
+          },
+          "source": "https://deadline.com/2026/05/lionsgate-the-resurrection-of-the-christ-new-release-dates-1236918193/"
+        }
+      ]
     },
     {
       "id": "lilo-and-stitch-2-2028",
@@ -87417,7 +87953,38 @@
         "introducedInVersion": 112,
         "publishedAt": "2026-09-25T20:25:12Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "days-of-thunder-2-2028",
+        "title": "Days of Thunder 2",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-06-02",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/days-of-thunder-2-anne-hathaway-tom-cruise-release-date-1236684845/",
+        "keywords": [
+          "days",
+          "thunder",
+          "dias",
+          "trueno"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Days of Thunder 2",
+          "es": "Días de trueno 2"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Thunder 2",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 112,
+          "publishedAt": "2026-09-25T20:25:12Z",
+          "eligible": true
+        }
+      },
+      "override": {}
     },
     {
       "id": "incredibles-3-2028",
@@ -87446,7 +88013,84 @@
         "introducedInVersion": 112,
         "publishedAt": "2026-09-25T20:25:12Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "incredibles-3-2028",
+        "title": "Incredibles 3",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2028-06-16",
+        "url": "https://www.pixar.com/incredibles-3",
+        "keywords": [
+          "incredibles",
+          "los",
+          "increibles"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Incredibles 3",
+          "es": "Los Increíbles 3"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Incredibles",
+        "popularity": "A",
+        "news": {
+          "introducedInVersion": 112,
+          "publishedAt": "2026-09-25T20:25:12Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Peter Sohn dirige la película Incredibles 3.",
+            "en": "Peter Sohn directs the film Incredibles 3."
+          },
+          "source": "https://www.pixar.com/incredibles-3"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Peter Sohn dirige la película Incredibles 3.",
+              "en": "Peter Sohn directs the film Incredibles 3."
+            },
+            "source": "https://www.pixar.com/incredibles-3"
+          },
+          {
+            "text": {
+              "es": "Dana Murray y Brad Bird producen la película Incredibles 3.",
+              "en": "Dana Murray and Brad Bird are producers of Incredibles 3."
+            },
+            "source": "https://www.pixar.com/incredibles-3"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Peter Sohn dirige la película Incredibles 3.",
+          "en": "Peter Sohn directs the film Incredibles 3."
+        },
+        "source": "https://www.pixar.com/incredibles-3"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Peter Sohn dirige la película Incredibles 3.",
+            "en": "Peter Sohn directs the film Incredibles 3."
+          },
+          "source": "https://www.pixar.com/incredibles-3"
+        },
+        {
+          "text": {
+            "es": "Dana Murray y Brad Bird producen la película Incredibles 3.",
+            "en": "Dana Murray and Brad Bird are producers of Incredibles 3."
+          },
+          "source": "https://www.pixar.com/incredibles-3"
+        }
+      ]
     },
     {
       "id": "call-of-duty-2028",
@@ -97182,6 +97826,14 @@
       "version": 122,
       "target": "spider-man-beyond-the-spider-verse-2027,shrek-5-2027,man-of-tomorrow-2027,a-minecraft-movie-squared-2027,a-quiet-place-part-iii-2027,the-bluey-movie-2027,tmnt-mutant-mayhem-2-2027,the-new-simpsons-movie-2027,the-conjuring-first-communion-2027,the-haunting-of-hotel-transylvania-2027",
       "at": "2026-09-26T16:55:35.355488+00:00"
+    },
+    "plantel-reponer-datos-7-20260926-1057": {
+      "operationID": "plantel-reponer-datos-7-20260926-1057",
+      "digest": "2d03a15eb9f04c688d4c17edd495c0c76259d4fb10669d512ae665c4993c475d",
+      "status": "applied",
+      "version": 123,
+      "target": "the-mummy-4-2027,helldivers-2027,frozen-3-2027,lotr-the-hunt-for-gollum-2027,ghost-market-2028,fast-forever-2028,the-beatles-2028,resurrection-of-the-christ-part-two-2028,days-of-thunder-2-2028,incredibles-3-2028",
+      "at": "2026-09-26T16:58:49.408437+00:00"
     }
   }
 }
