@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -82249,7 +82249,39 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "metro-2039-2027",
+        "title": "Metro 2039",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-02-04",
+        "url": "https://www.deepsilver.com/games/metro2039/news/metro-2039-launches-february-4th-2027",
+        "keywords": [
+          "metro",
+          "2039"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Metro 2039",
+          "es": "Metro 2039"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Metro 2039",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {}
     },
     {
       "id": "tomb-raider-legacy-of-atlantis-2027",
@@ -82282,7 +82314,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "tomb-raider-legacy-of-atlantis-2027",
+        "title": "Tomb Raider: Legacy of Atlantis",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-02-12",
+        "url": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis",
+        "keywords": [
+          "tomb",
+          "raider",
+          "legacy",
+          "atlantis"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Tomb Raider: Legacy of Atlantis",
+          "es": "Tomb Raider: Legacy of Atlantis"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "Tomb Raider",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego fue desarrollado en Unreal Engine 5 por Crystal Dynamics y Flying Wild Hog.",
+            "en": "The game was built on Unreal Engine 5 by Crystal Dynamics and Flying Wild Hog."
+          },
+          "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego fue desarrollado en Unreal Engine 5 por Crystal Dynamics y Flying Wild Hog.",
+              "en": "The game was built on Unreal Engine 5 by Crystal Dynamics and Flying Wild Hog."
+            },
+            "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+          },
+          {
+            "text": {
+              "es": "La edición coleccionista del juego incluye una estatua de Lara Croft contra el T-Rex.",
+              "en": "The game's Collector's Edition includes a Lara Croft vs. The T-Rex statue."
+            },
+            "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego fue desarrollado en Unreal Engine 5 por Crystal Dynamics y Flying Wild Hog.",
+          "en": "The game was built on Unreal Engine 5 by Crystal Dynamics and Flying Wild Hog."
+        },
+        "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego fue desarrollado en Unreal Engine 5 por Crystal Dynamics y Flying Wild Hog.",
+            "en": "The game was built on Unreal Engine 5 by Crystal Dynamics and Flying Wild Hog."
+          },
+          "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+        },
+        {
+          "text": {
+            "es": "La edición coleccionista del juego incluye una estatua de Lara Croft contra el T-Rex.",
+            "en": "The game's Collector's Edition includes a Lara Croft vs. The T-Rex statue."
+          },
+          "source": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis"
+        }
+      ]
     },
     {
       "id": "god-of-war-laufey-2027",
@@ -82314,7 +82427,87 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "god-of-war-laufey-2027",
+        "title": "God of War Laufey",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-02-16",
+        "url": "https://www.playstation.com/en-us/games/god-of-war-laufey/",
+        "keywords": [
+          "god",
+          "war",
+          "laufey"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "God of War Laufey",
+          "es": "God of War Laufey"
+        },
+        "subtitles": {
+          "en": "PS5 · Launch",
+          "es": "PS5 · Lanzamiento"
+        },
+        "shortName": "God of War",
+        "popularity": "A",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego está ambientado en el Everywhen, el más allá de los dioses.",
+            "en": "The game is set in the Everywhen, the afterlife of the gods."
+          },
+          "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego está ambientado en el Everywhen, el más allá de los dioses.",
+              "en": "The game is set in the Everywhen, the afterlife of the gods."
+            },
+            "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+          },
+          {
+            "text": {
+              "es": "En este juego, Faye viaja junto a dos compañeros llamados Rue y Phranque.",
+              "en": "In this game, Faye is joined on her journey by companions named Rue and Phranque."
+            },
+            "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego está ambientado en el Everywhen, el más allá de los dioses.",
+          "en": "The game is set in the Everywhen, the afterlife of the gods."
+        },
+        "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego está ambientado en el Everywhen, el más allá de los dioses.",
+            "en": "The game is set in the Everywhen, the afterlife of the gods."
+          },
+          "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+        },
+        {
+          "text": {
+            "es": "En este juego, Faye viaja junto a dos compañeros llamados Rue y Phranque.",
+            "en": "In this game, Faye is joined on her journey by companions named Rue and Phranque."
+          },
+          "source": "https://www.playstation.com/en-us/games/god-of-war-laufey/"
+        }
+      ]
     },
     {
       "id": "persona-4-revival-2027",
@@ -82345,7 +82538,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "persona-4-revival-2027",
+        "title": "Persona 4 Revival",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-02-18",
+        "url": "https://asia.sega.com/p4r/en/",
+        "keywords": [
+          "persona",
+          "revival"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Persona 4 Revival",
+          "es": "Persona 4 Revival"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Persona 4",
+        "popularity": "C",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La historia del juego transcurre en la tranquila ciudad de Inaba.",
+            "en": "The game's story takes place in the quiet town of Inaba."
+          },
+          "source": "https://asia.sega.com/p4r/en/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La historia del juego transcurre en la tranquila ciudad de Inaba.",
+              "en": "The game's story takes place in the quiet town of Inaba."
+            },
+            "source": "https://asia.sega.com/p4r/en/"
+          },
+          {
+            "text": {
+              "es": "El juego es una nueva versión de Persona 4 Golden.",
+              "en": "The game is a remake of Persona 4 Golden."
+            },
+            "source": "https://asia.sega.com/p4r/en/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La historia del juego transcurre en la tranquila ciudad de Inaba.",
+          "en": "The game's story takes place in the quiet town of Inaba."
+        },
+        "source": "https://asia.sega.com/p4r/en/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La historia del juego transcurre en la tranquila ciudad de Inaba.",
+            "en": "The game's story takes place in the quiet town of Inaba."
+          },
+          "source": "https://asia.sega.com/p4r/en/"
+        },
+        {
+          "text": {
+            "es": "El juego es una nueva versión de Persona 4 Golden.",
+            "en": "The game is a remake of Persona 4 Golden."
+          },
+          "source": "https://asia.sega.com/p4r/en/"
+        }
+      ]
     },
     {
       "id": "fable-2027",
@@ -82373,7 +82645,83 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "fable-2027",
+        "title": "Fable",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-02-23",
+        "url": "https://www.fablethegame.com/en-US",
+        "keywords": [
+          "fable"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Fable",
+          "es": "Fable"
+        },
+        "subtitles": {
+          "en": "Xbox Series X|S, PS5, PC · Launch",
+          "es": "Xbox Series X|S, PS5, PC · Lanzamiento"
+        },
+        "shortName": "Fable",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego incluye enemigos clásicos de la saga como hobbes, balverinos y troles.",
+            "en": "The game features returning classic enemies such as Hobbes, Balverines, and Trolls."
+          },
+          "source": "https://www.fablethegame.com/en-US"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego incluye enemigos clásicos de la saga como hobbes, balverinos y troles.",
+              "en": "The game features returning classic enemies such as Hobbes, Balverines, and Trolls."
+            },
+            "source": "https://www.fablethegame.com/en-US"
+          },
+          {
+            "text": {
+              "es": "En Fable se puede enriquecer ejerciendo como herrero o arrendador.",
+              "en": "In Fable, players can get filthy rich working as a blacksmith or landlord."
+            },
+            "source": "https://www.fablethegame.com/en-US"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego incluye enemigos clásicos de la saga como hobbes, balverinos y troles.",
+          "en": "The game features returning classic enemies such as Hobbes, Balverines, and Trolls."
+        },
+        "source": "https://www.fablethegame.com/en-US"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego incluye enemigos clásicos de la saga como hobbes, balverinos y troles.",
+            "en": "The game features returning classic enemies such as Hobbes, Balverines, and Trolls."
+          },
+          "source": "https://www.fablethegame.com/en-US"
+        },
+        {
+          "text": {
+            "es": "En Fable se puede enriquecer ejerciendo como herrero o arrendador.",
+            "en": "In Fable, players can get filthy rich working as a blacksmith or landlord."
+          },
+          "source": "https://www.fablethegame.com/en-US"
+        }
+      ]
     },
     {
       "id": "exodus-2027",
@@ -82403,7 +82751,85 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "exodus-2027",
+        "title": "Exodus",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-04-07",
+        "url": "https://www.exodusgame.com/en-US",
+        "keywords": [
+          "exodus"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Exodus",
+          "es": "Exodus"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Exodus",
+        "popularity": "C",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Exodus es desarrollado por Archetype Entertainment y publicado por Wizards of the Coast.",
+            "en": "Exodus is being developed by Archetype Entertainment and published by Wizards of the Coast."
+          },
+          "source": "https://www.exodusgame.com/en-US"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Exodus es desarrollado por Archetype Entertainment y publicado por Wizards of the Coast.",
+              "en": "Exodus is being developed by Archetype Entertainment and published by Wizards of the Coast."
+            },
+            "source": "https://www.exodusgame.com/en-US"
+          },
+          {
+            "text": {
+              "es": "La trama de Exodus se sitúa 40 000 años en el futuro y aborda los efectos de la dilatación temporal.",
+              "en": "Exodus is set 40,000 years in the future and confronts the effects of interstellar time dilation."
+            },
+            "source": "https://www.exodusgame.com/en-US"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Exodus es desarrollado por Archetype Entertainment y publicado por Wizards of the Coast.",
+          "en": "Exodus is being developed by Archetype Entertainment and published by Wizards of the Coast."
+        },
+        "source": "https://www.exodusgame.com/en-US"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Exodus es desarrollado por Archetype Entertainment y publicado por Wizards of the Coast.",
+            "en": "Exodus is being developed by Archetype Entertainment and published by Wizards of the Coast."
+          },
+          "source": "https://www.exodusgame.com/en-US"
+        },
+        {
+          "text": {
+            "es": "La trama de Exodus se sitúa 40 000 años en el futuro y aborda los efectos de la dilatación temporal.",
+            "en": "Exodus is set 40,000 years in the future and confronts the effects of interstellar time dilation."
+          },
+          "source": "https://www.exodusgame.com/en-US"
+        }
+      ]
     },
     {
       "id": "final-fantasy-vii-revelation-2027",
@@ -82436,7 +82862,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "final-fantasy-vii-revelation-2027",
+        "title": "Final Fantasy VII Revelation",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-04-08",
+        "url": "https://na.finalfantasy.com/news/2840",
+        "keywords": [
+          "final",
+          "fantasy",
+          "vii",
+          "revelation"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Final Fantasy VII Revelation",
+          "es": "Final Fantasy VII Revelation"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "FFVII",
+        "popularity": "A",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego introduce a Cid y Vincent como nuevos personajes jugables.",
+            "en": "The game introduces Cid and Vincent as new playable characters."
+          },
+          "source": "https://na.finalfantasy.com/news/2840"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego introduce a Cid y Vincent como nuevos personajes jugables.",
+              "en": "The game introduces Cid and Vincent as new playable characters."
+            },
+            "source": "https://na.finalfantasy.com/news/2840"
+          },
+          {
+            "text": {
+              "es": "El juego incorpora una pistola de agarre para escalar tejados y desplazarse por el entorno.",
+              "en": "The game incorporates a grappling gun to scale rooftops and zip through the environment."
+            },
+            "source": "https://na.finalfantasy.com/news/2840"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego introduce a Cid y Vincent como nuevos personajes jugables.",
+          "en": "The game introduces Cid and Vincent as new playable characters."
+        },
+        "source": "https://na.finalfantasy.com/news/2840"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego introduce a Cid y Vincent como nuevos personajes jugables.",
+            "en": "The game introduces Cid and Vincent as new playable characters."
+          },
+          "source": "https://na.finalfantasy.com/news/2840"
+        },
+        {
+          "text": {
+            "es": "El juego incorpora una pistola de agarre para escalar tejados y desplazarse por el entorno.",
+            "en": "The game incorporates a grappling gun to scale rooftops and zip through the environment."
+          },
+          "source": "https://na.finalfantasy.com/news/2840"
+        }
+      ]
     },
     {
       "id": "kirby-and-the-world-beyond-2027",
@@ -82469,7 +82976,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "kirby-and-the-world-beyond-2027",
+        "title": "Kirby and the World Beyond",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-04-15",
+        "url": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/",
+        "keywords": [
+          "kirby",
+          "and",
+          "the",
+          "world",
+          "beyond"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Kirby and the World Beyond",
+          "es": "Kirby and the World Beyond"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Kirby",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego presenta un viaje a través de amplios paisajes en tres dimensiones.",
+            "en": "The game features a journey through expansive 3D landscapes."
+          },
+          "source": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego presenta un viaje a través de amplios paisajes en tres dimensiones.",
+              "en": "The game features a journey through expansive 3D landscapes."
+            },
+            "source": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/"
+          },
+          {
+            "text": {
+              "es": "El videojuego fue revelado en un Nintendo Direct el 9 de septiembre de 2026.",
+              "en": "The game was revealed in a Nintendo Direct on September 9, 2026."
+            },
+            "source": "https://en.wikipedia.org/wiki/Kirby_and_the_World_Beyond"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego presenta un viaje a través de amplios paisajes en tres dimensiones.",
+          "en": "The game features a journey through expansive 3D landscapes."
+        },
+        "source": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego presenta un viaje a través de amplios paisajes en tres dimensiones.",
+            "en": "The game features a journey through expansive 3D landscapes."
+          },
+          "source": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/"
+        },
+        {
+          "text": {
+            "es": "El videojuego fue revelado en un Nintendo Direct el 9 de septiembre de 2026.",
+            "en": "The game was revealed in a Nintendo Direct on September 9, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/Kirby_and_the_World_Beyond"
+        }
+      ]
     },
     {
       "id": "spyro-a-realm-beyond-2027",
@@ -82533,7 +83121,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "mega-man-dual-override-2027",
+        "title": "Mega Man: Dual Override",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-04-15",
+        "url": "https://www.capcom-games.com/megaman/do/en-us/",
+        "keywords": [
+          "mega",
+          "man",
+          "dual",
+          "override"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Mega Man: Dual Override",
+          "es": "Mega Man: Dual Override"
+        },
+        "subtitles": {
+          "en": "PS5, PS4, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Launch",
+          "es": "PS5, PS4, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Lanzamiento"
+        },
+        "shortName": "Mega Man",
+        "popularity": "C",
+        "estimated": true,
+        "sourceUnreachableSince": "2026-09-25",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego es la duodécima entrega principal de la saga Mega Man.",
+            "en": "The game will be the 12th main installment in the Mega Man series."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego es la duodécima entrega principal de la saga Mega Man.",
+              "en": "The game will be the 12th main installment in the Mega Man series."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+          },
+          {
+            "text": {
+              "es": "El lanzamiento de Mega Man: Dual Override coincide con el 40 aniversario de la franquicia.",
+              "en": "Mega Man: Dual Override is slated for 2027, coinciding with the franchise's 40th anniversary."
+            },
+            "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego es la duodécima entrega principal de la saga Mega Man.",
+          "en": "The game will be the 12th main installment in the Mega Man series."
+        },
+        "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego es la duodécima entrega principal de la saga Mega Man.",
+            "en": "The game will be the 12th main installment in the Mega Man series."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+        },
+        {
+          "text": {
+            "es": "El lanzamiento de Mega Man: Dual Override coincide con el 40 aniversario de la franquicia.",
+            "en": "Mega Man: Dual Override is slated for 2027, coinciding with the franchise's 40th anniversary."
+          },
+          "source": "https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override"
+        }
+      ]
     },
     {
       "id": "resident-evil-veronica-2027",
@@ -82564,7 +83233,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "resident-evil-veronica-2027",
+        "title": "Resident Evil Veronica",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://www.capcom.co.jp/ir/english/news/html/e260608.html",
+        "keywords": [
+          "resident",
+          "evil",
+          "veronica"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Resident Evil Veronica",
+          "es": "Resident Evil Veronica"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "RE Veronica",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego se desarrolla utilizando el motor propio RE ENGINE de Capcom.",
+            "en": "The game is being developed using Capcom's proprietary RE ENGINE."
+          },
+          "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego se desarrolla utilizando el motor propio RE ENGINE de Capcom.",
+              "en": "The game is being developed using Capcom's proprietary RE ENGINE."
+            },
+            "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+          },
+          {
+            "text": {
+              "es": "El juego es una adaptación del original Resident Evil Code: Veronica publicado en el año 2000.",
+              "en": "The game is a remake of the original Resident Evil Code: Veronica, released in the year 2000."
+            },
+            "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego se desarrolla utilizando el motor propio RE ENGINE de Capcom.",
+          "en": "The game is being developed using Capcom's proprietary RE ENGINE."
+        },
+        "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego se desarrolla utilizando el motor propio RE ENGINE de Capcom.",
+            "en": "The game is being developed using Capcom's proprietary RE ENGINE."
+          },
+          "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+        },
+        {
+          "text": {
+            "es": "El juego es una adaptación del original Resident Evil Code: Veronica publicado en el año 2000.",
+            "en": "The game is a remake of the original Resident Evil Code: Veronica, released in the year 2000."
+          },
+          "source": "https://www.capcom.co.jp/ir/english/news/html/e260608.html"
+        }
+      ]
     },
     {
       "id": "dragon-ball-xenoverse-3-2027",
@@ -93990,6 +94738,14 @@
       "version": 116,
       "target": "star-wars-galactic-racer-2026,castlevania-belmonts-curse-2026,nintendo-switch-sports-resort-2026,call-of-duty-modern-warfare-4-2026,phantom-blade-zero-2026,the-duskbloods-2026,attack-on-titan-3-2026,stranger-than-heaven-2027,metroid-ravenous-2027,until-dawn-2-2027",
       "at": "2026-09-26T16:18:31.866486+00:00"
+    },
+    "plantel-reponer-datos-2-20260926-1020": {
+      "operationID": "plantel-reponer-datos-2-20260926-1020",
+      "digest": "4d04db3880d3df3aec9dc1c0a5c7275d4537ae72a6bd12eae47e9ce8c02162ef",
+      "status": "applied",
+      "version": 117,
+      "target": "metro-2039-2027,tomb-raider-legacy-of-atlantis-2027,god-of-war-laufey-2027,persona-4-revival-2027,fable-2027,exodus-2027,final-fantasy-vii-revelation-2027,kirby-and-the-world-beyond-2027,mega-man-dual-override-2027,resident-evil-veronica-2027",
+      "at": "2026-09-26T16:21:33.305588+00:00"
     }
   }
 }
