@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 120,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -86766,7 +86766,7 @@
       "emoji": "🚀",
       "category": "entertainment",
       "date": "2026-10-15",
-      "url": "https://en.wikipedia.org/wiki/Ubuntu",
+      "url": "https://documentation.ubuntu.com/release-notes/26.10/schedule/",
       "keywords": [
         "ubuntu",
         "linux",
@@ -86808,6 +86808,59 @@
         "introducedInVersion": 115,
         "publishedAt": "2026-09-26T15:43:03Z",
         "eligible": true
+      },
+      "sourceSnapshot": {
+        "id": "ubuntu-26-10-2026",
+        "title": "Ubuntu 26.10",
+        "emoji": "🚀",
+        "category": "entertainment",
+        "date": "2026-10-15",
+        "url": "https://en.wikipedia.org/wiki/Ubuntu",
+        "keywords": [
+          "ubuntu",
+          "linux",
+          "canonical",
+          "operating system"
+        ],
+        "origin": "telegram",
+        "subtitle": "Canonical",
+        "subcategory": "launches",
+        "titles": {
+          "en": "Ubuntu 26.10",
+          "es": "Ubuntu 26.10"
+        },
+        "shortName": "Ubuntu 26.10",
+        "fact": {
+          "text": {
+            "es": "Ubuntu 26.10, apodada Stonking Stingray, estrena imágenes identificadas como AMD64v3.",
+            "en": "Ubuntu 26.10, dubbed Stonking Stingray, debuts images identified as AMD64v3."
+          },
+          "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Ubuntu 26.10, apodada Stonking Stingray, estrena imágenes identificadas como AMD64v3.",
+              "en": "Ubuntu 26.10, dubbed Stonking Stingray, debuts images identified as AMD64v3."
+            },
+            "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+          },
+          {
+            "text": {
+              "es": "Ubuntu 26.10 es la primera versión en ofrecer soporte para x86-64-v3 desde la instalación.",
+              "en": "Ubuntu 26.10 is the first version to offer x86-64-v3 support right from installation."
+            },
+            "source": "https://www.muylinux.com/2026/09/08/ubuntu-26-10-x86-64-v3/"
+          }
+        ],
+        "news": {
+          "introducedInVersion": 115,
+          "publishedAt": "2026-09-26T15:43:03Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "url": "https://documentation.ubuntu.com/release-notes/26.10/schedule/"
       }
     }
   ],
@@ -96339,6 +96392,14 @@
       "version": 119,
       "target": "street-fighter-2026,clayface-2026,the-cat-in-the-hat-2026,hunger-games-sunrise-on-the-reaping-2026,focker-in-law-2026,hexed-2026,dune-part-three-2026,angry-birds-movie-3-2026,further-mis-adventures-of-cliff-booth-2026,jumanji-open-world-2026",
       "at": "2026-09-26T16:31:26.816549+00:00"
+    },
+    "plantel-ubuntu-fuente-oficial-20260926-1031": {
+      "operationID": "plantel-ubuntu-fuente-oficial-20260926-1031",
+      "digest": "3a037df727155ac2385434ea240d26f16b5d1b5ef9366d0b932acfeea3cc17cc",
+      "status": "applied",
+      "version": 120,
+      "target": "ubuntu-26-10-2026",
+      "at": "2026-09-26T16:38:55.992119+00:00"
     }
   }
 }
