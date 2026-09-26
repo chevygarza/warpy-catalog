@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -81147,7 +81147,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "star-wars-galactic-racer-2026",
+        "title": "Star Wars: Galactic Racer",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-06",
+        "url": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer",
+        "keywords": [
+          "star",
+          "wars",
+          "galactic",
+          "racer"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Star Wars: Galactic Racer",
+          "es": "Star Wars: Galactic Racer"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "SW Racer",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El videojuego de carreras Star Wars: Galactic Racer fue anunciado en The Game Awards 2025.",
+            "en": "The video game Star Wars: Galactic Racer was announced at the 2025 Game Awards."
+          },
+          "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El videojuego de carreras Star Wars: Galactic Racer fue anunciado en The Game Awards 2025.",
+              "en": "The video game Star Wars: Galactic Racer was announced at the 2025 Game Awards."
+            },
+            "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+          },
+          {
+            "text": {
+              "es": "El videojuego incluye un nuevo personaje llamado Shade y carreras en Jakku y Ando Prime.",
+              "en": "The video game introduces a new character named Shade and racing on Jakku and Ando Prime."
+            },
+            "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El videojuego de carreras Star Wars: Galactic Racer fue anunciado en The Game Awards 2025.",
+          "en": "The video game Star Wars: Galactic Racer was announced at the 2025 Game Awards."
+        },
+        "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El videojuego de carreras Star Wars: Galactic Racer fue anunciado en The Game Awards 2025.",
+            "en": "The video game Star Wars: Galactic Racer was announced at the 2025 Game Awards."
+          },
+          "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+        },
+        {
+          "text": {
+            "es": "El videojuego incluye un nuevo personaje llamado Shade y carreras en Jakku y Ando Prime.",
+            "en": "The video game introduces a new character named Shade and racing on Jakku and Ando Prime."
+          },
+          "source": "https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer"
+        }
+      ]
     },
     {
       "id": "castlevania-belmonts-curse-2026",
@@ -81178,7 +81259,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "castlevania-belmonts-curse-2026",
+        "title": "Castlevania: Belmont's Curse",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-15",
+        "url": "https://www.konami.com/games/castlevania/belmonts_curse/",
+        "keywords": [
+          "castlevania",
+          "belmont",
+          "curse"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Castlevania: Belmont's Curse",
+          "es": "Castlevania: Belmont's Curse"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch, PC · Lanzamiento"
+        },
+        "shortName": "Castlevania",
+        "popularity": "B",
+        "sourceUnreachableSince": "2026-09-25",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Es la vigésimo sexta entrega principal de la franquicia Castlevania.",
+            "en": "It is the 26th main installment in the Castlevania franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Es la vigésimo sexta entrega principal de la franquicia Castlevania.",
+              "en": "It is the 26th main installment in the Castlevania franchise."
+            },
+            "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+          },
+          {
+            "text": {
+              "es": "El juego está ambientado en 1499 y sigue a Rose Belmont en París.",
+              "en": "The game is set in 1499 and follows Rose Belmont in Paris."
+            },
+            "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Es la vigésimo sexta entrega principal de la franquicia Castlevania.",
+          "en": "It is the 26th main installment in the Castlevania franchise."
+        },
+        "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Es la vigésimo sexta entrega principal de la franquicia Castlevania.",
+            "en": "It is the 26th main installment in the Castlevania franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+        },
+        {
+          "text": {
+            "es": "El juego está ambientado en 1499 y sigue a Rose Belmont en París.",
+            "en": "The game is set in 1499 and follows Rose Belmont in Paris."
+          },
+          "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+        }
+      ]
     },
     {
       "id": "nintendo-switch-sports-resort-2026",
@@ -81211,7 +81371,88 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "nintendo-switch-sports-resort-2026",
+        "title": "Nintendo Switch Sports Resort",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-22",
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/",
+        "keywords": [
+          "nintendo",
+          "switch",
+          "sports",
+          "resort"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Nintendo Switch Sports Resort",
+          "es": "Nintendo Switch Sports Resort"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Sport Resort",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El videojuego incluye doce deportes con controles de movimiento.",
+            "en": "The video game features 12 motion-control sports."
+          },
+          "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El videojuego incluye doce deportes con controles de movimiento.",
+              "en": "The video game features 12 motion-control sports."
+            },
+            "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+          },
+          {
+            "text": {
+              "es": "El tamaño estimado del archivo del videojuego es de 16 GB.",
+              "en": "The estimated file size of the game is 16 GB."
+            },
+            "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El videojuego incluye doce deportes con controles de movimiento.",
+          "en": "The video game features 12 motion-control sports."
+        },
+        "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El videojuego incluye doce deportes con controles de movimiento.",
+            "en": "The video game features 12 motion-control sports."
+          },
+          "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+        },
+        {
+          "text": {
+            "es": "El tamaño estimado del archivo del videojuego es de 16 GB.",
+            "en": "The estimated file size of the game is 16 GB."
+          },
+          "source": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/"
+        }
+      ]
     },
     {
       "id": "call-of-duty-modern-warfare-4-2026",
@@ -81243,7 +81484,87 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "call-of-duty-modern-warfare-4-2026",
+        "title": "Call of Duty: Modern Warfare 4",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-23",
+        "url": "https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-announcement",
+        "keywords": [
+          "call",
+          "duty",
+          "modern",
+          "warfare"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Call of Duty: Modern Warfare 4",
+          "es": "Call of Duty: Modern Warfare 4"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "CoD MW4",
+        "popularity": "A",
+        "sourceUnreachableSince": "2026-09-25",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Es la vigésimo tercera entrega de la serie Call of Duty.",
+            "en": "It is the twenty-third installment in the Call of Duty series."
+          },
+          "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Es la vigésimo tercera entrega de la serie Call of Duty.",
+              "en": "It is the twenty-third installment in the Call of Duty series."
+            },
+            "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+          },
+          {
+            "text": {
+              "es": "Su campaña se centrará en un conflicto armado entre Corea del Norte y Corea del Sur.",
+              "en": "Its campaign will focus on a war between North Korea and South Korea."
+            },
+            "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Es la vigésimo tercera entrega de la serie Call of Duty.",
+          "en": "It is the twenty-third installment in the Call of Duty series."
+        },
+        "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Es la vigésimo tercera entrega de la serie Call of Duty.",
+            "en": "It is the twenty-third installment in the Call of Duty series."
+          },
+          "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+        },
+        {
+          "text": {
+            "es": "Su campaña se centrará en un conflicto armado entre Corea del Norte y Corea del Sur.",
+            "en": "Its campaign will focus on a war between North Korea and South Korea."
+          },
+          "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
+        }
+      ]
     },
     {
       "id": "phantom-blade-zero-2026",
@@ -81273,7 +81594,85 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "phantom-blade-zero-2026",
+        "title": "Phantom Blade Zero",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-10-29",
+        "url": "https://www.playstation.com/en-us/games/phantom-blade-zero/",
+        "keywords": [
+          "phantom",
+          "blade",
+          "zero"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Phantom Blade Zero",
+          "es": "Phantom Blade Zero"
+        },
+        "subtitles": {
+          "en": "PS5, PC · Launch",
+          "es": "PS5, PC · Lanzamiento"
+        },
+        "shortName": "Blade Zero",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego es un sucesor espiritual de Rainblood: Town of Death.",
+            "en": "The game is a spiritual successor to Rainblood: Town of Death."
+          },
+          "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego es un sucesor espiritual de Rainblood: Town of Death.",
+              "en": "The game is a spiritual successor to Rainblood: Town of Death."
+            },
+            "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+          },
+          {
+            "text": {
+              "es": "El juego está diseñado con el motor gráfico Unreal Engine 5.",
+              "en": "The game is designed using the Unreal Engine 5 game engine."
+            },
+            "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego es un sucesor espiritual de Rainblood: Town of Death.",
+          "en": "The game is a spiritual successor to Rainblood: Town of Death."
+        },
+        "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego es un sucesor espiritual de Rainblood: Town of Death.",
+            "en": "The game is a spiritual successor to Rainblood: Town of Death."
+          },
+          "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+        },
+        {
+          "text": {
+            "es": "El juego está diseñado con el motor gráfico Unreal Engine 5.",
+            "en": "The game is designed using the Unreal Engine 5 game engine."
+          },
+          "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
+        }
+      ]
     },
     {
       "id": "the-duskbloods-2026",
@@ -81303,7 +81702,85 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-duskbloods-2026",
+        "title": "The Duskbloods",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-11-15",
+        "url": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/",
+        "keywords": [
+          "the",
+          "duskbloods"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "The Duskbloods",
+          "es": "The Duskbloods"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Duskbloods",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "FromSoftware desarrolló el videojuego The Duskbloods para partidas en línea de hasta ocho jugadores.",
+            "en": "FromSoftware developed The Duskbloods, featuring online battles for up to eight players."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "FromSoftware desarrolló el videojuego The Duskbloods para partidas en línea de hasta ocho jugadores.",
+              "en": "FromSoftware developed The Duskbloods, featuring online battles for up to eight players."
+            },
+            "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+          },
+          {
+            "text": {
+              "es": "El videojuego The Duskbloods admite los modos de juego en televisor, sobremesa y portátil.",
+              "en": "The Duskbloods supports TV mode, tabletop mode, and handheld mode."
+            },
+            "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "FromSoftware desarrolló el videojuego The Duskbloods para partidas en línea de hasta ocho jugadores.",
+          "en": "FromSoftware developed The Duskbloods, featuring online battles for up to eight players."
+        },
+        "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "FromSoftware desarrolló el videojuego The Duskbloods para partidas en línea de hasta ocho jugadores.",
+            "en": "FromSoftware developed The Duskbloods, featuring online battles for up to eight players."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+        },
+        {
+          "text": {
+            "es": "El videojuego The Duskbloods admite los modos de juego en televisor, sobremesa y portátil.",
+            "en": "The Duskbloods supports TV mode, tabletop mode, and handheld mode."
+          },
+          "source": "https://www.nintendo.com/us/store/products/the-duskbloods-switch-2/"
+        }
+      ]
     },
     {
       "id": "attack-on-titan-3-2026",
@@ -81334,7 +81811,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "attack-on-titan-3-2026",
+        "title": "Attack on Titan 3",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2026-12-10",
+        "url": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/",
+        "keywords": [
+          "attack",
+          "titan"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Attack on Titan 3",
+          "es": "Attack on Titan 3"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "AoT 3",
+        "popularity": "C",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Attack on Titan 3 incluye voces en japonés y textos en cinco idiomas, entre ellos el español.",
+            "en": "Attack on Titan 3 features Japanese voices and texts in five languages, including English."
+          },
+          "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Attack on Titan 3 incluye voces en japonés y textos en cinco idiomas, entre ellos el español.",
+              "en": "Attack on Titan 3 features Japanese voices and texts in five languages, including English."
+            },
+            "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+          },
+          {
+            "text": {
+              "es": "El juego fue desarrollado por Omega Force junto a KOEI TECMO America.",
+              "en": "The game was developed by Omega Force alongside KOEI TECMO America."
+            },
+            "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Attack on Titan 3 incluye voces en japonés y textos en cinco idiomas, entre ellos el español.",
+          "en": "Attack on Titan 3 features Japanese voices and texts in five languages, including English."
+        },
+        "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Attack on Titan 3 incluye voces en japonés y textos en cinco idiomas, entre ellos el español.",
+            "en": "Attack on Titan 3 features Japanese voices and texts in five languages, including English."
+          },
+          "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+        },
+        {
+          "text": {
+            "es": "El juego fue desarrollado por Omega Force junto a KOEI TECMO America.",
+            "en": "The game was developed by Omega Force alongside KOEI TECMO America."
+          },
+          "source": "https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/"
+        }
+      ]
     },
     {
       "id": "stranger-than-heaven-2027",
@@ -81366,7 +81922,87 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "stranger-than-heaven-2027",
+        "title": "Stranger Than Heaven",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-01-15",
+        "url": "https://www.sega.co.jp/en/release/260608_3.html",
+        "keywords": [
+          "stranger",
+          "than",
+          "heaven"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Stranger Than Heaven",
+          "es": "Stranger Than Heaven"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Str. Heaven",
+        "popularity": "C",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego incluye la aparición del fallecido rapero y actor Tupac Shakur mediante CG sin usar IA.",
+            "en": "The game features the late rapper and actor Tupac, created via CG without the use of AI."
+          },
+          "source": "https://www.sega.co.jp/en/release/260608_3.html"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego incluye la aparición del fallecido rapero y actor Tupac Shakur mediante CG sin usar IA.",
+              "en": "The game features the late rapper and actor Tupac, created via CG without the use of AI."
+            },
+            "source": "https://www.sega.co.jp/en/release/260608_3.html"
+          },
+          {
+            "text": {
+              "es": "La reserva del juego incluye como contenido descargable exclusivo el arma Dosu: Kagekiri.",
+              "en": "Pre-ordering the game grants the exclusive DLC weapon Dosu: Kagekiri."
+            },
+            "source": "https://www.sega.co.jp/en/release/260608_3.html"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego incluye la aparición del fallecido rapero y actor Tupac Shakur mediante CG sin usar IA.",
+          "en": "The game features the late rapper and actor Tupac, created via CG without the use of AI."
+        },
+        "source": "https://www.sega.co.jp/en/release/260608_3.html"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego incluye la aparición del fallecido rapero y actor Tupac Shakur mediante CG sin usar IA.",
+            "en": "The game features the late rapper and actor Tupac, created via CG without the use of AI."
+          },
+          "source": "https://www.sega.co.jp/en/release/260608_3.html"
+        },
+        {
+          "text": {
+            "es": "La reserva del juego incluye como contenido descargable exclusivo el arma Dosu: Kagekiri.",
+            "en": "Pre-ordering the game grants the exclusive DLC weapon Dosu: Kagekiri."
+          },
+          "source": "https://www.sega.co.jp/en/release/260608_3.html"
+        }
+      ]
     },
     {
       "id": "metroid-ravenous-2027",
@@ -81395,7 +82031,84 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "metroid-ravenous-2027",
+        "title": "Metroid Ravenous",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-01-28",
+        "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+        "keywords": [
+          "metroid",
+          "ravenous"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Metroid Ravenous",
+          "es": "Metroid Ravenous"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Metroid",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El tamaño estimado del archivo del videojuego es de 20,2 GB.",
+            "en": "The estimated file size of the game is 20.2 GB."
+          },
+          "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El tamaño estimado del archivo del videojuego es de 20,2 GB.",
+              "en": "The estimated file size of the game is 20.2 GB."
+            },
+            "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+          },
+          {
+            "text": {
+              "es": "El juego es compatible con salida HDR y salida a 120 Hz en televisores compatibles.",
+              "en": "The game supports HDR output and 120 Hz output on compatible TVs."
+            },
+            "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El tamaño estimado del archivo del videojuego es de 20,2 GB.",
+          "en": "The estimated file size of the game is 20.2 GB."
+        },
+        "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El tamaño estimado del archivo del videojuego es de 20,2 GB.",
+            "en": "The estimated file size of the game is 20.2 GB."
+          },
+          "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+        },
+        {
+          "text": {
+            "es": "El juego es compatible con salida HDR y salida a 120 Hz en televisores compatibles.",
+            "en": "The game supports HDR output and 120 Hz output on compatible TVs."
+          },
+          "source": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/"
+        }
+      ]
     },
     {
       "id": "until-dawn-2-2027",
@@ -81426,7 +82139,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "until-dawn-2-2027",
+        "title": "Until Dawn 2",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-01-28",
+        "url": "https://www.playstation.com/en-us/games/until-dawn-2/",
+        "keywords": [
+          "until",
+          "dawn"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Until Dawn 2",
+          "es": "Until Dawn 2"
+        },
+        "subtitles": {
+          "en": "PS5 · Launch",
+          "es": "PS5 · Lanzamiento"
+        },
+        "shortName": "Until Dawn 2",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El Dr. Hill es el único personaje que regresa en Until Dawn 2.",
+            "en": "The only returning character in Until Dawn 2 is Dr. Hill."
+          },
+          "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El Dr. Hill es el único personaje que regresa en Until Dawn 2.",
+              "en": "The only returning character in Until Dawn 2 is Dr. Hill."
+            },
+            "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+          },
+          {
+            "text": {
+              "es": "Until Dawn 2 cuenta con ocho personajes jugables.",
+              "en": "Until Dawn 2 features eight playable characters."
+            },
+            "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El Dr. Hill es el único personaje que regresa en Until Dawn 2.",
+          "en": "The only returning character in Until Dawn 2 is Dr. Hill."
+        },
+        "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El Dr. Hill es el único personaje que regresa en Until Dawn 2.",
+            "en": "The only returning character in Until Dawn 2 is Dr. Hill."
+          },
+          "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+        },
+        {
+          "text": {
+            "es": "Until Dawn 2 cuenta con ocho personajes jugables.",
+            "en": "Until Dawn 2 features eight playable characters."
+          },
+          "source": "https://www.playstation.com/en-us/games/until-dawn-2/"
+        }
+      ]
     },
     {
       "id": "metro-2039-2027",
@@ -93190,6 +93982,14 @@
       "version": 115,
       "target": "ubuntu-26-10-2026",
       "at": "2026-09-26T15:43:01.373374+00:00"
+    },
+    "plantel-reponer-datos-1-20260926-1016": {
+      "operationID": "plantel-reponer-datos-1-20260926-1016",
+      "digest": "9eb97007330e8cbe3a34508da6e3e3f7bdf5930349b5c95496ece83c91a3ff6e",
+      "status": "applied",
+      "version": 116,
+      "target": "star-wars-galactic-racer-2026,castlevania-belmonts-curse-2026,nintendo-switch-sports-resort-2026,call-of-duty-modern-warfare-4-2026,phantom-blade-zero-2026,the-duskbloods-2026,attack-on-titan-3-2026,stranger-than-heaven-2027,metroid-ravenous-2027,until-dawn-2-2027",
+      "at": "2026-09-26T16:18:31.866486+00:00"
     }
   }
 }
