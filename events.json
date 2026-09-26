@@ -1,5 +1,5 @@
 {
-  "version": 117,
+  "version": 118,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -83343,7 +83343,86 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "dragon-ball-xenoverse-3-2027",
+        "title": "Dragon Ball Xenoverse 3",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3",
+        "keywords": [
+          "dragon",
+          "ball",
+          "xenoverse"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Dragon Ball Xenoverse 3",
+          "es": "Dragon Ball Xenoverse 3"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Xenoverse 3",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La historia del juego se ambienta en el Año 1000 y se desarrolla en West City.",
+            "en": "The game's story is set in Age 1000 and journeys through West City."
+          },
+          "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La historia del juego se ambienta en el Año 1000 y se desarrolla en West City.",
+              "en": "The game's story is set in Age 1000 and journeys through West City."
+            },
+            "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+          },
+          {
+            "text": {
+              "es": "El jugador se une a las filas del Great Saiya Squad para luchar junto a sus aliados.",
+              "en": "Players join the ranks of the Great Saiya Squad to fight alongside allies."
+            },
+            "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La historia del juego se ambienta en el Año 1000 y se desarrolla en West City.",
+          "en": "The game's story is set in Age 1000 and journeys through West City."
+        },
+        "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La historia del juego se ambienta en el Año 1000 y se desarrolla en West City.",
+            "en": "The game's story is set in Age 1000 and journeys through West City."
+          },
+          "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+        },
+        {
+          "text": {
+            "es": "El jugador se une a las filas del Great Saiya Squad para luchar junto a sus aliados.",
+            "en": "Players join the ranks of the Great Saiya Squad to fight alongside allies."
+          },
+          "source": "https://www.bandainamcoent.com/games/dragon-ball-xenoverse-3"
+        }
+      ]
     },
     {
       "id": "state-of-decay-3-2027",
@@ -83373,7 +83452,85 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "state-of-decay-3-2027",
+        "title": "State of Decay 3",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/",
+        "keywords": [
+          "state",
+          "decay"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "State of Decay 3",
+          "es": "State of Decay 3"
+        },
+        "subtitles": {
+          "en": "Xbox Series X|S, PS5, PC · Launch",
+          "es": "Xbox Series X|S, PS5, PC · Lanzamiento"
+        },
+        "shortName": "SoD3",
+        "popularity": "C",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El desarrollo del juego State of Decay 3 se encuentra en fase alfa.",
+            "en": "The game State of Decay 3 is currently in its alpha stage."
+          },
+          "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El desarrollo del juego State of Decay 3 se encuentra en fase alfa.",
+              "en": "The game State of Decay 3 is currently in its alpha stage."
+            },
+            "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+          },
+          {
+            "text": {
+              "es": "Undead Labs se separó de XBOX para operar como un estudio independiente.",
+              "en": "Undead Labs separated from XBOX to operate as an independent studio."
+            },
+            "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El desarrollo del juego State of Decay 3 se encuentra en fase alfa.",
+          "en": "The game State of Decay 3 is currently in its alpha stage."
+        },
+        "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El desarrollo del juego State of Decay 3 se encuentra en fase alfa.",
+            "en": "The game State of Decay 3 is currently in its alpha stage."
+          },
+          "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+        },
+        {
+          "text": {
+            "es": "Undead Labs se separó de XBOX para operar como un estudio independiente.",
+            "en": "Undead Labs separated from XBOX to operate as an independent studio."
+          },
+          "source": "https://www.stateofdecay.com/undead-labs-becomes-independent-studio/"
+        }
+      ]
     },
     {
       "id": "xenoblade-genesis-2027",
@@ -83403,7 +83560,85 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "xenoblade-genesis-2027",
+        "title": "Xenoblade Genesis",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/",
+        "keywords": [
+          "xenoblade",
+          "genesis"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Xenoblade Genesis",
+          "es": "Xenoblade Genesis"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Xenoblade",
+        "popularity": "C",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El videojuego Xenoblade Genesis es publicado directamente por Nintendo.",
+            "en": "The video game Xenoblade Genesis is published directly by Nintendo."
+          },
+          "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El videojuego Xenoblade Genesis es publicado directamente por Nintendo.",
+              "en": "The video game Xenoblade Genesis is published directly by Nintendo."
+            },
+            "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+          },
+          {
+            "text": {
+              "es": "El videojuego Xenoblade Genesis incluye compatibilidad con el idioma inglés estadounidense.",
+              "en": "The video game Xenoblade Genesis includes support for American English."
+            },
+            "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El videojuego Xenoblade Genesis es publicado directamente por Nintendo.",
+          "en": "The video game Xenoblade Genesis is published directly by Nintendo."
+        },
+        "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El videojuego Xenoblade Genesis es publicado directamente por Nintendo.",
+            "en": "The video game Xenoblade Genesis is published directly by Nintendo."
+          },
+          "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+        },
+        {
+          "text": {
+            "es": "El videojuego Xenoblade Genesis incluye compatibilidad con el idioma inglés estadounidense.",
+            "en": "The video game Xenoblade Genesis includes support for American English."
+          },
+          "source": "https://www.nintendo.com/us/store/products/xenoblade-genesis-switch-2/"
+        }
+      ]
     },
     {
       "id": "pokemon-winds-and-waves-2027",
@@ -83437,7 +83672,89 @@
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "pokemon-winds-and-waves-2027",
+        "title": "Pokémon Winds and Pokémon Waves",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://windswaves.pokemon.com/en-us/",
+        "keywords": [
+          "pokemon",
+          "winds",
+          "and",
+          "waves",
+          "viento",
+          "ola"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Pokémon Winds and Pokémon Waves",
+          "es": "Pokémon Viento y Pokémon Ola"
+        },
+        "subtitles": {
+          "en": "Switch 2 · Launch",
+          "es": "Switch 2 · Lanzamiento"
+        },
+        "shortName": "Pokémon",
+        "popularity": "A",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 109,
+          "publishedAt": "2026-09-25T20:12:20Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Los Pokémon iniciales son Browt, Pombon y Gecqua.",
+            "en": "The three first partner Pokémon are Browt, Pombon, and Gecqua."
+          },
+          "source": "https://windswaves.pokemon.com/en-us/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Los Pokémon iniciales son Browt, Pombon y Gecqua.",
+              "en": "The three first partner Pokémon are Browt, Pombon, and Gecqua."
+            },
+            "source": "https://windswaves.pokemon.com/en-us/"
+          },
+          {
+            "text": {
+              "es": "El juego introduce dos Pikachu especiales llamados Mr. Windychu y Ms. Wavychu.",
+              "en": "The game introduces two special Pikachu named Mr. Windychu and Ms. Wavychu."
+            },
+            "source": "https://windswaves.pokemon.com/en-us/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Los Pokémon iniciales son Browt, Pombon y Gecqua.",
+          "en": "The three first partner Pokémon are Browt, Pombon, and Gecqua."
+        },
+        "source": "https://windswaves.pokemon.com/en-us/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Los Pokémon iniciales son Browt, Pombon y Gecqua.",
+            "en": "The three first partner Pokémon are Browt, Pombon, and Gecqua."
+          },
+          "source": "https://windswaves.pokemon.com/en-us/"
+        },
+        {
+          "text": {
+            "es": "El juego introduce dos Pikachu especiales llamados Mr. Windychu y Ms. Wavychu.",
+            "en": "The game introduces two special Pikachu named Mr. Windychu and Ms. Wavychu."
+          },
+          "source": "https://windswaves.pokemon.com/en-us/"
+        }
+      ]
     },
     {
       "id": "clockwork-revolution-2027",
@@ -83467,7 +83784,85 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "clockwork-revolution-2027",
+        "title": "Clockwork Revolution",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/",
+        "keywords": [
+          "clockwork",
+          "revolution"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Clockwork Revolution",
+          "es": "Clockwork Revolution"
+        },
+        "subtitles": {
+          "en": "Xbox Series X|S, PC · Launch",
+          "es": "Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "Clockwork",
+        "popularity": "C",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El juego de inXile entertainment está ambientado en la ciudad steampunk de Avalon.",
+            "en": "The inXile entertainment game is set in the steampunk city of Avalon."
+          },
+          "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El juego de inXile entertainment está ambientado en la ciudad steampunk de Avalon.",
+              "en": "The inXile entertainment game is set in the steampunk city of Avalon."
+            },
+            "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+          },
+          {
+            "text": {
+              "es": "El autómata volador Prentice acompaña a Morgan a través de realidades ramificadas en el juego.",
+              "en": "The flying automaton Prentice guides Morgan through branching realities in the game."
+            },
+            "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El juego de inXile entertainment está ambientado en la ciudad steampunk de Avalon.",
+          "en": "The inXile entertainment game is set in the steampunk city of Avalon."
+        },
+        "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El juego de inXile entertainment está ambientado en la ciudad steampunk de Avalon.",
+            "en": "The inXile entertainment game is set in the steampunk city of Avalon."
+          },
+          "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+        },
+        {
+          "text": {
+            "es": "El autómata volador Prentice acompaña a Morgan a través de realidades ramificadas en el juego.",
+            "en": "The flying automaton Prentice guides Morgan through branching realities in the game."
+          },
+          "source": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/"
+        }
+      ]
     },
     {
       "id": "the-wolf-among-us-2-2027",
@@ -83498,7 +83893,86 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-wolf-among-us-2-2027",
+        "title": "The Wolf Among Us 2",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-07-01",
+        "url": "https://www.telltale.com/news/the-big-bad-wolf-returns",
+        "keywords": [
+          "the",
+          "wolf",
+          "among"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "The Wolf Among Us 2",
+          "es": "The Wolf Among Us 2"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Xbox One, Switch 2, Switch, PC · Lanzamiento"
+        },
+        "shortName": "WolfAmongUs2",
+        "popularity": "C",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La trama de The Wolf Among Us 2 se ambienta solo cinco meses después de la del juego original.",
+            "en": "The Wolf Among Us 2 is set only five months after the events of the original game."
+          },
+          "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La trama de The Wolf Among Us 2 se ambienta solo cinco meses después de la del juego original.",
+              "en": "The Wolf Among Us 2 is set only five months after the events of the original game."
+            },
+            "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+          },
+          {
+            "text": {
+              "es": "La historia del juego se inspira en la serie de cómics FABLES del sello Vertigo de DC Comics.",
+              "en": "The game's story is inspired by the FABLES comic series from DC Comics' Vertigo imprint."
+            },
+            "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La trama de The Wolf Among Us 2 se ambienta solo cinco meses después de la del juego original.",
+          "en": "The Wolf Among Us 2 is set only five months after the events of the original game."
+        },
+        "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La trama de The Wolf Among Us 2 se ambienta solo cinco meses después de la del juego original.",
+            "en": "The Wolf Among Us 2 is set only five months after the events of the original game."
+          },
+          "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+        },
+        {
+          "text": {
+            "es": "La historia del juego se inspira en la serie de cómics FABLES del sello Vertigo de DC Comics.",
+            "en": "The game's story is inspired by the FABLES comic series from DC Comics' Vertigo imprint."
+          },
+          "source": "https://www.telltale.com/news/the-big-bad-wolf-returns"
+        }
+      ]
     },
     {
       "id": "kingdom-hearts-iv-2027",
@@ -83528,7 +84002,85 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "kingdom-hearts-iv-2027",
+        "title": "Kingdom Hearts IV",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2027-11-01",
+        "url": "https://press.na.square-enix.com/KINGDOM-HEARTS-IV-RELEASING-IN-LATE-2027",
+        "keywords": [
+          "kingdom",
+          "hearts"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Kingdom Hearts IV",
+          "es": "Kingdom Hearts IV"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, Switch 2, PC · Launch",
+          "es": "PS5, Xbox Series X|S, Switch 2, PC · Lanzamiento"
+        },
+        "shortName": "KH IV",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El desarrollo del juego comenzó formalmente en enero de 2020.",
+            "en": "Development of the game formally began in January 2020."
+          },
+          "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El desarrollo del juego comenzó formalmente en enero de 2020.",
+              "en": "Development of the game formally began in January 2020."
+            },
+            "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+          },
+          {
+            "text": {
+              "es": "Es la decimoquinta entrega de la serie y dará inicio al arco argumental El Maestro Perdido.",
+              "en": "It will be the 15th entry in the series, starting the Lost Master story arc."
+            },
+            "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El desarrollo del juego comenzó formalmente en enero de 2020.",
+          "en": "Development of the game formally began in January 2020."
+        },
+        "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El desarrollo del juego comenzó formalmente en enero de 2020.",
+            "en": "Development of the game formally began in January 2020."
+          },
+          "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+        },
+        {
+          "text": {
+            "es": "Es la decimoquinta entrega de la serie y dará inicio al arco argumental El Maestro Perdido.",
+            "en": "It will be the 15th entry in the series, starting the Lost Master story arc."
+          },
+          "source": "https://es.wikipedia.org/wiki/Kingdom_Hearts_IV"
+        }
+      ]
     },
     {
       "id": "tomb-raider-catalyst-2028",
@@ -83559,7 +84111,86 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "tomb-raider-catalyst-2028",
+        "title": "Tomb Raider: Catalyst",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2028-02-15",
+        "url": "https://embracer.com/releases/embracer-group-publishes-interim-report-q1-april-june-2026-cash-ebit-amounted-to-sek-47-million/",
+        "keywords": [
+          "tomb",
+          "raider",
+          "catalyst"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "Tomb Raider: Catalyst",
+          "es": "Tomb Raider: Catalyst"
+        },
+        "subtitles": {
+          "en": "PS5, Xbox Series X|S, PC · Launch",
+          "es": "PS5, Xbox Series X|S, PC · Lanzamiento"
+        },
+        "shortName": "TR Catalyst",
+        "popularity": "B",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Alix Wilton Regan fue elegida para interpretar a Lara Croft, sucediendo a Camilla Luddington.",
+            "en": "Alix Wilton Regan was cast as Lara Croft, succeeding Camilla Luddington."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Alix Wilton Regan fue elegida para interpretar a Lara Croft, sucediendo a Camilla Luddington.",
+              "en": "Alix Wilton Regan was cast as Lara Croft, succeeding Camilla Luddington."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+          },
+          {
+            "text": {
+              "es": "La historia de Catalyst transcurre en el norte de la India, años después de Tomb Raider: Underworld.",
+              "en": "Catalyst takes place in Northern India, years after the events of Tomb Raider: Underworld."
+            },
+            "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Alix Wilton Regan fue elegida para interpretar a Lara Croft, sucediendo a Camilla Luddington.",
+          "en": "Alix Wilton Regan was cast as Lara Croft, succeeding Camilla Luddington."
+        },
+        "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Alix Wilton Regan fue elegida para interpretar a Lara Croft, sucediendo a Camilla Luddington.",
+            "en": "Alix Wilton Regan was cast as Lara Croft, succeeding Camilla Luddington."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+        },
+        {
+          "text": {
+            "es": "La historia de Catalyst transcurre en el norte de la India, años después de Tomb Raider: Underworld.",
+            "en": "Catalyst takes place in Northern India, years after the events of Tomb Raider: Underworld."
+          },
+          "source": "https://en.wikipedia.org/wiki/Tomb_Raider:_Catalyst"
+        }
+      ]
     },
     {
       "id": "the-witcher-iv-2028",
@@ -83589,7 +84220,85 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-witcher-iv-2028",
+        "title": "The Witcher IV",
+        "emoji": "🎮",
+        "category": "entertainment",
+        "date": "2028-07-01",
+        "url": "https://www.cdprojekt.com/en/wp-content/uploads-en/2026/09/press-release-h1-2026-earnings.pdf",
+        "keywords": [
+          "the",
+          "witcher"
+        ],
+        "origin": "telegram",
+        "subcategory": "gaming",
+        "titles": {
+          "en": "The Witcher IV",
+          "es": "The Witcher IV"
+        },
+        "subtitles": {
+          "en": "Platforms TBA · Launch",
+          "es": "Plataformas por anunciar · Lanzamiento"
+        },
+        "shortName": "Witcher IV",
+        "popularity": "A",
+        "estimated": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El nombre en clave interno de The Witcher IV durante su desarrollo fue Project Polaris.",
+            "en": "The internal codename for The Witcher IV during its development was Project Polaris."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El nombre en clave interno de The Witcher IV durante su desarrollo fue Project Polaris.",
+              "en": "The internal codename for The Witcher IV during its development was Project Polaris."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+          },
+          {
+            "text": {
+              "es": "El desarrollo completo de The Witcher IV comenzó en noviembre de 2024 tras su fase de preproducción.",
+              "en": "The full production of The Witcher IV began in November 2024 following its pre-production phase."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El nombre en clave interno de The Witcher IV durante su desarrollo fue Project Polaris.",
+          "en": "The internal codename for The Witcher IV during its development was Project Polaris."
+        },
+        "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El nombre en clave interno de The Witcher IV durante su desarrollo fue Project Polaris.",
+            "en": "The internal codename for The Witcher IV during its development was Project Polaris."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+        },
+        {
+          "text": {
+            "es": "El desarrollo completo de The Witcher IV comenzó en noviembre de 2024 tras su fase de preproducción.",
+            "en": "The full production of The Witcher IV began in November 2024 following its pre-production phase."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_Witcher_IV"
+        }
+      ]
     },
     {
       "id": "digger-2026",
@@ -83616,7 +84325,82 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "digger-2026",
+        "title": "Digger",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-10-02",
+        "url": "https://www.diggermovie.com/",
+        "keywords": [
+          "digger"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Digger",
+          "es": "Digger"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Digger",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película fue filmada completamente en el formato VistaVision.",
+            "en": "The film was shot entirely in the VistaVision format."
+          },
+          "source": "https://www.diggermovie.com/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película fue filmada completamente en el formato VistaVision.",
+              "en": "The film was shot entirely in the VistaVision format."
+            },
+            "source": "https://www.diggermovie.com/"
+          },
+          {
+            "text": {
+              "es": "Alejandro G. Iñárritu dirige la película, protagonizada por Tom Cruise.",
+              "en": "Alejandro G. Iñárritu directs the film, starring Tom Cruise."
+            },
+            "source": "https://www.diggermovie.com/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película fue filmada completamente en el formato VistaVision.",
+          "en": "The film was shot entirely in the VistaVision format."
+        },
+        "source": "https://www.diggermovie.com/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película fue filmada completamente en el formato VistaVision.",
+            "en": "The film was shot entirely in the VistaVision format."
+          },
+          "source": "https://www.diggermovie.com/"
+        },
+        {
+          "text": {
+            "es": "Alejandro G. Iñárritu dirige la película, protagonizada por Tom Cruise.",
+            "en": "Alejandro G. Iñárritu directs the film, starring Tom Cruise."
+          },
+          "source": "https://www.diggermovie.com/"
+        }
+      ]
     },
     {
       "id": "street-fighter-2026",
@@ -94746,6 +95530,14 @@
       "version": 117,
       "target": "metro-2039-2027,tomb-raider-legacy-of-atlantis-2027,god-of-war-laufey-2027,persona-4-revival-2027,fable-2027,exodus-2027,final-fantasy-vii-revelation-2027,kirby-and-the-world-beyond-2027,mega-man-dual-override-2027,resident-evil-veronica-2027",
       "at": "2026-09-26T16:21:33.305588+00:00"
+    },
+    "plantel-reponer-datos-3-20260926-1023": {
+      "operationID": "plantel-reponer-datos-3-20260926-1023",
+      "digest": "29763730783729b131799afe15cff6b70c3ec479e058b682003a64dbe4ec7bd5",
+      "status": "applied",
+      "version": 118,
+      "target": "dragon-ball-xenoverse-3-2027,state-of-decay-3-2027,xenoblade-genesis-2027,pokemon-winds-and-waves-2027,clockwork-revolution-2027,the-wolf-among-us-2-2027,kingdom-hearts-iv-2027,tomb-raider-catalyst-2028,the-witcher-iv-2028,digger-2026",
+      "at": "2026-09-26T16:24:12.455353+00:00"
     }
   }
 }
