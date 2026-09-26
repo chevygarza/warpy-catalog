@@ -1,5 +1,5 @@
 {
-  "version": 124,
+  "version": 125,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -81260,7 +81260,7 @@
       "emoji": "🎮",
       "category": "entertainment",
       "date": "2026-10-15",
-      "url": "https://www.konami.com/games/castlevania/belmonts_curse/",
+      "url": "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse",
       "keywords": [
         "castlevania",
         "belmont",
@@ -81278,7 +81278,6 @@
       },
       "shortName": "Castlevania",
       "popularity": "B",
-      "sourceUnreachableSince": "2026-09-25",
       "news": {
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
@@ -81338,7 +81337,8 @@
             },
             "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
           }
-        ]
+        ],
+        "url": "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
       },
       "fact": {
         "text": {
@@ -81362,7 +81362,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
         }
-      ]
+      ],
+      "dateConfirmedAt": "2026-09-26",
+      "dateConfirmed": true
     },
     {
       "id": "nintendo-switch-sports-resort-2026",
@@ -81484,7 +81486,7 @@
       "emoji": "🎮",
       "category": "entertainment",
       "date": "2026-10-23",
-      "url": "https://www.callofduty.com/blog/2026/05/call-of-duty-modern-warfare-4-announcement",
+      "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4",
       "keywords": [
         "call",
         "duty",
@@ -81503,7 +81505,6 @@
       },
       "shortName": "CoD MW4",
       "popularity": "A",
-      "sourceUnreachableSince": "2026-09-25",
       "news": {
         "introducedInVersion": 109,
         "publishedAt": "2026-09-25T20:12:20Z",
@@ -81564,7 +81565,8 @@
             },
             "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
           }
-        ]
+        ],
+        "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
       },
       "fact": {
         "text": {
@@ -81588,7 +81590,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_4"
         }
-      ]
+      ],
+      "dateConfirmedAt": "2026-09-26",
+      "dateConfirmed": true
     },
     {
       "id": "phantom-blade-zero-2026",
@@ -81596,7 +81600,7 @@
       "emoji": "🎮",
       "category": "entertainment",
       "date": "2026-10-29",
-      "url": "https://www.playstation.com/en-us/games/phantom-blade-zero/",
+      "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
       "keywords": [
         "phantom",
         "blade",
@@ -81672,7 +81676,8 @@
             },
             "source": "https://es.wikipedia.org/wiki/Phantom_Blade_Zero"
           }
-        ]
+        ],
+        "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero"
       },
       "fact": {
         "text": {
@@ -97995,6 +98000,14 @@
       "version": 124,
       "target": "call-of-duty-2028,donkey-2028",
       "at": "2026-09-26T17:02:05.206464+00:00"
+    },
+    "plantel-reponer-fechas-9-20260926-1104": {
+      "operationID": "plantel-reponer-fechas-9-20260926-1104",
+      "digest": "1ed515cf29220306708f73bda7ce9bfc8e7854f587abaec2e29bc8711c1f71e3",
+      "status": "applied",
+      "version": 125,
+      "target": "castlevania-belmonts-curse-2026,call-of-duty-modern-warfare-4-2026,phantom-blade-zero-2026",
+      "at": "2026-09-26T17:08:55.700190+00:00"
     }
   }
 }
