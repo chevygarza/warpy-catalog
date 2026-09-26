@@ -1,5 +1,5 @@
 {
-  "version": 130,
+  "version": 131,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -89213,8 +89213,10 @@
         }
       },
       "override": {
-        "url": "https://documentation.ubuntu.com/release-notes/26.10/schedule/"
-      }
+        "url": "https://documentation.ubuntu.com/release-notes/26.10/schedule/",
+        "popularity": "C"
+      },
+      "popularity": "C"
     }
   ],
   "teams": [
@@ -98817,6 +98819,14 @@
       "version": 130,
       "target": "helldivers-2027,lotr-the-hunt-for-gollum-2027,days-of-thunder-2-2028",
       "at": "2026-09-26T17:36:25.377293+00:00"
+    },
+    "plantel-ubuntu-letra-c-20260926-1153": {
+      "operationID": "plantel-ubuntu-letra-c-20260926-1153",
+      "digest": "6f2cafa2b3fef9aa115acc75a24462291f885e2dd03846f5f1409fd9efb78219",
+      "status": "applied",
+      "version": 131,
+      "target": "ubuntu-26-10-2026",
+      "at": "2026-09-26T18:04:28.342139+00:00"
     }
   }
 }
