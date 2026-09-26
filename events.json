@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -85937,7 +85937,90 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "spider-man-beyond-the-spider-verse-2027",
+        "title": "Spider-Man: Beyond the Spider-Verse",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-06-18",
+        "url": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse",
+        "keywords": [
+          "spider",
+          "man",
+          "beyond",
+          "the",
+          "verse",
+          "mas",
+          "alla",
+          "del",
+          "verso"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Spider-Man: Beyond the Spider-Verse",
+          "es": "Spider-Man: Más allá del Spider-Verso"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Spider-Verse",
+        "popularity": "A",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Bob Persichetti y Justin K. Thompson son los directores de la película.",
+            "en": "Bob Persichetti and Justin K. Thompson are the directors of the film."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Bob Persichetti y Justin K. Thompson son los directores de la película.",
+              "en": "Bob Persichetti and Justin K. Thompson are the directors of the film."
+            },
+            "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+          },
+          {
+            "text": {
+              "es": "Phil Lord, Christopher Miller y David Callaham escribieron el guion de la película.",
+              "en": "Phil Lord, Christopher Miller, and David Callaham wrote the screenplay for the film."
+            },
+            "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Bob Persichetti y Justin K. Thompson son los directores de la película.",
+          "en": "Bob Persichetti and Justin K. Thompson are the directors of the film."
+        },
+        "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Bob Persichetti y Justin K. Thompson son los directores de la película.",
+            "en": "Bob Persichetti and Justin K. Thompson are the directors of the film."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+        },
+        {
+          "text": {
+            "es": "Phil Lord, Christopher Miller y David Callaham escribieron el guion de la película.",
+            "en": "Phil Lord, Christopher Miller, and David Callaham wrote the screenplay for the film."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse"
+        }
+      ]
     },
     {
       "id": "shrek-5-2027",
@@ -85964,7 +86047,82 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "shrek-5-2027",
+        "title": "Shrek 5",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-06-30",
+        "url": "https://www.dreamworks.com/shrek",
+        "keywords": [
+          "shrek"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Shrek 5",
+          "es": "Shrek 5"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Shrek 5",
+        "popularity": "A",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Shrek 5 es la quinta entrega principal y la séptima en general de la franquicia de Shrek.",
+            "en": "Shrek 5 is the fifth main installment and the seventh overall in the Shrek movie series."
+          },
+          "source": "https://es.wikipedia.org/wiki/Shrek_5"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Shrek 5 es la quinta entrega principal y la séptima en general de la franquicia de Shrek.",
+              "en": "Shrek 5 is the fifth main installment and the seventh overall in the Shrek movie series."
+            },
+            "source": "https://es.wikipedia.org/wiki/Shrek_5"
+          },
+          {
+            "text": {
+              "es": "En 2007 se anunció que la quinta entrega de Shrek se estrenaría en 2013.",
+              "en": "In 2007, it was announced that the fifth Shrek movie would be released in 2013."
+            },
+            "source": "https://es.wikipedia.org/wiki/Shrek_5"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Shrek 5 es la quinta entrega principal y la séptima en general de la franquicia de Shrek.",
+          "en": "Shrek 5 is the fifth main installment and the seventh overall in the Shrek movie series."
+        },
+        "source": "https://es.wikipedia.org/wiki/Shrek_5"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Shrek 5 es la quinta entrega principal y la séptima en general de la franquicia de Shrek.",
+            "en": "Shrek 5 is the fifth main installment and the seventh overall in the Shrek movie series."
+          },
+          "source": "https://es.wikipedia.org/wiki/Shrek_5"
+        },
+        {
+          "text": {
+            "es": "En 2007 se anunció que la quinta entrega de Shrek se estrenaría en 2013.",
+            "en": "In 2007, it was announced that the fifth Shrek movie would be released in 2013."
+          },
+          "source": "https://es.wikipedia.org/wiki/Shrek_5"
+        }
+      ]
     },
     {
       "id": "man-of-tomorrow-2027",
@@ -85994,7 +86152,85 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "man-of-tomorrow-2027",
+        "title": "Man of Tomorrow",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-07-09",
+        "url": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027",
+        "keywords": [
+          "man",
+          "tomorrow"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Man of Tomorrow",
+          "es": "Man of Tomorrow"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Superman 2",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El anuncio del filme fue acompañado por ilustraciones de Jim Lee, Mitch Gerads y Jorge Jiménez.",
+            "en": "The film's announcement included illustrations by Jim Lee, Mitch Gerads, and Jorge Jiménez."
+          },
+          "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El anuncio del filme fue acompañado por ilustraciones de Jim Lee, Mitch Gerads y Jorge Jiménez.",
+              "en": "The film's announcement included illustrations by Jim Lee, Mitch Gerads, and Jorge Jiménez."
+            },
+            "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+          },
+          {
+            "text": {
+              "es": "Es la secuela de Superman y fue anunciada por James Gunn, David Corenswet y Nicholas Hoult.",
+              "en": "It is the sequel to Superman, announced by James Gunn, David Corenswet, and Nicholas Hoult."
+            },
+            "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El anuncio del filme fue acompañado por ilustraciones de Jim Lee, Mitch Gerads y Jorge Jiménez.",
+          "en": "The film's announcement included illustrations by Jim Lee, Mitch Gerads, and Jorge Jiménez."
+        },
+        "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El anuncio del filme fue acompañado por ilustraciones de Jim Lee, Mitch Gerads y Jorge Jiménez.",
+            "en": "The film's announcement included illustrations by Jim Lee, Mitch Gerads, and Jorge Jiménez."
+          },
+          "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+        },
+        {
+          "text": {
+            "es": "Es la secuela de Superman y fue anunciada por James Gunn, David Corenswet y Nicholas Hoult.",
+            "en": "It is the sequel to Superman, announced by James Gunn, David Corenswet, and Nicholas Hoult."
+          },
+          "source": "https://www.dc.com/blog/2025-09-03/superman-sequel-coming-to-theaters-in-2027"
+        }
+      ]
     },
     {
       "id": "a-minecraft-movie-squared-2027",
@@ -86023,7 +86259,84 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "a-minecraft-movie-squared-2027",
+        "title": "A Minecraft Movie Squared",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-07-23",
+        "url": "https://x.com/Minecraft/status/2060783468909678938",
+        "keywords": [
+          "minecraft",
+          "movie",
+          "squared"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "A Minecraft Movie Squared",
+          "es": "A Minecraft Movie Squared"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Minecraft 2",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Kirsten Dunst se incorporó al elenco de la película para interpretar el personaje de Alex.",
+            "en": "Kirsten Dunst joined the film's cast to portray the character of Alex."
+          },
+          "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Kirsten Dunst se incorporó al elenco de la película para interpretar el personaje de Alex.",
+              "en": "Kirsten Dunst joined the film's cast to portray the character of Alex."
+            },
+            "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+          },
+          {
+            "text": {
+              "es": "Jared Hess dirige la película a partir de un guion coescrito con Chris Galletta.",
+              "en": "Jared Hess directs the film from a screenplay co-written with Chris Galletta."
+            },
+            "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Kirsten Dunst se incorporó al elenco de la película para interpretar el personaje de Alex.",
+          "en": "Kirsten Dunst joined the film's cast to portray the character of Alex."
+        },
+        "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Kirsten Dunst se incorporó al elenco de la película para interpretar el personaje de Alex.",
+            "en": "Kirsten Dunst joined the film's cast to portray the character of Alex."
+          },
+          "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+        },
+        {
+          "text": {
+            "es": "Jared Hess dirige la película a partir de un guion coescrito con Chris Galletta.",
+            "en": "Jared Hess directs the film from a screenplay co-written with Chris Galletta."
+          },
+          "source": "https://es.wikipedia.org/wiki/A_Minecraft_Movie_Squared"
+        }
+      ]
     },
     {
       "id": "a-quiet-place-part-iii-2027",
@@ -86056,7 +86369,88 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "a-quiet-place-part-iii-2027",
+        "title": "A Quiet Place Part III",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-07-30",
+        "url": "https://deadline.com/2025/10/a-quiet-place-part-iii-john-krasinski-1236476483/",
+        "keywords": [
+          "quiet",
+          "place",
+          "part",
+          "iii",
+          "lugar",
+          "silencio",
+          "parte"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "A Quiet Place Part III",
+          "es": "Un Lugar en Silencio Parte III"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Quiet Place",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "El rodaje principal de la película comenzó el 10 de mayo de 2026.",
+            "en": "Principal photography on the film began on May 10, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "El rodaje principal de la película comenzó el 10 de mayo de 2026.",
+              "en": "Principal photography on the film began on May 10, 2026."
+            },
+            "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+          },
+          {
+            "text": {
+              "es": "El filme funciona como la tercera y última entrega de la trilogía iniciada en 2018.",
+              "en": "The film serves as the third and final installment in a trilogy that began in 2018."
+            },
+            "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "El rodaje principal de la película comenzó el 10 de mayo de 2026.",
+          "en": "Principal photography on the film began on May 10, 2026."
+        },
+        "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "El rodaje principal de la película comenzó el 10 de mayo de 2026.",
+            "en": "Principal photography on the film began on May 10, 2026."
+          },
+          "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+        },
+        {
+          "text": {
+            "es": "El filme funciona como la tercera y última entrega de la trilogía iniciada en 2018.",
+            "en": "The film serves as the third and final installment in a trilogy that began in 2018."
+          },
+          "source": "https://en.wikipedia.org/wiki/A_Quiet_Place_Part_III"
+        }
+      ]
     },
     {
       "id": "the-bluey-movie-2027",
@@ -86088,7 +86482,87 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-bluey-movie-2027",
+        "title": "The Bluey Movie",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-08-06",
+        "url": "https://movies.disney.com/the-bluey-movie",
+        "keywords": [
+          "the",
+          "bluey",
+          "movie",
+          "pelicula"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Bluey Movie",
+          "es": "Bluey: La Película"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Bluey",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película está escrita y dirigida por el creador de la serie, Joe Brumm.",
+            "en": "The film is written and directed by series creator Joe Brumm."
+          },
+          "source": "https://movies.disney.com/the-bluey-movie"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película está escrita y dirigida por el creador de la serie, Joe Brumm.",
+              "en": "The film is written and directed by series creator Joe Brumm."
+            },
+            "source": "https://movies.disney.com/the-bluey-movie"
+          },
+          {
+            "text": {
+              "es": "Melanie Zanetti y David McCormack retoman sus voces como Chilli y Bandit.",
+              "en": "Melanie Zanetti and David McCormack return as the voices of Chilli and Bandit."
+            },
+            "source": "https://movies.disney.com/the-bluey-movie"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película está escrita y dirigida por el creador de la serie, Joe Brumm.",
+          "en": "The film is written and directed by series creator Joe Brumm."
+        },
+        "source": "https://movies.disney.com/the-bluey-movie"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película está escrita y dirigida por el creador de la serie, Joe Brumm.",
+            "en": "The film is written and directed by series creator Joe Brumm."
+          },
+          "source": "https://movies.disney.com/the-bluey-movie"
+        },
+        {
+          "text": {
+            "es": "Melanie Zanetti y David McCormack retoman sus voces como Chilli y Bandit.",
+            "en": "Melanie Zanetti and David McCormack return as the voices of Chilli and Bandit."
+          },
+          "source": "https://movies.disney.com/the-bluey-movie"
+        }
+      ]
     },
     {
       "id": "tmnt-mutant-mayhem-2-2027",
@@ -86122,7 +86596,42 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "tmnt-mutant-mayhem-2-2027",
+        "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-08-13",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/teenage-mutant-ninja-turtles-mutant-mayhem-2-moves-up-1236511261/",
+        "keywords": [
+          "teenage",
+          "mutant",
+          "ninja",
+          "turtles",
+          "mayhem",
+          "tortugas",
+          "caos",
+          "mutante"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+          "es": "Tortugas Ninja: Caos Mutante 2"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Turtles 2",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {}
     },
     {
       "id": "the-new-simpsons-movie-2027",
@@ -86156,7 +86665,89 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-new-simpsons-movie-2027",
+        "title": "The New Simpsons Movie",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-09-03",
+        "url": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/",
+        "keywords": [
+          "the",
+          "new",
+          "simpsons",
+          "movie",
+          "los",
+          "simpson",
+          "nueva",
+          "pelicula"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The New Simpsons Movie",
+          "es": "Los Simpson, la nueva película"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Simpsons 2",
+        "popularity": "A",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Dana Walden presentó un adelanto exclusivo de la película junto al personaje Bart Simpson.",
+            "en": "Dana Walden presented a sneak peek of the upcoming film alongside character Bart Simpson."
+          },
+          "source": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Dana Walden presentó un adelanto exclusivo de la película junto al personaje Bart Simpson.",
+              "en": "Dana Walden presented a sneak peek of the upcoming film alongside character Bart Simpson."
+            },
+            "source": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/"
+          },
+          {
+            "text": {
+              "es": "El episodio 'The Man Who Came to Be Dinner' se consideró como base para la secuela del filme.",
+              "en": "The episode 'The Man Who Came to Be Dinner' was considered for adaptation into a film sequel."
+            },
+            "source": "https://es.wikipedia.org/wiki/The_New_Simpsons_Movie"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Dana Walden presentó un adelanto exclusivo de la película junto al personaje Bart Simpson.",
+          "en": "Dana Walden presented a sneak peek of the upcoming film alongside character Bart Simpson."
+        },
+        "source": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Dana Walden presentó un adelanto exclusivo de la película junto al personaje Bart Simpson.",
+            "en": "Dana Walden presented a sneak peek of the upcoming film alongside character Bart Simpson."
+          },
+          "source": "https://thewaltdisneycompany.com/news/d23-2026-disney-entertainment-showcase/"
+        },
+        {
+          "text": {
+            "es": "El episodio 'The Man Who Came to Be Dinner' se consideró como base para la secuela del filme.",
+            "en": "The episode 'The Man Who Came to Be Dinner' was considered for adaptation into a film sequel."
+          },
+          "source": "https://es.wikipedia.org/wiki/The_New_Simpsons_Movie"
+        }
+      ]
     },
     {
       "id": "the-conjuring-first-communion-2027",
@@ -86189,7 +86780,88 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-conjuring-first-communion-2027",
+        "title": "The Conjuring: First Communion",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-09-10",
+        "url": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/",
+        "keywords": [
+          "the",
+          "conjuring",
+          "first",
+          "communion",
+          "conjuro",
+          "primera",
+          "comunion"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Conjuring: First Communion",
+          "es": "El Conjuro: Primera Comunión"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Conjuring",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La precuela cuenta con la dirección de Rodrigue Huart y guion de Richard Naing e Ian Goldberg.",
+            "en": "The prequel is directed by Rodrigue Huart from a script by Richard Naing and Ian Goldberg."
+          },
+          "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La precuela cuenta con la dirección de Rodrigue Huart y guion de Richard Naing e Ian Goldberg.",
+              "en": "The prequel is directed by Rodrigue Huart from a script by Richard Naing and Ian Goldberg."
+            },
+            "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+          },
+          {
+            "text": {
+              "es": "La cinta proviene de las productoras The Peter Safran Company y Atomic Monster.",
+              "en": "The film comes from The Peter Safran Company and Atomic Monster."
+            },
+            "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La precuela cuenta con la dirección de Rodrigue Huart y guion de Richard Naing e Ian Goldberg.",
+          "en": "The prequel is directed by Rodrigue Huart from a script by Richard Naing and Ian Goldberg."
+        },
+        "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La precuela cuenta con la dirección de Rodrigue Huart y guion de Richard Naing e Ian Goldberg.",
+            "en": "The prequel is directed by Rodrigue Huart from a script by Richard Naing and Ian Goldberg."
+          },
+          "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+        },
+        {
+          "text": {
+            "es": "La cinta proviene de las productoras The Peter Safran Company y Atomic Monster.",
+            "en": "The film comes from The Peter Safran Company and Atomic Monster."
+          },
+          "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
+        }
+      ]
     },
     {
       "id": "the-haunting-of-hotel-transylvania-2027",
@@ -86219,7 +86891,85 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-haunting-of-hotel-transylvania-2027",
+        "title": "The Haunting of Hotel Transylvania",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2027-10-08",
+        "url": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania",
+        "keywords": [
+          "the",
+          "haunting",
+          "hotel",
+          "transylvania"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Haunting of Hotel Transylvania",
+          "es": "The Haunting of Hotel Transylvania"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Transylvania",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 111,
+          "publishedAt": "2026-09-25T20:21:55Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Alan Hawkins y Jennifer Kluska dirigen esta entrega de la franquicia.",
+            "en": "Alan Hawkins and Jennifer Kluska are directing this installment of the franchise."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Alan Hawkins y Jennifer Kluska dirigen esta entrega de la franquicia.",
+              "en": "Alan Hawkins and Jennifer Kluska are directing this installment of the franchise."
+            },
+            "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+          },
+          {
+            "text": {
+              "es": "Lawrence Jonas produce esta entrega de la franquicia animada.",
+              "en": "Lawrence Jonas serves as the producer for this animated installment."
+            },
+            "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Alan Hawkins y Jennifer Kluska dirigen esta entrega de la franquicia.",
+          "en": "Alan Hawkins and Jennifer Kluska are directing this installment of the franchise."
+        },
+        "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Alan Hawkins y Jennifer Kluska dirigen esta entrega de la franquicia.",
+            "en": "Alan Hawkins and Jennifer Kluska are directing this installment of the franchise."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+        },
+        {
+          "text": {
+            "es": "Lawrence Jonas produce esta entrega de la franquicia animada.",
+            "en": "Lawrence Jonas serves as the producer for this animated installment."
+          },
+          "source": "https://www.sonypicturesanimation.com/projects/films/haunting-hotel-transylvania"
+        }
+      ]
     },
     {
       "id": "the-mummy-4-2027",
@@ -96424,6 +97174,14 @@
       "version": 120,
       "target": "ubuntu-26-10-2026",
       "at": "2026-09-26T16:38:55.992119+00:00"
+    },
+    "plantel-reponer-datos-6-20260926-1048": {
+      "operationID": "plantel-reponer-datos-6-20260926-1048",
+      "digest": "136c3b47847597e030e5c566ca711e857c65e3074505eb1d61efe2194f3b6ac1",
+      "status": "applied",
+      "version": 122,
+      "target": "spider-man-beyond-the-spider-verse-2027,shrek-5-2027,man-of-tomorrow-2027,a-minecraft-movie-squared-2027,a-quiet-place-part-iii-2027,the-bluey-movie-2027,tmnt-mutant-mayhem-2-2027,the-new-simpsons-movie-2027,the-conjuring-first-communion-2027,the-haunting-of-hotel-transylvania-2027",
+      "at": "2026-09-26T16:55:35.355488+00:00"
     }
   }
 }
