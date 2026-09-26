@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 119,
   "updatedAt": "2026-09-26",
   "events": [
     {
@@ -84428,7 +84428,83 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "street-fighter-2026",
+        "title": "Street Fighter",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-10-16",
+        "url": "https://www.paramountpictures.com/movies/street-fighter",
+        "keywords": [
+          "street",
+          "fighter"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Street Fighter",
+          "es": "Street Fighter"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "S. Fighter",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película está dirigida por Kitao Sakurai y ambientada en el año 1993.",
+            "en": "The movie is directed by Kitao Sakurai and set in 1993."
+          },
+          "source": "https://www.paramountpictures.com/movies/street-fighter"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película está dirigida por Kitao Sakurai y ambientada en el año 1993.",
+              "en": "The movie is directed by Kitao Sakurai and set in 1993."
+            },
+            "source": "https://www.paramountpictures.com/movies/street-fighter"
+          },
+          {
+            "text": {
+              "es": "Noah Centineo interpreta a Ken Masters y Andrew Koji a Ryu en la película.",
+              "en": "Noah Centineo plays Ken Masters and Andrew Koji plays Ryu in the film."
+            },
+            "source": "https://www.paramountpictures.com/movies/street-fighter"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película está dirigida por Kitao Sakurai y ambientada en el año 1993.",
+          "en": "The movie is directed by Kitao Sakurai and set in 1993."
+        },
+        "source": "https://www.paramountpictures.com/movies/street-fighter"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película está dirigida por Kitao Sakurai y ambientada en el año 1993.",
+            "en": "The movie is directed by Kitao Sakurai and set in 1993."
+          },
+          "source": "https://www.paramountpictures.com/movies/street-fighter"
+        },
+        {
+          "text": {
+            "es": "Noah Centineo interpreta a Ken Masters y Andrew Koji a Ryu en la película.",
+            "en": "Noah Centineo plays Ken Masters and Andrew Koji plays Ryu in the film."
+          },
+          "source": "https://www.paramountpictures.com/movies/street-fighter"
+        }
+      ]
     },
     {
       "id": "clayface-2026",
@@ -84455,7 +84531,82 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "clayface-2026",
+        "title": "Clayface",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-10-23",
+        "url": "https://www.clayfacemovie.com/",
+        "keywords": [
+          "clayface"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Clayface",
+          "es": "Clayface"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Clayface",
+        "popularity": "C",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Mike Flanagan y Hossein Amini escribieron el guion de la película.",
+            "en": "Mike Flanagan and Hossein Amini wrote the film's screenplay."
+          },
+          "source": "https://www.clayfacemovie.com/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Mike Flanagan y Hossein Amini escribieron el guion de la película.",
+              "en": "Mike Flanagan and Hossein Amini wrote the film's screenplay."
+            },
+            "source": "https://www.clayfacemovie.com/"
+          },
+          {
+            "text": {
+              "es": "Tom Rhys Harries interpreta el papel protagonista en la película.",
+              "en": "Tom Rhys Harries stars in the title role of the movie."
+            },
+            "source": "https://www.clayfacemovie.com/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Mike Flanagan y Hossein Amini escribieron el guion de la película.",
+          "en": "Mike Flanagan and Hossein Amini wrote the film's screenplay."
+        },
+        "source": "https://www.clayfacemovie.com/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Mike Flanagan y Hossein Amini escribieron el guion de la película.",
+            "en": "Mike Flanagan and Hossein Amini wrote the film's screenplay."
+          },
+          "source": "https://www.clayfacemovie.com/"
+        },
+        {
+          "text": {
+            "es": "Tom Rhys Harries interpreta el papel protagonista en la película.",
+            "en": "Tom Rhys Harries stars in the title role of the movie."
+          },
+          "source": "https://www.clayfacemovie.com/"
+        }
+      ]
     },
     {
       "id": "the-cat-in-the-hat-2026",
@@ -84487,7 +84638,87 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "the-cat-in-the-hat-2026",
+        "title": "The Cat in the Hat",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-11-06",
+        "url": "https://www.catinthehatfilm.com/",
+        "keywords": [
+          "the",
+          "cat",
+          "hat",
+          "gato",
+          "con",
+          "sombrero"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Cat in the Hat",
+          "es": "El Gato con Sombrero"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Cat in Hat",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Bill Hader da voz al personaje principal en esta película animada.",
+            "en": "Bill Hader voices the titular character in this animated film."
+          },
+          "source": "https://www.catinthehatfilm.com/"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Bill Hader da voz al personaje principal en esta película animada.",
+              "en": "Bill Hader voices the titular character in this animated film."
+            },
+            "source": "https://www.catinthehatfilm.com/"
+          },
+          {
+            "text": {
+              "es": "Es el primer largometraje de Warner Bros. Pictures Animation.",
+              "en": "It is the first full-length feature film from Warner Bros. Pictures Animation."
+            },
+            "source": "https://www.catinthehatfilm.com/"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Bill Hader da voz al personaje principal en esta película animada.",
+          "en": "Bill Hader voices the titular character in this animated film."
+        },
+        "source": "https://www.catinthehatfilm.com/"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Bill Hader da voz al personaje principal en esta película animada.",
+            "en": "Bill Hader voices the titular character in this animated film."
+          },
+          "source": "https://www.catinthehatfilm.com/"
+        },
+        {
+          "text": {
+            "es": "Es el primer largometraje de Warner Bros. Pictures Animation.",
+            "en": "It is the first full-length feature film from Warner Bros. Pictures Animation."
+          },
+          "source": "https://www.catinthehatfilm.com/"
+        }
+      ]
     },
     {
       "id": "hunger-games-sunrise-on-the-reaping-2026",
@@ -84524,7 +84755,92 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "hunger-games-sunrise-on-the-reaping-2026",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-11-20",
+        "url": "https://www.lionsgatepublicity.com/theatrical/hunger-games-sunrise-on-the-reaping",
+        "keywords": [
+          "the",
+          "hunger",
+          "games",
+          "sunrise",
+          "reaping",
+          "los",
+          "juegos",
+          "del",
+          "hambre",
+          "amanecer",
+          "cosecha"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Hunger Games: Sunrise on the Reaping",
+          "es": "Los Juegos del Hambre: Amanecer en la Cosecha"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Hunger Games",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La trama del filme transcurre 24 años antes de la primera película de la saga.",
+            "en": "The film takes place 24 years before the events of the first movie."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La trama del filme transcurre 24 años antes de la primera película de la saga.",
+              "en": "The film takes place 24 years before the events of the first movie."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+          },
+          {
+            "text": {
+              "es": "El filme contó con un presupuesto de entre 170 y 200 millones de dólares.",
+              "en": "The film had an estimated budget of $170–200 million."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La trama del filme transcurre 24 años antes de la primera película de la saga.",
+          "en": "The film takes place 24 years before the events of the first movie."
+        },
+        "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La trama del filme transcurre 24 años antes de la primera película de la saga.",
+            "en": "The film takes place 24 years before the events of the first movie."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+        },
+        {
+          "text": {
+            "es": "El filme contó con un presupuesto de entre 170 y 200 millones de dólares.",
+            "en": "The film had an estimated budget of $170–200 million."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping"
+        }
+      ]
     },
     {
       "id": "focker-in-law-2026",
@@ -84553,7 +84869,84 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "focker-in-law-2026",
+        "title": "Focker-In-Law",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-11-25",
+        "url": "https://www.universalpictures.com/movies/focker-in-law",
+        "keywords": [
+          "focker",
+          "law",
+          "nueva"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Focker-In-Law",
+          "es": "La nueva Focker"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Fockers",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Ariana Grande se sumó al reparto de la película en el papel de Olivia Jones.",
+            "en": "Ariana Grande joined the film's cast in the role of Olivia Jones."
+          },
+          "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Ariana Grande se sumó al reparto de la película en el papel de Olivia Jones.",
+              "en": "Ariana Grande joined the film's cast in the role of Olivia Jones."
+            },
+            "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+          },
+          {
+            "text": {
+              "es": "La película es la cuarta entrega de la saga de los Focker y la secuela de Little Fockers de 2010.",
+              "en": "The film is the fourth installment in the Focker series and the sequel to 2010's Little Fockers."
+            },
+            "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Ariana Grande se sumó al reparto de la película en el papel de Olivia Jones.",
+          "en": "Ariana Grande joined the film's cast in the role of Olivia Jones."
+        },
+        "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Ariana Grande se sumó al reparto de la película en el papel de Olivia Jones.",
+            "en": "Ariana Grande joined the film's cast in the role of Olivia Jones."
+          },
+          "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+        },
+        {
+          "text": {
+            "es": "La película es la cuarta entrega de la saga de los Focker y la secuela de Little Fockers de 2010.",
+            "en": "The film is the fourth installment in the Focker series and the sequel to 2010's Little Fockers."
+          },
+          "source": "https://es.wikipedia.org/wiki/Focker_In-Law"
+        }
+      ]
     },
     {
       "id": "hexed-2026",
@@ -84585,7 +84978,87 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "hexed-2026",
+        "title": "Hexed",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-11-25",
+        "url": "https://movies.disney.com/hexed",
+        "keywords": [
+          "hexed",
+          "hechizo",
+          "bienvenidos",
+          "hexe"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Hexed",
+          "es": "Hechizo: Bienvenidos a Hexe"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Hexed",
+        "popularity": "B",
+        "dateConfirmedAt": "2026-09-25",
+        "dateConfirmed": true,
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Tracey Ullman da voz a la pluma encantada Ms. Quill en Hexed.",
+            "en": "Tracey Ullman voices the enchanted feather quill pen Ms. Quill in Hexed."
+          },
+          "source": "https://movies.disney.com/hexed"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Tracey Ullman da voz a la pluma encantada Ms. Quill en Hexed.",
+              "en": "Tracey Ullman voices the enchanted feather quill pen Ms. Quill in Hexed."
+            },
+            "source": "https://movies.disney.com/hexed"
+          },
+          {
+            "text": {
+              "es": "Stephen Fry da voz al diario mágico Elias Quire en Hexed.",
+              "en": "Stephen Fry voices the magical journal Elias Quire in Hexed."
+            },
+            "source": "https://movies.disney.com/hexed"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Tracey Ullman da voz a la pluma encantada Ms. Quill en Hexed.",
+          "en": "Tracey Ullman voices the enchanted feather quill pen Ms. Quill in Hexed."
+        },
+        "source": "https://movies.disney.com/hexed"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Tracey Ullman da voz a la pluma encantada Ms. Quill en Hexed.",
+            "en": "Tracey Ullman voices the enchanted feather quill pen Ms. Quill in Hexed."
+          },
+          "source": "https://movies.disney.com/hexed"
+        },
+        {
+          "text": {
+            "es": "Stephen Fry da voz al diario mágico Elias Quire en Hexed.",
+            "en": "Stephen Fry voices the magical journal Elias Quire in Hexed."
+          },
+          "source": "https://movies.disney.com/hexed"
+        }
+      ]
     },
     {
       "id": "dune-part-three-2026",
@@ -84617,7 +85090,87 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "dune-part-three-2026",
+        "title": "Dune: Part Three",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-12-18",
+        "url": "https://www.dunemovie.com/",
+        "keywords": [
+          "dune",
+          "part",
+          "three",
+          "duna",
+          "parte",
+          "tres"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Dune: Part Three",
+          "es": "Duna: Parte Tres"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Dune 3",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La película está basada en la novela Dune Messiah publicada por Frank Herbert en 1969.",
+            "en": "The film is based on Frank Herbert's 1969 novel Dune Messiah."
+          },
+          "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La película está basada en la novela Dune Messiah publicada por Frank Herbert en 1969.",
+              "en": "The film is based on Frank Herbert's 1969 novel Dune Messiah."
+            },
+            "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+          },
+          {
+            "text": {
+              "es": "El actor Robert Pattinson se sumó al elenco de la saga para interpretar al personaje de Scytale.",
+              "en": "Actor Robert Pattinson joined the saga's cast to portray the character Scytale."
+            },
+            "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La película está basada en la novela Dune Messiah publicada por Frank Herbert en 1969.",
+          "en": "The film is based on Frank Herbert's 1969 novel Dune Messiah."
+        },
+        "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La película está basada en la novela Dune Messiah publicada por Frank Herbert en 1969.",
+            "en": "The film is based on Frank Herbert's 1969 novel Dune Messiah."
+          },
+          "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+        },
+        {
+          "text": {
+            "es": "El actor Robert Pattinson se sumó al elenco de la saga para interpretar al personaje de Scytale.",
+            "en": "Actor Robert Pattinson joined the saga's cast to portray the character Scytale."
+          },
+          "source": "https://es.wikipedia.org/wiki/Dune:_Part_Three"
+        }
+      ]
     },
     {
       "id": "angry-birds-movie-3-2026",
@@ -84647,7 +85200,85 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "angry-birds-movie-3-2026",
+        "title": "The Angry Birds Movie 3",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-12-23",
+        "url": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3",
+        "keywords": [
+          "the",
+          "angry",
+          "birds",
+          "movie"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Angry Birds Movie 3",
+          "es": "Angry Birds 3"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Angry Birds",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "En esta entrega, un pájaro enojado enfrentará el desafío de sobrevivir a la paternidad.",
+            "en": "In this installment, one angry bird will face the challenge of surviving fatherhood."
+          },
+          "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "En esta entrega, un pájaro enojado enfrentará el desafío de sobrevivir a la paternidad.",
+              "en": "In this installment, one angry bird will face the challenge of surviving fatherhood."
+            },
+            "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+          },
+          {
+            "text": {
+              "es": "El filme combina el reto de la paternidad con la misión de salvar el mundo.",
+              "en": "The film combines the challenge of fatherhood with saving the world."
+            },
+            "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "En esta entrega, un pájaro enojado enfrentará el desafío de sobrevivir a la paternidad.",
+          "en": "In this installment, one angry bird will face the challenge of surviving fatherhood."
+        },
+        "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "En esta entrega, un pájaro enojado enfrentará el desafío de sobrevivir a la paternidad.",
+            "en": "In this installment, one angry bird will face the challenge of surviving fatherhood."
+          },
+          "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+        },
+        {
+          "text": {
+            "es": "El filme combina el reto de la paternidad con la misión de salvar el mundo.",
+            "en": "The film combines the challenge of fatherhood with saving the world."
+          },
+          "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
+        }
+      ]
     },
     {
       "id": "further-mis-adventures-of-cliff-booth-2026",
@@ -84682,7 +85313,90 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "further-mis-adventures-of-cliff-booth-2026",
+        "title": "The Further Mis-Adventures of Cliff Booth",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-12-23",
+        "url": "https://www.netflix.com/tudum/articles/david-fincher-new-film-release-date",
+        "keywords": [
+          "the",
+          "further",
+          "mis",
+          "adventures",
+          "cliff",
+          "booth",
+          "las",
+          "nuevas",
+          "desventuras"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "The Further Mis-Adventures of Cliff Booth",
+          "es": "Las nuevas desventuras de Cliff Booth"
+        },
+        "subtitles": {
+          "en": "On Netflix",
+          "es": "Estreno en Netflix"
+        },
+        "shortName": "Cliff Booth",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "La trama de la película se ambienta en la ciudad de Los Ángeles en 1977.",
+            "en": "The film's plot is set in 1977 Los Angeles."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "La trama de la película se ambienta en la ciudad de Los Ángeles en 1977.",
+              "en": "The film's plot is set in 1977 Los Angeles."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+          },
+          {
+            "text": {
+              "es": "Con un presupuesto de 200 millones de dólares, es la película más cara de Tarantino y Fincher.",
+              "en": "With a budget of $200 million, it would be Tarantino and Fincher's most expensive film."
+            },
+            "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "La trama de la película se ambienta en la ciudad de Los Ángeles en 1977.",
+          "en": "The film's plot is set in 1977 Los Angeles."
+        },
+        "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "La trama de la película se ambienta en la ciudad de Los Ángeles en 1977.",
+            "en": "The film's plot is set in 1977 Los Angeles."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+        },
+        {
+          "text": {
+            "es": "Con un presupuesto de 200 millones de dólares, es la película más cara de Tarantino y Fincher.",
+            "en": "With a budget of $200 million, it would be Tarantino and Fincher's most expensive film."
+          },
+          "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
+        }
+      ]
     },
     {
       "id": "jumanji-open-world-2026",
@@ -84713,7 +85427,86 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceSnapshot": {
+        "id": "jumanji-open-world-2026",
+        "title": "Jumanji: Open World",
+        "emoji": "🎬",
+        "category": "entertainment",
+        "date": "2026-12-25",
+        "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+        "keywords": [
+          "jumanji",
+          "open",
+          "world",
+          "mundo",
+          "real"
+        ],
+        "origin": "telegram",
+        "titles": {
+          "en": "Jumanji: Open World",
+          "es": "Jumanji: En el Mundo Real"
+        },
+        "subtitles": {
+          "en": "In theaters",
+          "es": "Estreno en cines"
+        },
+        "shortName": "Jumanji",
+        "popularity": "B",
+        "news": {
+          "introducedInVersion": 110,
+          "publishedAt": "2026-09-25T20:18:24Z",
+          "eligible": true
+        }
+      },
+      "override": {
+        "fact": {
+          "text": {
+            "es": "Esta película es la cuarta y última entrega de la franquicia Jumanji.",
+            "en": "This film is the fourth and final installment in the Jumanji franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+        },
+        "facts": [
+          {
+            "text": {
+              "es": "Esta película es la cuarta y última entrega de la franquicia Jumanji.",
+              "en": "This film is the fourth and final installment in the Jumanji franchise."
+            },
+            "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+          },
+          {
+            "text": {
+              "es": "Jake Kasdan dirige esta entrega y coescribió su guion junto con Jeff Pinkner y Scott Rosenberg.",
+              "en": "Jake Kasdan directs this film and co-wrote its screenplay with Jeff Pinkner and Scott Rosenberg."
+            },
+            "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+          }
+        ]
+      },
+      "fact": {
+        "text": {
+          "es": "Esta película es la cuarta y última entrega de la franquicia Jumanji.",
+          "en": "This film is the fourth and final installment in the Jumanji franchise."
+        },
+        "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+      },
+      "facts": [
+        {
+          "text": {
+            "es": "Esta película es la cuarta y última entrega de la franquicia Jumanji.",
+            "en": "This film is the fourth and final installment in the Jumanji franchise."
+          },
+          "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+        },
+        {
+          "text": {
+            "es": "Jake Kasdan dirige esta entrega y coescribió su guion junto con Jeff Pinkner y Scott Rosenberg.",
+            "en": "Jake Kasdan directs this film and co-wrote its screenplay with Jeff Pinkner and Scott Rosenberg."
+          },
+          "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
+        }
+      ]
     },
     {
       "id": "ice-age-boiling-point-2027",
@@ -95538,6 +96331,14 @@
       "version": 118,
       "target": "dragon-ball-xenoverse-3-2027,state-of-decay-3-2027,xenoblade-genesis-2027,pokemon-winds-and-waves-2027,clockwork-revolution-2027,the-wolf-among-us-2-2027,kingdom-hearts-iv-2027,tomb-raider-catalyst-2028,the-witcher-iv-2028,digger-2026",
       "at": "2026-09-26T16:24:12.455353+00:00"
+    },
+    "plantel-reponer-datos-4-20260926-1026": {
+      "operationID": "plantel-reponer-datos-4-20260926-1026",
+      "digest": "5ab8cde87b0fd4347050cf6f2f052c39809a6f9917a4fd307f2a2b9b0d38ebc2",
+      "status": "applied",
+      "version": 119,
+      "target": "street-fighter-2026,clayface-2026,the-cat-in-the-hat-2026,hunger-games-sunrise-on-the-reaping-2026,focker-in-law-2026,hexed-2026,dune-part-three-2026,angry-birds-movie-3-2026,further-mis-adventures-of-cliff-booth-2026,jumanji-open-world-2026",
+      "at": "2026-09-26T16:31:26.816549+00:00"
     }
   }
 }
