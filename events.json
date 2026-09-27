@@ -1,5 +1,5 @@
 {
-  "version": 132,
+  "version": 133,
   "updatedAt": "2026-09-27",
   "events": [
     {
@@ -9121,6 +9121,23 @@
           ]
         },
         {
+          "id": "mlb-823408",
+          "competition": "mlb",
+          "title": "Philadelphia Phillies vs Tampa Bay Rays",
+          "teams": [
+            "Philadelphia Phillies",
+            "Tampa Bay Rays"
+          ],
+          "venue": "Citizens Bank Park",
+          "date": "2026-09-27",
+          "time": "14:30",
+          "timeZone": "America/New_York",
+          "teamIDs": [
+            "mlb:baseball:143",
+            "mlb:baseball:139"
+          ]
+        },
+        {
           "id": "mlb-824705",
           "competition": "mlb",
           "title": "Boston Red Sox vs Chicago Cubs",
@@ -9169,23 +9186,6 @@
           "teamIDs": [
             "mlb:baseball:137",
             "mlb:baseball:119"
-          ]
-        },
-        {
-          "id": "mlb-823408",
-          "competition": "mlb",
-          "title": "Philadelphia Phillies vs Tampa Bay Rays",
-          "teams": [
-            "Philadelphia Phillies",
-            "Tampa Bay Rays"
-          ],
-          "venue": "Citizens Bank Park",
-          "date": "2026-09-27",
-          "time": "15:05",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:143",
-            "mlb:baseball:139"
           ]
         },
         {
@@ -9342,6 +9342,32 @@
           ]
         },
         {
+          "id": "mlb-849845",
+          "competition": "mlb",
+          "title": "Atlanta Braves vs PHI/ARI",
+          "teams": [
+            "Atlanta Braves",
+            "PHI/ARI"
+          ],
+          "venue": "Truist Park",
+          "date": "2026-09-29",
+          "time": "14:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "mlb-849849",
+          "competition": "mlb",
+          "title": "HOU/TEX vs Chicago White Sox",
+          "teams": [
+            "HOU/TEX",
+            "Chicago White Sox"
+          ],
+          "venue": "AL Stadium",
+          "date": "2026-09-29",
+          "time": "17:00",
+          "timeZone": "America/New_York"
+        },
+        {
           "id": "mlb-849851",
           "competition": "mlb",
           "title": "New York Yankees vs Boston Red Sox",
@@ -9360,46 +9386,47 @@
           "estimated": true
         },
         {
-          "id": "mlb-849845",
-          "competition": "mlb",
-          "title": "Atlanta Braves vs NL Wild Card #3",
-          "teams": [
-            "Atlanta Braves",
-            "NL Wild Card #3"
-          ],
-          "venue": "Truist Park",
-          "date": "2026-09-29",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
-        },
-        {
           "id": "mlb-849843",
           "competition": "mlb",
-          "title": "NL Wild Card #1 vs NL Wild Card #2",
+          "title": "San Diego Padres vs Chicago Cubs",
           "teams": [
-            "NL Wild Card #1",
-            "NL Wild Card #2"
+            "San Diego Padres",
+            "Chicago Cubs"
           ],
-          "venue": "NL Stadium",
+          "venue": "Petco Park",
           "date": "2026-09-29",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          "time": "19:00",
+          "timeZone": "America/Los_Angeles",
+          "teamIDs": [
+            "mlb:baseball:135",
+            "mlb:baseball:112"
+          ]
         },
         {
-          "id": "mlb-849849",
+          "id": "mlb-849841",
           "competition": "mlb",
-          "title": "HOU/TEX vs CWS/CLE",
+          "title": "Atlanta Braves vs PHI/ARI",
+          "teams": [
+            "Atlanta Braves",
+            "PHI/ARI"
+          ],
+          "venue": "Truist Park",
+          "date": "2026-09-30",
+          "time": "14:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "mlb-849846",
+          "competition": "mlb",
+          "title": "HOU/TEX vs Chicago White Sox",
           "teams": [
             "HOU/TEX",
-            "CWS/CLE"
+            "Chicago White Sox"
           ],
           "venue": "AL Stadium",
-          "date": "2026-09-29",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          "date": "2026-09-30",
+          "time": "17:00",
+          "timeZone": "America/New_York"
         },
         {
           "id": "mlb-849848",
@@ -9420,46 +9447,47 @@
           "estimated": true
         },
         {
-          "id": "mlb-849841",
-          "competition": "mlb",
-          "title": "Atlanta Braves vs NL Wild Card #3",
-          "teams": [
-            "Atlanta Braves",
-            "NL Wild Card #3"
-          ],
-          "venue": "Truist Park",
-          "date": "2026-09-30",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
-        },
-        {
           "id": "mlb-849842",
           "competition": "mlb",
-          "title": "NL Wild Card #1 vs NL Wild Card #2",
+          "title": "San Diego Padres vs Chicago Cubs",
           "teams": [
-            "NL Wild Card #1",
-            "NL Wild Card #2"
+            "San Diego Padres",
+            "Chicago Cubs"
           ],
-          "venue": "NL Stadium",
+          "venue": "Petco Park",
           "date": "2026-09-30",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          "time": "19:00",
+          "timeZone": "America/Los_Angeles",
+          "teamIDs": [
+            "mlb:baseball:135",
+            "mlb:baseball:112"
+          ]
         },
         {
-          "id": "mlb-849846",
+          "id": "mlb-849844",
           "competition": "mlb",
-          "title": "HOU/TEX vs CWS/CLE",
+          "title": "Atlanta Braves vs PHI/ARI",
+          "teams": [
+            "Atlanta Braves",
+            "PHI/ARI"
+          ],
+          "venue": "Truist Park",
+          "date": "2026-10-01",
+          "time": "14:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "mlb-849850",
+          "competition": "mlb",
+          "title": "HOU/TEX vs Chicago White Sox",
           "teams": [
             "HOU/TEX",
-            "CWS/CLE"
+            "Chicago White Sox"
           ],
           "venue": "AL Stadium",
-          "date": "2026-09-30",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          "date": "2026-10-01",
+          "time": "17:00",
+          "timeZone": "America/New_York"
         },
         {
           "id": "mlb-849847",
@@ -9471,55 +9499,50 @@
           ],
           "venue": "Yankee Stadium",
           "date": "2026-10-01",
-          "time": "03:33",
+          "time": "20:00",
           "timeZone": "America/New_York",
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:111"
-          ],
-          "estimated": true
-        },
-        {
-          "id": "mlb-849844",
-          "competition": "mlb",
-          "title": "Atlanta Braves vs NL Wild Card #3",
-          "teams": [
-            "Atlanta Braves",
-            "NL Wild Card #3"
-          ],
-          "venue": "Truist Park",
-          "date": "2026-10-01",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          ]
         },
         {
           "id": "mlb-849840",
           "competition": "mlb",
-          "title": "NL Wild Card #1 vs NL Wild Card #2",
+          "title": "San Diego Padres vs Chicago Cubs",
           "teams": [
-            "NL Wild Card #1",
-            "NL Wild Card #2"
+            "San Diego Padres",
+            "Chicago Cubs"
           ],
-          "venue": "NL Stadium",
+          "venue": "Petco Park",
           "date": "2026-10-01",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true
+          "time": "19:00",
+          "timeZone": "America/Los_Angeles",
+          "teamIDs": [
+            "mlb:baseball:135",
+            "mlb:baseball:112"
+          ]
         },
         {
-          "id": "mlb-849850",
+          "id": "mlb-849829",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
           "competition": "mlb",
-          "title": "HOU/TEX vs CWS/CLE",
-          "teams": [
-            "HOU/TEX",
-            "CWS/CLE"
-          ],
-          "venue": "AL Stadium",
-          "date": "2026-10-01",
+          "date": "2026-10-03",
           "time": "03:33",
           "timeZone": "America/New_York",
-          "estimated": true
+          "estimated": true,
+          "pending": true,
+          "venue": "Progressive Field"
         },
         {
           "id": "mlb-849835",
@@ -9541,27 +9564,6 @@
           "estimated": true,
           "pending": true,
           "venue": "Tropicana Field"
-        },
-        {
-          "id": "mlb-849829",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-03",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "AL Stadium"
         },
         {
           "id": "mlb-849830",
@@ -9648,6 +9650,27 @@
           "venue": "UNIQLO Field at Dodger Stadium"
         },
         {
+          "id": "mlb-849834",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-05",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true,
+          "pending": true,
+          "venue": "Progressive Field"
+        },
+        {
           "id": "mlb-849839",
           "title": "Quarterfinals",
           "titles": {
@@ -9667,27 +9690,6 @@
           "estimated": true,
           "pending": true,
           "venue": "Tropicana Field"
-        },
-        {
-          "id": "mlb-849834",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-05",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "AL Stadium"
         },
         {
           "id": "mlb-849819",
@@ -9730,6 +9732,27 @@
           "estimated": true,
           "pending": true,
           "venue": "NL Stadium"
+        },
+        {
+          "id": "mlb-849833",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-07",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true,
+          "pending": true,
+          "venue": "AL Stadium"
         },
         {
           "id": "mlb-849838",
@@ -9795,28 +9818,7 @@
           "venue": "NL Stadium"
         },
         {
-          "id": "mlb-849833",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-07",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "AL Stadium"
-        },
-        {
-          "id": "mlb-849837",
+          "id": "mlb-849832",
           "title": "Quarterfinals",
           "titles": {
             "en": "Quarterfinals",
@@ -9837,7 +9839,7 @@
           "venue": "AL Stadium"
         },
         {
-          "id": "mlb-849832",
+          "id": "mlb-849837",
           "title": "Quarterfinals",
           "titles": {
             "en": "Quarterfinals",
@@ -9900,6 +9902,27 @@
           "venue": "UNIQLO Field at Dodger Stadium"
         },
         {
+          "id": "mlb-849831",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "mlb",
+          "date": "2026-10-10",
+          "time": "03:33",
+          "timeZone": "America/New_York",
+          "estimated": true,
+          "pending": true,
+          "venue": "Progressive Field"
+        },
+        {
           "id": "mlb-849836",
           "title": "Quarterfinals",
           "titles": {
@@ -9919,27 +9942,6 @@
           "estimated": true,
           "pending": true,
           "venue": "Tropicana Field"
-        },
-        {
-          "id": "mlb-849831",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "mlb",
-          "date": "2026-10-10",
-          "time": "03:33",
-          "timeZone": "America/New_York",
-          "estimated": true,
-          "pending": true,
-          "venue": "AL Stadium"
         },
         {
           "id": "mlb-849809",
@@ -52696,25 +52698,6 @@
           "timeZone": "America/New_York"
         },
         {
-          "id": "mls-761833",
-          "title": "Red Bull New York vs St. Louis CITY SC",
-          "teams": [
-            "Red Bull New York",
-            "St. Louis CITY SC"
-          ],
-          "teamIDs": [
-            "espn:soccer:190",
-            "espn:soccer:21812"
-          ],
-          "competition": "mls",
-          "venue": "Red Bull Arena, Harrison, New Jersey",
-          "date": "2026-09-26",
-          "time": "19:30",
-          "timeZone": "America/New_York",
-          "status": "cancelled",
-          "sourceStatus": "postponed"
-        },
-        {
           "id": "mls-761834",
           "title": "Philadelphia Union vs Orlando City SC",
           "teams": [
@@ -52882,6 +52865,23 @@
           "venue": "ScottsMiracle-Gro Field, Columbus, Ohio",
           "date": "2026-09-27",
           "time": "19:00",
+          "timeZone": "America/New_York"
+        },
+        {
+          "id": "mls-761833",
+          "title": "Red Bull New York vs St. Louis CITY SC",
+          "teams": [
+            "Red Bull New York",
+            "St. Louis CITY SC"
+          ],
+          "teamIDs": [
+            "espn:soccer:190",
+            "espn:soccer:21812"
+          ],
+          "competition": "mls",
+          "venue": "Red Bull Arena, Harrison, New Jersey",
+          "date": "2026-09-30",
+          "time": "19:30",
           "timeZone": "America/New_York"
         },
         {
@@ -55044,6 +55044,23 @@
           "timeZone": "Europe/Madrid"
         },
         {
+          "id": "copa-del-rey-401918758",
+          "title": "Atlético Unión Güímar vs Sporting Hortaleza",
+          "teams": [
+            "Atlético Unión Güímar",
+            "Sporting Hortaleza"
+          ],
+          "teamIDs": [
+            "espn:soccer:133833",
+            "espn:soccer:133831"
+          ],
+          "competition": "copa-del-rey",
+          "venue": "Estadio de Tasagaya, Santa Cruz de Tenerife",
+          "date": "2026-10-04",
+          "time": "12:00",
+          "timeZone": "Atlantic/Canary"
+        },
+        {
           "id": "copa-del-rey-401918759",
           "title": "Atlético Melilla vs Atlético Pinatarense",
           "teams": [
@@ -55058,23 +55075,6 @@
           "venue": "La Espiguera, Melilla",
           "date": "2026-10-04",
           "time": "12:00",
-          "timeZone": "Europe/Madrid"
-        },
-        {
-          "id": "copa-del-rey-401918758",
-          "title": "Atlético Unión Güímar vs Sporting Hortaleza",
-          "teams": [
-            "Atlético Unión Güímar",
-            "Sporting Hortaleza"
-          ],
-          "teamIDs": [
-            "espn:soccer:133833",
-            "espn:soccer:133831"
-          ],
-          "competition": "copa-del-rey",
-          "venue": "",
-          "date": "2026-10-04",
-          "time": "13:00",
           "timeZone": "Europe/Madrid"
         },
         {
@@ -63849,6 +63849,27 @@
           }
         },
         {
+          "id": "liga-argentina-401841594",
+          "title": "Boca Juniors vs Unión (Santa Fe)",
+          "teams": [
+            "Boca Juniors",
+            "Unión (Santa Fe)"
+          ],
+          "teamIDs": [
+            "espn:soccer:5",
+            "espn:soccer:20"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Alberto José Armando (La Bombonera), Buenos Aires",
+          "date": "2026-10-02",
+          "time": "21:30",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
           "id": "liga-argentina-401841593",
           "title": "Defensa y Justicia vs San Lorenzo",
           "teams": [
@@ -63912,27 +63933,6 @@
           }
         },
         {
-          "id": "liga-argentina-401841597",
-          "title": "Argentinos Juniors vs Tigre",
-          "teams": [
-            "Argentinos Juniors",
-            "Tigre"
-          ],
-          "teamIDs": [
-            "espn:soccer:3",
-            "espn:soccer:7767"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Diego Armando Maradona, Buenos Aires",
-          "date": "2026-10-03",
-          "time": "19:15",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          }
-        },
-        {
           "id": "liga-argentina-401841589",
           "title": "Huracán vs Aldosivi",
           "teams": [
@@ -63945,8 +63945,8 @@
           ],
           "competition": "liga-argentina",
           "venue": "Estadio Tomás Adolfo Ducó, Buenos Aires",
-          "date": "2026-10-03",
-          "time": "21:30",
+          "date": "2026-10-04",
+          "time": "14:45",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
@@ -63975,18 +63975,18 @@
           }
         },
         {
-          "id": "liga-argentina-401841594",
-          "title": "Boca Juniors vs Unión (Santa Fe)",
+          "id": "liga-argentina-401841597",
+          "title": "Argentinos Juniors vs Tigre",
           "teams": [
-            "Boca Juniors",
-            "Unión (Santa Fe)"
+            "Argentinos Juniors",
+            "Tigre"
           ],
           "teamIDs": [
-            "espn:soccer:5",
-            "espn:soccer:20"
+            "espn:soccer:3",
+            "espn:soccer:7767"
           ],
           "competition": "liga-argentina",
-          "venue": "Alberto José Armando (La Bombonera), Buenos Aires",
+          "venue": "Diego Armando Maradona, Buenos Aires",
           "date": "2026-10-04",
           "time": "19:15",
           "timeZone": "America/Argentina/Buenos_Aires",
@@ -64101,20 +64101,125 @@
           }
         },
         {
-          "id": "liga-argentina-401841598",
-          "title": "Sarmiento (Junín) vs River Plate",
+          "id": "liga-argentina-401841612",
+          "title": "Aldosivi vs Sarmiento (Junín)",
           "teams": [
-            "Sarmiento (Junín)",
-            "River Plate"
+            "Aldosivi",
+            "Sarmiento (Junín)"
           ],
           "teamIDs": [
-            "espn:soccer:10158",
-            "espn:soccer:16"
+            "espn:soccer:9739",
+            "espn:soccer:10158"
           ],
           "competition": "liga-argentina",
-          "venue": "Eva Perón, Junin",
-          "date": "2026-10-07",
+          "venue": "José María Minella, Buenos Aires",
+          "date": "2026-10-09",
+          "time": "14:30",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841609",
+          "title": "Gimnasia La Plata vs Atlético Tucumán",
+          "teams": [
+            "Gimnasia La Plata",
+            "Atlético Tucumán"
+          ],
+          "teamIDs": [
+            "espn:soccer:9",
+            "espn:soccer:9785"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Juan Carmelo Zerillo (El Bosque), La Plata",
+          "date": "2026-10-09",
+          "time": "18:00",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841607",
+          "title": "Instituto (Córdoba) vs Boca Juniors",
+          "teams": [
+            "Instituto (Córdoba)",
+            "Boca Juniors"
+          ],
+          "teamIDs": [
+            "espn:soccer:2975",
+            "espn:soccer:5"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Monumental Presidente Perón, Córdoba",
+          "date": "2026-10-09",
           "time": "19:30",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841613",
+          "title": "Unión (Santa Fe) vs Defensa y Justicia",
+          "teams": [
+            "Unión (Santa Fe)",
+            "Defensa y Justicia"
+          ],
+          "teamIDs": [
+            "espn:soccer:20",
+            "espn:soccer:8950"
+          ],
+          "competition": "liga-argentina",
+          "venue": "15 de Abril, Rosario, Santa Fe",
+          "date": "2026-10-09",
+          "time": "21:45",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841611",
+          "title": "Barracas Central vs Huracán",
+          "teams": [
+            "Barracas Central",
+            "Huracán"
+          ],
+          "teamIDs": [
+            "espn:soccer:10060",
+            "espn:soccer:10"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Estadio Claudio Chiqui Tapia, Buenos Aires",
+          "date": "2026-10-10",
+          "time": "14:45",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841610",
+          "title": "Central Córdoba (Santiago del Estero) vs Estudiantes de La Plata",
+          "teams": [
+            "Central Córdoba (Santiago del Estero)",
+            "Estudiantes de La Plata"
+          ],
+          "teamIDs": [
+            "espn:soccer:11989",
+            "espn:soccer:8"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Alfredo Terrera, Santiago del Estero",
+          "date": "2026-10-10",
+          "time": "17:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
@@ -64134,36 +64239,34 @@
           ],
           "competition": "liga-argentina",
           "venue": "Monumental de Victoria (José Dellagiovanna), Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
+          "date": "2026-10-10",
+          "time": "19:15",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
-          "id": "liga-argentina-401841600",
-          "title": "Talleres (Córdoba) vs Independiente",
+          "id": "liga-argentina-401841603",
+          "title": "River Plate vs Estudiantes de Río Cuarto",
           "teams": [
-            "Talleres (Córdoba)",
-            "Independiente"
+            "River Plate",
+            "Estudiantes de Río Cuarto"
           ],
           "teamIDs": [
-            "espn:soccer:19",
-            "espn:soccer:11"
+            "espn:soccer:16",
+            "espn:soccer:19685"
           ],
           "competition": "liga-argentina",
-          "venue": "Mario Alberto Kempes, Córdoba",
-          "date": "2026-10-11",
-          "time": "15:00",
+          "venue": "Estadio Más Monumental, Buenos Aires",
+          "date": "2026-10-10",
+          "time": "21:30",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
           "id": "liga-argentina-401841601",
@@ -64179,13 +64282,12 @@
           "competition": "liga-argentina",
           "venue": "Estadio Pedro Bidegain, Buenos Aires",
           "date": "2026-10-11",
-          "time": "15:00",
+          "time": "14:45",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
           "id": "liga-argentina-401841602",
@@ -64201,57 +64303,12 @@
           "competition": "liga-argentina",
           "venue": "Gigante de Arroyito, Rosario",
           "date": "2026-10-11",
-          "time": "15:00",
+          "time": "17:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841603",
-          "title": "River Plate vs Estudiantes de Río Cuarto",
-          "teams": [
-            "River Plate",
-            "Estudiantes de Río Cuarto"
-          ],
-          "teamIDs": [
-            "espn:soccer:16",
-            "espn:soccer:19685"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Estadio Más Monumental, Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841604",
-          "title": "Racing Club vs Belgrano (Córdoba)",
-          "teams": [
-            "Racing Club",
-            "Belgrano (Córdoba)"
-          ],
-          "teamIDs": [
-            "espn:soccer:15",
-            "espn:soccer:4"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Presidente Perón (Cilindro de Avellaneda), Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
           "id": "liga-argentina-401841605",
@@ -64267,13 +64324,54 @@
           "competition": "liga-argentina",
           "venue": "Ciudad de Vicente López, Buenos Aires",
           "date": "2026-10-11",
-          "time": "15:00",
+          "time": "17:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
+        },
+        {
+          "id": "liga-argentina-401841604",
+          "title": "Racing Club vs Belgrano (Córdoba)",
+          "teams": [
+            "Racing Club",
+            "Belgrano (Córdoba)"
+          ],
+          "teamIDs": [
+            "espn:soccer:15",
+            "espn:soccer:4"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Presidente Perón (Cilindro de Avellaneda), Buenos Aires",
+          "date": "2026-10-11",
+          "time": "19:15",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
+        },
+        {
+          "id": "liga-argentina-401841600",
+          "title": "Talleres (Córdoba) vs Independiente",
+          "teams": [
+            "Talleres (Córdoba)",
+            "Independiente"
+          ],
+          "teamIDs": [
+            "espn:soccer:19",
+            "espn:soccer:11"
+          ],
+          "competition": "liga-argentina",
+          "venue": "Mario Alberto Kempes, Córdoba",
+          "date": "2026-10-11",
+          "time": "21:30",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Clausura 2026",
+            "es": "Torneo Clausura 2026"
+          }
         },
         {
           "id": "liga-argentina-401841606",
@@ -64288,36 +64386,13 @@
           ],
           "competition": "liga-argentina",
           "venue": "Ciudad de Lanús, Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
+          "date": "2026-10-12",
+          "time": "16:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841607",
-          "title": "Instituto (Córdoba) vs Boca Juniors",
-          "teams": [
-            "Instituto (Córdoba)",
-            "Boca Juniors"
-          ],
-          "teamIDs": [
-            "espn:soccer:2975",
-            "espn:soccer:5"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Monumental Presidente Perón, Córdoba",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
           "id": "liga-argentina-401841608",
@@ -64332,124 +64407,34 @@
           ],
           "competition": "liga-argentina",
           "venue": "Estadio Víctor Antonio Legrotaglie, Mendoza",
-          "date": "2026-10-11",
-          "time": "15:00",
+          "date": "2026-10-12",
+          "time": "18:30",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
-          "id": "liga-argentina-401841609",
-          "title": "Gimnasia La Plata vs Atlético Tucumán",
+          "id": "liga-argentina-401841598",
+          "title": "Sarmiento (Junín) vs River Plate",
           "teams": [
-            "Gimnasia La Plata",
-            "Atlético Tucumán"
+            "Sarmiento (Junín)",
+            "River Plate"
           ],
           "teamIDs": [
-            "espn:soccer:9",
-            "espn:soccer:9785"
+            "espn:soccer:10158",
+            "espn:soccer:16"
           ],
           "competition": "liga-argentina",
-          "venue": "Juan Carmelo Zerillo (El Bosque), La Plata",
-          "date": "2026-10-11",
-          "time": "15:00",
+          "venue": "Eva Perón, Junin",
+          "date": "2026-10-14",
+          "time": "19:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Clausura 2026",
             "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841610",
-          "title": "Central Córdoba (Santiago del Estero) vs Estudiantes de La Plata",
-          "teams": [
-            "Central Córdoba (Santiago del Estero)",
-            "Estudiantes de La Plata"
-          ],
-          "teamIDs": [
-            "espn:soccer:11989",
-            "espn:soccer:8"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Alfredo Terrera, Santiago del Estero",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841611",
-          "title": "Barracas Central vs Huracán",
-          "teams": [
-            "Barracas Central",
-            "Huracán"
-          ],
-          "teamIDs": [
-            "espn:soccer:10060",
-            "espn:soccer:10"
-          ],
-          "competition": "liga-argentina",
-          "venue": "Estadio Claudio Chiqui Tapia, Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841612",
-          "title": "Aldosivi vs Sarmiento (Junín)",
-          "teams": [
-            "Aldosivi",
-            "Sarmiento (Junín)"
-          ],
-          "teamIDs": [
-            "espn:soccer:9739",
-            "espn:soccer:10158"
-          ],
-          "competition": "liga-argentina",
-          "venue": "José María Minella, Buenos Aires",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
-        },
-        {
-          "id": "liga-argentina-401841613",
-          "title": "Unión (Santa Fe) vs Defensa y Justicia",
-          "teams": [
-            "Unión (Santa Fe)",
-            "Defensa y Justicia"
-          ],
-          "teamIDs": [
-            "espn:soccer:20",
-            "espn:soccer:8950"
-          ],
-          "competition": "liga-argentina",
-          "venue": "15 de Abril, Rosario, Santa Fe",
-          "date": "2026-10-11",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Clausura 2026",
-            "es": "Torneo Clausura 2026"
-          },
-          "estimated": true
+          }
         },
         {
           "id": "liga-argentina-401841614",
@@ -69493,6 +69478,7 @@
         "Tayikistán",
         "Togo",
         "Trinidad y Tobago",
+        "Turkmenistán",
         "Turquía",
         "Túnez",
         "Ucrania",
@@ -74178,7 +74164,7 @@
             "espn:soccer:4380"
           ],
           "competition": "selecciones",
-          "venue": "",
+          "venue": "Pakhtakor Markaziy Stadium, Tashkent",
           "date": "2026-10-01",
           "time": "19:00",
           "timeZone": "Asia/Tashkent",
@@ -74691,18 +74677,18 @@
         },
         {
           "id": "selecciones-401914141",
-          "title": "China vs Palestina",
+          "title": "China vs Turkmenistán",
           "titles": {
-            "en": "China vs Palestine",
-            "es": "China vs Palestina"
+            "en": "China vs Turkmenistan",
+            "es": "China vs Turkmenistán"
           },
           "teams": [
             "China",
-            "Palestina"
+            "Turkmenistán"
           ],
           "teamIDs": [
             "espn:soccer:658",
-            "espn:soccer:6167"
+            "espn:soccer:7507"
           ],
           "competition": "selecciones",
           "venue": "Chongqing Longxing Football Stadium, Chongqing",
@@ -75090,32 +75076,6 @@
           }
         },
         {
-          "id": "selecciones-401921544",
-          "title": "Argentina vs Burkina Faso",
-          "titles": {
-            "en": "Argentina vs Burkina Faso",
-            "es": "Argentina vs Burkina Faso"
-          },
-          "teams": [
-            "Argentina",
-            "Burkina Faso"
-          ],
-          "teamIDs": [
-            "espn:soccer:202",
-            "espn:soccer:2845"
-          ],
-          "competition": "selecciones",
-          "venue": "Estadio Más Monumental, Buenos Aires",
-          "date": "2026-10-03",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
-        },
-        {
           "id": "selecciones-401861111",
           "title": "Finlandia vs Albania",
           "titles": {
@@ -75163,6 +75123,31 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
+          }
+        },
+        {
+          "id": "selecciones-401921544",
+          "title": "Argentina vs Burkina Faso",
+          "titles": {
+            "en": "Argentina vs Burkina Faso",
+            "es": "Argentina vs Burkina Faso"
+          },
+          "teams": [
+            "Argentina",
+            "Burkina Faso"
+          ],
+          "teamIDs": [
+            "espn:soccer:202",
+            "espn:soccer:2845"
+          ],
+          "competition": "selecciones",
+          "venue": "Estadio Más Monumental, Buenos Aires",
+          "date": "2026-10-03",
+          "time": "17:00",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
