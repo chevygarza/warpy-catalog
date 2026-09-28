@@ -1,5 +1,5 @@
 {
-  "version": 135,
+  "version": 136,
   "updatedAt": "2026-09-28",
   "events": [
     {
@@ -9233,13 +9233,12 @@
           ],
           "venue": "Yankee Stadium",
           "date": "2026-09-29",
-          "time": "03:33",
+          "time": "20:00",
           "timeZone": "America/New_York",
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:111"
-          ],
-          "estimated": true
+          ]
         },
         {
           "id": "mlb-849843",
@@ -9302,13 +9301,12 @@
           ],
           "venue": "Yankee Stadium",
           "date": "2026-09-30",
-          "time": "03:33",
+          "time": "20:00",
           "timeZone": "America/New_York",
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:111"
-          ],
-          "estimated": true
+          ]
         },
         {
           "id": "mlb-849842",
@@ -14820,10 +14818,10 @@
             "espn:basketball:12",
             "espn:basketball:9"
           ],
-          "venue": "Intuit Dome, Inglewood",
+          "venue": "Stan Sheriff Center, Honolulu",
           "date": "2026-10-04",
-          "time": "16:00",
-          "timeZone": "America/Los_Angeles"
+          "time": "13:00",
+          "timeZone": "Pacific/Honolulu"
         },
         {
           "id": "nba-401914127",
@@ -66019,6 +66017,23 @@
           "timeZone": "America/Sao_Paulo"
         },
         {
+          "id": "brasileirao-401841275",
+          "title": "Mirassol vs Internacional",
+          "teams": [
+            "Mirassol",
+            "Internacional"
+          ],
+          "teamIDs": [
+            "espn:soccer:9169",
+            "espn:soccer:1936"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estadio Municipal José Maria de Campos Maia, Mirassol",
+          "date": "2026-10-16",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
           "id": "brasileirao-401841268",
           "title": "Botafogo vs Chapecoense",
           "teams": [
@@ -66032,27 +66047,8 @@
           "competition": "brasileirao",
           "venue": "Joao Havelange Stadium, Rio de Janeiro",
           "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841269",
-          "title": "Bahia vs Flamengo",
-          "teams": [
-            "Bahia",
-            "Flamengo"
-          ],
-          "teamIDs": [
-            "espn:soccer:9967",
-            "espn:soccer:819"
-          ],
-          "competition": "brasileirao",
-          "venue": "Arena Fonte Nova, Salvador",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "18:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841270",
@@ -66068,9 +66064,8 @@
           "competition": "brasileirao",
           "venue": "Arena MRV, Belo Horizonte",
           "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "18:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841271",
@@ -66086,27 +66081,8 @@
           "competition": "brasileirao",
           "venue": "Arena da Baixada, Curitiba",
           "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841272",
-          "title": "Corinthians vs Vitória",
-          "teams": [
-            "Corinthians",
-            "Vitória"
-          ],
-          "teamIDs": [
-            "espn:soccer:874",
-            "espn:soccer:3457"
-          ],
-          "competition": "brasileirao",
-          "venue": "Neo Química Arena, Sao Paulo",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841273",
@@ -66122,45 +66098,8 @@
           "competition": "brasileirao",
           "venue": "Estádio Cícero Pompeu de Toledo, Sao Paulo",
           "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841274",
-          "title": "Remo vs Red Bull Bragantino",
-          "teams": [
-            "Remo",
-            "Red Bull Bragantino"
-          ],
-          "teamIDs": [
-            "espn:soccer:4936",
-            "espn:soccer:6079"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Evandro Almeida (Baenao), Belém",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841275",
-          "title": "Mirassol vs Internacional",
-          "teams": [
-            "Mirassol",
-            "Internacional"
-          ],
-          "teamIDs": [
-            "espn:soccer:9169",
-            "espn:soccer:1936"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Municipal José Maria de Campos Maia, Mirassol",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "21:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841276",
@@ -66175,10 +66114,9 @@
           ],
           "competition": "brasileirao",
           "venue": "Arena do Grêmio, Porto Alegre",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "date": "2026-10-18",
+          "time": "16:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841277",
@@ -66193,46 +66131,77 @@
           ],
           "competition": "brasileirao",
           "venue": "Estadio do Maracana, Rio de Janeiro",
-          "date": "2026-10-17",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "date": "2026-10-18",
+          "time": "16:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
-          "id": "brasileirao-401841278",
-          "title": "Chapecoense vs Fluminense",
+          "id": "brasileirao-401841269",
+          "title": "Bahia vs Flamengo",
           "teams": [
-            "Chapecoense",
-            "Fluminense"
+            "Bahia",
+            "Flamengo"
           ],
           "teamIDs": [
-            "espn:soccer:9318",
-            "espn:soccer:3445"
+            "espn:soccer:9967",
+            "espn:soccer:819"
           ],
           "competition": "brasileirao",
-          "venue": "Arena Condá, Chapecó",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "venue": "Arena Fonte Nova, Salvador",
+          "date": "2026-10-18",
+          "time": "18:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
-          "id": "brasileirao-401841279",
-          "title": "Coritiba vs Grêmio",
+          "id": "brasileirao-401841274",
+          "title": "Remo vs Red Bull Bragantino",
           "teams": [
-            "Coritiba",
-            "Grêmio"
+            "Remo",
+            "Red Bull Bragantino"
           ],
           "teamIDs": [
-            "espn:soccer:3456",
-            "espn:soccer:6273"
+            "espn:soccer:4936",
+            "espn:soccer:6079"
           ],
           "competition": "brasileirao",
-          "venue": "Couto Pereira, Curitiba",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "venue": "Mangueirão, Belém",
+          "date": "2026-10-18",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841272",
+          "title": "Corinthians vs Vitória",
+          "teams": [
+            "Corinthians",
+            "Vitória"
+          ],
+          "teamIDs": [
+            "espn:soccer:874",
+            "espn:soccer:3457"
+          ],
+          "competition": "brasileirao",
+          "venue": "Neo Química Arena, Sao Paulo",
+          "date": "2026-10-19",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841287",
+          "title": "Cruzeiro vs Remo",
+          "teams": [
+            "Cruzeiro",
+            "Remo"
+          ],
+          "teamIDs": [
+            "espn:soccer:2022",
+            "espn:soccer:4936"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estadio Mineirão, Belo Horizonte",
+          "date": "2026-10-23",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841280",
@@ -66248,63 +66217,8 @@
           "competition": "brasileirao",
           "venue": "Estadio Manoel Barradas, Salvador",
           "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841281",
-          "title": "Vasco da Gama vs Corinthians",
-          "teams": [
-            "Vasco da Gama",
-            "Corinthians"
-          ],
-          "teamIDs": [
-            "espn:soccer:3454",
-            "espn:soccer:874"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estádio São Januário, Rio de Janeiro",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841282",
-          "title": "Santos Laguna vs Bahia",
-          "teams": [
-            "Santos Laguna",
-            "Bahia"
-          ],
-          "teamIDs": [
-            "espn:soccer:2674",
-            "espn:soccer:9967"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estádio Vila Belmiro (Urbano Caldeira), Santos",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841283",
-          "title": "Palmeiras vs Red Bull Bragantino",
-          "teams": [
-            "Palmeiras",
-            "Red Bull Bragantino"
-          ],
-          "teamIDs": [
-            "espn:soccer:2029",
-            "espn:soccer:6079"
-          ],
-          "competition": "brasileirao",
-          "venue": "Allianz Parque, Sao Paulo",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "16:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841284",
@@ -66320,9 +66234,8 @@
           "competition": "brasileirao",
           "venue": "Estadio Municipal José Maria de Campos Maia, Mirassol",
           "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "16:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841285",
@@ -66338,9 +66251,93 @@
           "competition": "brasileirao",
           "venue": "Estadio Beira-Rio, Porto Alegre",
           "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "16:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841281",
+          "title": "Vasco da Gama vs Corinthians",
+          "teams": [
+            "Vasco da Gama",
+            "Corinthians"
+          ],
+          "teamIDs": [
+            "espn:soccer:3454",
+            "espn:soccer:874"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estádio São Januário, Rio de Janeiro",
+          "date": "2026-10-24",
+          "time": "18:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841283",
+          "title": "Palmeiras vs Red Bull Bragantino",
+          "teams": [
+            "Palmeiras",
+            "Red Bull Bragantino"
+          ],
+          "teamIDs": [
+            "espn:soccer:2029",
+            "espn:soccer:6079"
+          ],
+          "competition": "brasileirao",
+          "venue": "Arena Barueri, Barueri",
+          "date": "2026-10-24",
+          "time": "18:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841278",
+          "title": "Chapecoense vs Fluminense",
+          "teams": [
+            "Chapecoense",
+            "Fluminense"
+          ],
+          "teamIDs": [
+            "espn:soccer:9318",
+            "espn:soccer:3445"
+          ],
+          "competition": "brasileirao",
+          "venue": "Arena Condá, Chapecó",
+          "date": "2026-10-24",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841282",
+          "title": "Santos Laguna vs Bahia",
+          "teams": [
+            "Santos Laguna",
+            "Bahia"
+          ],
+          "teamIDs": [
+            "espn:soccer:2674",
+            "espn:soccer:9967"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estádio Vila Belmiro (Urbano Caldeira), Santos",
+          "date": "2026-10-24",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841279",
+          "title": "Coritiba vs Grêmio",
+          "teams": [
+            "Coritiba",
+            "Grêmio"
+          ],
+          "teamIDs": [
+            "espn:soccer:3456",
+            "espn:soccer:6273"
+          ],
+          "competition": "brasileirao",
+          "venue": "Couto Pereira, Curitiba",
+          "date": "2026-10-26",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841286",
@@ -66355,46 +66352,9 @@
           ],
           "competition": "brasileirao",
           "venue": "Estadio do Maracana, Rio de Janeiro",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841287",
-          "title": "Cruzeiro vs Remo",
-          "teams": [
-            "Cruzeiro",
-            "Remo"
-          ],
-          "teamIDs": [
-            "espn:soccer:2022",
-            "espn:soccer:4936"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Mineirão, Belo Horizonte",
-          "date": "2026-10-24",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841288",
-          "title": "Atlético-MG vs Cruzeiro",
-          "teams": [
-            "Atlético-MG",
-            "Cruzeiro"
-          ],
-          "teamIDs": [
-            "espn:soccer:7632",
-            "espn:soccer:2022"
-          ],
-          "competition": "brasileirao",
-          "venue": "Arena MRV, Belo Horizonte",
-          "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "date": "2026-10-26",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841289",
@@ -66410,27 +66370,8 @@
           "competition": "brasileirao",
           "venue": "Estadio do Maracana, Rio de Janeiro",
           "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841290",
-          "title": "Grêmio vs Athletico-PR",
-          "teams": [
-            "Grêmio",
-            "Athletico-PR"
-          ],
-          "teamIDs": [
-            "espn:soccer:6273",
-            "espn:soccer:3458"
-          ],
-          "competition": "brasileirao",
-          "venue": "Arena do Grêmio, Porto Alegre",
-          "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841291",
@@ -66446,27 +66387,8 @@
           "competition": "brasileirao",
           "venue": "Estádio Municipal Cicero de Souza Marques, Bragança Paulista",
           "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841292",
-          "title": "Vasco da Gama vs Flamengo",
-          "teams": [
-            "Vasco da Gama",
-            "Flamengo"
-          ],
-          "teamIDs": [
-            "espn:soccer:3454",
-            "espn:soccer:819"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estádio São Januário, Rio de Janeiro",
-          "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841293",
@@ -66482,45 +66404,8 @@
           "competition": "brasileirao",
           "venue": "Estádio Vila Belmiro (Urbano Caldeira), Santos",
           "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841294",
-          "title": "Coritiba vs Vitória",
-          "teams": [
-            "Coritiba",
-            "Vitória"
-          ],
-          "teamIDs": [
-            "espn:soccer:3456",
-            "espn:soccer:3457"
-          ],
-          "competition": "brasileirao",
-          "venue": "Couto Pereira, Curitiba",
-          "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841295",
-          "title": "Corinthians vs Mirassol",
-          "teams": [
-            "Corinthians",
-            "Mirassol"
-          ],
-          "teamIDs": [
-            "espn:soccer:874",
-            "espn:soccer:9169"
-          ],
-          "competition": "brasileirao",
-          "venue": "Neo Química Arena, Sao Paulo",
-          "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841296",
@@ -66536,9 +66421,8 @@
           "competition": "brasileirao",
           "venue": "Arena Fonte Nova, Salvador",
           "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841297",
@@ -66552,11 +66436,95 @@
             "espn:soccer:6086"
           ],
           "competition": "brasileirao",
-          "venue": "Estadio Evandro Almeida (Baenao), Belém",
+          "venue": "Mangueirão, Belém",
           "date": "2026-10-28",
-          "time": "15:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841288",
+          "title": "Atlético-MG vs Cruzeiro",
+          "teams": [
+            "Atlético-MG",
+            "Cruzeiro"
+          ],
+          "teamIDs": [
+            "espn:soccer:7632",
+            "espn:soccer:2022"
+          ],
+          "competition": "brasileirao",
+          "venue": "Arena MRV, Belo Horizonte",
+          "date": "2026-10-29",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841294",
+          "title": "Coritiba vs Vitória",
+          "teams": [
+            "Coritiba",
+            "Vitória"
+          ],
+          "teamIDs": [
+            "espn:soccer:3456",
+            "espn:soccer:3457"
+          ],
+          "competition": "brasileirao",
+          "venue": "Couto Pereira, Curitiba",
+          "date": "2026-10-29",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841290",
+          "title": "Grêmio vs Athletico-PR",
+          "teams": [
+            "Grêmio",
+            "Athletico-PR"
+          ],
+          "teamIDs": [
+            "espn:soccer:6273",
+            "espn:soccer:3458"
+          ],
+          "competition": "brasileirao",
+          "venue": "Arena do Grêmio, Porto Alegre",
+          "date": "2026-10-29",
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841292",
+          "title": "Vasco da Gama vs Flamengo",
+          "teams": [
+            "Vasco da Gama",
+            "Flamengo"
+          ],
+          "teamIDs": [
+            "espn:soccer:3454",
+            "espn:soccer:819"
+          ],
+          "competition": "brasileirao",
+          "venue": "",
+          "date": "2026-10-29",
+          "time": "23:00",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "brasileirao-401841295",
+          "title": "Corinthians vs Mirassol",
+          "teams": [
+            "Corinthians",
+            "Mirassol"
+          ],
+          "teamIDs": [
+            "espn:soccer:874",
+            "espn:soccer:9169"
+          ],
+          "competition": "brasileirao",
+          "venue": "Neo Química Arena, Sao Paulo",
+          "date": "2026-10-30",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841298",
@@ -73357,32 +73325,6 @@
           }
         },
         {
-          "id": "selecciones-401921545",
-          "title": "Argentina vs Bolivia",
-          "titles": {
-            "en": "Argentina vs Bolivia",
-            "es": "Argentina vs Bolivia"
-          },
-          "teams": [
-            "Argentina",
-            "Bolivia"
-          ],
-          "teamIDs": [
-            "espn:soccer:202",
-            "espn:soccer:204"
-          ],
-          "competition": "selecciones",
-          "venue": "Mario Alberto Kempes, Córdoba",
-          "date": "2026-09-30",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
-        },
-        {
           "id": "selecciones-401922308",
           "title": "Papúa Nueva Guinea vs Islas Salomón",
           "titles": {
@@ -73527,6 +73469,31 @@
           "date": "2026-09-30",
           "time": "19:00",
           "timeZone": "Pacific/Fiji",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
+          "id": "selecciones-401921545",
+          "title": "Argentina vs Bolivia",
+          "titles": {
+            "en": "Argentina vs Bolivia",
+            "es": "Argentina vs Bolivia"
+          },
+          "teams": [
+            "Argentina",
+            "Bolivia"
+          ],
+          "teamIDs": [
+            "espn:soccer:202",
+            "espn:soccer:204"
+          ],
+          "competition": "selecciones",
+          "venue": "Mario Alberto Kempes, Córdoba",
+          "date": "2026-09-30",
+          "time": "20:00",
+          "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Friendly",
             "es": "Amistoso"
@@ -75339,6 +75306,31 @@
           }
         },
         {
+          "id": "selecciones-401922273",
+          "title": "Marruecos vs Ghana",
+          "titles": {
+            "en": "Morocco vs Ghana",
+            "es": "Marruecos vs Ghana"
+          },
+          "teams": [
+            "Marruecos",
+            "Ghana"
+          ],
+          "teamIDs": [
+            "espn:soccer:2869",
+            "espn:soccer:4469"
+          ],
+          "competition": "selecciones",
+          "venue": "Ibn Batouta Stadium, Tanger",
+          "date": "2026-10-04",
+          "time": "18:00",
+          "timeZone": "Africa/Casablanca",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401925303",
           "title": "Bolivia vs Gambia",
           "titles": {
@@ -75386,31 +75378,6 @@
           "stage": {
             "en": "Concacaf Nations League",
             "es": "Nations League de Concacaf"
-          }
-        },
-        {
-          "id": "selecciones-401922273",
-          "title": "Marruecos vs Ghana",
-          "titles": {
-            "en": "Morocco vs Ghana",
-            "es": "Marruecos vs Ghana"
-          },
-          "teams": [
-            "Marruecos",
-            "Ghana"
-          ],
-          "teamIDs": [
-            "espn:soccer:2869",
-            "espn:soccer:4469"
-          ],
-          "competition": "selecciones",
-          "venue": "Ibn Batouta Stadium, Tanger",
-          "date": "2026-10-04",
-          "time": "19:00",
-          "timeZone": "Africa/Casablanca",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
           }
         },
         {
@@ -76115,32 +76082,6 @@
           }
         },
         {
-          "id": "selecciones-401921408",
-          "title": "Argentina vs Benín",
-          "titles": {
-            "en": "Argentina vs Benin",
-            "es": "Argentina vs Benín"
-          },
-          "teams": [
-            "Argentina",
-            "Benín"
-          ],
-          "teamIDs": [
-            "espn:soccer:202",
-            "espn:soccer:2844"
-          ],
-          "competition": "selecciones",
-          "venue": "Estadio Más Monumental, Buenos Aires",
-          "date": "2026-10-06",
-          "time": "15:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
-        },
-        {
           "id": "selecciones-401900570",
           "title": "San Martín vs Bahamas",
           "titles": {
@@ -76488,6 +76429,31 @@
           "stage": {
             "en": "AFCON qualifier",
             "es": "Eliminatoria de la Copa Africana"
+          }
+        },
+        {
+          "id": "selecciones-401921408",
+          "title": "Argentina vs Benín",
+          "titles": {
+            "en": "Argentina vs Benin",
+            "es": "Argentina vs Benín"
+          },
+          "teams": [
+            "Argentina",
+            "Benín"
+          ],
+          "teamIDs": [
+            "espn:soccer:202",
+            "espn:soccer:2844"
+          ],
+          "competition": "selecciones",
+          "venue": "Estadio Más Monumental, Buenos Aires",
+          "date": "2026-10-06",
+          "time": "20:00",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
