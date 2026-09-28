@@ -1,5 +1,5 @@
 {
-  "version": 136,
+  "version": 137,
   "updatedAt": "2026-09-28",
   "events": [
     {
@@ -73492,7 +73492,7 @@
           "competition": "selecciones",
           "venue": "Mario Alberto Kempes, Córdoba",
           "date": "2026-09-30",
-          "time": "20:00",
+          "time": "21:00",
           "timeZone": "America/Argentina/Buenos_Aires",
           "stage": {
             "en": "Friendly",
@@ -74704,31 +74704,6 @@
           }
         },
         {
-          "id": "selecciones-401921544",
-          "title": "Argentina vs Burkina Faso",
-          "titles": {
-            "en": "Argentina vs Burkina Faso",
-            "es": "Argentina vs Burkina Faso"
-          },
-          "teams": [
-            "Argentina",
-            "Burkina Faso"
-          ],
-          "teamIDs": [
-            "espn:soccer:202",
-            "espn:soccer:2845"
-          ],
-          "competition": "selecciones",
-          "venue": "Estadio Más Monumental, Buenos Aires",
-          "date": "2026-10-03",
-          "time": "17:00",
-          "timeZone": "America/Argentina/Buenos_Aires",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          }
-        },
-        {
           "id": "selecciones-401861113",
           "title": "Croacia vs Inglaterra",
           "titles": {
@@ -75027,6 +75002,31 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
+          }
+        },
+        {
+          "id": "selecciones-401921544",
+          "title": "Argentina vs Burkina Faso",
+          "titles": {
+            "en": "Argentina vs Burkina Faso",
+            "es": "Argentina vs Burkina Faso"
+          },
+          "teams": [
+            "Argentina",
+            "Burkina Faso"
+          ],
+          "teamIDs": [
+            "espn:soccer:202",
+            "espn:soccer:2845"
+          ],
+          "competition": "selecciones",
+          "venue": "Estadio Más Monumental, Buenos Aires",
+          "date": "2026-10-03",
+          "time": "21:00",
+          "timeZone": "America/Argentina/Buenos_Aires",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
