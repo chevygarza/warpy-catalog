@@ -1,5 +1,5 @@
 {
-  "version": 140,
+  "version": 141,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -57984,7 +57984,7 @@
       "title": "Tesla Roadster",
       "emoji": "🚀",
       "category": "entertainment",
-      "date": "2026-10-01",
+      "date": "2026-10-15",
       "url": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/",
       "keywords": [
         "tesla",
@@ -57995,8 +57995,6 @@
       "origin": "telegram",
       "subcategory": "launches",
       "estimated": true,
-      "dateConfirmedAt": "2026-09-16",
-      "dateConfirmed": true,
       "news": {
         "introducedInVersion": 50,
         "publishedAt": "2026-09-16T06:16:53Z",
@@ -58063,7 +58061,8 @@
             },
             "source": "https://www.caranddriver.com/news/a73722287/tesla-roadster-reveal-date/"
           }
-        ]
+        ],
+        "date": "2026-10-15"
       },
       "fact": {
         "text": {
@@ -98146,6 +98145,14 @@
       "version": 140,
       "target": "further-mis-adventures-of-cliff-booth-2026",
       "at": "2026-09-29T02:48:14.284829+00:00"
+    },
+    "plantel-tesla-roadster-2026-20260929-0005": {
+      "operationID": "plantel-tesla-roadster-2026-20260929-0005",
+      "digest": "2b123d86035b1fc0765f08494b02db5b9f580904083eb473c09c3f28b98b2914",
+      "status": "applied",
+      "version": 141,
+      "target": "tesla-roadster-2026",
+      "at": "2026-09-29T06:06:32.698038+00:00"
     }
   }
 }
