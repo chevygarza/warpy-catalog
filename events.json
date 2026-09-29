@@ -1,5 +1,5 @@
 {
-  "version": 141,
+  "version": 142,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -3864,7 +3864,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/Academy_Awards"
           }
-        ]
+        ],
+        "url": "https://en.wikipedia.org/wiki/99th_Academy_Awards"
       },
       "origin": "telegram",
       "fact": {
@@ -3898,7 +3899,8 @@
         }
       ],
       "shortName": "Los Óscar",
-      "popularity": "A"
+      "popularity": "A",
+      "url": "https://en.wikipedia.org/wiki/99th_Academy_Awards"
     },
     {
       "id": "pi-day-2027",
@@ -84678,7 +84680,7 @@
       "emoji": "🎬",
       "category": "entertainment",
       "date": "2027-03-12",
-      "url": "https://www.universalpictures.com/movies/untitled-mike-flanagan-exorcist-movie/",
+      "url": "https://en.wikipedia.org/wiki/The_Exorcist:_Martyrs",
       "keywords": [
         "the",
         "exorcist",
@@ -84752,7 +84754,8 @@
             },
             "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
           }
-        ]
+        ],
+        "url": "https://en.wikipedia.org/wiki/The_Exorcist:_Martyrs"
       },
       "fact": {
         "text": {
@@ -84776,7 +84779,9 @@
           },
           "source": "https://es.wikipedia.org/wiki/The_Exorcist:_Martyrs"
         }
-      ]
+      ],
+      "dateConfirmedAt": "2026-09-29",
+      "dateConfirmed": true
     },
     {
       "id": "sonic-the-hedgehog-4-2027",
@@ -98153,6 +98158,14 @@
       "version": 141,
       "target": "tesla-roadster-2026",
       "at": "2026-09-29T06:06:32.698038+00:00"
+    },
+    "plantel-reponer-fechas-2-20260929-0937": {
+      "operationID": "plantel-reponer-fechas-2-20260929-0937",
+      "digest": "62d5eda1f2cf250b4cb8cdbbede85c79c742f6ba616d2f00c60c17691d61ec76",
+      "status": "applied",
+      "version": 142,
+      "target": "the-exorcist-martyrs-2027,oscars-2027",
+      "at": "2026-09-29T15:49:18.731353+00:00"
     }
   }
 }
