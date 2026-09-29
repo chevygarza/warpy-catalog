@@ -1,5 +1,5 @@
 {
-  "version": 138,
+  "version": 139,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -84122,7 +84122,7 @@
       "title": "Jumanji: Open World",
       "emoji": "🎬",
       "category": "entertainment",
-      "date": "2026-12-25",
+      "date": "2026-12-23",
       "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
       "keywords": [
         "jumanji",
@@ -84201,7 +84201,8 @@
             },
             "source": "https://es.wikipedia.org/wiki/Jumanji:_Open_World"
           }
-        ]
+        ],
+        "date": "2026-12-23"
       },
       "fact": {
         "text": {
@@ -98126,6 +98127,14 @@
       "version": 134,
       "target": "starship-flight-14-2026",
       "at": "2026-09-28T01:11:55.920614+00:00"
+    },
+    "plantel-wikidata-fecha-jumanji-open-world-2026-20260928-2043": {
+      "operationID": "plantel-wikidata-fecha-jumanji-open-world-2026-20260928-2043",
+      "digest": "e575027067da71b8e373b3c54003e011d4f4642f81a1d31808c32c1c4de10cb1",
+      "status": "applied",
+      "version": 139,
+      "target": "jumanji-open-world-2026",
+      "at": "2026-09-29T02:44:47.447682+00:00"
     }
   }
 }
