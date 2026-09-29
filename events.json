@@ -1,5 +1,5 @@
 {
-  "version": 142,
+  "version": 143,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -10972,6 +10972,23 @@
           "timeZone": "America/Chicago"
         },
         {
+          "id": "nfl-401872990",
+          "competition": "nfl",
+          "title": "Green Bay Packers vs Chicago Bears",
+          "teams": [
+            "Green Bay Packers",
+            "Chicago Bears"
+          ],
+          "teamIDs": [
+            "espn:football:9",
+            "espn:football:3"
+          ],
+          "venue": "Lambeau Field, Green Bay",
+          "date": "2026-10-11",
+          "time": "12:00",
+          "timeZone": "America/Chicago"
+        },
+        {
           "id": "nfl-401872982",
           "competition": "nfl",
           "title": "Miami Dolphins vs Cincinnati Bengals",
@@ -11123,23 +11140,6 @@
           "date": "2026-10-11",
           "time": "14:30",
           "timeZone": "Europe/London"
-        },
-        {
-          "id": "nfl-401872990",
-          "competition": "nfl",
-          "title": "Green Bay Packers vs Chicago Bears",
-          "teams": [
-            "Green Bay Packers",
-            "Chicago Bears"
-          ],
-          "teamIDs": [
-            "espn:football:9",
-            "espn:football:3"
-          ],
-          "venue": "Lambeau Field, Green Bay",
-          "date": "2026-10-11",
-          "time": "15:25",
-          "timeZone": "America/Chicago"
         },
         {
           "id": "nfl-401872993",
@@ -53248,7 +53248,7 @@
           "competition": "mls",
           "venue": "TQL Stadium, Cincinnati, Ohio",
           "date": "2026-10-18",
-          "time": "19:00",
+          "time": "17:00",
           "timeZone": "America/New_York"
         },
         {
@@ -58543,6 +58543,7 @@
         "NEC Nijmegen",
         "NK Celje",
         "OFI CRETE",
+        "OFI Crete",
         "Olympiacos",
         "Omonia Nicosia",
         "RB Salzburg",
@@ -58848,10 +58849,10 @@
         },
         {
           "id": "europa-league-401915572",
-          "title": "Stade Rennais vs OFI CRETE",
+          "title": "Stade Rennais vs OFI Crete",
           "teams": [
             "Stade Rennais",
-            "OFI CRETE"
+            "OFI Crete"
           ],
           "teamIDs": [
             "espn:soccer:169",
@@ -58967,9 +58968,9 @@
         },
         {
           "id": "europa-league-401915559",
-          "title": "OFI CRETE vs Bayer Leverkusen",
+          "title": "OFI Crete vs Bayer Leverkusen",
           "teams": [
-            "OFI CRETE",
+            "OFI Crete",
             "Bayer Leverkusen"
           ],
           "teamIDs": [
@@ -73635,6 +73636,31 @@
           "estimated": true
         },
         {
+          "id": "selecciones-401918509",
+          "title": "RD Congo vs Uganda",
+          "titles": {
+            "en": "Congo DR vs Uganda",
+            "es": "RD Congo vs Uganda"
+          },
+          "teams": [
+            "RD Congo",
+            "Uganda"
+          ],
+          "teamIDs": [
+            "espn:soccer:2850",
+            "espn:soccer:4211"
+          ],
+          "competition": "selecciones",
+          "venue": "",
+          "date": "2026-10-02",
+          "time": "12:00",
+          "timeZone": "Africa/Kinshasa",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401900593",
           "title": "Santa Lucía vs Guadalupe",
           "titles": {
@@ -73783,32 +73809,6 @@
             "en": "Concacaf Nations League",
             "es": "Nations League de Concacaf"
           }
-        },
-        {
-          "id": "selecciones-401918509",
-          "title": "RD Congo vs Uganda",
-          "titles": {
-            "en": "Congo DR vs Uganda",
-            "es": "RD Congo vs Uganda"
-          },
-          "teams": [
-            "RD Congo",
-            "Uganda"
-          ],
-          "teamIDs": [
-            "espn:soccer:2850",
-            "espn:soccer:4211"
-          ],
-          "competition": "selecciones",
-          "venue": "",
-          "date": "2026-10-02",
-          "time": "19:00",
-          "timeZone": "Africa/Kinshasa",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
         },
         {
           "id": "selecciones-401923178",
@@ -87991,7 +87991,6 @@
           "pending": true
         }
       ],
-      "shortName": "LMB",
       "popularity": "B",
       "news": {
         "introducedInVersion": 138,
@@ -89105,8 +89104,9 @@
     },
     {
       "id": "espn:soccer:1010",
-      "name": "OFI CRETE",
+      "name": "OFI Crete",
       "aliases": [
+        "OFI",
         "OFI Crete"
       ],
       "competitions": [
