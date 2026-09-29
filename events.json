@@ -1,6 +1,6 @@
 {
-  "version": 137,
-  "updatedAt": "2026-09-28",
+  "version": 138,
+  "updatedAt": "2026-09-29",
   "events": [
     {
       "id": "fifa-world-cup-2030",
@@ -3179,10 +3179,13 @@
           "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday"
         }
       ],
-      "dateConfirmedAt": "2026-09-18",
-      "dateConfirmed": true,
       "shortName": "Doomsday",
-      "popularity": "A"
+      "popularity": "A",
+      "dateIssue": {
+        "kind": "unsupported",
+        "since": "2026-09-29",
+        "detail": "la página trae otras fechas de lanzamiento y el nombre no está junto a esta: no se puede atribuir; la fecha aparece sin una palabra de lanzamiento o celebración cerca; la oración nombra al evento pero"
+      }
     },
     {
       "id": "christmas-2026",
@@ -6832,7 +6835,7 @@
       },
       "emoji": "⚾️",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#041E42",
       "url": "https://www.mlb.com/schedule",
       "keywords": [
@@ -6875,261 +6878,6 @@
         "Washington Nationals"
       ],
       "occurrences": [
-        {
-          "id": "mlb-824463",
-          "competition": "mlb",
-          "title": "Cincinnati Reds vs Chicago Cubs",
-          "teams": [
-            "Cincinnati Reds",
-            "Chicago Cubs"
-          ],
-          "venue": "Great American Ball Park",
-          "date": "2026-09-18",
-          "time": "18:40",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:113",
-            "mlb:baseball:112"
-          ]
-        },
-        {
-          "id": "mlb-823331",
-          "competition": "mlb",
-          "title": "Pittsburgh Pirates vs Kansas City Royals",
-          "teams": [
-            "Pittsburgh Pirates",
-            "Kansas City Royals"
-          ],
-          "venue": "PNC Park",
-          "date": "2026-09-18",
-          "time": "18:40",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:134",
-            "mlb:baseball:118"
-          ]
-        },
-        {
-          "id": "mlb-824790",
-          "competition": "mlb",
-          "title": "Baltimore Orioles vs Milwaukee Brewers",
-          "teams": [
-            "Baltimore Orioles",
-            "Milwaukee Brewers"
-          ],
-          "venue": "Oriole Park at Camden Yards",
-          "date": "2026-09-18",
-          "time": "19:05",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:110",
-            "mlb:baseball:158"
-          ]
-        },
-        {
-          "id": "mlb-824383",
-          "competition": "mlb",
-          "title": "Cleveland Guardians vs Athletics",
-          "teams": [
-            "Cleveland Guardians",
-            "Athletics"
-          ],
-          "venue": "Progressive Field",
-          "date": "2026-09-18",
-          "time": "19:10",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:114",
-            "mlb:baseball:133"
-          ]
-        },
-        {
-          "id": "mlb-822923",
-          "competition": "mlb",
-          "title": "Tampa Bay Rays vs Boston Red Sox",
-          "teams": [
-            "Tampa Bay Rays",
-            "Boston Red Sox"
-          ],
-          "venue": "Tropicana Field",
-          "date": "2026-09-18",
-          "time": "19:10",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:139",
-            "mlb:baseball:111"
-          ]
-        },
-        {
-          "id": "mlb-823572",
-          "competition": "mlb",
-          "title": "New York Mets vs Philadelphia Phillies",
-          "teams": [
-            "New York Mets",
-            "Philadelphia Phillies"
-          ],
-          "venue": "Citi Field",
-          "date": "2026-09-18",
-          "time": "19:15",
-          "timeZone": "America/New_York",
-          "teamIDs": [
-            "mlb:baseball:121",
-            "mlb:baseball:143"
-          ]
-        },
-        {
-          "id": "mlb-824547",
-          "competition": "mlb",
-          "title": "Chicago White Sox vs Detroit Tigers",
-          "teams": [
-            "Chicago White Sox",
-            "Detroit Tigers"
-          ],
-          "venue": "Rate Field",
-          "date": "2026-09-18",
-          "time": "18:40",
-          "timeZone": "America/Chicago",
-          "teamIDs": [
-            "mlb:baseball:145",
-            "mlb:baseball:116"
-          ]
-        },
-        {
-          "id": "mlb-822847",
-          "competition": "mlb",
-          "title": "Texas Rangers vs Toronto Blue Jays",
-          "teams": [
-            "Texas Rangers",
-            "Toronto Blue Jays"
-          ],
-          "venue": "Globe Life Field",
-          "date": "2026-09-18",
-          "time": "19:05",
-          "timeZone": "America/Chicago",
-          "teamIDs": [
-            "mlb:baseball:140",
-            "mlb:baseball:141"
-          ]
-        },
-        {
-          "id": "mlb-824303",
-          "competition": "mlb",
-          "title": "Colorado Rockies vs Seattle Mariners",
-          "teams": [
-            "Colorado Rockies",
-            "Seattle Mariners"
-          ],
-          "venue": "Coors Field",
-          "date": "2026-09-18",
-          "time": "18:10",
-          "timeZone": "America/Denver",
-          "teamIDs": [
-            "mlb:baseball:115",
-            "mlb:baseball:136"
-          ]
-        },
-        {
-          "id": "mlb-824138",
-          "competition": "mlb",
-          "title": "Houston Astros vs Atlanta Braves",
-          "teams": [
-            "Houston Astros",
-            "Atlanta Braves"
-          ],
-          "venue": "Daikin Park",
-          "date": "2026-09-18",
-          "time": "19:10",
-          "timeZone": "America/Chicago",
-          "teamIDs": [
-            "mlb:baseball:117",
-            "mlb:baseball:144"
-          ]
-        },
-        {
-          "id": "mlb-823005",
-          "competition": "mlb",
-          "title": "St. Louis Cardinals vs Washington Nationals",
-          "teams": [
-            "St. Louis Cardinals",
-            "Washington Nationals"
-          ],
-          "venue": "Busch Stadium",
-          "date": "2026-09-18",
-          "time": "19:15",
-          "timeZone": "America/Chicago",
-          "teamIDs": [
-            "mlb:baseball:138",
-            "mlb:baseball:120"
-          ]
-        },
-        {
-          "id": "mlb-823977",
-          "competition": "mlb",
-          "title": "Los Angeles Angels vs Minnesota Twins",
-          "teams": [
-            "Los Angeles Angels",
-            "Minnesota Twins"
-          ],
-          "venue": "Angel Stadium",
-          "date": "2026-09-18",
-          "time": "18:38",
-          "timeZone": "America/Los_Angeles",
-          "teamIDs": [
-            "mlb:baseball:108",
-            "mlb:baseball:142"
-          ]
-        },
-        {
-          "id": "mlb-823252",
-          "competition": "mlb",
-          "title": "San Diego Padres vs Miami Marlins",
-          "teams": [
-            "San Diego Padres",
-            "Miami Marlins"
-          ],
-          "venue": "Petco Park",
-          "date": "2026-09-18",
-          "time": "18:40",
-          "timeZone": "America/Los_Angeles",
-          "teamIDs": [
-            "mlb:baseball:135",
-            "mlb:baseball:146"
-          ]
-        },
-        {
-          "id": "mlb-825032",
-          "competition": "mlb",
-          "title": "Arizona Diamondbacks vs New York Yankees",
-          "teams": [
-            "Arizona Diamondbacks",
-            "New York Yankees"
-          ],
-          "venue": "Chase Field",
-          "date": "2026-09-18",
-          "time": "18:40",
-          "timeZone": "America/Phoenix",
-          "teamIDs": [
-            "mlb:baseball:109",
-            "mlb:baseball:147"
-          ]
-        },
-        {
-          "id": "mlb-823898",
-          "competition": "mlb",
-          "title": "Los Angeles Dodgers vs San Francisco Giants",
-          "teams": [
-            "Los Angeles Dodgers",
-            "San Francisco Giants"
-          ],
-          "venue": "UNIQLO Field at Dodger Stadium",
-          "date": "2026-09-18",
-          "time": "19:15",
-          "timeZone": "America/Los_Angeles",
-          "teamIDs": [
-            "mlb:baseball:119",
-            "mlb:baseball:137"
-          ]
-        },
         {
           "id": "mlb-824545",
           "competition": "mlb",
@@ -7703,6 +7451,10 @@
           "date": "2026-09-22",
           "time": "13:05",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "New York Yankees vs Tampa Bay Rays (Game 1)",
+            "es": "New York Yankees vs Tampa Bay Rays (Juego 1)"
+          },
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:139"
@@ -7720,6 +7472,10 @@
           "date": "2026-09-22",
           "time": "19:05",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "New York Yankees vs Tampa Bay Rays (Game 2)",
+            "es": "New York Yankees vs Tampa Bay Rays (Juego 2)"
+          },
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:139"
@@ -7958,6 +7714,10 @@
           "date": "2026-09-23",
           "time": "13:35",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "Baltimore Orioles vs Toronto Blue Jays (Game 1)",
+            "es": "Baltimore Orioles vs Toronto Blue Jays (Juego 1)"
+          },
           "teamIDs": [
             "mlb:baseball:110",
             "mlb:baseball:141"
@@ -7992,6 +7752,10 @@
           "date": "2026-09-23",
           "time": "18:35",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "Baltimore Orioles vs Toronto Blue Jays (Game 2)",
+            "es": "Baltimore Orioles vs Toronto Blue Jays (Juego 2)"
+          },
           "teamIDs": [
             "mlb:baseball:110",
             "mlb:baseball:141"
@@ -8434,6 +8198,10 @@
           "date": "2026-09-25",
           "time": "13:05",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "Boston Red Sox vs Chicago Cubs (Game 1)",
+            "es": "Boston Red Sox vs Chicago Cubs (Juego 1)"
+          },
           "teamIDs": [
             "mlb:baseball:111",
             "mlb:baseball:112"
@@ -8451,6 +8219,10 @@
           "date": "2026-09-25",
           "time": "17:35",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "Boston Red Sox vs Chicago Cubs (Game 2)",
+            "es": "Boston Red Sox vs Chicago Cubs (Juego 2)"
+          },
           "teamIDs": [
             "mlb:baseball:111",
             "mlb:baseball:112"
@@ -8468,6 +8240,10 @@
           "date": "2026-09-25",
           "time": "16:05",
           "timeZone": "America/New_York",
+          "titles": {
+            "en": "New York Yankees vs Baltimore Orioles (Game 1)",
+            "es": "New York Yankees vs Baltimore Orioles (Juego 1)"
+          },
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:110"
@@ -8483,8 +8259,10 @@
           ],
           "venue": "Yankee Stadium",
           "date": "2026-09-25",
-          "time": "16:10",
-          "timeZone": "America/New_York",
+          "titles": {
+            "en": "New York Yankees vs Baltimore Orioles (Game 2)",
+            "es": "New York Yankees vs Baltimore Orioles (Juego 2)"
+          },
           "teamIDs": [
             "mlb:baseball:147",
             "mlb:baseball:110"
@@ -10280,7 +10058,7 @@
       },
       "emoji": "🏈",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#013369",
       "url": "https://www.nfl.com/schedules/",
       "keywords": [
@@ -14747,7 +14525,7 @@
       },
       "emoji": "🏀",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#C9082A",
       "url": "https://www.nba.com/schedule",
       "keywords": [
@@ -36368,7 +36146,7 @@
       },
       "emoji": "⚽️",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#27AE60",
       "url": "https://ligamx.net",
       "keywords": [
@@ -37928,7 +37706,7 @@
           "competition": "liga-mx",
           "venue": "Estadio León, León de los Aldamas",
           "date": "2026-11-08",
-          "time": "19:00",
+          "time": "20:00",
           "timeZone": "America/Mexico_City",
           "stage": {
             "en": "Apertura 2026",
@@ -38205,7 +37983,7 @@
       },
       "emoji": "🇪🇸",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#2F80ED",
       "url": "https://www.laliga.com",
       "keywords": [
@@ -38239,40 +38017,6 @@
         "Villarreal"
       ],
       "occurrences": [
-        {
-          "id": "la-liga-401882874",
-          "title": "Real Betis vs Getafe",
-          "teams": [
-            "Real Betis",
-            "Getafe"
-          ],
-          "teamIDs": [
-            "espn:soccer:244",
-            "espn:soccer:2922"
-          ],
-          "competition": "la-liga",
-          "venue": "Estadio Benito Villamarín, Sevilla",
-          "date": "2026-09-17",
-          "time": "19:00",
-          "timeZone": "Europe/Madrid"
-        },
-        {
-          "id": "la-liga-401882869",
-          "title": "Málaga vs Villarreal",
-          "teams": [
-            "Málaga",
-            "Villarreal"
-          ],
-          "teamIDs": [
-            "espn:soccer:99",
-            "espn:soccer:102"
-          ],
-          "competition": "la-liga",
-          "venue": "La Rosaleda, Malaga",
-          "date": "2026-09-17",
-          "time": "21:30",
-          "timeZone": "Europe/Madrid"
-        },
         {
           "id": "la-liga-401882862",
           "title": "Espanyol vs Elche",
@@ -44036,7 +43780,7 @@
       },
       "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#38003C",
       "url": "https://www.premierleague.com",
       "keywords": [
@@ -49877,7 +49621,7 @@
       },
       "emoji": "⭐️",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#0A1E5C",
       "url": "https://www.uefa.com/uefachampionsleague/",
       "keywords": [
@@ -52112,7 +51856,7 @@
       },
       "emoji": "🇺🇸",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#C8102E",
       "url": "https://www.mlssoccer.com/schedule/",
       "keywords": [
@@ -54586,7 +54330,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#B8860B",
       "url": "https://www.rfef.es",
       "keywords": [
@@ -58763,7 +58507,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#F58220",
       "url": "https://www.uefa.com/uefaeuropaleague/",
       "keywords": [
@@ -58812,159 +58556,6 @@
         "Viktoria Plzen"
       ],
       "occurrences": [
-        {
-          "id": "europa-league-401915584",
-          "title": "Levski Sofia vs RB Salzburg",
-          "teams": [
-            "Levski Sofia",
-            "RB Salzburg"
-          ],
-          "teamIDs": [
-            "espn:soccer:490",
-            "espn:soccer:2790"
-          ],
-          "competition": "europa-league",
-          "venue": "Vasil Levski National Stadium, Sofia",
-          "date": "2026-09-17",
-          "time": "19:45",
-          "timeZone": "Europe/Sofia"
-        },
-        {
-          "id": "europa-league-401915585",
-          "title": "OFI CRETE vs TSG Hoffenheim",
-          "teams": [
-            "OFI CRETE",
-            "TSG Hoffenheim"
-          ],
-          "teamIDs": [
-            "espn:soccer:1010",
-            "espn:soccer:7911"
-          ],
-          "competition": "europa-league",
-          "venue": "Pankritio Stadium, Crete",
-          "date": "2026-09-17",
-          "time": "19:45",
-          "timeZone": "Europe/Athens"
-        },
-        {
-          "id": "europa-league-401915569",
-          "title": "Crystal Palace vs Lech Poznan",
-          "teams": [
-            "Crystal Palace",
-            "Lech Poznan"
-          ],
-          "teamIDs": [
-            "espn:soccer:384",
-            "espn:soccer:2990"
-          ],
-          "competition": "europa-league",
-          "venue": "Selhurst Park, London",
-          "date": "2026-09-17",
-          "time": "20:00",
-          "timeZone": "Europe/London"
-        },
-        {
-          "id": "europa-league-401915581",
-          "title": "Celtic vs Ferencvaros",
-          "teams": [
-            "Celtic",
-            "Ferencvaros"
-          ],
-          "teamIDs": [
-            "espn:soccer:256",
-            "espn:soccer:622"
-          ],
-          "competition": "europa-league",
-          "venue": "Celtic Park, Glasgow",
-          "date": "2026-09-17",
-          "time": "20:00",
-          "timeZone": "Europe/London"
-        },
-        {
-          "id": "europa-league-401915570",
-          "title": "Lillestrom vs Torreense",
-          "teams": [
-            "Lillestrom",
-            "Torreense"
-          ],
-          "teamIDs": [
-            "espn:soccer:987",
-            "espn:soccer:21615"
-          ],
-          "competition": "europa-league",
-          "venue": "Arasen Stadion, Lillestrøm",
-          "date": "2026-09-17",
-          "time": "21:00",
-          "timeZone": "Europe/Oslo"
-        },
-        {
-          "id": "europa-league-401915580",
-          "title": "Viktoria Plzen vs Union St.-Gilloise",
-          "teams": [
-            "Viktoria Plzen",
-            "Union St.-Gilloise"
-          ],
-          "teamIDs": [
-            "espn:soccer:11706",
-            "espn:soccer:5807"
-          ],
-          "competition": "europa-league",
-          "venue": "Doosan Arena, Plzen",
-          "date": "2026-09-17",
-          "time": "21:00",
-          "timeZone": "Europe/Prague"
-        },
-        {
-          "id": "europa-league-401915582",
-          "title": "Juventus vs NEC Nijmegen",
-          "teams": [
-            "Juventus",
-            "NEC Nijmegen"
-          ],
-          "teamIDs": [
-            "espn:soccer:111",
-            "espn:soccer:147"
-          ],
-          "competition": "europa-league",
-          "venue": "Allianz Stadium, Torino",
-          "date": "2026-09-17",
-          "time": "21:00",
-          "timeZone": "Europe/Rome"
-        },
-        {
-          "id": "europa-league-401915583",
-          "title": "Real Sociedad vs AFC Bournemouth",
-          "teams": [
-            "Real Sociedad",
-            "AFC Bournemouth"
-          ],
-          "teamIDs": [
-            "espn:soccer:89",
-            "espn:soccer:349"
-          ],
-          "competition": "europa-league",
-          "venue": "Reale Arena, San Sebastian",
-          "date": "2026-09-17",
-          "time": "21:00",
-          "timeZone": "Europe/Madrid"
-        },
-        {
-          "id": "europa-league-401915591",
-          "title": "Besiktas vs Marseille",
-          "teams": [
-            "Besiktas",
-            "Marseille"
-          ],
-          "teamIDs": [
-            "espn:soccer:1895",
-            "espn:soccer:176"
-          ],
-          "competition": "europa-league",
-          "venue": "Vodafone Park, Istanbul",
-          "date": "2026-09-17",
-          "time": "22:00",
-          "timeZone": "Europe/Istanbul"
-        },
         {
           "id": "europa-league-401915575",
           "title": "Torreense vs Sunderland",
@@ -61156,7 +60747,7 @@
       },
       "emoji": "🏆",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#1B9E77",
       "url": "https://www.uefa.com/uefaconferenceleague/",
       "keywords": [
@@ -63090,7 +62681,7 @@
       },
       "emoji": "🇦🇷",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#74ACDF",
       "url": "https://www.ligaprofesional.ar",
       "keywords": [
@@ -65434,7 +65025,7 @@
       },
       "emoji": "🇧🇷",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#009C3B",
       "url": "https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a",
       "keywords": [
@@ -66527,24 +66118,6 @@
           "timeZone": "America/Sao_Paulo"
         },
         {
-          "id": "brasileirao-401841298",
-          "title": "São Paulo vs Corinthians",
-          "teams": [
-            "São Paulo",
-            "Corinthians"
-          ],
-          "teamIDs": [
-            "espn:soccer:2026",
-            "espn:soccer:874"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estádio Cícero Pompeu de Toledo, Sao Paulo",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
           "id": "brasileirao-401841299",
           "title": "Red Bull Bragantino vs Santos Laguna",
           "teams": [
@@ -66557,82 +66130,9 @@
           ],
           "competition": "brasileirao",
           "venue": "Estádio Municipal Cicero de Souza Marques, Bragança Paulista",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841300",
-          "title": "Palmeiras vs Remo",
-          "teams": [
-            "Palmeiras",
-            "Remo"
-          ],
-          "teamIDs": [
-            "espn:soccer:2029",
-            "espn:soccer:4936"
-          ],
-          "competition": "brasileirao",
-          "venue": "Allianz Parque, Sao Paulo",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841301",
-          "title": "Internacional vs Coritiba",
-          "teams": [
-            "Internacional",
-            "Coritiba"
-          ],
-          "teamIDs": [
-            "espn:soccer:1936",
-            "espn:soccer:3456"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Beira-Rio, Porto Alegre",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841302",
-          "title": "Vitória vs Fluminense",
-          "teams": [
-            "Vitória",
-            "Fluminense"
-          ],
-          "teamIDs": [
-            "espn:soccer:3457",
-            "espn:soccer:3445"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Manoel Barradas, Salvador",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
-        },
-        {
-          "id": "brasileirao-401841303",
-          "title": "Cruzeiro vs Bahia",
-          "teams": [
-            "Cruzeiro",
-            "Bahia"
-          ],
-          "teamIDs": [
-            "espn:soccer:2022",
-            "espn:soccer:9967"
-          ],
-          "competition": "brasileirao",
-          "venue": "Estadio Mineirão, Belo Horizonte",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "date": "2026-11-02",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841304",
@@ -66647,28 +66147,26 @@
           ],
           "competition": "brasileirao",
           "venue": "Arena Condá, Chapecó",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "date": "2026-11-03",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
-          "id": "brasileirao-401841305",
-          "title": "Botafogo vs Atlético-MG",
+          "id": "brasileirao-401841301",
+          "title": "Internacional vs Coritiba",
           "teams": [
-            "Botafogo",
-            "Atlético-MG"
+            "Internacional",
+            "Coritiba"
           ],
           "teamIDs": [
-            "espn:soccer:6086",
-            "espn:soccer:7632"
+            "espn:soccer:1936",
+            "espn:soccer:3456"
           ],
           "competition": "brasileirao",
-          "venue": "Joao Havelange Stadium, Rio de Janeiro",
-          "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "venue": "Estadio Beira-Rio, Porto Alegre",
+          "date": "2026-11-03",
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841306",
@@ -66684,9 +66182,8 @@
           "competition": "brasileirao",
           "venue": "Arena da Baixada, Curitiba",
           "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841307",
@@ -66702,9 +66199,93 @@
           "competition": "brasileirao",
           "venue": "Estadio do Maracana, Rio de Janeiro",
           "date": "2026-11-04",
-          "time": "17:00",
-          "timeZone": "America/Sao_Paulo",
-          "estimated": true
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841305",
+          "title": "Botafogo vs Atlético-MG",
+          "teams": [
+            "Botafogo",
+            "Atlético-MG"
+          ],
+          "teamIDs": [
+            "espn:soccer:6086",
+            "espn:soccer:7632"
+          ],
+          "competition": "brasileirao",
+          "venue": "Joao Havelange Stadium, Rio de Janeiro",
+          "date": "2026-11-04",
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841298",
+          "title": "São Paulo vs Corinthians",
+          "teams": [
+            "São Paulo",
+            "Corinthians"
+          ],
+          "teamIDs": [
+            "espn:soccer:2026",
+            "espn:soccer:874"
+          ],
+          "competition": "brasileirao",
+          "venue": "",
+          "date": "2026-11-05",
+          "time": "00:30",
+          "timeZone": "UTC"
+        },
+        {
+          "id": "brasileirao-401841300",
+          "title": "Palmeiras vs Remo",
+          "teams": [
+            "Palmeiras",
+            "Remo"
+          ],
+          "teamIDs": [
+            "espn:soccer:2029",
+            "espn:soccer:4936"
+          ],
+          "competition": "brasileirao",
+          "venue": "Allianz Parque, Sao Paulo",
+          "date": "2026-11-05",
+          "time": "19:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841303",
+          "title": "Cruzeiro vs Bahia",
+          "teams": [
+            "Cruzeiro",
+            "Bahia"
+          ],
+          "teamIDs": [
+            "espn:soccer:2022",
+            "espn:soccer:9967"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estadio Mineirão, Belo Horizonte",
+          "date": "2026-11-05",
+          "time": "21:30",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "id": "brasileirao-401841302",
+          "title": "Vitória vs Fluminense",
+          "teams": [
+            "Vitória",
+            "Fluminense"
+          ],
+          "teamIDs": [
+            "espn:soccer:3457",
+            "espn:soccer:3445"
+          ],
+          "competition": "brasileirao",
+          "venue": "Estadio Manoel Barradas, Salvador",
+          "date": "2026-11-06",
+          "time": "20:00",
+          "timeZone": "America/Sao_Paulo"
         },
         {
           "id": "brasileirao-401841308",
@@ -67562,7 +67143,7 @@
       },
       "emoji": "⚽️",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#1F6F43",
       "url": "https://ligamx.net",
       "keywords": [
@@ -68851,7 +68432,7 @@
       },
       "emoji": "🌎",
       "category": "sports",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "accent": "#326295",
       "url": "https://www.fifa.com",
       "keywords": [
@@ -88325,6 +87906,90 @@
         "popularity": "C"
       },
       "popularity": "C"
+    },
+    {
+      "id": "lmb",
+      "title": "Mexican Baseball League 2027",
+      "titles": {
+        "en": "Mexican Baseball League 2027",
+        "es": "Liga Mexicana de Béisbol 2027"
+      },
+      "shortTitles": {
+        "en": "LMB 2027",
+        "es": "LMB 2027"
+      },
+      "symbol": "baseball.fill",
+      "backdrop": "beisbol",
+      "duration": 180,
+      "country": "MX",
+      "subtitle": "Pick your team",
+      "subtitles": {
+        "en": "Pick your team",
+        "es": "Elige tu equipo"
+      },
+      "emoji": "⚾️",
+      "category": "sports",
+      "date": "2026-09-29",
+      "accent": "#C8102E",
+      "url": "https://www.lmb.com.mx",
+      "keywords": [
+        "lmb",
+        "liga mexicana de beisbol",
+        "liga mexicana de béisbol",
+        "beisbol",
+        "béisbol",
+        "beisbol mexicano",
+        "rey de reyes"
+      ],
+      "teams": [
+        "Acereros del Norte",
+        "Algodoneros Unión Laguna",
+        "Bravos de León",
+        "Caliente de Durango",
+        "Charros de Jalisco",
+        "Conspiradores de Querétaro",
+        "Diablos Rojos del México",
+        "Dorados de Chihuahua",
+        "El Águila de Veracruz",
+        "Guerreros de Oaxaca",
+        "Leones de Yucatán",
+        "Olmecas de Tabasco",
+        "Pericos de Puebla",
+        "Piratas de Campeche",
+        "Rieleros de Aguascalientes",
+        "Saraperos de Saltillo",
+        "Sultanes de Monterrey",
+        "Tecos de los Dos Laredos",
+        "Tigres de Quintana Roo",
+        "Toros de Tijuana"
+      ],
+      "occurrences": [
+        {
+          "id": "lmb-inauguracion-2027",
+          "title": "Opening Day 2027",
+          "titles": {
+            "en": "Opening Day 2027",
+            "es": "Inauguración de la temporada 2027"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "lmb",
+          "date": "2027-04-16",
+          "estimated": true,
+          "pending": true
+        }
+      ],
+      "shortName": "LMB",
+      "popularity": "B",
+      "news": {
+        "introducedInVersion": 138,
+        "publishedAt": "2026-09-29T02:35:09Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -88339,7 +88004,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#FDB927"
@@ -88356,7 +88021,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE0E2D",
         "#000000"
@@ -88373,7 +88038,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2340",
         "#FFD520"
@@ -88390,7 +88055,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#12173F",
         "#C8102E"
@@ -88407,7 +88072,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#552583",
         "#FDB927"
@@ -88424,7 +88089,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#98002E",
         "#000000"
@@ -88441,7 +88106,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00471B",
         "#EEE1C6"
@@ -88458,7 +88123,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#266092",
         "#79BC43"
@@ -88475,7 +88140,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -88492,7 +88157,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1D428A",
         "#F58426"
@@ -88509,7 +88174,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0150B5",
         "#9CA0A3"
@@ -88526,7 +88191,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008348",
         "#FFFFFF"
@@ -88543,7 +88208,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1D428A",
         "#E01234"
@@ -88560,7 +88225,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#29127A",
         "#E56020"
@@ -88577,7 +88242,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E03A3E",
         "#000000"
@@ -88594,7 +88259,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#5A2D81",
         "#6A7A82"
@@ -88611,7 +88276,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C4CED4"
@@ -88628,7 +88293,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007AC1",
         "#EF3B24"
@@ -88645,7 +88310,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4E008E",
         "#79A3DC"
@@ -88662,7 +88327,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E31837",
         "#002B5C"
@@ -88679,7 +88344,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D91244",
         "#000000"
@@ -88696,7 +88361,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#5D76A9",
         "#12173F"
@@ -88713,7 +88378,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0A2240",
         "#B4975A"
@@ -88730,7 +88395,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008CA8",
         "#1D1060"
@@ -88747,7 +88412,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1141",
         "#000000"
@@ -88764,7 +88429,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#860038",
         "#BC945C"
@@ -88781,7 +88446,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0064B1",
         "#BBC4CA"
@@ -88798,7 +88463,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0E2240",
         "#FEC524"
@@ -88815,7 +88480,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1D428A",
         "#C8102E"
@@ -88832,7 +88497,7 @@
       "competitions": [
         "nba"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1D428A",
         "#FFC72C"
@@ -88849,7 +88514,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A71930",
         "#000000"
@@ -88866,7 +88531,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4495D2",
         "#001532"
@@ -88883,7 +88548,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003B75",
         "#FFFFFF"
@@ -88900,7 +88565,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E31837",
         "#FFB612"
@@ -88917,7 +88582,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#A5ACAF"
@@ -88934,7 +88599,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003594",
         "#FFD100"
@@ -88951,7 +88616,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008E97",
         "#FC4C02"
@@ -88968,7 +88633,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4F2683",
         "#FFC62F"
@@ -88985,7 +88650,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002A5C",
         "#C60C30"
@@ -89002,7 +88667,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D3BC8D",
         "#000000"
@@ -89019,7 +88684,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003C7F",
         "#C9243F"
@@ -89036,7 +88701,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00338D",
         "#D50A0A"
@@ -89053,7 +88718,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#115740",
         "#FFFFFF"
@@ -89070,7 +88735,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#004C54",
         "#A5ACAF"
@@ -89087,7 +88752,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A40227",
         "#FFFFFF"
@@ -89104,7 +88769,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFB612"
@@ -89121,7 +88786,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0080C6",
         "#FFC20E"
@@ -89138,7 +88803,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#AA0000",
         "#B3995D"
@@ -89155,7 +88820,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002A5C",
         "#69BE28"
@@ -89172,7 +88837,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BD1C36",
         "#3E3A35"
@@ -89189,7 +88854,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#5A1414",
         "#FFB612"
@@ -89206,7 +88871,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0085CA",
         "#000000"
@@ -89223,7 +88888,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0B1C3A",
         "#E64100"
@@ -89240,7 +88905,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007487",
         "#D7A22A"
@@ -89257,7 +88922,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#241773",
         "#9E7C0C"
@@ -89274,7 +88939,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#021018",
         "#EB0028"
@@ -89291,7 +88956,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FB4F14",
         "#000000"
@@ -89308,7 +88973,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#472A08",
         "#FF3C00"
@@ -89325,7 +88990,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002A5C",
         "#B0B7BC"
@@ -89342,7 +89007,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0A2343",
         "#FC4C02"
@@ -89359,7 +89024,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0076B6",
         "#BBBBBB"
@@ -89376,7 +89041,7 @@
       "competitions": [
         "nfl"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#204E32",
         "#FFB612"
@@ -89392,7 +89057,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -89408,7 +89073,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -89424,7 +89089,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#CD0000"
@@ -89439,7 +89104,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -89455,7 +89120,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFE600",
         "#007550"
@@ -89470,7 +89135,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#000000"
@@ -89486,7 +89151,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F7AA25",
         "#C60000"
@@ -89502,7 +89167,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C60000"
@@ -89518,7 +89183,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#288A00",
         "#FFFFFF"
@@ -89534,7 +89199,7 @@
         "champions-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF00",
         "#005187"
@@ -89565,7 +89230,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E4002B",
         "#000000"
@@ -89580,7 +89245,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FED100",
         "#009B3A"
@@ -89595,7 +89260,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#990A2C",
         "#F0BC42"
@@ -89610,7 +89275,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1157BF",
         "#000000"
@@ -89627,7 +89292,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#071D49",
         "#EA2300"
@@ -89643,7 +89308,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD100",
         "#009739"
@@ -89659,7 +89324,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D52B1E",
         "#0033A0"
@@ -89678,7 +89343,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CA3624",
         "#272E61"
@@ -89695,7 +89360,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#051F31",
         "#E0D0A6"
@@ -89710,7 +89375,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -89725,7 +89390,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -89743,7 +89408,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00239C",
         "#000000"
@@ -89759,7 +89424,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -89774,7 +89439,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0677D2",
         "#FFFFFF"
@@ -89789,7 +89454,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DD0741",
         "#FFFFFF"
@@ -89805,7 +89470,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFED00",
         "#D81921"
@@ -89821,7 +89486,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0537E4",
         "#F9E814"
@@ -89836,7 +89501,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000DD",
         "#E30613"
@@ -89851,7 +89516,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0537E4",
         "#C60000"
@@ -89868,7 +89533,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#009739",
         "#FFD100"
@@ -89884,7 +89549,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -89900,7 +89565,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -89916,7 +89581,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#7A1E30",
         "#FFFFFF"
@@ -89932,7 +89597,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#60269E",
         "#F0D283"
@@ -89949,7 +89614,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFEE00",
         "#272726"
@@ -89965,7 +89630,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA0308",
         "#FFFFFF"
@@ -89980,7 +89645,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FD0000",
         "#FFFFFF"
@@ -89996,7 +89661,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA0308",
         "#000000"
@@ -90012,7 +89677,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -90027,7 +89692,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0047AB",
         "#FFFFFF"
@@ -90043,7 +89708,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD100",
         "#000000"
@@ -90133,7 +89798,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C0C0C0"
@@ -90150,7 +89815,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DC052D",
         "#FFFFFF"
@@ -90166,7 +89831,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#6CACE4",
         "#0B1F4B"
@@ -90182,7 +89847,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000"
       ]
@@ -90197,7 +89862,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0B1F4B",
         "#FFFFFF"
@@ -90213,7 +89878,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008A3E",
         "#FFFFFF"
@@ -90229,7 +89894,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007A33",
         "#000000"
@@ -90245,7 +89910,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0047AB",
         "#FFFFFF"
@@ -90261,7 +89926,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0047AB",
         "#FFFFFF"
@@ -90276,7 +89941,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0B1F4B"
@@ -90292,7 +89957,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0047AB"
@@ -90308,7 +89973,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#6CACE4",
         "#FFFFFF"
@@ -90324,7 +89989,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0B1F4B"
@@ -90340,7 +90005,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000"
       ]
@@ -90355,7 +90020,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007A33",
         "#FFFFFF"
@@ -90371,7 +90036,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C60000"
@@ -90387,7 +90052,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#DA0308"
@@ -90402,7 +90067,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#32AD42",
         "#C60000"
@@ -90419,7 +90084,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCD116",
         "#009E60"
@@ -90435,7 +90100,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DF1B27",
         "#FFFFFF"
@@ -90451,7 +90116,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C60000"
@@ -90466,7 +90131,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF2F24",
         "#FFFFFF"
@@ -90482,7 +90147,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA131A",
         "#1146B0"
@@ -90498,7 +90163,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF2F24",
         "#000000"
@@ -90513,7 +90178,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF2F24",
         "#008E5A"
@@ -90528,7 +90193,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF2F24",
         "#FFFFFF"
@@ -90544,7 +90209,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#409FFF",
         "#FFFFFF"
@@ -90559,7 +90224,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F31522",
         "#FFFFFF"
@@ -90574,7 +90239,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#B4053F",
         "#005CA5"
@@ -90591,7 +90256,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#DFA829"
@@ -90607,7 +90272,7 @@
         "club-world-cup",
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -90624,7 +90289,7 @@
         "club-world-cup",
         "uefa-super-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#011F68",
         "#DA291C"
@@ -90640,7 +90305,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#103CD6",
         "#FFFFFF"
@@ -90656,7 +90321,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60B1E",
         "#F1BF00"
@@ -90671,7 +90336,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C2051B",
         "#221F64"
@@ -90686,7 +90351,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#14387F"
@@ -90701,7 +90366,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DE2918",
         "#FFFFFF"
@@ -90717,7 +90382,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF2F24",
         "#000000"
@@ -90732,7 +90397,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD100",
         "#00338D"
@@ -90748,7 +90413,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F57C00",
         "#000000"
@@ -90764,7 +90429,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#9BCDE4"
@@ -90780,7 +90445,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E91514",
         "#FFFFFF"
@@ -90795,7 +90460,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E91514",
         "#FFD700"
@@ -90811,7 +90476,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#621226",
         "#FFFFFF"
@@ -90826,7 +90491,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#2FAEE0"
@@ -90842,7 +90507,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#9FD2FF",
         "#000229"
@@ -90858,7 +90523,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#212121",
         "#FFFFFF"
@@ -90875,7 +90540,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#89F442",
         "#000000"
@@ -90891,7 +90556,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -90907,7 +90572,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0060F0",
         "#C60000"
@@ -90923,7 +90588,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#141946"
@@ -90938,7 +90603,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DC171D",
         "#012169"
@@ -90955,7 +90620,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003087",
         "#FE5000"
@@ -90970,7 +90635,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000CD",
         "#FFEC00"
@@ -90986,7 +90651,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FEDD00",
         "#000000"
@@ -91001,7 +90666,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0047AB"
@@ -91017,7 +90682,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#8A2432",
         "#8AB7E9"
@@ -91033,7 +90698,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#9D2235",
         "#AA9767"
@@ -91049,7 +90714,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C6093B",
         "#001F5B"
@@ -91065,7 +90730,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A7C6ED",
         "#0A2240"
@@ -91081,7 +90746,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00235D",
         "#FFFFFF"
@@ -91097,7 +90762,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#022166",
         "#CE0E2D"
@@ -91112,7 +90777,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#1A1A1A"
@@ -91127,7 +90792,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#C7A36F"
@@ -91144,7 +90809,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#ECE83A",
         "#1F1646"
@@ -91160,7 +90825,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002F6C",
         "#FFFFFF"
@@ -91176,7 +90841,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BA0C2F",
         "#FFC72C"
@@ -91192,7 +90857,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003DA6",
         "#FFFFFF"
@@ -91207,7 +90872,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00AAE4",
         "#FFFFFF"
@@ -91223,7 +90888,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CA281D",
         "#FFFFFF"
@@ -91238,7 +90903,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#D61018"
@@ -91253,7 +90918,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD100",
         "#0033A0"
@@ -91268,7 +90933,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -91284,7 +90949,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008BD0",
         "#000000"
@@ -91300,7 +90965,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -91316,7 +90981,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -91331,7 +90996,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D11530",
         "#FFFFFF"
@@ -91362,7 +91027,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00924F",
         "#FFFFFF"
@@ -91377,7 +91042,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#74ACDF",
         "#173E69"
@@ -91392,7 +91057,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0093EC",
         "#FAFAFC"
@@ -91412,7 +91077,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F7B5CD",
         "#231F20"
@@ -91427,7 +91092,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#000000"
@@ -91443,7 +91108,7 @@
         "brasileirao",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#417505",
         "#FAFAFC"
@@ -91459,7 +91124,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#006847",
         "#CE1126"
@@ -91475,7 +91140,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD400",
         "#231F20"
@@ -91490,7 +91155,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#FFFFFF"
@@ -91506,7 +91171,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FEE000",
         "#193375"
@@ -91537,7 +91202,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#ED2224",
         "#FFFFFF"
@@ -91552,7 +91217,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D3362A",
         "#23449C"
@@ -91567,7 +91232,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0033CC",
         "#000000"
@@ -91583,7 +91248,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#254A91"
@@ -91598,7 +91263,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CD1731",
         "#0E235C"
@@ -91614,7 +91279,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DB0030",
         "#080578"
@@ -91630,7 +91295,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#000000"
@@ -91646,7 +91311,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1C1C1B",
         "#00C6D9"
@@ -91661,7 +91326,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0047AB"
@@ -91676,7 +91341,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FBD632",
         "#21418C"
@@ -91691,7 +91356,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFDD00",
         "#034EA2"
@@ -91707,7 +91372,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00B140",
         "#000000"
@@ -91723,7 +91388,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0070B0",
         "#FFFFFF"
@@ -91738,7 +91403,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EA2300",
         "#21418C"
@@ -91754,7 +91419,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CB292E",
         "#FFFFFF"
@@ -91769,7 +91434,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#55B5E5",
         "#000080"
@@ -91784,7 +91449,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#800020",
         "#F7D531"
@@ -91800,7 +91465,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0085CA",
         "#000000"
@@ -91815,7 +91480,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1126",
         "#FFFFFF"
@@ -91830,7 +91495,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#00BCE4"
@@ -91862,7 +91527,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#D4AF37"
@@ -91877,7 +91542,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#166838",
         "#FFFFFF"
@@ -91892,7 +91557,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#000000"
@@ -91907,7 +91572,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#950025",
         "#293D87"
@@ -91924,7 +91589,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000FF",
         "#FFFFFF"
@@ -91940,7 +91605,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EC1458",
         "#001544"
@@ -91956,7 +91621,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#104E8A"
@@ -91972,7 +91637,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FF1493"
@@ -91987,7 +91652,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00792B",
         "#FFFFFF"
@@ -92006,7 +91671,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#001C58",
         "#FFFFFF"
@@ -92022,7 +91687,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD011",
         "#E30013"
@@ -92038,7 +91703,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#13539D",
         "#000000"
@@ -92053,7 +91718,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#82C0FE",
         "#003399"
@@ -92070,7 +91735,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#FFFFFF"
@@ -92086,7 +91751,7 @@
       "competitions": [
         "copa-del-rey"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0B1F4B"
@@ -92102,7 +91767,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#15926D",
         "#FFFFFF"
@@ -92118,7 +91783,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008127",
         "#FFFFFF"
@@ -92135,7 +91800,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#02152B",
         "#697A7C"
@@ -92150,7 +91815,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#022789",
         "#C8102E"
@@ -92168,7 +91833,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF91",
         "#001C58"
@@ -92184,7 +91849,7 @@
         "leagues-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008000",
         "#FFF61B"
@@ -92199,7 +91864,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF0107",
         "#FFFFFF"
@@ -92215,7 +91880,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#FFFFFF"
@@ -92230,7 +91895,7 @@
       "competitions": [
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0032A8"
@@ -92247,7 +91912,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFD011",
         "#0000FF"
@@ -92264,7 +91929,7 @@
         "concachampions",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#172442",
         "#D4A537"
@@ -92280,7 +91945,7 @@
         "club-world-cup",
         "liga-mx"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#001C58",
         "#02B0D0"
@@ -92295,7 +91960,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#288A00",
         "#FFFFFF"
@@ -92310,7 +91975,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#D81022"
@@ -92327,7 +91992,7 @@
         "champions-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0BB363",
         "#FFFFFF"
@@ -92342,7 +92007,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCEE33",
         "#000000"
@@ -92357,7 +92022,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#009921",
         "#FFFFFF"
@@ -92373,7 +92038,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0072CE"
@@ -92388,7 +92053,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4169E1",
         "#FFFFFF"
@@ -92404,7 +92069,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000080",
         "#EF3340"
@@ -92420,7 +92085,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00ABC2",
         "#FFEC2D"
@@ -92436,7 +92101,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#8E003B",
         "#EAD6B7"
@@ -92452,7 +92117,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#FFFFFF"
@@ -92468,7 +92133,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#239E46"
@@ -92485,7 +92150,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#000000"
@@ -92500,7 +92165,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00267F",
         "#FFC726"
@@ -92517,7 +92182,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#000000"
@@ -92532,7 +92197,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00A9CE",
         "#FDDA25"
@@ -92548,7 +92213,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D90F19",
         "#171696"
@@ -92563,7 +92228,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#418FDE",
         "#FBE122"
@@ -92579,7 +92244,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0033A0"
@@ -92596,7 +92261,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#FFD100"
@@ -92613,7 +92278,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00A3E0",
         "#FFD100"
@@ -92630,7 +92295,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#0033A0"
@@ -92645,7 +92310,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CB1515",
         "#002A8F"
@@ -92662,7 +92327,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002D62",
         "#CE1127"
@@ -92677,7 +92342,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0537E4",
         "#FFFFFF"
@@ -92693,7 +92358,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF3340",
         "#009739"
@@ -92708,7 +92373,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4997D0",
         "#FFFFFF"
@@ -92723,7 +92388,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFF200",
         "#22B14C"
@@ -92739,7 +92404,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0033A0",
         "#D21034"
@@ -92754,7 +92419,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#009A44",
         "#C8102E"
@@ -92769,7 +92434,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0067C6",
         "#FFFFFF"
@@ -92785,7 +92450,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D21034",
         "#005293"
@@ -92802,7 +92467,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0077C8",
         "#FFD100"
@@ -92819,7 +92484,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#228B22",
         "#000000"
@@ -92835,7 +92500,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007A33",
         "#C8102E"
@@ -92852,7 +92517,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000080",
         "#FFD700"
@@ -92868,7 +92533,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -92884,7 +92549,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FAFAFC"
@@ -92900,7 +92565,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D21034",
         "#009739"
@@ -92916,7 +92581,7 @@
         "club-world-cup",
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D82C3A",
         "#052A87"
@@ -92932,7 +92597,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -92948,7 +92613,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008751",
         "#FCD116"
@@ -92963,7 +92628,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008000",
         "#EF2B2D"
@@ -92978,7 +92643,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#FCD116"
@@ -92994,7 +92659,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BB0000",
         "#006600"
@@ -93010,7 +92675,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#14B53A",
         "#FCD116"
@@ -93026,7 +92691,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#418FDE",
         "#C60000"
@@ -93042,7 +92707,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E2E201",
         "#00A1DE"
@@ -93058,7 +92723,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DF2027",
         "#006233"
@@ -93074,7 +92739,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -93090,7 +92755,7 @@
         "conference-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000FF",
         "#7F1734"
@@ -93106,7 +92771,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -93121,7 +92786,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCEE33",
         "#000000"
@@ -93136,7 +92801,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#004B92",
         "#FFFFFF"
@@ -93151,7 +92816,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DE1F26",
         "#FFFFFF"
@@ -93167,7 +92832,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -93182,7 +92847,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0900",
         "#FFFFFF"
@@ -93199,7 +92864,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F28800",
         "#000000"
@@ -93230,7 +92895,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CF010E",
         "#FEE813"
@@ -93263,7 +92928,7 @@
         "conference-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0057B8",
         "#FFFFFF"
@@ -93278,7 +92943,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000099",
         "#FFD200"
@@ -93294,7 +92959,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F42727",
         "#FFFFFF"
@@ -93357,7 +93022,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#ECB901",
         "#000000"
@@ -93373,7 +93038,7 @@
         "brasileirao",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#7E0202",
         "#417505"
@@ -93389,7 +93054,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FAFAFC"
@@ -93404,7 +93069,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#417505",
         "#FAFAFC"
@@ -93419,7 +93084,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C6101C",
         "#000000"
@@ -93435,7 +93100,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D80518",
         "#000000"
@@ -93453,7 +93118,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA291C",
         "#000000"
@@ -93470,7 +93135,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#1D428A"
@@ -93487,7 +93152,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E20520",
         "#003399"
@@ -93505,7 +93170,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA020E",
         "#FBE122"
@@ -93522,7 +93187,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -93537,7 +93202,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000FF",
         "#FFFFFF"
@@ -93555,7 +93220,7 @@
         "premier-league",
         "uefa-super-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#670E36",
         "#95BFE5"
@@ -93572,7 +93237,7 @@
         "club-world-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#144992",
         "#FFFFFF"
@@ -93589,7 +93254,7 @@
         "champions-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D11317",
         "#FFFFFF"
@@ -93606,7 +93271,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EB172B",
         "#FFFFFF"
@@ -93624,7 +93289,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0B1426"
@@ -93640,7 +93305,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0606FA",
         "#FFFFFF"
@@ -93672,7 +93337,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -93705,7 +93370,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000FA",
         "#F5F2DC"
@@ -93721,7 +93386,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -93736,7 +93401,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007A3D",
         "#FFFFFF"
@@ -93786,7 +93451,7 @@
         "club-world-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#6CABDD",
         "#1C2C5B"
@@ -93804,7 +93469,7 @@
         "europa-league",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1B458F",
         "#C4122E"
@@ -93837,7 +93502,7 @@
         "carabao-cup",
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#87CCED",
         "#FFFFFF"
@@ -93884,7 +93549,7 @@
       "competitions": [
         "premier-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#FFFFFF"
@@ -93931,7 +93596,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4FB0E5",
         "#FFFFFF"
@@ -93946,7 +93611,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00205B",
         "#EF3340"
@@ -93961,7 +93626,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCDC04",
         "#D90000"
@@ -93977,7 +93642,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF00",
         "#1D8348"
@@ -93993,7 +93658,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCD116",
         "#3A75C4"
@@ -94009,7 +93674,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0099FF",
         "#000000"
@@ -94024,7 +93689,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D50032",
         "#FBDE4A"
@@ -94039,7 +93704,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#EF7D00"
@@ -94055,7 +93720,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#000000"
@@ -94070,7 +93735,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#AA0031",
         "#FDB912"
@@ -94086,7 +93751,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#000000"
@@ -94102,7 +93767,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#791B29",
         "#FFFFFF"
@@ -94117,7 +93782,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D01729",
         "#FFFFFF"
@@ -94132,7 +93797,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFCE00",
         "#006A4E"
@@ -94147,7 +93812,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF00",
         "#002D72"
@@ -94163,7 +93828,7 @@
         "champions-league",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000DD",
         "#FFFFFF"
@@ -94179,7 +93844,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0A4D2E"
@@ -94195,7 +93860,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007A3D",
         "#FFFFFF"
@@ -94211,7 +93876,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D50032",
         "#FFFFFF"
@@ -94227,7 +93892,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#ED2939",
         "#FFFFFF"
@@ -94242,7 +93907,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0072CE",
         "#F89939"
@@ -94258,7 +93923,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -94274,7 +93939,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D21034",
         "#007E3A"
@@ -94290,7 +93955,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#273476",
         "#DD2C33"
@@ -94306,7 +93971,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#E70000"
@@ -94322,7 +93987,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#691A40",
         "#FFFFFF"
@@ -94337,7 +94002,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#695196",
         "#FAFAFC"
@@ -94352,7 +94017,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -94367,7 +94032,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2B6A36",
         "#FFFFFF"
@@ -94382,7 +94047,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#195CCD",
         "#FFFFFF"
@@ -94398,7 +94063,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#195CCD",
         "#FFFFFF"
@@ -94413,7 +94078,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FBD632",
         "#000000"
@@ -94429,7 +94094,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#195CCD"
@@ -94445,7 +94110,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#EA1F29"
@@ -94461,7 +94126,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FB5D00",
         "#21468B"
@@ -94477,7 +94142,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D7141A",
         "#FFFFFF"
@@ -94493,7 +94158,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE2028",
         "#0047A0"
@@ -94510,7 +94175,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#112855",
         "#FFFFFF"
@@ -94525,7 +94190,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DE2400",
         "#FFFFFF"
@@ -94541,7 +94206,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E4181C",
         "#0036A7"
@@ -94557,7 +94222,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#295DA8",
         "#FFFFFF"
@@ -94573,7 +94238,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#992242",
         "#FFFFFF"
@@ -94589,7 +94254,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FEDE00",
         "#0C2FFF"
@@ -94605,7 +94270,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003580",
         "#FFFFFF"
@@ -94621,7 +94286,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E30613",
         "#FDDA24"
@@ -94637,7 +94302,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFE400",
         "#006A44"
@@ -94652,7 +94317,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2F4FA2",
         "#FFFFFF"
@@ -94667,7 +94332,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#00966E"
@@ -94683,7 +94348,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFE600"
@@ -94699,7 +94364,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#00205B"
@@ -94715,7 +94380,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E30A17",
         "#FFFFFF"
@@ -94731,7 +94396,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FECB00",
         "#006AA7"
@@ -94747,7 +94412,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFB81C",
         "#0C562E"
@@ -94763,7 +94428,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2FFF",
         "#FFFFFF"
@@ -94779,7 +94444,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#DA0000"
@@ -94795,7 +94460,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2FFF",
         "#FFFFFF"
@@ -94811,7 +94476,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#DC143C"
@@ -94827,7 +94492,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0C2FFF"
@@ -94843,7 +94508,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCD116",
         "#CE1126"
@@ -94858,7 +94523,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D72B2C",
         "#000000"
@@ -94874,7 +94539,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#FFFFFF"
@@ -94891,7 +94556,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#049A64",
         "#F58241"
@@ -94907,7 +94572,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#0C2FFF"
@@ -94923,7 +94588,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A32035",
         "#DAA900"
@@ -94939,7 +94604,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000080",
         "#ED2939"
@@ -94955,7 +94620,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF8200",
         "#009E60"
@@ -94971,7 +94636,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D02A3E",
         "#FFFFFF"
@@ -94987,7 +94652,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE2029",
         "#FFFFFF"
@@ -95003,7 +94668,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -95018,7 +94683,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DA291C",
         "#0D6938"
@@ -95034,7 +94699,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0046AE",
         "#FFD200"
@@ -95050,7 +94715,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EA2300",
         "#0081D6"
@@ -95066,7 +94731,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCD116",
         "#0051BA"
@@ -95082,7 +94747,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#000000"
@@ -95097,7 +94762,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1126",
         "#FFFFFF"
@@ -95112,7 +94777,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFCD00",
         "#000000"
@@ -95132,7 +94797,7 @@
         "#007C48",
         "#FFFFFF"
       ],
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-09-29"
     },
     {
       "id": "espn:soccer:4885",
@@ -95144,7 +94809,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1126",
         "#FCD116"
@@ -95160,7 +94825,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#555555",
         "#E4002B"
@@ -95175,7 +94840,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0038A8"
@@ -95190,7 +94855,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -95205,7 +94870,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#6182CF",
         "#FCFCFC"
@@ -95221,7 +94886,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF5900",
         "#1A1A1A"
@@ -95236,7 +94901,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#265891",
         "#FAFAFA"
@@ -95251,7 +94916,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DC1F26",
         "#FFFFFF"
@@ -95268,7 +94933,7 @@
         "club-world-cup",
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003087",
         "#F1B434"
@@ -95283,7 +94948,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000080",
         "#FFFFFF"
@@ -95299,7 +94964,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#81C0FF",
         "#FFFFFF"
@@ -95314,7 +94979,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#F9423A"
@@ -95330,7 +94995,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EA2839",
         "#00A551"
@@ -95345,7 +95010,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0081FF",
         "#000000"
@@ -95361,7 +95026,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FF0900"
@@ -95376,7 +95041,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#43B02A",
         "#E4002B"
@@ -95392,7 +95057,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#6AB2E7",
         "#12AD2B"
@@ -95407,7 +95072,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#418FDE",
         "#FFFFFF"
@@ -95423,7 +95088,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#078930",
         "#DA121A"
@@ -95438,7 +95103,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0033A0",
         "#1EB53A"
@@ -95453,7 +95118,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#1EB53A"
@@ -95469,7 +95134,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#174A3F"
@@ -95484,7 +95149,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EB7400",
         "#00534E"
@@ -95499,7 +95164,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DE2400",
         "#FFFFFF"
@@ -95515,7 +95180,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1A2D69",
         "#DE4E44"
@@ -95531,7 +95196,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FCEE33",
         "#002A5C"
@@ -95547,7 +95212,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2D4AB0",
         "#FFFFFF"
@@ -95563,7 +95228,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -95579,7 +95244,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#E70000"
@@ -95594,7 +95259,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#E8112D"
@@ -95609,7 +95274,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#000000"
@@ -95626,7 +95291,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#FFFFFF"
@@ -95641,7 +95306,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#0000CD"
@@ -95656,7 +95321,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00BFFF",
         "#FFFFFF"
@@ -95671,7 +95336,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000CD",
         "#E70000"
@@ -95686,7 +95351,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000BB",
         "#FFFFFF"
@@ -95701,7 +95366,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1126",
         "#000000"
@@ -95717,7 +95382,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF6B00",
         "#101820"
@@ -95733,7 +95398,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DD0741",
         "#FFFFFF"
@@ -95749,7 +95414,7 @@
         "brasileirao",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FAFAFC"
@@ -95765,7 +95430,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#CE1126",
         "#007A3D"
@@ -95781,7 +95446,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#025719",
         "#FFFFFF"
@@ -95796,7 +95461,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FF0000",
         "#FFFFFF"
@@ -95811,7 +95476,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#239B56",
         "#FFFFFF"
@@ -95827,7 +95492,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#4F9A44",
         "#FFFFFF"
@@ -95843,7 +95508,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000555",
         "#BC002D"
@@ -95858,7 +95523,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0093EC",
         "#000000"
@@ -95873,7 +95538,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFCD00",
         "#00843D"
@@ -95888,7 +95553,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BE0027",
         "#000000"
@@ -95903,7 +95568,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#006436"
@@ -95919,7 +95584,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#006C35",
         "#FFFFFF"
@@ -95935,7 +95600,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#197B63",
         "#FBD632"
@@ -95950,7 +95615,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#008751",
         "#FFFFFF"
@@ -95965,7 +95630,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DD342C",
         "#FFE533"
@@ -95981,7 +95646,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#FFFFFF"
@@ -95997,7 +95662,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#213065",
         "#D42339"
@@ -96013,7 +95678,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0000CD",
         "#009543"
@@ -96029,7 +95694,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#006600"
@@ -96046,7 +95711,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFEF00"
@@ -96061,7 +95726,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#FFCE00"
@@ -96076,7 +95741,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002F6C",
         "#D92323"
@@ -96091,7 +95756,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFFFFF"
@@ -96106,7 +95771,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#D4AF37"
@@ -96230,7 +95895,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#AA182C",
         "#A2A9AD"
@@ -96245,7 +95910,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E70000",
         "#FFCD00"
@@ -96260,7 +95925,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C8102E",
         "#0C1C8C"
@@ -96276,7 +95941,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#009F4D",
         "#FFFFFF"
@@ -96291,7 +95956,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FAFAFC"
@@ -96307,7 +95972,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D2232A",
         "#FFDD00"
@@ -96322,7 +95987,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FFFFFF"
@@ -96337,7 +96002,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#5E3A1F",
         "#FFFFFF"
@@ -96352,7 +96017,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002D72",
         "#C60000"
@@ -96365,7 +96030,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#191C51"
@@ -96381,7 +96046,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003399",
         "#FFFFFF"
@@ -96396,7 +96061,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#025719",
         "#FFFFFF"
@@ -96412,7 +96077,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#FFFFFF"
@@ -96427,7 +96092,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#006CB5",
         "#FFFFFF"
@@ -96442,7 +96107,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFDD00",
         "#000000"
@@ -96458,7 +96123,7 @@
         "brasileirao",
         "club-world-cup"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#000000"
@@ -96475,7 +96140,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A50044",
         "#004D98"
@@ -96506,7 +96171,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0055A5",
         "#FFFFFF"
@@ -96522,7 +96187,7 @@
         "europa-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#8AC3EE",
         "#E5254E"
@@ -96540,7 +96205,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#00529F"
@@ -96556,7 +96221,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#1EB53A",
         "#0072C6"
@@ -96572,7 +96237,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#3D8E33",
         "#FFC61E"
@@ -96588,7 +96253,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EF3340",
         "#009739"
@@ -96620,7 +96285,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#3B6C1A"
@@ -96635,7 +96300,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000000",
         "#FAFAFC"
@@ -96650,7 +96315,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#007FC8",
         "#FFFFFF"
@@ -96681,7 +96346,7 @@
       "competitions": [
         "champions-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF00",
         "#000000"
@@ -96697,7 +96362,7 @@
         "europa-league",
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0067B1",
         "#FFFFFF"
@@ -96713,7 +96378,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E4370C",
         "#002D72"
@@ -96729,7 +96394,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E05206",
         "#0DB02B"
@@ -96746,7 +96411,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D50032",
         "#0073CE"
@@ -96761,7 +96426,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D20300",
         "#FFD100"
@@ -96776,7 +96441,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00843D",
         "#D01C1F"
@@ -96792,7 +96457,7 @@
       "competitions": [
         "selecciones"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#012169",
         "#FF9900"
@@ -96808,7 +96473,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFF00",
         "#288A00"
@@ -96824,7 +96489,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002D62",
         "#FFFFFF"
@@ -96839,7 +96504,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#3366CC",
         "#FFFFFF"
@@ -96855,7 +96520,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#0829BA"
@@ -96870,7 +96535,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FEDC00",
         "#417505"
@@ -96902,7 +96567,7 @@
         "la-liga",
         "supercopa-espana"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#EE2523",
         "#FFFFFF"
@@ -96917,7 +96582,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#417505",
         "#FAFAFC"
@@ -96932,7 +96597,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#F8EA2C",
         "#003DA5"
@@ -96948,7 +96613,7 @@
       "competitions": [
         "liga-expansion"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0046AD",
         "#FFFFFF"
@@ -96963,7 +96628,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#FF6F00"
@@ -96978,7 +96643,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0761AF",
         "#FFFFFF"
@@ -96993,7 +96658,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#D91A21",
         "#0A346F"
@@ -97008,7 +96673,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003DA6",
         "#C1C5C8"
@@ -97024,7 +96689,7 @@
       "competitions": [
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2C5234",
         "#C99700"
@@ -97042,7 +96707,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2DC84D",
         "#0033A0"
@@ -97059,7 +96724,7 @@
         "concachampions",
         "mls"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FFFFFF",
         "#12284C"
@@ -97074,7 +96739,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#288A00",
         "#FFFF00"
@@ -97090,7 +96755,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#000061",
         "#FFFFFF"
@@ -97106,7 +96771,7 @@
       "competitions": [
         "liga-argentina"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0093EC",
         "#FFFFFF"
@@ -97121,7 +96786,7 @@
       "competitions": [
         "europa-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E8E337",
         "#000000"
@@ -97136,7 +96801,7 @@
       "competitions": [
         "la-liga"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#418FDE",
         "#FFFFFF"
@@ -97151,7 +96816,7 @@
       "competitions": [
         "brasileirao"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C60000",
         "#0093EC"
@@ -97166,7 +96831,7 @@
       "competitions": [
         "conference-league"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#5699EB",
         "#8E003B"
@@ -97184,7 +96849,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BA0021",
         "#003263"
@@ -97202,7 +96867,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#A71930",
         "#E3D4AD"
@@ -97219,7 +96884,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#DF4601",
         "#000000"
@@ -97236,7 +96901,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#BD3039",
         "#0C2340"
@@ -97254,7 +96919,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0E3386",
         "#CC3433"
@@ -97271,7 +96936,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C6011F",
         "#000000"
@@ -97288,7 +96953,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00385D",
         "#E50022"
@@ -97306,7 +96971,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#333366",
         "#C4CED4"
@@ -97323,7 +96988,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2340",
         "#FA4616"
@@ -97340,7 +97005,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002D62",
         "#EB6E1F"
@@ -97357,7 +97022,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#004687",
         "#BD9B60"
@@ -97375,7 +97040,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#005A9C",
         "#FFFFFF"
@@ -97392,7 +97057,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#AB0003",
         "#14225A"
@@ -97410,7 +97075,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002D72",
         "#FF5910"
@@ -97426,7 +97091,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003831",
         "#EFB21E"
@@ -97443,7 +97108,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#27251F",
         "#FDB827"
@@ -97460,7 +97125,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#2F241D",
         "#FFC425"
@@ -97477,7 +97142,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2C56",
         "#005C5C"
@@ -97494,7 +97159,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#FD5A1E",
         "#27251F"
@@ -97511,7 +97176,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#C41E3A",
         "#0C2340"
@@ -97529,7 +97194,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#092C5C",
         "#8FBCE6"
@@ -97547,7 +97212,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#003278",
         "#C0111F"
@@ -97564,7 +97229,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#134A8E",
         "#E8291C"
@@ -97582,7 +97247,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#002B5C",
         "#D31145"
@@ -97599,7 +97264,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#E81828",
         "#002D72"
@@ -97616,7 +97281,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#13274F",
         "#CE1141"
@@ -97634,7 +97299,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#27251F",
         "#C4CED4"
@@ -97651,7 +97316,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#00A3E0",
         "#000000"
@@ -97669,7 +97334,7 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#0C2340",
         "#C4CED3"
@@ -97686,11 +97351,283 @@
       "competitions": [
         "mlb"
       ],
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "colors": [
         "#12284B",
         "#FFC52F"
       ]
+    },
+    {
+      "id": "mlb:baseball:434",
+      "name": "Bravos",
+      "aliases": [
+        "Bravos de Leon",
+        "Bravos de León",
+        "LEO",
+        "Leon",
+        "León"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:442",
+      "name": "Olmecas",
+      "aliases": [
+        "Olmecas de Tabasco",
+        "TAB",
+        "Tabasco"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:4444",
+      "name": "Caliente",
+      "aliases": [
+        "Caliente de Durango",
+        "DUR",
+        "Durango"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:447",
+      "name": "Algodoneros",
+      "aliases": [
+        "Algodoneros Union Laguna",
+        "Algodoneros Unión Laguna",
+        "LAG",
+        "Laguna"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:496",
+      "name": "Leones",
+      "aliases": [
+        "Kanasin",
+        "Leones de Yucatan",
+        "Leones de Yucatán",
+        "YUC",
+        "Yucatan"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:5010",
+      "name": "Toros",
+      "aliases": [
+        "TIJ",
+        "Tijuana",
+        "Toros de Tijuana"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:502",
+      "name": "Saraperos",
+      "aliases": [
+        "SLW",
+        "Saltillo",
+        "Saraperos de Saltillo"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:520",
+      "name": "Pericos",
+      "aliases": [
+        "PUE",
+        "Pericos de Puebla",
+        "Puebla"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:523",
+      "name": "Piratas",
+      "aliases": [
+        "CAM",
+        "Campeche",
+        "Piratas de Campeche"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:528",
+      "name": "Rieleros",
+      "aliases": [
+        "AGS",
+        "Aguascalientes",
+        "Rieleros de Aguascalientes"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:532",
+      "name": "Diablos Rojos",
+      "aliases": [
+        "Ciudad de México",
+        "Diablos Rojos del Mexico",
+        "Diablos Rojos del México",
+        "MEX",
+        "Mexico"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:536",
+      "name": "Tecos",
+      "aliases": [
+        "Dos Laredos",
+        "LAR",
+        "Nuevo Laredo",
+        "Tecos de los Dos Laredos"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:5567",
+      "name": "El Águila",
+      "aliases": [
+        "El Aguila de Veracruz",
+        "El Águila de Veracruz",
+        "VER",
+        "Veracruz"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:560",
+      "name": "Acereros",
+      "aliases": [
+        "Acereros del Norte",
+        "MVA",
+        "Monclova"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:562",
+      "name": "Sultanes",
+      "aliases": [
+        "MTY",
+        "Monterrey",
+        "Sultanes de Monterrey"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:569",
+      "name": "Tigres",
+      "aliases": [
+        "Cancun",
+        "Quintana Roo",
+        "TIG",
+        "Tigres de Quintana Roo"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:575",
+      "name": "Dorados",
+      "aliases": [
+        "CHI",
+        "Chihuahua",
+        "Dorados de Chihuahua"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:579",
+      "name": "Guerreros",
+      "aliases": [
+        "Guerreros de Oaxaca",
+        "OAX",
+        "Oaxaca"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:6303",
+      "name": "Conspiradores",
+      "aliases": [
+        "Conspiradores de Queretaro",
+        "Conspiradores de Querétaro",
+        "Huimilpan",
+        "QRO",
+        "Queretaro"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
+    },
+    {
+      "id": "mlb:baseball:6304",
+      "name": "Charros",
+      "aliases": [
+        "Charros de Jalisco",
+        "JAL",
+        "Jalisco"
+      ],
+      "competitions": [
+        "lmb"
+      ],
+      "lastSeen": "2026-09-29"
     }
   ],
   "operations": {
