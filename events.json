@@ -1,5 +1,5 @@
 {
-  "version": 139,
+  "version": 140,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -84004,7 +84004,7 @@
       "title": "The Further Mis-Adventures of Cliff Booth",
       "emoji": "🎬",
       "category": "entertainment",
-      "date": "2026-12-23",
+      "date": "2026-11-25",
       "url": "https://www.netflix.com/tudum/articles/david-fincher-new-film-release-date",
       "keywords": [
         "the",
@@ -84091,7 +84091,8 @@
             },
             "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
           }
-        ]
+        ],
+        "date": "2026-11-25"
       },
       "fact": {
         "text": {
@@ -84115,7 +84116,9 @@
           },
           "source": "https://en.wikipedia.org/wiki/The_Further_Mis-Adventures_of_Cliff_Booth"
         }
-      ]
+      ],
+      "dateConfirmedAt": "2026-09-29",
+      "dateConfirmed": true
     },
     {
       "id": "jumanji-open-world-2026",
@@ -98135,6 +98138,14 @@
       "version": 139,
       "target": "jumanji-open-world-2026",
       "at": "2026-09-29T02:44:47.447682+00:00"
+    },
+    "plantel-wikidata-fecha-further-mis-adventures-of-cliff-booth-2026-20260928-2044": {
+      "operationID": "plantel-wikidata-fecha-further-mis-adventures-of-cliff-booth-2026-20260928-2044",
+      "digest": "217b54c6eb0fc2dda74bf8e03d67b7136ed63813033cdc4df37e9c5e42bd2ff0",
+      "status": "applied",
+      "version": 140,
+      "target": "further-mis-adventures-of-cliff-booth-2026",
+      "at": "2026-09-29T02:48:14.284829+00:00"
     }
   }
 }
