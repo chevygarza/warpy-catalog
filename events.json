@@ -1,5 +1,5 @@
 {
-  "version": 143,
+  "version": 144,
   "updatedAt": "2026-09-29",
   "events": [
     {
@@ -36168,6 +36168,7 @@
         "Atlético San Luis",
         "Chivas",
         "Cruz Azul",
+        "FC Juárez",
         "Juárez",
         "León",
         "Necaxa",
@@ -36205,9 +36206,9 @@
         },
         {
           "id": "liga-mx-401876972",
-          "title": "Juárez vs Tigres",
+          "title": "FC Juárez vs Tigres",
           "teams": [
-            "Juárez",
+            "FC Juárez",
             "Tigres"
           ],
           "teamIDs": [
@@ -36520,10 +36521,10 @@
         },
         {
           "id": "liga-mx-401876957",
-          "title": "León vs Juárez",
+          "title": "León vs FC Juárez",
           "teams": [
             "León",
-            "Juárez"
+            "FC Juárez"
           ],
           "teamIDs": [
             "espn:soccer:228",
@@ -36604,9 +36605,9 @@
         },
         {
           "id": "liga-mx-401876952",
-          "title": "Juárez vs Tijuana",
+          "title": "FC Juárez vs Tijuana",
           "teams": [
-            "Juárez",
+            "FC Juárez",
             "Tijuana"
           ],
           "teamIDs": [
@@ -36898,10 +36899,10 @@
         },
         {
           "id": "liga-mx-401876939",
-          "title": "Cruz Azul vs Juárez",
+          "title": "Cruz Azul vs FC Juárez",
           "teams": [
             "Cruz Azul",
-            "Juárez"
+            "FC Juárez"
           ],
           "teamIDs": [
             "espn:soccer:218",
@@ -36961,9 +36962,9 @@
         },
         {
           "id": "liga-mx-401876936",
-          "title": "Juárez vs Atlante",
+          "title": "FC Juárez vs Atlante",
           "teams": [
-            "Juárez",
+            "FC Juárez",
             "Atlante"
           ],
           "teamIDs": [
@@ -37129,10 +37130,10 @@
         },
         {
           "id": "liga-mx-401876928",
-          "title": "Necaxa vs Juárez",
+          "title": "Necaxa vs FC Juárez",
           "teams": [
             "Necaxa",
-            "Juárez"
+            "FC Juárez"
           ],
           "teamIDs": [
             "espn:soccer:229",
@@ -37339,9 +37340,9 @@
         },
         {
           "id": "liga-mx-401876918",
-          "title": "Juárez vs Querétaro",
+          "title": "FC Juárez vs Querétaro",
           "teams": [
-            "Juárez",
+            "FC Juárez",
             "Querétaro"
           ],
           "teamIDs": [
@@ -74411,32 +74412,6 @@
           }
         },
         {
-          "id": "selecciones-401916228",
-          "title": "Túnez vs Malí",
-          "titles": {
-            "en": "Tunisia vs Mali",
-            "es": "Túnez vs Malí"
-          },
-          "teams": [
-            "Túnez",
-            "Malí"
-          ],
-          "teamIDs": [
-            "espn:soccer:659",
-            "espn:soccer:2849"
-          ],
-          "competition": "selecciones",
-          "venue": "",
-          "date": "2026-10-03",
-          "time": "19:00",
-          "timeZone": "Africa/Tunis",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
-        },
-        {
           "id": "selecciones-401917861",
           "title": "Costa de Marfil vs Camerún",
           "titles": {
@@ -74509,6 +74484,31 @@
           "stage": {
             "en": "Concacaf Nations League",
             "es": "Nations League de Concacaf"
+          }
+        },
+        {
+          "id": "selecciones-401916228",
+          "title": "Túnez vs Malí",
+          "titles": {
+            "en": "Tunisia vs Mali",
+            "es": "Túnez vs Malí"
+          },
+          "teams": [
+            "Túnez",
+            "Malí"
+          ],
+          "teamIDs": [
+            "espn:soccer:659",
+            "espn:soccer:2849"
+          ],
+          "competition": "selecciones",
+          "venue": "Stade Olympique de Radès, Hammadi Agrebi Stadium",
+          "date": "2026-10-03",
+          "time": "20:00",
+          "timeZone": "Africa/Tunis",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
@@ -90539,11 +90539,12 @@
     },
     {
       "id": "espn:soccer:17851",
-      "name": "Juárez",
+      "name": "FC Juárez",
       "aliases": [
         "FC Juarez",
         "JUA",
-        "Juarez"
+        "Juarez",
+        "Juárez"
       ],
       "competitions": [
         "liga-mx"
