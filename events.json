@@ -1,5 +1,5 @@
 {
-  "version": 147,
+  "version": 148,
   "updatedAt": "2026-09-30",
   "events": [
     {
@@ -87609,6 +87609,540 @@
         "publishedAt": "2026-09-29T02:35:09Z",
         "eligible": true
       }
+    },
+    {
+      "id": "dia-de-la-revolucion-2026",
+      "title": "Día de la Revolución",
+      "emoji": "🐎",
+      "category": "holidays",
+      "date": "2026-11-16",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "dia",
+        "revolucion",
+        "puente",
+        "dia de descanso",
+        "noviembre"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · third Monday of November",
+      "subtitles": {
+        "es": "Puente · tercer lunes de noviembre"
+      },
+      "shortName": "Revolución",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 11,
+        "ordinal": 3,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-de-la-constitucion-2027",
+      "title": "Día de la Constitución",
+      "emoji": "📜",
+      "category": "holidays",
+      "date": "2027-02-01",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "dia",
+        "constitucion",
+        "puente",
+        "dia de descanso",
+        "febrero"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · first Monday of February",
+      "subtitles": {
+        "es": "Puente · primer lunes de febrero"
+      },
+      "shortName": "Constitución",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 2,
+        "ordinal": 1,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "natalicio-de-benito-juarez-2027",
+      "title": "Natalicio de Benito Juárez",
+      "emoji": "🇲🇽",
+      "category": "holidays",
+      "date": "2027-03-15",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "natalicio",
+        "benito",
+        "juarez",
+        "puente",
+        "dia de descanso",
+        "marzo"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · third Monday of March",
+      "subtitles": {
+        "es": "Puente · tercer lunes de marzo"
+      },
+      "shortName": "Juárez",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "yearlyRule": {
+        "kind": "nthWeekday",
+        "month": 3,
+        "ordinal": 3,
+        "weekday": 2
+      },
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-del-trabajo-mx-2027",
+      "title": "Día del Trabajo",
+      "emoji": "🛠️",
+      "category": "holidays",
+      "date": "2027-05-01",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "dia",
+        "del",
+        "trabajo",
+        "dia de descanso",
+        "1 de mayo"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · May 1",
+      "subtitles": {
+        "es": "Día de descanso · 1 de mayo"
+      },
+      "shortName": "Día Trabajo",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-de-la-independencia-2027",
+      "title": "Día de la Independencia",
+      "emoji": "🇲🇽",
+      "category": "holidays",
+      "date": "2027-09-16",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "dia",
+        "independencia",
+        "dia de descanso",
+        "16 de septiembre",
+        "desfile"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · September 16",
+      "subtitles": {
+        "es": "Día de descanso · 16 de septiembre"
+      },
+      "shortName": "16 de sept",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-de-reyes-2027",
+      "title": "Día de Reyes",
+      "emoji": "👑",
+      "category": "holidays",
+      "date": "2027-01-06",
+      "url": "https://es.wikipedia.org/wiki/Epifan%C3%ADa_del_Se%C3%B1or",
+      "keywords": [
+        "dia",
+        "reyes",
+        "reyes magos",
+        "rosca",
+        "6 de enero"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · January 6",
+      "subtitles": {
+        "es": "Rosca de Reyes · 6 de enero"
+      },
+      "shortName": "Reyes",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-de-la-candelaria-2027",
+      "title": "Día de la Candelaria",
+      "emoji": "🫔",
+      "category": "holidays",
+      "date": "2027-02-02",
+      "url": "https://es.wikipedia.org/wiki/Fiesta_de_la_Candelaria",
+      "keywords": [
+        "dia",
+        "candelaria",
+        "tamales",
+        "2 de febrero"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · February 2",
+      "subtitles": {
+        "es": "Tamales · 2 de febrero"
+      },
+      "shortName": "Candelaria",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-del-nino-mx-2027",
+      "title": "Día del Niño",
+      "emoji": "🧸",
+      "category": "holidays",
+      "date": "2027-04-30",
+      "url": "https://es.wikipedia.org/wiki/D%C3%ADa_del_Ni%C3%B1o",
+      "keywords": [
+        "dia",
+        "del",
+        "nino",
+        "dia del nino",
+        "ninos",
+        "30 de abril"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · April 30",
+      "subtitles": {
+        "es": "30 de abril"
+      },
+      "shortName": "Día del Niño",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "dia-del-maestro-mx-2027",
+      "title": "Día del Maestro",
+      "emoji": "🍎",
+      "category": "holidays",
+      "date": "2027-05-15",
+      "url": "https://es.wikipedia.org/wiki/D%C3%ADa_del_Maestro",
+      "keywords": [
+        "dia",
+        "del",
+        "maestro",
+        "dia del maestro",
+        "maestros",
+        "15 de mayo"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · May 15",
+      "subtitles": {
+        "es": "15 de mayo"
+      },
+      "shortName": "Día Maestro",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "posadas-2026",
+      "title": "Posadas",
+      "emoji": "🪅",
+      "category": "holidays",
+      "date": "2026-12-16",
+      "url": "https://es.wikipedia.org/wiki/Las_Posadas",
+      "keywords": [
+        "posadas",
+        "posada",
+        "pinata",
+        "ponche",
+        "diciembre"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · from December 16",
+      "subtitles": {
+        "es": "Empiezan el 16 de diciembre"
+      },
+      "shortName": "Posadas",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "aguinaldo-2026",
+      "title": "Aguinaldo",
+      "emoji": "💰",
+      "category": "culture",
+      "date": "2026-12-20",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+      "keywords": [
+        "aguinaldo",
+        "20 de diciembre",
+        "pago"
+      ],
+      "origin": "telegram",
+      "subtitle": "Mexico · paid by December 20",
+      "subtitles": {
+        "es": "Fecha límite de pago · 20 de diciembre"
+      },
+      "shortName": "Aguinaldo",
+      "regions": [
+        "MX"
+      ],
+      "repeatsYearly": true,
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "orionids-2026",
+      "title": "Orionids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2026-10-21",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/orionids/",
+      "keywords": [
+        "orionids",
+        "oriónidas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Oriónidas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Oriónidas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "leonids-2026",
+      "title": "Leonids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2026-11-17",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/leonids/",
+      "keywords": [
+        "leonids",
+        "leónidas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Leónidas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Leónidas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "geminids-2026",
+      "title": "Geminids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2026-12-14",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/geminids/",
+      "keywords": [
+        "geminids",
+        "gemínidas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Gemínidas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Gemínidas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "quadrantids-2027",
+      "title": "Quadrantids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2027-01-03",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/quadrantids/",
+      "keywords": [
+        "quadrantids",
+        "cuadrántidas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Cuadrántidas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Cuadrántidas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "lyrids-2027",
+      "title": "Lyrids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2027-04-22",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/lyrids/",
+      "keywords": [
+        "lyrids",
+        "líridas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Líridas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Líridas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
+    },
+    {
+      "id": "perseids-2027",
+      "title": "Perseids",
+      "emoji": "🌠",
+      "category": "space",
+      "date": "2027-08-12",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/",
+      "keywords": [
+        "perseids",
+        "perseidas",
+        "lluvia de estrellas",
+        "meteoros",
+        "meteor shower"
+      ],
+      "origin": "telegram",
+      "subtitle": "Meteor shower · peak",
+      "titles": {
+        "es": "Perseidas"
+      },
+      "subtitles": {
+        "es": "Lluvia de estrellas · máximo"
+      },
+      "estimated": true,
+      "repeatsYearly": true,
+      "shortName": "Perseidas",
+      "news": {
+        "introducedInVersion": 148,
+        "publishedAt": "2026-09-30T19:21:35Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -97779,6 +98313,14 @@
       "version": 142,
       "target": "the-exorcist-martyrs-2027,oscars-2027",
       "at": "2026-09-29T15:49:18.731353+00:00"
+    },
+    "cronos-fechas-que-se-calculan-20260930": {
+      "operationID": "cronos-fechas-que-se-calculan-20260930",
+      "digest": "46e3e7a7a25b299bd84191b21918ac9031d69101e6512bf0e4ef61629ac7b3f5",
+      "status": "applied",
+      "version": 148,
+      "target": "dia-de-la-revolucion-2026,dia-de-la-constitucion-2027,natalicio-de-benito-juarez-2027,dia-del-trabajo-mx-2027,dia-de-la-independencia-2027,dia-de-reyes-2027,dia-de-la-candelaria-2027,dia-del-nino-mx-2027,dia-del-maestro-mx-2027,posadas-2026,aguinaldo-2026,orionids-2026,leonids-2026,geminids-2026,quadrantids-2027,lyrids-2027,perseids-2027",
+      "at": "2026-09-30T19:21:22.973059+00:00"
     }
   }
 }
