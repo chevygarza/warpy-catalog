@@ -1,5 +1,5 @@
 {
-  "version": 145,
+  "version": 146,
   "updatedAt": "2026-09-30",
   "events": [
     {
@@ -14207,6 +14207,246 @@
           "time": "00:00",
           "timeZone": "America/New_York",
           "estimated": true
+        },
+        {
+          "id": "nfl-401872910",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-16",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872911",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-16",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872912",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872913",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872914",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872915",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-18",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872916",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-23",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872917",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-23",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872918",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-24",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872919",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-24",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872920",
+          "title": "Semifinals",
+          "titles": {
+            "en": "Semifinals",
+            "es": "Semifinales"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-31",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872921",
+          "title": "Semifinals",
+          "titles": {
+            "en": "Semifinals",
+            "es": "Semifinales"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-31",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
         },
         {
           "id": "nfl-401873270",
@@ -58219,7 +58459,6 @@
         "Marseille",
         "NEC Nijmegen",
         "NK Celje",
-        "OFI CRETE",
         "OFI Crete",
         "Olympiacos",
         "Omonia Nicosia",
@@ -59801,10 +60040,10 @@
         },
         {
           "id": "europa-league-401915479",
-          "title": "SK Sturm Graz vs OFI CRETE",
+          "title": "SK Sturm Graz vs OFI Crete",
           "teams": [
             "SK Sturm Graz",
-            "OFI CRETE"
+            "OFI Crete"
           ],
           "teamIDs": [
             "espn:soccer:3746",
@@ -60362,9 +60601,9 @@
         },
         {
           "id": "europa-league-401915470",
-          "title": "OFI CRETE vs Lech Poznan",
+          "title": "OFI Crete vs Lech Poznan",
           "teams": [
-            "OFI CRETE",
+            "OFI Crete",
             "Lech Poznan"
           ],
           "teamIDs": [
@@ -65568,7 +65807,7 @@
           "competition": "brasileirao",
           "venue": "Estádio Vila Belmiro (Urbano Caldeira), Santos",
           "date": "2026-10-24",
-          "time": "20:00",
+          "time": "21:00",
           "timeZone": "America/Sao_Paulo"
         },
         {
@@ -68275,6 +68514,7 @@
         "Tayikistán",
         "Togo",
         "Trinidad y Tobago",
+        "Turkmenistán",
         "Turquía",
         "Túnez",
         "Ucrania",
@@ -72492,6 +72732,31 @@
           }
         },
         {
+          "id": "selecciones-401917065",
+          "title": "Seychelles vs Sri Lanka",
+          "titles": {
+            "en": "Seychelles vs Sri Lanka",
+            "es": "Seychelles vs Sri Lanka"
+          },
+          "teams": [
+            "Seychelles",
+            "Sri Lanka"
+          ],
+          "teamIDs": [
+            "espn:soccer:6726",
+            "espn:soccer:5782"
+          ],
+          "competition": "selecciones",
+          "venue": "Stade Linité, Victoria",
+          "date": "2026-09-30",
+          "time": "16:00",
+          "timeZone": "Indian/Mahe",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401922308",
           "title": "Papúa Nueva Guinea vs Islas Salomón",
           "titles": {
@@ -72536,31 +72801,6 @@
           "date": "2026-09-30",
           "time": "16:00",
           "timeZone": "Africa/Gaborone",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          }
-        },
-        {
-          "id": "selecciones-401917065",
-          "title": "Seychelles vs Sri Lanka",
-          "titles": {
-            "en": "Seychelles vs Sri Lanka",
-            "es": "Seychelles vs Sri Lanka"
-          },
-          "teams": [
-            "Seychelles",
-            "Sri Lanka"
-          ],
-          "teamIDs": [
-            "espn:soccer:6726",
-            "espn:soccer:5782"
-          ],
-          "competition": "selecciones",
-          "venue": "Stade Linité, Victoria",
-          "date": "2026-09-30",
-          "time": "17:00",
-          "timeZone": "Indian/Mahe",
           "stage": {
             "en": "Friendly",
             "es": "Amistoso"
@@ -72690,6 +72930,7 @@
             "en": "Friendly",
             "es": "Amistoso"
           },
+          "status": "cancelled",
           "estimated": true
         },
         {
@@ -73069,6 +73310,31 @@
           }
         },
         {
+          "id": "selecciones-401919420",
+          "title": "Maldivas vs Líbano",
+          "titles": {
+            "en": "Maldives vs Lebanon",
+            "es": "Maldivas vs Líbano"
+          },
+          "teams": [
+            "Maldivas",
+            "Líbano"
+          ],
+          "teamIDs": [
+            "espn:soccer:4390",
+            "espn:soccer:4388"
+          ],
+          "competition": "selecciones",
+          "venue": "Dolen Omurzakov Stadium, Bishkek",
+          "date": "2026-10-01",
+          "time": "20:00",
+          "timeZone": "Asia/Bishkek",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
+          }
+        },
+        {
           "id": "selecciones-401861095",
           "title": "Israel vs Kosovo",
           "titles": {
@@ -73192,32 +73458,6 @@
             "en": "UEFA Nations League",
             "es": "Nations League"
           }
-        },
-        {
-          "id": "selecciones-401919420",
-          "title": "Maldivas vs Líbano",
-          "titles": {
-            "en": "Maldives vs Lebanon",
-            "es": "Maldivas vs Líbano"
-          },
-          "teams": [
-            "Maldivas",
-            "Líbano"
-          ],
-          "teamIDs": [
-            "espn:soccer:4390",
-            "espn:soccer:4388"
-          ],
-          "competition": "selecciones",
-          "venue": "",
-          "date": "2026-10-01",
-          "time": "23:00",
-          "timeZone": "Indian/Maldives",
-          "stage": {
-            "en": "Friendly",
-            "es": "Amistoso"
-          },
-          "estimated": true
         },
         {
           "id": "selecciones-401918509",
@@ -73421,18 +73661,18 @@
         },
         {
           "id": "selecciones-401914141",
-          "title": "China vs Palestina",
+          "title": "China vs Turkmenistán",
           "titles": {
-            "en": "China vs Palestine",
-            "es": "China vs Palestina"
+            "en": "China vs Turkmenistan",
+            "es": "China vs Turkmenistán"
           },
           "teams": [
             "China",
-            "Palestina"
+            "Turkmenistán"
           ],
           "teamIDs": [
             "espn:soccer:658",
-            "espn:soccer:6167"
+            "espn:soccer:7507"
           ],
           "competition": "selecciones",
           "venue": "Chongqing Longxing Football Stadium, Chongqing",
@@ -73867,6 +74107,31 @@
           "stage": {
             "en": "UEFA Nations League",
             "es": "Nations League"
+          }
+        },
+        {
+          "id": "selecciones-401927444",
+          "title": "Vanuatu vs Fiyi",
+          "titles": {
+            "en": "Vanuatu vs Fiji",
+            "es": "Vanuatu vs Fiyi"
+          },
+          "teams": [
+            "Vanuatu",
+            "Fiyi"
+          ],
+          "teamIDs": [
+            "espn:soccer:4864",
+            "espn:soccer:4862"
+          ],
+          "competition": "selecciones",
+          "venue": "HFC Bank Stadium, Suva",
+          "date": "2026-10-03",
+          "time": "16:00",
+          "timeZone": "Pacific/Fiji",
+          "stage": {
+            "en": "Friendly",
+            "es": "Amistoso"
           }
         },
         {
