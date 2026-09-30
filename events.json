@@ -1,5 +1,5 @@
 {
-  "version": 146,
+  "version": 147,
   "updatedAt": "2026-09-30",
   "events": [
     {
@@ -14207,246 +14207,6 @@
           "time": "00:00",
           "timeZone": "America/New_York",
           "estimated": true
-        },
-        {
-          "id": "nfl-401872910",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-16",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872911",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-16",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872912",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-17",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872913",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-17",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872914",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-17",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872915",
-          "title": "Playoffs",
-          "titles": {
-            "en": "Playoffs",
-            "es": "Playoffs"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-18",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872916",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-23",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872917",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-23",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872918",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-24",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872919",
-          "title": "Quarterfinals",
-          "titles": {
-            "en": "Quarterfinals",
-            "es": "Cuartos de Final"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-24",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872920",
-          "title": "Semifinals",
-          "titles": {
-            "en": "Semifinals",
-            "es": "Semifinales"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-31",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
-        },
-        {
-          "id": "nfl-401872921",
-          "title": "Semifinals",
-          "titles": {
-            "en": "Semifinals",
-            "es": "Semifinales"
-          },
-          "subtitle": "To be defined",
-          "subtitles": {
-            "en": "To be defined",
-            "es": "Por definir"
-          },
-          "teams": [],
-          "competition": "nfl",
-          "date": "2027-01-31",
-          "time": "05:00",
-          "timeZone": "UTC",
-          "estimated": true,
-          "pending": true
         },
         {
           "id": "nfl-401873270",
@@ -68086,6 +67846,55 @@
           }
         },
         {
+          "id": "liga-expansion-401886326",
+          "title": "Leones Negros vs Tepatitlán FC",
+          "teams": [
+            "Leones Negros",
+            "Tepatitlán FC"
+          ],
+          "teamIDs": [
+            "espn:soccer:10129",
+            "espn:soccer:20721"
+          ],
+          "competition": "liga-expansion",
+          "venue": "Estadio Jalisco, Guadalajara",
+          "date": "2026-10-30",
+          "time": "12:00",
+          "timeZone": "America/Mexico_City",
+          "stage": {
+            "en": "Apertura 2026",
+            "es": "Torneo Apertura 2026"
+          },
+          "status": "scheduled",
+          "origin": "telegram",
+          "override": {
+            "date": "2026-10-30",
+            "status": "scheduled",
+            "sourceStatus": null
+          },
+          "sourceSnapshot": {
+            "id": "liga-expansion-401886326",
+            "title": "Leones Negros vs Tepatitlán FC",
+            "teams": [
+              "Leones Negros",
+              "Tepatitlán FC"
+            ],
+            "teamIDs": [
+              "espn:soccer:10129",
+              "espn:soccer:20721"
+            ],
+            "competition": "liga-expansion",
+            "venue": "Estadio Jalisco, Guadalajara",
+            "date": "2026-11-01",
+            "time": "12:00",
+            "timeZone": "America/Mexico_City",
+            "stage": {
+              "en": "Apertura 2026",
+              "es": "Torneo Apertura 2026"
+            }
+          }
+        },
+        {
           "id": "liga-expansion-401886327",
           "title": "Correcaminos UAT vs Venados FC",
           "teams": [
@@ -68126,55 +67935,6 @@
             "en": "Apertura 2026",
             "es": "Torneo Apertura 2026"
           }
-        },
-        {
-          "id": "liga-expansion-401886326",
-          "title": "Leones Negros vs Tepatitlán FC",
-          "teams": [
-            "Leones Negros",
-            "Tepatitlán FC"
-          ],
-          "teamIDs": [
-            "espn:soccer:10129",
-            "espn:soccer:20721"
-          ],
-          "competition": "liga-expansion",
-          "venue": "Estadio Jalisco, Guadalajara",
-          "date": "2026-10-30",
-          "time": "20:45",
-          "timeZone": "America/Mexico_City",
-          "stage": {
-            "en": "Apertura 2026",
-            "es": "Torneo Apertura 2026"
-          },
-          "status": "scheduled",
-          "sourceSnapshot": {
-            "id": "liga-expansion-401886326",
-            "title": "Leones Negros vs Tepatitlán FC",
-            "teams": [
-              "Leones Negros",
-              "Tepatitlán FC"
-            ],
-            "teamIDs": [
-              "espn:soccer:10129",
-              "espn:soccer:20721"
-            ],
-            "competition": "liga-expansion",
-            "venue": "Estadio Jalisco, Guadalajara",
-            "date": "2026-10-30",
-            "time": "20:45",
-            "timeZone": "America/Mexico_City",
-            "stage": {
-              "en": "Apertura 2026",
-              "es": "Torneo Apertura 2026"
-            }
-          },
-          "override": {
-            "date": "2026-10-30",
-            "status": "scheduled",
-            "sourceStatus": null
-          },
-          "origin": "telegram"
         },
         {
           "id": "liga-expansion-401886324",
@@ -68274,7 +68034,7 @@
           },
           "teams": [],
           "competition": "liga-expansion",
-          "date": "2026-11-01",
+          "date": "2026-11-02",
           "estimated": true,
           "pending": true
         }
@@ -68514,7 +68274,6 @@
         "Tayikistán",
         "Togo",
         "Trinidad y Tobago",
-        "Turkmenistán",
         "Turquía",
         "Túnez",
         "Ucrania",
@@ -73661,18 +73420,18 @@
         },
         {
           "id": "selecciones-401914141",
-          "title": "China vs Turkmenistán",
+          "title": "China vs Palestina",
           "titles": {
-            "en": "China vs Turkmenistan",
-            "es": "China vs Turkmenistán"
+            "en": "China vs Palestine",
+            "es": "China vs Palestina"
           },
           "teams": [
             "China",
-            "Turkmenistán"
+            "Palestina"
           ],
           "teamIDs": [
             "espn:soccer:658",
-            "espn:soccer:7507"
+            "espn:soccer:6167"
           ],
           "competition": "selecciones",
           "venue": "Chongqing Longxing Football Stadium, Chongqing",
@@ -83072,7 +82831,8 @@
           },
           "source": "https://www.paramountpictures.com/movies/street-fighter"
         }
-      ]
+      ],
+      "sourceUnreachableSince": "2026-09-30"
     },
     {
       "id": "clayface-2026",
@@ -83846,7 +83606,8 @@
           },
           "source": "https://www.paramountpictures.com/movies/the-angry-birds-movie-3"
         }
-      ]
+      ],
+      "sourceUnreachableSince": "2026-09-30"
     },
     {
       "id": "further-mis-adventures-of-cliff-booth-2026",
@@ -84659,7 +84420,8 @@
         "introducedInVersion": 110,
         "publishedAt": "2026-09-25T20:18:24Z",
         "eligible": true
-      }
+      },
+      "sourceUnreachableSince": "2026-09-30"
     },
     {
       "id": "godzilla-x-kong-supernova-2027",
