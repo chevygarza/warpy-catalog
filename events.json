@@ -1,5 +1,5 @@
 {
-  "version": 149,
+  "version": 150,
   "updatedAt": "2026-10-01",
   "events": [
     {
@@ -8814,7 +8814,29 @@
           "teamIDs": [
             "mlb:baseball:117",
             "mlb:baseball:145"
-          ]
+          ],
+          "status": "cancelled",
+          "sourceSnapshot": {
+            "id": "mlb-849846",
+            "competition": "mlb",
+            "title": "Houston Astros vs Chicago White Sox",
+            "teams": [
+              "Houston Astros",
+              "Chicago White Sox"
+            ],
+            "venue": "Daikin Park",
+            "date": "2026-09-30",
+            "time": "16:00",
+            "timeZone": "America/Chicago",
+            "teamIDs": [
+              "mlb:baseball:117",
+              "mlb:baseball:145"
+            ]
+          },
+          "override": {
+            "status": "cancelled"
+          },
+          "origin": "telegram"
         },
         {
           "id": "mlb-849848",
@@ -97797,6 +97819,14 @@
       "version": 148,
       "target": "dia-de-la-revolucion-2026,dia-de-la-constitucion-2027,natalicio-de-benito-juarez-2027,dia-del-trabajo-mx-2027,dia-de-la-independencia-2027,dia-de-reyes-2027,dia-de-la-candelaria-2027,dia-del-nino-mx-2027,dia-del-maestro-mx-2027,posadas-2026,aguinaldo-2026,orionids-2026,leonids-2026,geminids-2026,quadrantids-2027,lyrids-2027,perseids-2027",
       "at": "2026-09-30T19:21:22.973059+00:00"
+    },
+    "plantel-mlb-849846-20260930-2112": {
+      "operationID": "plantel-mlb-849846-20260930-2112",
+      "digest": "2c1a570a54101b2fbf79f4f7edaf844db3a96ffd2413607c757f48e0cb1eb245",
+      "status": "applied",
+      "version": 150,
+      "target": "mlb-849846",
+      "at": "2026-10-01T03:14:14.460596+00:00"
     }
   }
 }
