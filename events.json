@@ -1,5 +1,5 @@
 {
-  "version": 150,
+  "version": 151,
   "updatedAt": "2026-10-01",
   "events": [
     {
@@ -944,7 +944,9 @@
         }
       ],
       "shortName": "Invierno 34",
-      "popularity": "B"
+      "popularity": "B",
+      "dateConfirmedAt": "2026-10-01",
+      "dateConfirmed": true
     },
     {
       "id": "womens-world-cup-2027",
@@ -14232,11 +14234,251 @@
           "estimated": true
         },
         {
-          "id": "nfl-401873270",
-          "title": "Final",
+          "id": "nfl-401872910",
+          "title": "Playoffs",
           "titles": {
-            "en": "Final",
-            "es": "Gran Final"
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-16",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872911",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-16",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872912",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872913",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872914",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-17",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872915",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-18",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872916",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-23",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872917",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-23",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872918",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-24",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872919",
+          "title": "Quarterfinals",
+          "titles": {
+            "en": "Quarterfinals",
+            "es": "Cuartos de Final"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-24",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872920",
+          "title": "Semifinals",
+          "titles": {
+            "en": "Semifinals",
+            "es": "Semifinales"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-31",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401872921",
+          "title": "Semifinals",
+          "titles": {
+            "en": "Semifinals",
+            "es": "Semifinales"
+          },
+          "subtitle": "To be defined",
+          "subtitles": {
+            "en": "To be defined",
+            "es": "Por definir"
+          },
+          "teams": [],
+          "competition": "nfl",
+          "date": "2027-01-31",
+          "time": "05:00",
+          "timeZone": "UTC",
+          "estimated": true,
+          "pending": true
+        },
+        {
+          "id": "nfl-401873270",
+          "title": "Playoffs",
+          "titles": {
+            "en": "Playoffs",
+            "es": "Playoffs"
           },
           "subtitle": "To be defined",
           "subtitles": {
@@ -83568,7 +83810,8 @@
           },
           "source": "https://en.wikipedia.org/wiki/Narnia:_The_Magician%27s_Nephew"
         }
-      ]
+      ],
+      "sourceUnreachableSince": "2026-10-01"
     },
     {
       "id": "the-revenge-of-la-llorona-2027",
@@ -85445,11 +85688,8 @@
           "source": "https://deadline.com/2026/01/conjuring-first-communion-great-beyond-panic-carefully-release-dates-1236685371/"
         }
       ],
-      "dateIssue": {
-        "kind": "unsupported",
-        "since": "2026-10-01",
-        "detail": "fecha sin año cerca ni en la cabecera de la página"
-      }
+      "dateConfirmedAt": "2026-10-01",
+      "dateConfirmed": true
     },
     {
       "id": "the-haunting-of-hotel-transylvania-2027",
@@ -85693,7 +85933,8 @@
         "introducedInVersion": 111,
         "publishedAt": "2026-09-25T20:21:55Z",
         "eligible": true
-      }
+      },
+      "sourceUnreachableSince": "2026-10-01"
     },
     {
       "id": "helldivers-2027",
