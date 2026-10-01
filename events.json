@@ -1,5 +1,5 @@
 {
-  "version": 151,
+  "version": 152,
   "updatedAt": "2026-10-01",
   "events": [
     {
@@ -87882,6 +87882,43 @@
         "publishedAt": "2026-09-30T19:21:35Z",
         "eligible": true
       }
+    },
+    {
+      "id": "windows-surface-and-nvidia-rtx-spark-event-2026",
+      "title": "Windows, Surface and NVIDIA RTX Spark Event",
+      "emoji": "🚀",
+      "category": "entertainment",
+      "date": "2026-10-07",
+      "url": "https://x.com/Windows/status/2105674331464335616",
+      "keywords": [
+        "windows",
+        "surface",
+        "and",
+        "nvidia",
+        "rtx",
+        "spark",
+        "event",
+        "nvidia rtx spark",
+        "microsoft"
+      ],
+      "origin": "telegram",
+      "subcategory": "launches",
+      "venue": "YouTube",
+      "time": "10:00",
+      "timeZone": "America/Los_Angeles",
+      "shortName": "Windows,",
+      "fact": {
+        "text": {
+          "es": "El evento de Windows, Surface y NVIDIA RTX Spark se programó para el 7 de octubre a las 10:00 AM PT.",
+          "en": "The Windows, Surface, and NVIDIA RTX Spark event was scheduled for October 7 at 10:00 AM PT."
+        },
+        "source": "https://x.com/Windows/status/2105674331464335616"
+      },
+      "news": {
+        "introducedInVersion": 152,
+        "publishedAt": "2026-10-01T18:06:15Z",
+        "eligible": true
+      }
     }
   ],
   "teams": [
@@ -98068,6 +98105,14 @@
       "version": 150,
       "target": "mlb-849846",
       "at": "2026-10-01T03:14:14.460596+00:00"
+    },
+    "plantel-windows-surface-and-nvidia-rtx-spark-event-20261001-1204": {
+      "operationID": "plantel-windows-surface-and-nvidia-rtx-spark-event-20261001-1204",
+      "digest": "9dafb26ad0daf0a8d3036acecc775421be3ed2ffac96e6fd76d98417c58b5503",
+      "status": "applied",
+      "version": 152,
+      "target": "windows-surface-and-nvidia-rtx-spark-event-2026",
+      "at": "2026-10-01T18:06:14.699781+00:00"
     }
   }
 }
