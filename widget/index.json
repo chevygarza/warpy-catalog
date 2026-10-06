@@ -150,6 +150,7 @@
 "python-3-15-0-2026":"eventos/python-3-15-0-2026.json",
 "quadrantids-2027":"eventos/quadrantids-2027.json",
 "ramadan-2027":"eventos/ramadan-2027.json",
+"rawayana-2026":"eventos/rawayana-2026.json",
 "rayados-a-vs-rayados-b-2026":"eventos/rayados-a-vs-rayados-b-2026.json",
 "rayman-legends-retold-2026":"eventos/rayman-legends-retold-2026.json",
 "reality-fracture-2026":"eventos/reality-fracture-2026.json",
@@ -878,7 +879,7 @@
 "eventos/liga-argentina.json":"27c0d54d809fe96e5571bdf8490f938a8c9e1f113e78f7bc88c0c1b0ed711150",
 "eventos/liga-expansion.json":"94a1a3be40f8cfbef152cc4a29a6a6c93c2d7a0962e76fd92b05387fc9e21316",
 "eventos/liga-mx-apertura-2026-final.json":"00fac00c7847b1923404e09ace37f34a8e03b515bf3a33b480db1d2336a47198",
-"eventos/liga-mx.json":"a8a42c5c991617b521501a647a3f2644fce09b56436674d9d6a70117fd0cb10c",
+"eventos/liga-mx.json":"dc12c676e162187cacf74b73a0adc13e006cc51fffcaf30f09ade3f3645609e0",
 "eventos/lilo-and-stitch-2-2028.json":"2fa9fb9cb9bccb9ffd6e2506a3723d0a468ac7b726a6e1032c1496da8ea6fc48",
 "eventos/lmb.json":"f3681c53a7a965a5d7204a833cea9b7efb99e743b08e578512f46ad0512375de",
 "eventos/lotr-the-hunt-for-gollum-2027.json":"05c8d6adf7ba980ac15f19b8de34cb99bdd3d0956d42d3ffee10e34bd1f4b3d9",
@@ -928,6 +929,7 @@
 "eventos/python-3-15-0-2026.json":"a8500c0b5d65e191230434cf1b358f94bbe2ca499e3776f39a2bb4f9628d9b20",
 "eventos/quadrantids-2027.json":"33ae61551b02778901e3612fadd1e4ee73a68410bb026fd82b6b84e859cbf4a5",
 "eventos/ramadan-2027.json":"469da42e2395ac3710b8838a1f25f132d107a84e21467b0cca24fbad0d9a1fb0",
+"eventos/rawayana-2026.json":"6e3b9b4484cb5122b66d52a5093bf070dd5e7b7f872b1549421398b087303a85",
 "eventos/rayados-a-vs-rayados-b-2026.json":"1e464ecd8b59f9d4f02dc6bc958b8ba2ca1374ef9292dc86a01be970b39d18e8",
 "eventos/rayman-legends-retold-2026.json":"fbcef2c445f96fb430cd8c8b484dbb295e8cfdbc751910e7b24b6c0fe7eeee81",
 "eventos/reality-fracture-2026.json":"bf9d5c46b3a73ab4d5553406fa24b85cab2b0fedd5ec750ee9611a394be5f9ec",
@@ -992,7 +994,7 @@
 "eventos/y2k38.json":"e553490c39761784a018c46b96eb1fb2520394f8169ebf02b6f2c3bee9e2f440",
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "teams.json":"e64a643373a08f58bbe15be76b211ad2605053605443ed0138327122816dfc1d",
-"ventana.json":"9409186db14a41bc4d2fc85935c2253aa8dc30da52ae1dd2491b8d035b91e732"
+"ventana.json":"f0960f554ddb3fe42933fe00c2ffb9b96b45132bab3a76e8a2f385edaae9e369"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1547,4 +1549,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-06","version":164,"window":{"from":"2026-10-05","to":"2026-10-16"}}
+},"updatedAt":"2026-10-06","version":165,"window":{"from":"2026-10-05","to":"2026-10-16"}}
