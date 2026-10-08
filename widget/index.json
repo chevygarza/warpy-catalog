@@ -248,6 +248,7 @@
 "travis-2026":"eventos/travis-2026.json",
 "trueno-2026":"eventos/trueno-2026.json",
 "two-door-cinema-club-2026":"eventos/two-door-cinema-club-2026.json",
+"tyson-fury-vs-anthony-joshua-2026":"eventos/tyson-fury-vs-anthony-joshua-2026.json",
 "ubuntu-26-10-2026":"eventos/ubuntu-26-10-2026.json",
 "uefa-euro-2028":"eventos/uefa-euro-2028.json",
 "ufc":"eventos/ufc.json",
@@ -1080,6 +1081,7 @@
 "eventos/travis-2026.json":"0206e0793421a17383290273f9e3be0194654204ce875884e9fce8389332e7c6",
 "eventos/trueno-2026.json":"7b54230004e122d6341785e6f1b453c0dcc675f94d742f1a294721d555b7f1e2",
 "eventos/two-door-cinema-club-2026.json":"82f465c04100fd9b7e69a54e47c9f417bd203e22d6e556f354ecf44c30eb3e41",
+"eventos/tyson-fury-vs-anthony-joshua-2026.json":"f8a6c2920be327742f4ac0872b87e4f273d189f0b83c7293f90055e495831805",
 "eventos/ubuntu-26-10-2026.json":"4924195a225bbe17642ca6f1fbc83511d9b68cb1946774bb02b3bd3c71df6fc7",
 "eventos/uefa-euro-2028.json":"477526c2b7634538e1d7aa74121720b42b17d49d3f04b82b58fbcbe3dc786fd6",
 "eventos/ufc.json":"5004750f98382fca648b8730e39ad83e911845851a7412c9d57850d4633b0c29",
@@ -1100,7 +1102,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "eventos/zz-top-2026.json":"8f8fc2837e59a6e3d5e54c592cbc0076e4731cd50575e89e0f975f7ae8cabe2e",
 "teams.json":"ceeca7d6ec7a3a6a56b248e94fba57d9064b85bb78737e8cb231e448c2661313",
-"ventana.json":"caa89520065df53be32e43891d164bd4daeea8a3524c1712a77c4090eeb22453"
+"ventana.json":"209185bc16df6a293f1d69b1cf7d33d59e319e468c6f2f365b56d6ae61cc9414"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1636,4 +1638,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-08","version":178,"window":{"from":"2026-10-07","to":"2026-10-18"}}
+},"updatedAt":"2026-10-08","version":179,"window":{"from":"2026-10-07","to":"2026-10-18"}}
