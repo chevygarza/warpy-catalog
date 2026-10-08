@@ -97,6 +97,7 @@
 "final-destination-7-2028":"eventos/final-destination-7-2028.json",
 "final-fantasy-vii-revelation-2027":"eventos/final-fantasy-vii-revelation-2027.json",
 "focker-in-law-2026":"eventos/focker-in-law-2026.json",
+"forza-horizon-6-2027":"eventos/forza-horizon-6-2027.json",
 "frozen-3-2027":"eventos/frozen-3-2027.json",
 "further-mis-adventures-of-cliff-booth-2026":"eventos/further-mis-adventures-of-cliff-booth-2026.json",
 "gatto-2027":"eventos/gatto-2027.json",
@@ -930,6 +931,7 @@
 "eventos/final-destination-7-2028.json":"09e35b017d128b420afb0103644e9e40d2bce1c3451d1a7f53b966a167d9f11b",
 "eventos/final-fantasy-vii-revelation-2027.json":"837821cabde7b70540db3c0f49bc2d5e60feab7283844ccc380a3457fe428d22",
 "eventos/focker-in-law-2026.json":"86142fdf076ba7e61b605faaedb31fce066f9b2310d2d40b1bb9a3cb3be5547d",
+"eventos/forza-horizon-6-2027.json":"3d0bde9a23e5aac903f665712cb5e995597dd65cba362748acfdd25a8a80894b",
 "eventos/frozen-3-2027.json":"6526f96411f1571c4287b95b9f78b436b31779da40df36eeda017a443868bfd6",
 "eventos/further-mis-adventures-of-cliff-booth-2026.json":"0e27cf4d41b0d240bd69eaf8b966810e6d66514e44355ffad09f20c03ffed69d",
 "eventos/gatto-2027.json":"d7db728efe53b8245cf9ac23589324218729876a4feac4fe046ac5d4a2e4e655",
@@ -1102,7 +1104,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "eventos/zz-top-2026.json":"8f8fc2837e59a6e3d5e54c592cbc0076e4731cd50575e89e0f975f7ae8cabe2e",
 "teams.json":"ceeca7d6ec7a3a6a56b248e94fba57d9064b85bb78737e8cb231e448c2661313",
-"ventana.json":"b945c57e169eefaeaad6d6a2ec7a98847a9e1f187dc4caf86f6b49df5db758c4"
+"ventana.json":"f402e40bea95e16293bc82da04315eb220d7ea480916102e06fba31fd18d1db6"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1638,4 +1640,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-08","version":180,"window":{"from":"2026-10-07","to":"2026-10-18"}}
+},"updatedAt":"2026-10-08","version":181,"window":{"from":"2026-10-07","to":"2026-10-18"}}
