@@ -9,6 +9,7 @@
 "angry-birds-movie-3-2026":"eventos/angry-birds-movie-3-2026.json",
 "anime-estrenos":"eventos/anime-estrenos.json",
 "annular-solar-eclipse-on-february-6-2027-2027":"eventos/annular-solar-eclipse-on-february-6-2027-2027.json",
+"apple-event-welcome-home-2026":"eventos/apple-event-welcome-home-2026.json",
 "asian-games-2026":"eventos/asian-games-2026.json",
 "asuetos-mexico":"eventos/asuetos-mexico.json",
 "attack-on-titan-3-2026":"eventos/attack-on-titan-3-2026.json",
@@ -839,6 +840,7 @@
 "eventos/angry-birds-movie-3-2026.json":"f36c674499c80ba67d68028f04e2079708d05b0a74c8d04ac029c690f42c8d09",
 "eventos/anime-estrenos.json":"42fb0db28e205370561e036880d405982985b137c78f22dacfa8d589970ec0be",
 "eventos/annular-solar-eclipse-on-february-6-2027-2027.json":"7baec198447aff3c2c9500ecb3f87d29140e801382d0073449cfa18023004c16",
+"eventos/apple-event-welcome-home-2026.json":"93aff10d258efd20b79a826e1fa1de904846342ef63633f7f59f0c6dfae10f3a",
 "eventos/asian-games-2026.json":"b3ab0b06a9630e0852f09df55f5a7b6d956c4e897e6a4cc42433520d7ef8acf6",
 "eventos/asuetos-mexico.json":"8f9a8f60c6112a1fe51a0fe52e213365ac4c8bf744076a277c1f0aa0c9be482e",
 "eventos/attack-on-titan-3-2026.json":"00eaab711bc51a58ec66e1d16dae8ab4bb8ec95e1553a27c81d7667a51c12b90",
@@ -1096,7 +1098,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "eventos/zz-top-2026.json":"8f8fc2837e59a6e3d5e54c592cbc0076e4731cd50575e89e0f975f7ae8cabe2e",
 "teams.json":"ceeca7d6ec7a3a6a56b248e94fba57d9064b85bb78737e8cb231e448c2661313",
-"ventana.json":"99d9a948e02d7551722e1c0913f303db520284e43931ed7a373c77975229338c"
+"ventana.json":"d82c3ae0e00ccac4f6ff736cff23c82acdc540fdcc3bd73dd0a5fa96d8db0f5a"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1632,4 +1634,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-08","version":175,"window":{"from":"2026-10-07","to":"2026-10-18"}}
+},"updatedAt":"2026-10-08","version":176,"window":{"from":"2026-10-07","to":"2026-10-18"}}
