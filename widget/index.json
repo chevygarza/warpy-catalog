@@ -857,7 +857,7 @@
 "eventos/caifanes-2026.json":"f6507e38ce73f8f15c7749f4236bb49cc2a06cc47ea25843ef8b5249ecc39c11",
 "eventos/call-of-duty-2028.json":"ee78a77e191a9c172d22db22356c2e5c6b608277a59ae850d19bb0ec1f293aee",
 "eventos/call-of-duty-modern-warfare-4-2026.json":"d3724757e5a8b6ad7e38f64ba86f62ef29648241796a4ca4e55c462f07f094cb",
-"eventos/canelo-vs-mbilli-2026.json":"5e1c666049e92a21ccf2d3de5ed25d468db1f525f795636d9028ba6797dec8de",
+"eventos/canelo-vs-mbilli-2026.json":"f0b4514bd6667b25e3b40ab0fd6f54324e323db9ce1f88e93dcf669d213a5e47",
 "eventos/carabao-cup.json":"858426e605c547c12ffc2bce27f149399c643aa3a3600ccd021331aed9347b26",
 "eventos/castlevania-belmonts-curse-2026.json":"3403a76cc066e5a0eed5f514fd31c1140defb0ee534e8b8110836d777e040945",
 "eventos/ces-2027.json":"83df034c6f096571620ca7bd1f4072634d0dfd65762f82eac2e53777a3665adc",
@@ -1102,7 +1102,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "eventos/zz-top-2026.json":"8f8fc2837e59a6e3d5e54c592cbc0076e4731cd50575e89e0f975f7ae8cabe2e",
 "teams.json":"ceeca7d6ec7a3a6a56b248e94fba57d9064b85bb78737e8cb231e448c2661313",
-"ventana.json":"209185bc16df6a293f1d69b1cf7d33d59e319e468c6f2f365b56d6ae61cc9414"
+"ventana.json":"b945c57e169eefaeaad6d6a2ec7a98847a9e1f187dc4caf86f6b49df5db758c4"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1638,4 +1638,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-08","version":179,"window":{"from":"2026-10-07","to":"2026-10-18"}}
+},"updatedAt":"2026-10-08","version":180,"window":{"from":"2026-10-07","to":"2026-10-18"}}
