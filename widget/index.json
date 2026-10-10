@@ -960,7 +960,7 @@
 "eventos/halley-2061.json":"b855f3afdf22ee8590244db39fae5ca729be1ad8dcb6dbf387dabedca0aa3841",
 "eventos/halloween-2026.json":"55fe23bde66a2db4334e68741dcbcd03b2187838aa1bebaac6df8e2047401ca5",
 "eventos/hanukkah-2026.json":"d969f4f1397ee2c457ef99e46e54b871c20c5eb2d709f06cddfe12f9b3987a63",
-"eventos/helldivers-2027.json":"4bc564daf653e3a2f7ad8391dd4fa0ca1664f4dd4da8008d4a6248bfeaa47383",
+"eventos/helldivers-2027.json":"9f29e63640eb1aa3bff2d6036296a3b0c0c488a5ee4e56b5e065e0aeb041c17d",
 "eventos/hexed-2026.json":"dc6f1b27ca4fb0b806583a01843037ead987db37478ba5c573271004f983028c",
 "eventos/hot-sale-2027.json":"b28c42fa6ef93ef91508fb368294113efd675ec2975d69f8ae338b3e87d6f4e1",
 "eventos/how-to-train-your-dragon-2-2027.json":"37cf2946f492dc840734b2602ddd49ce6f567962da3e2b16790ab2f75d8cbb70",
@@ -1122,7 +1122,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"15acafc48c8a3e9e0e2237ace73f908aee5118755693df2d6a6b89d49c8e6141",
 "eventos/zz-top-2026.json":"8f8fc2837e59a6e3d5e54c592cbc0076e4731cd50575e89e0f975f7ae8cabe2e",
 "teams.json":"856bea89f991a853444ba952b665beb1edae21a7421a49bf3d541524e204d7a2",
-"ventana.json":"bbf2b3fa3d45602d4f0e50c2b8764db78e1cfbab2826355faef937f393b0c0fb"
+"ventana.json":"5c50d804ad466d56e484f990b95e10d8291cd5f6ed44ca5e8614d4f8b5e0a618"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1653,4 +1653,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-10","version":187,"window":{"from":"2026-10-09","to":"2026-10-20"}}
+},"updatedAt":"2026-10-10","version":188,"window":{"from":"2026-10-09","to":"2026-10-20"}}
