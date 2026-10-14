@@ -1077,7 +1077,7 @@
 "eventos/super-bowl-lxi-2027.json":"bd580d849ff478efd7990bcb350983eb9c70c49274ee5daf05effb4d65ae3763",
 "eventos/super-bowl-lxii-2028.json":"66b9d4fe7cb7b49498d4e97fe88c1745ec92e37c81721891f521a922380eb189",
 "eventos/tangled-2028.json":"845f0f354132db1fa6b38a50500854beecab17e3b0509731a07e1f1da58ee736",
-"eventos/tesla-roadster-2026.json":"e224e7f074444a22e69d715d1e523157217019b69b13580fa75813c00b31e8af",
+"eventos/tesla-roadster-2026.json":"81f37c90e2e8a5e17949a0a98e76785a34295c584605a5e7d9df998d767c1907",
 "eventos/thanksgiving-2026.json":"c7cebc58db17054710e0c5fcab21257b343d43831c21a752618c27985a586ba1",
 "eventos/the-batman-part-ii.json":"269ad9b5aec9dff5c85d83e9951419ac2563c879e20acfc68b2bf46cbbddc894",
 "eventos/the-beatles-2028.json":"f35ee4458d13822770023e5194fe8ec12bc85be1e4bbdcb3fc4e1464fad2f87b",
@@ -1126,7 +1126,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"db3a61df5097e6e5b50cb29ab6309e8ab65efec0a6e73b4fa4ba96f73dd0d574",
 "eventos/zz-top-2026.json":"609383d3a59ccde39ca3cd3d6aff97859165d81bf9474514918e17d77a04fb5e",
 "teams.json":"55fc3e80948268caa1729cd44d4c9a9f50b3c47609df3a9df2edec62333896c5",
-"ventana.json":"e79e0eaf9b38adf05fbb0945395d725a6089521a5b9d7c0653a1e21e9d8c8856"
+"ventana.json":"2376f586fc92f77f902574b50e3eb63026bccdd1020c11cdbb6277c4c16f4386"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1628,4 +1628,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-13","version":200,"window":{"from":"2026-10-12","to":"2026-10-23"}}
+},"updatedAt":"2026-10-14","version":201,"window":{"from":"2026-10-13","to":"2026-10-24"}}
