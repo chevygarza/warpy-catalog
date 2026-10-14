@@ -1021,11 +1021,11 @@
 "eventos/nba.json":"bcf2075d31a6fab25ab74c6722d2083b42d2a1c738ec22413566d28459e26029",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"16aaf382ea2b3a6991f12a4327f162e3aeedebbe90744198dae8817cd995188d",
+"eventos/nfl.json":"0869bf448b000697cf591a126813398516da0d64e9e06936c2b323c4e850b81c",
 "eventos/nintendo-switch-sports-resort-2026.json":"83903c634caf5df44f45604a402574cb831fc7a7a938367988bd278028b363c2",
 "eventos/not-alone-2027.json":"8fd190ccc603365ac2e7f51440367015d814e3fcd8baa38388124177ace88ca9",
 "eventos/nvidia-gtc-2027.json":"6a929f397dfaf70764a3cab045d7df4944467fe2327d153caa2a11a169c2d1e0",
-"eventos/oceans-eleven-prequel-2027.json":"06de30adad282d2e3c41111589dadaf3c6f5bd454f5bc1348c73b43218fd577c",
+"eventos/oceans-eleven-prequel-2027.json":"93cb83c691b368a233b013f46b5ad6ac4cd6d7a165fb1145c9012f10c349b7cb",
 "eventos/oktoberfest-2026.json":"12477b40fb44dec2d95ee72f3065ab78acd822e18c569db3cdb956647eaf9dc4",
 "eventos/olympics-brisbane-2032.json":"eb0039a9a54e35f9fa714ffdb23611d196d0265acb30bd894651d5f6b35448c6",
 "eventos/olympics-la-2028.json":"4966944b277002bb16618b7bc2e634d69be10e0978015dc1b7e0214c819d9a14",
@@ -1126,7 +1126,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"db3a61df5097e6e5b50cb29ab6309e8ab65efec0a6e73b4fa4ba96f73dd0d574",
 "eventos/zz-top-2026.json":"609383d3a59ccde39ca3cd3d6aff97859165d81bf9474514918e17d77a04fb5e",
 "teams.json":"cfee8e4069126c58580940ff4b9a22ba0b5c4aa3935e2b805973ac2cf717106a",
-"ventana.json":"0d13f8db3ca3ad9ad9f8a71b5dd7fd730853c5a6e9173092cb15aac3f619d840"
+"ventana.json":"7bec0459fbe59213f0e5ec7360220459903b98b6e535e0e1cbf686d28b81eb59"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1628,4 +1628,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-14","version":203,"window":{"from":"2026-10-13","to":"2026-10-24"}}
+},"updatedAt":"2026-10-14","version":204,"window":{"from":"2026-10-13","to":"2026-10-24"}}
