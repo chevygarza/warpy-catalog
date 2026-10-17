@@ -119,6 +119,8 @@
 "hanukkah-2026":"eventos/hanukkah-2026.json",
 "helldivers-2027":"eventos/helldivers-2027.json",
 "hexed-2026":"eventos/hexed-2026.json",
+"homepod-mini-2-2026":"eventos/homepod-mini-2-2026.json",
+"homeview-and-apple-tv-4k-2026":"eventos/homeview-and-apple-tv-4k-2026.json",
 "hot-sale-2027":"eventos/hot-sale-2027.json",
 "how-to-train-your-dragon-2-2027":"eventos/how-to-train-your-dragon-2-2027.json",
 "hunger-games-sunrise-on-the-reaping-2026":"eventos/hunger-games-sunrise-on-the-reaping-2026.json",
@@ -970,6 +972,8 @@
 "eventos/hanukkah-2026.json":"56d7bebf56b09bcdeb251ab45729ee05a6ccf9f16f126a82d77bf9c949599a83",
 "eventos/helldivers-2027.json":"da0d7b062cd39371c66c9582bcc97de75cf6d7ad735f2f3f2a9e94d551658066",
 "eventos/hexed-2026.json":"bec506c0c6807454b459da9ca6dfbcfdd31d5b37d0ff12fbd86e41a47af0220e",
+"eventos/homepod-mini-2-2026.json":"7cbb0242d283ac26de1dc3a581500a9e4aabfb28c5febe932a3264f67c9d8849",
+"eventos/homeview-and-apple-tv-4k-2026.json":"418961b888c2e443c1ada1bac0572f8c04d79e9f1c3a93baad07ff348304c514",
 "eventos/hot-sale-2027.json":"b28c42fa6ef93ef91508fb368294113efd675ec2975d69f8ae338b3e87d6f4e1",
 "eventos/how-to-train-your-dragon-2-2027.json":"d9327256dcdcc75370fe86567ef7cc8073c02628751539b0f9cb0999992c0e4b",
 "eventos/hunger-games-sunrise-on-the-reaping-2026.json":"f45d943ba71a796d7ddf3a2b80961597dd849c0328940028b8dea3c0ff957f4b",
@@ -1136,7 +1140,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ac2f2198b1d04d0dcc8f0dcc6f14b1561ede6320837d2485eb2744dd3888675d",
 "eventos/zz-top-2026.json":"a8232ae4566a2e65772f438996f6d9fc1a69c0a939ae3b85699010e8ad91e590",
 "teams.json":"8d1701bf2b1cb98d48a337849409d0f74abd97ca9d6e8f58477d26e59e495b69",
-"ventana.json":"984a5153be10f903526f3fc824170f7051ac03234d969376ddae6f1b7544fbd5"
+"ventana.json":"a00def7e96b2d3e0d601442dd9e91bc95993a076fd9eb24704f2fc9f1ea9611a"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1594,4 +1598,4 @@
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-17","version":214,"window":{"from":"2026-10-16","to":"2026-10-27"}}
+},"updatedAt":"2026-10-17","version":215,"window":{"from":"2026-10-16","to":"2026-10-27"}}
