@@ -439,7 +439,7 @@
 {"game":"espn:401914126","event":"nba","at":"2026-10-16T23:00:00Z","teamIDs":["espn:basketball:11","espn:basketball:15"],"teams":["Indiana Pacers","Milwaukee Bucks"],"score":[127,128]}
 {"game":"espn:401898408","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:6","espn:basketball:1"],"teams":["Dallas Mavericks","Atlanta Hawks"],"score":[111,135]}
 {"game":"espn:401898843","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:24","espn:basketball:23"],"teams":["San Antonio Spurs","Sacramento Kings"],"score":[126,97]}
-{"game":"espn:401901822","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:29","espn:basketball:30"],"teams":["Memphis Grizzlies","Charlotte Hornets"],"score":[117,98]}
+{"game":"espn:401901822","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:29","espn:basketball:30"],"teams":["Memphis Grizzlies","Charlotte Hornets"],"score":[116,98]}
 {"game":"espn:401906509","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:3","espn:basketball:27"],"teams":["New Orleans Pelicans","Washington Wizards"],"score":[107,106]}
 {"game":"espn:401908943","event":"nba","at":"2026-10-17T00:00:00Z","teamIDs":["espn:basketball:4","espn:basketball:16"],"teams":["Chicago Bulls","Minnesota Timberwolves"],"score":[133,116]}
 {"game":"espn:401841627","event":"liga-argentina","at":"2026-10-17T00:30:00Z","teamIDs":["espn:soccer:5","espn:soccer:19"],"teams":["Boca Juniors","Talleres (Córdoba)"],"score":[2,1]}
@@ -472,3 +472,30 @@
 {"game":"espn:401841614","event":"liga-argentina","at":"2026-10-17T23:00:00Z","teamIDs":["espn:soccer:9785","espn:soccer:17"],"teams":["Atlético Tucumán","Rosario Central"],"score":[2,3]}
 {"game":"espn:401841616","event":"liga-argentina","at":"2026-10-17T23:00:00Z","teamIDs":["espn:soccer:21","espn:soccer:11972"],"teams":["Vélez Sarsfield","Gimnasia (Mendoza)"],"score":[1,0]}
 {"game":"espn:401876942","event":"liga-mx","at":"2026-10-17T23:00:00Z","teamIDs":["espn:soccer:225","espn:soccer:222"],"teams":["Santos Laguna","Querétaro"],"score":[5,0]}
+{"game":"espn:401876943","event":"liga-mx","at":"2026-10-17T23:07:00Z","teamIDs":["espn:soccer:219","espn:soccer:232"],"teams":["Chivas","Tigres"],"score":[1,1]}
+{"game":"espn:761877","event":"mls","at":"2026-10-17T23:30:00Z","teamIDs":["espn:soccer:17606","espn:soccer:18966"],"teams":["New York City FC","LAFC"],"score":[1,1]}
+{"game":"espn:761878","event":"mls","at":"2026-10-17T23:30:00Z","teamIDs":["espn:soccer:190","espn:soccer:7318"],"teams":["Red Bull New York","Toronto FC"],"score":[0,2]}
+{"game":"espn:761879","event":"mls","at":"2026-10-17T23:30:00Z","teamIDs":["espn:soccer:189","espn:soccer:182"],"teams":["New England Revolution","Chicago Fire FC"],"score":[1,0]}
+{"game":"espn:761880","event":"mls","at":"2026-10-17T23:30:00Z","teamIDs":["espn:soccer:18418","espn:soccer:20232"],"teams":["Atlanta United FC","Inter Miami"],"score":[1,3]}
+{"game":"espn:761881","event":"mls","at":"2026-10-17T23:30:00Z","teamIDs":["espn:soccer:12011","espn:soccer:193"],"teams":["Orlando City SC","D.C. United"],"score":[4,1]}
+{"game":"espn:401841273","event":"brasileirao","at":"2026-10-18T00:00:00Z","teamIDs":["espn:soccer:2026","espn:soccer:3454"],"teams":["São Paulo","Vasco da Gama"],"score":[1,0]}
+{"game":"mlb:849816","event":"mlb","at":"2026-10-18T00:08:00Z","teamIDs":["mlb:baseball:114","mlb:baseball:139"],"teams":["Cleveland Guardians","Tampa Bay Rays"],"score":[3,7]}
+{"game":"espn:761882","event":"mls","at":"2026-10-18T00:30:00Z","teamIDs":["espn:soccer:20906","espn:soccer:9727"],"teams":["Austin FC","Vancouver Whitecaps"],"score":[1,2]}
+{"game":"espn:761883","event":"mls","at":"2026-10-18T00:30:00Z","teamIDs":["espn:soccer:6077","espn:soccer:185"],"teams":["Houston Dynamo FC","FC Dallas"],"score":[2,2]}
+{"game":"espn:761884","event":"mls","at":"2026-10-18T00:30:00Z","teamIDs":["espn:soccer:186","espn:soccer:4771"],"teams":["Sporting Kansas City","Real Salt Lake"],"score":[1,3]}
+{"game":"espn:401876940","event":"liga-mx","at":"2026-10-18T01:00:00Z","teamIDs":["espn:soccer:223","espn:soccer:15720"],"teams":["Toluca","Atlético San Luis"],"score":[1,1]}
+{"game":"espn:401876941","event":"liga-mx","at":"2026-10-18T01:00:00Z","teamIDs":["espn:soccer:228","espn:soccer:227"],"teams":["León","América"],"score":[3,5]}
+{"game":"espn:401886337","event":"liga-expansion","at":"2026-10-18T01:00:00Z","teamIDs":["espn:soccer:20724","espn:soccer:10124"],"teams":["Cancún FC","Venados FC"],"score":[1,1]}
+{"game":"espn:401886338","event":"liga-expansion","at":"2026-10-18T01:00:00Z","teamIDs":["espn:soccer:221","espn:soccer:10131"],"teams":["Club Atlético Morelia","Club Jaiba Brava"],"score":[1,2]}
+{"game":"espn:401887404","event":"liga-expansion","at":"2026-10-18T01:00:00Z","teamIDs":["espn:soccer:131881","espn:soccer:20721"],"teams":["Piratas","Tepatitlán FC"],"score":[3,0]}
+{"game":"espn:761885","event":"mls","at":"2026-10-18T02:30:00Z","teamIDs":["espn:soccer:9726","espn:soccer:9720"],"teams":["Seattle Sounders FC","CF Montréal"],"score":[1,1]}
+{"game":"espn:761886","event":"mls","at":"2026-10-18T02:30:00Z","teamIDs":["espn:soccer:191","espn:soccer:18986"],"teams":["San Jose Earthquakes","Nashville SC"],"score":[1,1]}
+{"game":"espn:761887","event":"mls","at":"2026-10-18T02:30:00Z","teamIDs":["espn:soccer:187","espn:soccer:22529"],"teams":["LA Galaxy","San Diego FC"],"score":[2,2]}
+{"game":"espn:761888","event":"mls","at":"2026-10-18T02:30:00Z","teamIDs":["espn:soccer:9723","espn:soccer:184"],"teams":["Portland Timbers","Colorado Rapids"],"score":[0,0]}
+{"game":"espn:401886336","event":"liga-expansion","at":"2026-10-18T03:00:00Z","teamIDs":["espn:soccer:21534","espn:soccer:20720"],"teams":["Durango","Tapatío"],"score":[5,0]}
+{"game":"espn:401876939","event":"liga-mx","at":"2026-10-18T03:10:00Z","teamIDs":["espn:soccer:218","espn:soccer:17851"],"teams":["Cruz Azul","FC Juárez"],"score":[5,0]}
+{"game":"espn:401882840","event":"la-liga","at":"2026-10-18T12:00:00Z","teamIDs":["espn:soccer:97","espn:soccer:87"],"teams":["Osasuna","Racing Santander"],"score":[2,0]}
+{"game":"espn:401879260","event":"premier-league","at":"2026-10-18T13:00:00Z","teamIDs":["espn:soccer:357","espn:soccer:360"],"teams":["Leeds United","Man United"],"score":[1,1]}
+{"game":"espn:401879261","event":"premier-league","at":"2026-10-18T13:00:00Z","teamIDs":["espn:soccer:331","espn:soccer:384"],"teams":["Brighton","Crystal Palace"],"score":[5,0]}
+{"game":"espn:401879263","event":"premier-league","at":"2026-10-18T13:00:00Z","teamIDs":["espn:soccer:349","espn:soccer:366"],"teams":["AFC Bournemouth","Sunderland"],"score":[2,0]}
+{"game":"espn:401882845","event":"la-liga","at":"2026-10-18T14:15:00Z","teamIDs":["espn:soccer:85","espn:soccer:96"],"teams":["Celta Vigo","Alavés"],"score":[2,1]}
