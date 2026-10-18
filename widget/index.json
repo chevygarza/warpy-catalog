@@ -2,6 +2,8 @@
 "24-jump-street-2027":"eventos/24-jump-street-2027.json",
 "a-minecraft-movie-squared-2027":"eventos/a-minecraft-movie-squared-2027.json",
 "a-quiet-place-part-iii-2027":"eventos/a-quiet-place-part-iii-2027.json",
+"aaa-guerra-de-titanes-2026":"eventos/aaa-guerra-de-titanes-2026.json",
+"aaa-heroes-inmortales-2026":"eventos/aaa-heroes-inmortales-2026.json",
 "ace-combat-8":"eventos/ace-combat-8.json",
 "aguinaldo-2026":"eventos/aguinaldo-2026.json",
 "aitana-2026":"eventos/aitana-2026.json",
@@ -856,6 +858,8 @@
 "eventos/24-jump-street-2027.json":"3c70aaf67f8cf7efd6d45e7137d464c4acc9dfb53fb40e6495ea87c8c9eb2adf",
 "eventos/a-minecraft-movie-squared-2027.json":"c0545978f1a4aa71f67ad08b9fd0e7a38411a347224b200985251b038352dbfb",
 "eventos/a-quiet-place-part-iii-2027.json":"7a3bbbd24770744181eb41cc89703b047072d1a84b7f41a606f51b48485d4b1f",
+"eventos/aaa-guerra-de-titanes-2026.json":"de791fad467427d21423daf6758a862e29d77cb2b02cbc4c71576c1321fb2c69",
+"eventos/aaa-heroes-inmortales-2026.json":"0e4e553b9697b68926e54dfcebc72e233ec8dfd89ffd69141433b3a3b7cfe18c",
 "eventos/ace-combat-8.json":"da32f7e06ef097d8379189983ad40c2fa734146114efa16e6621b4beb58d3b5a",
 "eventos/aguinaldo-2026.json":"1e30df343662fbc67c180f23db74d68b763665a4758e9cf3b24b25de1a13852c",
 "eventos/aitana-2026.json":"bf9e1a8b599654a08a19abc84e4eb5aadbf5a8928bf776fba5047b7528f4ce83",
@@ -1142,7 +1146,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"a8232ae4566a2e65772f438996f6d9fc1a69c0a939ae3b85699010e8ad91e590",
 "teams.json":"19a9a63b116b0fe375c26e48855dd5d77f0ef845ad30b78e941a8997f0a731e6",
-"ventana.json":"ee5268c99a71398395b1e365a779dad0b3190f8137bcac5abc7904d374947087"
+"ventana.json":"d2e46990cd02e744e78385fac882503e866e6f95751994ed472bca7779625712"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1582,4 +1586,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-18","version":220,"window":{"from":"2026-10-17","to":"2026-10-28"}}
+},"updatedAt":"2026-10-18","version":221,"window":{"from":"2026-10-17","to":"2026-10-28"}}
