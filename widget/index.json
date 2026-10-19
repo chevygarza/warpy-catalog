@@ -104,6 +104,7 @@
 "feriados-eeuu":"eventos/feriados-eeuu.json",
 "fifa-world-cup-2030":"eventos/fifa-world-cup-2030.json",
 "final-destination-7-2028":"eventos/final-destination-7-2028.json",
+"final-fantasy-resonance-2026":"eventos/final-fantasy-resonance-2026.json",
 "final-fantasy-vii-revelation-2027":"eventos/final-fantasy-vii-revelation-2027.json",
 "focker-in-law-2026":"eventos/focker-in-law-2026.json",
 "forza-horizon-6-2027":"eventos/forza-horizon-6-2027.json",
@@ -965,6 +966,7 @@
 "eventos/feriados-eeuu.json":"d4e81ce959891099fa7eb4395f3ca93c540fe3ebad375cc1ab03c371b60bd240",
 "eventos/fifa-world-cup-2030.json":"81bc1782ae486a2d39ff62d68c6ca0000b0ea3b04a244bd4d3e33516314ed862",
 "eventos/final-destination-7-2028.json":"7ee94e955933551762f44d8b4f861d12070ea7338ebe000698cd96e4f4e087a7",
+"eventos/final-fantasy-resonance-2026.json":"e6dc4db2909393d8d036884db9f8f5b48410ab43e5f14595c7d2869ea369265e",
 "eventos/final-fantasy-vii-revelation-2027.json":"ea0122087667aca2e327323b4de555fa12b9c4e7e34dd935574ac9bff8abb43b",
 "eventos/focker-in-law-2026.json":"4dcf8e905049197accbd3b5343075d37310e5c1be8e3f810d19a7feb13a10d95",
 "eventos/forza-horizon-6-2027.json":"7830b9a40bd6c8cd1d471c1ade401739f93e34eec426b8d2aceb22efcfb97fbb",
@@ -1156,7 +1158,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"a8232ae4566a2e65772f438996f6d9fc1a69c0a939ae3b85699010e8ad91e590",
 "teams.json":"76c10c1e4529c5b04c9804cd127ea92fd5d9faefaa55b350215ef4229d92bce0",
-"ventana.json":"08be733a494a0144cb6a49c17437ac52f0d5212cc6048bf141a8b34629127efa"
+"ventana.json":"40a194abb3347113356a518b36891c6946f83efa6ab23657e21916426d9211ee"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1602,4 +1604,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-19","version":227,"window":{"from":"2026-10-18","to":"2026-10-29"}}
+},"updatedAt":"2026-10-19","version":228,"window":{"from":"2026-10-18","to":"2026-10-29"}}
