@@ -211,6 +211,7 @@
 "posadas-2026":"eventos/posadas-2026.json",
 "premier-league":"eventos/premier-league.json",
 "presidents-day-2027":"eventos/presidents-day-2027.json",
+"pro-and-tell-2026":"eventos/pro-and-tell-2026.json",
 "professor-layton-and-the-new-world-of-steam-2026":"eventos/professor-layton-and-the-new-world-of-steam-2026.json",
 "python-3-15-0-2026":"eventos/python-3-15-0-2026.json",
 "python-3-16-2027":"eventos/python-3-16-2027.json",
@@ -1073,6 +1074,7 @@
 "eventos/posadas-2026.json":"5078466ed535e00cc6748612f820ad729995a38279b615b4fbada29bff0a8255",
 "eventos/premier-league.json":"07955b293df3fca5fa5e4465f0f21576b3ae6edba5124e43982e3d8cfc1fb8a5",
 "eventos/presidents-day-2027.json":"fbf32a4c0e74cd238d3ebdf6ce50af76d37dccc4474a5475add5027355eca5ee",
+"eventos/pro-and-tell-2026.json":"a441f3f9fc9bd34ab4580df9d66e329533167f309b1782bc0bac7ced22ba712f",
 "eventos/professor-layton-and-the-new-world-of-steam-2026.json":"967529ffcfd85562b515604f0a06fbd0f0ba74762c669ecfc1c70bf3e99e73f1",
 "eventos/python-3-15-0-2026.json":"f632c5752daefd0eae4092c55da0ba58555c89cc597b83c7dd72b5fef9b7657d",
 "eventos/python-3-16-2027.json":"298cab5c65a3f1348de86edc7a9c782ad479fd9359aa8a4a7e635dc4de2b32d3",
@@ -1158,7 +1160,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"a8232ae4566a2e65772f438996f6d9fc1a69c0a939ae3b85699010e8ad91e590",
 "teams.json":"33a6eb2cf6d79c4f39ec7304aa36cc3d5a0c0931668785b781a23af61e61465b",
-"ventana.json":"5e91d1a7ee73ca1b5dbc5a691ec25ff553bb33d5fcb83ac28c3d1a7248fd9dd2"
+"ventana.json":"8c8cdc7254911e94d99c03dadb7a8f9d9a3f7f34992dd2cbc1abe9b22c700347"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1604,4 +1606,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-20","version":229,"window":{"from":"2026-10-19","to":"2026-10-30"}}
+},"updatedAt":"2026-10-20","version":230,"window":{"from":"2026-10-19","to":"2026-10-30"}}
