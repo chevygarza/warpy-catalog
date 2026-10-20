@@ -838,7 +838,7 @@
 "equipos/mlb-baseball-111.json":"e0b31d2a8785ad9f5a822751cc239618ee542922f09e2a22bc942afb505d7c4b",
 "equipos/mlb-baseball-112.json":"dc302b9abbcb23a66a3bde31dda562385ab03d31070db23504cdab154ff55380",
 "equipos/mlb-baseball-113.json":"38b9be0b019b87e4e55a2934ca89f9191049ba6d13f53f7d8c71bb7c64375219",
-"equipos/mlb-baseball-114.json":"2f7309b5b79b948d019ccad55665d467035a325eb7307542669ae48c0437ff7e",
+"equipos/mlb-baseball-114.json":"b2ba45edfefc47de5c2a7e98be287ffcd10ea3e8a565e9707f1bc2a1785c8424",
 "equipos/mlb-baseball-115.json":"aa6e575f6a85950e98814919d989219acb070bf770c7b9255650516952ecb2a6",
 "equipos/mlb-baseball-116.json":"a2951574cda6bf5b9f6c93eadf4954909cfc0728b447d6abe9707eeb65242296",
 "equipos/mlb-baseball-117.json":"b2ab88f3bfe9352ac92a85d7288ac0501fc84a212ee60e7683ef8ffb21160678",
@@ -852,7 +852,7 @@
 "equipos/mlb-baseball-136.json":"d79e2a24629f844194b1f374ac7754a86f507131515cf322b0d73ed66262e8e0",
 "equipos/mlb-baseball-137.json":"472b6d973366c75a06f766367090163f344e953769cba27c59688ad51a00f284",
 "equipos/mlb-baseball-138.json":"367f222c6e397b16f62f8d036bcebe1e9867f95016c1dd5242a811a9f604d030",
-"equipos/mlb-baseball-139.json":"e6da198b47546f6cb86f20945ef6c2c986e232a008264e596716bdf0c1ccbbf9",
+"equipos/mlb-baseball-139.json":"80ae3abfd5bbd014aa77d42901e24f33bf35ac03a09608c0b5700b8c8c54e83b",
 "equipos/mlb-baseball-140.json":"714bde1454df27192dafb07899459e227ca3a1e0d2e2db4dbf462d354c29422a",
 "equipos/mlb-baseball-141.json":"57725e1f3d5992f4acbc0ad58dd90f595f461150aa0f4c2d8d4161c75bf496e8",
 "equipos/mlb-baseball-142.json":"1aa3f7464dc7c599a18778280b0cd92629ad16501bc0eb85d2a6fc23854798ea",
@@ -1032,7 +1032,7 @@
 "eventos/meta-connect-2026.json":"35923079fec575cacba172ec325538983bdab2113b465ad12a27a13c62415205",
 "eventos/metro-2039-2027.json":"90aa0e8cf72ed336f07c997c230464d2e32c1c0582a5d9498104b1d9ee3ba21a",
 "eventos/metroid-ravenous-2027.json":"a30c514c0dbece69be0ba5a4adc03dd7a66c07fe84fe906efb7f6b86cfdb77b8",
-"eventos/mlb.json":"3ae812e6c03214079fb323efc1f62fecaa0c806e96cf408aad7c66d8701bf69f",
+"eventos/mlb.json":"8ac41efbbc95c137cd19055bb653ac4c8e71bf3e71bbb84f0d0cc6a12a35a5af",
 "eventos/mlk-day-2027.json":"99522e6477f01b6e550f72f0625a9c62afda96173838d17da53d777869bdda86",
 "eventos/mls.json":"a4a8ade6e7262d04bcf5cf715b2b2355ddd52f8f7f69cc82943a8b44ad64caa3",
 "eventos/molotov-2026.json":"72805d6078af87a2fcbe788c7e5400c7b3585dc324a63825666dfeac101f75fc",
@@ -1048,7 +1048,7 @@
 "eventos/nba.json":"fa53d1045455f040288a6b4989ec171d9b1b891bfc719defa4b91a8a4f7f25dc",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"0f15ccefac505a6578cf87c56df70a037226af85b97f41815c22afc829f218a3",
+"eventos/nfl.json":"7a74d4290f372c12b6ce50b52aba99c616f0eaecca5ae24f890d51662b9f9ca9",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"5d2d8d217ac4b04c87303e888c805eee45c63a593c96089b6f1a7cb0893eb640",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1160,7 +1160,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"a8232ae4566a2e65772f438996f6d9fc1a69c0a939ae3b85699010e8ad91e590",
 "teams.json":"65552efc602b75eb0a9025fc17c5b768b099af45ede22575f955253d947fe3de",
-"ventana.json":"0317386328ae7d436939e0d9fca647f34fbce600fc99ed8b49824fcc4acfef6b"
+"ventana.json":"32a73b7da1db41f9f72fdc1437dcbd4cf0f871f8373652b63494c5a5a3561b12"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1608,4 +1608,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-20","version":233,"window":{"from":"2026-10-19","to":"2026-10-30"}}
+},"updatedAt":"2026-10-20","version":234,"window":{"from":"2026-10-19","to":"2026-10-30"}}

@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+  "checkedAt": "2026-10-20T18:00:47.606520+00:00",
   "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -13,21 +13,19 @@
       "overrideDecisions": []
     },
     "mlb": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
-      "warnings": [
-        "Tampa Bay Rays vs Cleveland Guardians (2026-10-20): ya no está en la fuente; se queda una corrida más y se quita si sigue sin aparecer"
-      ],
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "lmb": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -35,9 +33,9 @@
       "overrideDecisions": []
     },
     "nfl": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -45,9 +43,9 @@
       "overrideDecisions": []
     },
     "nba": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -55,9 +53,9 @@
       "overrideDecisions": []
     },
     "liga-mx": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -65,9 +63,9 @@
       "overrideDecisions": []
     },
     "la-liga": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -75,9 +73,9 @@
       "overrideDecisions": []
     },
     "premier-league": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -85,9 +83,9 @@
       "overrideDecisions": []
     },
     "champions-league": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -95,9 +93,9 @@
       "overrideDecisions": []
     },
     "mls": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -107,9 +105,9 @@
       "overrideDecisions": []
     },
     "liga-argentina": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -117,9 +115,9 @@
       "overrideDecisions": []
     },
     "brasileirao": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [
         "Vasco da Gama vs Flamengo: sin zona para None, None; hora en UTC"
       ],
@@ -129,9 +127,9 @@
       "overrideDecisions": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -139,9 +137,9 @@
       "overrideDecisions": []
     },
     "concachampions": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -149,9 +147,9 @@
       "overrideDecisions": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "temporada terminada (2 partidos pasados; sigue resoluble)",
       "primaryVerified": true,
@@ -159,9 +157,9 @@
       "overrideDecisions": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -169,9 +167,9 @@
       "overrideDecisions": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -179,9 +177,9 @@
       "overrideDecisions": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -189,9 +187,9 @@
       "overrideDecisions": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -199,9 +197,9 @@
       "overrideDecisions": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -209,9 +207,9 @@
       "overrideDecisions": []
     },
     "europa-league": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -219,9 +217,9 @@
       "overrideDecisions": []
     },
     "conference-league": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -229,9 +227,9 @@
       "overrideDecisions": []
     },
     "fa-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -239,9 +237,9 @@
       "overrideDecisions": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -249,9 +247,9 @@
       "overrideDecisions": []
     },
     "liga-expansion": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -259,9 +257,9 @@
       "overrideDecisions": []
     },
     "selecciones": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [
         "Sint Maarten vs Guayana Francesa: sin zona para Arnos Vale Stadium, None; hora en UTC",
         "San Vicente y las Granadinas vs Belice: sin zona para Arnos Vale Stadium, None; hora en UTC",
@@ -276,9 +274,9 @@
       "overrideDecisions": []
     },
     "conciertos-monterrey": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -286,9 +284,9 @@
       "overrideDecisions": []
     },
     "conciertos-cdmx": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -296,9 +294,9 @@
       "overrideDecisions": []
     },
     "conciertos-guadalajara": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -306,9 +304,9 @@
       "overrideDecisions": []
     },
     "conciertos-tijuana": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -316,9 +314,9 @@
       "overrideDecisions": []
     },
     "conciertos-los-angeles": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -326,9 +324,9 @@
       "overrideDecisions": []
     },
     "conciertos-houston": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -336,9 +334,9 @@
       "overrideDecisions": []
     },
     "conciertos-dallas": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -346,9 +344,9 @@
       "overrideDecisions": []
     },
     "conciertos-chicago": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -356,9 +354,9 @@
       "overrideDecisions": []
     },
     "conciertos-miami": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -366,9 +364,9 @@
       "overrideDecisions": []
     },
     "conciertos-new-york": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -376,9 +374,9 @@
       "overrideDecisions": []
     },
     "conciertos-phoenix": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -386,9 +384,9 @@
       "overrideDecisions": []
     },
     "conciertos-san-antonio": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -396,9 +394,9 @@
       "overrideDecisions": []
     },
     "cultura-monterrey": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -406,9 +404,9 @@
       "overrideDecisions": []
     },
     "cultura-cdmx": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -416,9 +414,9 @@
       "overrideDecisions": []
     },
     "cultura-guadalajara": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -426,9 +424,9 @@
       "overrideDecisions": []
     },
     "cultura-tijuana": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -436,9 +434,9 @@
       "overrideDecisions": []
     },
     "cultura-eeuu": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -446,9 +444,9 @@
       "overrideDecisions": []
     },
     "conciertos-buenos-aires": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -456,9 +454,9 @@
       "overrideDecisions": []
     },
     "conciertos-sao-paulo": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -466,9 +464,9 @@
       "overrideDecisions": []
     },
     "conciertos-rio-de-janeiro": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -476,9 +474,9 @@
       "overrideDecisions": []
     },
     "conciertos-santiago-cl": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -486,9 +484,9 @@
       "overrideDecisions": []
     },
     "conciertos-bogota": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -496,9 +494,9 @@
       "overrideDecisions": []
     },
     "conciertos-lima": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -506,9 +504,9 @@
       "overrideDecisions": []
     },
     "series-estrenos": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -516,9 +514,9 @@
       "overrideDecisions": []
     },
     "anime-estrenos": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [
         "AniList: Shangri-La Frontier Season 3 dice 2027-01-10 pero su episodio 1 es el 2027-01-17; gana el horario"
       ],
@@ -528,9 +526,9 @@
       "overrideDecisions": []
     },
     "ufc": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -538,9 +536,9 @@
       "overrideDecisions": []
     },
     "asuetos-mexico": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [
         "Nager.Date no coincide el 2027-04-30; gana la ley",
         "Nager.Date no coincide el 2027-05-01; gana la ley",
@@ -552,9 +550,9 @@
       "overrideDecisions": []
     },
     "feriados-eeuu": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -562,9 +560,9 @@
       "overrideDecisions": []
     },
     "reportes-trimestrales": {
-      "checkedAt": "2026-10-20T17:45:48.085636+00:00",
+      "checkedAt": "2026-10-20T18:00:47.606520+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-20T17:45:48.085636+00:00",
+      "lastSuccessAt": "2026-10-20T18:00:47.606520+00:00",
       "warnings": [
         "sin reporte en el horizonte: NKE"
       ],
@@ -576,23 +574,23 @@
   },
   "findings": [],
   "cadenceHours": 12,
-  "catalogVersion": 233,
+  "catalogVersion": 234,
   "espn": {
-    "requests": 96,
-    "empty": 45,
-    "skipped": 145,
-    "carried": 11,
+    "requests": 37,
+    "empty": 0,
+    "skipped": 190,
+    "carried": 25,
     "budget": 200,
     "cap": 150,
     "blocked": null,
     "blockedRuns": 0,
     "months": {
       "basketball/nba|2026-10": {
-        "at": "2026-10-20T17:46:00.801983+00:00",
+        "at": "2026-10-20T18:00:56.062884+00:00",
         "n": 155
       },
       "basketball/nba|2026-11": {
-        "at": "2026-10-20T17:46:01.716218+00:00",
+        "at": "2026-10-20T18:00:57.134719+00:00",
         "n": 215
       },
       "basketball/nba|2026-12": {
@@ -624,11 +622,11 @@
         "n": 0
       },
       "football/nfl|2026-10": {
-        "at": "2026-10-20T17:45:55.258645+00:00",
+        "at": "2026-10-20T18:00:52.648958+00:00",
         "n": 60
       },
       "football/nfl|2026-11": {
-        "at": "2026-10-20T17:45:56.436847+00:00",
+        "at": "2026-10-20T18:00:53.444088+00:00",
         "n": 71
       },
       "football/nfl|2026-12": {
@@ -640,7 +638,7 @@
         "n": 43
       },
       "football/nfl|2027-02": {
-        "at": "2026-10-20T17:45:59.159844+00:00",
+        "at": "2026-10-20T18:00:54.418481+00:00",
         "n": 1
       },
       "soccer/afc.asian.cup|2026-10": {
@@ -656,11 +654,11 @@
         "n": 0
       },
       "soccer/afc.asian.cup|2027-01": {
-        "at": "2026-10-20T17:47:42.414237+00:00",
+        "at": "2026-10-20T18:01:41.829274+00:00",
         "n": 48
       },
       "soccer/afc.asian.cup|2027-02": {
-        "at": "2026-10-20T17:47:43.355159+00:00",
+        "at": "2026-10-20T18:01:42.363481+00:00",
         "n": 3
       },
       "soccer/afc.cupq|2026-10": {
@@ -684,11 +682,11 @@
         "n": 0
       },
       "soccer/arg.1|2026-10": {
-        "at": "2026-10-20T17:46:23.176379+00:00",
+        "at": "2026-10-20T18:01:11.064789+00:00",
         "n": 67
       },
       "soccer/arg.1|2026-11": {
-        "at": "2026-10-20T17:46:24.244054+00:00",
+        "at": "2026-10-20T18:01:12.287539+00:00",
         "n": 23
       },
       "soccer/arg.1|2026-12": {
@@ -696,11 +694,11 @@
         "n": 0
       },
       "soccer/bra.1|2026-10": {
-        "at": "2026-10-20T17:46:25.560773+00:00",
+        "at": "2026-10-20T18:01:14.139833+00:00",
         "n": 52
       },
       "soccer/bra.1|2026-11": {
-        "at": "2026-10-20T17:46:26.178573+00:00",
+        "at": "2026-10-20T18:01:15.285422+00:00",
         "n": 40
       },
       "soccer/bra.1|2026-12": {
@@ -708,7 +706,7 @@
         "n": 10
       },
       "soccer/caf.nations_qual|2026-10": {
-        "at": "2026-10-20T17:47:38.181428+00:00",
+        "at": "2026-10-20T18:01:40.775657+00:00",
         "n": 2
       },
       "soccer/caf.nations_qual|2026-11": {
@@ -904,11 +902,11 @@
         "n": 0
       },
       "soccer/concacaf.nations.league|2026-10": {
-        "at": "2026-10-20T17:47:13.098191+00:00",
+        "at": "2026-10-20T18:01:38.455852+00:00",
         "n": 37
       },
       "soccer/concacaf.nations.league|2026-11": {
-        "at": "2026-10-20T17:47:14.005483+00:00",
+        "at": "2026-10-20T18:01:39.764583+00:00",
         "n": 32
       },
       "soccer/concacaf.nations.league|2026-12": {
@@ -944,11 +942,11 @@
         "n": 0
       },
       "soccer/eng.1|2026-10": {
-        "at": "2026-10-20T17:46:12.451817+00:00",
+        "at": "2026-10-20T18:01:04.432561+00:00",
         "n": 38
       },
       "soccer/eng.1|2026-11": {
-        "at": "2026-10-20T17:46:13.235582+00:00",
+        "at": "2026-10-20T18:01:05.316639+00:00",
         "n": 32
       },
       "soccer/eng.1|2026-12": {
@@ -1012,7 +1010,7 @@
         "n": 0
       },
       "soccer/eng.league_cup|2026-10": {
-        "at": "2026-10-20T17:46:48.494770+00:00",
+        "at": "2026-10-20T18:01:23.141511+00:00",
         "n": 8
       },
       "soccer/eng.league_cup|2026-11": {
@@ -1040,11 +1038,11 @@
         "n": 0
       },
       "soccer/esp.1|2026-10": {
-        "at": "2026-10-20T17:46:08.354994+00:00",
+        "at": "2026-10-20T18:01:01.516394+00:00",
         "n": 36
       },
       "soccer/esp.1|2026-11": {
-        "at": "2026-10-20T17:46:08.943067+00:00",
+        "at": "2026-10-20T18:01:02.802352+00:00",
         "n": 35
       },
       "soccer/esp.1|2026-12": {
@@ -1076,7 +1074,7 @@
         "n": 0
       },
       "soccer/esp.copa_del_rey|2026-10": {
-        "at": "2026-10-20T17:46:35.611294+00:00",
+        "at": "2026-10-20T18:01:18.733204+00:00",
         "n": 10
       },
       "soccer/esp.copa_del_rey|2026-11": {
@@ -1164,15 +1162,15 @@
         "n": 0
       },
       "soccer/fifa.friendly|2026-10": {
-        "at": "2026-10-20T17:47:08.077286+00:00",
+        "at": "2026-10-20T18:01:34.214295+00:00",
         "n": 35
       },
       "soccer/fifa.friendly|2026-11": {
-        "at": "2026-10-20T17:47:08.964650+00:00",
+        "at": "2026-10-20T18:01:35.245225+00:00",
         "n": 26
       },
       "soccer/fifa.friendly|2026-12": {
-        "at": "2026-10-20T17:47:09.768210+00:00",
+        "at": "2026-10-20T18:01:35.828821+00:00",
         "n": 2
       },
       "soccer/fifa.friendly|2027-01": {
@@ -1304,11 +1302,11 @@
         "n": 0
       },
       "soccer/mex.1|2026-10": {
-        "at": "2026-10-20T17:46:05.170826+00:00",
+        "at": "2026-10-20T18:00:58.587977+00:00",
         "n": 44
       },
       "soccer/mex.1|2026-11": {
-        "at": "2026-10-20T17:46:06.342175+00:00",
+        "at": "2026-10-20T18:00:59.529528+00:00",
         "n": 21
       },
       "soccer/mex.1|2026-12": {
@@ -1316,11 +1314,11 @@
         "n": 0
       },
       "soccer/mex.2|2026-10": {
-        "at": "2026-10-20T17:47:05.199729+00:00",
+        "at": "2026-10-20T18:01:31.915411+00:00",
         "n": 40
       },
       "soccer/mex.2|2026-11": {
-        "at": "2026-10-20T17:47:06.432919+00:00",
+        "at": "2026-10-20T18:01:32.824803+00:00",
         "n": 1
       },
       "soccer/mex.2|2026-12": {
@@ -1372,11 +1370,11 @@
         "n": 0
       },
       "soccer/uefa.champions|2026-10": {
-        "at": "2026-10-20T17:46:16.286814+00:00",
+        "at": "2026-10-20T18:01:06.749997+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-11": {
-        "at": "2026-10-20T17:46:17.474939+00:00",
+        "at": "2026-10-20T18:01:07.285070+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-12": {
@@ -1408,11 +1406,11 @@
         "n": 0
       },
       "soccer/uefa.europa.conf|2026-10": {
-        "at": "2026-10-20T17:46:55.755309+00:00",
+        "at": "2026-10-20T18:01:28.124667+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-11": {
-        "at": "2026-10-20T17:46:56.379283+00:00",
+        "at": "2026-10-20T18:01:29.083035+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-12": {
@@ -1444,11 +1442,11 @@
         "n": 0
       },
       "soccer/uefa.europa|2026-10": {
-        "at": "2026-10-20T17:46:51.011682+00:00",
+        "at": "2026-10-20T18:01:24.905806+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-11": {
-        "at": "2026-10-20T17:46:51.747292+00:00",
+        "at": "2026-10-20T18:01:26.118143+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-12": {
@@ -1520,11 +1518,11 @@
         "n": 0
       },
       "soccer/uefa.nations|2026-10": {
-        "at": "2026-10-20T17:47:11.098378+00:00",
+        "at": "2026-10-20T18:01:36.463006+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-11": {
-        "at": "2026-10-20T17:47:12.145416+00:00",
+        "at": "2026-10-20T18:01:37.394876+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-12": {
@@ -1584,11 +1582,11 @@
         "n": 0
       },
       "soccer/usa.1|2026-10": {
-        "at": "2026-10-20T17:46:20.776311+00:00",
+        "at": "2026-10-20T18:01:08.869807+00:00",
         "n": 86
       },
       "soccer/usa.1|2026-11": {
-        "at": "2026-10-20T17:46:21.701106+00:00",
+        "at": "2026-10-20T18:01:09.529052+00:00",
         "n": 21
       },
       "soccer/usa.1|2026-12": {
@@ -8510,53 +8508,8 @@
   },
   "standings": {
     "asOf": "2026-10-20T17:45:48Z",
-    "calls": 11,
-    "leagues": {
-      "liga-mx": {
-        "teams": 18,
-        "unknown": 0
-      },
-      "liga-expansion": {
-        "teams": 16,
-        "unknown": 0
-      },
-      "premier-league": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "la-liga": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "mls": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "brasileirao": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "liga-argentina": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "champions-league": {
-        "teams": 36,
-        "unknown": 0
-      },
-      "nfl": {
-        "teams": 32,
-        "unknown": 0
-      },
-      "nba": {
-        "teams": 0,
-        "unknown": 0
-      },
-      "mlb": {
-        "teams": 30,
-        "unknown": 0
-      }
-    },
+    "calls": 0,
+    "leagues": {},
     "fetched": {
       "liga-mx": "2026-10-20/am",
       "liga-expansion": "2026-10-20/am",
@@ -8686,20 +8639,18 @@
       "premier-league": 50,
       "selecciones": 300
     },
-    "added": 3,
+    "added": 0,
     "seedAdded": 0,
     "correctedCount": 0,
     "corrected": [],
     "skipped": {},
-    "facts": 307,
+    "facts": 306,
     "cards": 565,
     "write": {
       "status": "ok",
       "rows": 1463,
-      "new": 3,
-      "monthsWritten": [
-        "2026-10"
-      ]
+      "new": 0,
+      "monthsWritten": []
     }
   },
   "zones": {
@@ -8710,7 +8661,7 @@
       "zones": 353
     },
     "events": 57,
-    "occurrences": 3720,
+    "occurrences": 3719,
     "unmatched": {
       "Netflix": 10,
       "Apple TV": 4,
@@ -9554,7 +9505,7 @@
     "counts": {
       "ok": 0,
       "revisar": 0,
-      "sin cruce": 141
+      "sin cruce": 140
     },
     "report": "audit.json",
     "supportedSeries": [
@@ -9568,7 +9519,7 @@
       "premier-league"
     ]
   },
-  "refreshChangedAt": "2026-10-20T17:54:44.878151+00:00",
+  "refreshChangedAt": "2026-10-20T18:08:38.474166+00:00",
   "homeZones": {
     "espn:basketball:1": "America/New_York",
     "espn:basketball:10": "America/Chicago",
@@ -10114,10 +10065,10 @@
     "mlb:baseball:158": "America/Chicago"
   },
   "size": {
-    "eventsJsonBytes": 2264411,
-    "eventsJsonIndentedBytes": 3632357,
+    "eventsJsonBytes": 2260284,
+    "eventsJsonIndentedBytes": 3624888,
     "events": 297,
-    "occurrences": 3903,
+    "occurrences": 3890,
     "limits": {
       "warnMemoryIndented": 4000000,
       "oldWidgetsEstimate": 4900000,
@@ -10136,5 +10087,5 @@
     "warnings": [],
     "status": "ok"
   },
-  "publishedAt": "2026-10-20T17:56:39.551569+00:00"
+  "publishedAt": "2026-10-20T18:10:24.499519+00:00"
 }
