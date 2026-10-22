@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+  "checkedAt": "2026-10-22T18:00:02.400092+00:00",
   "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -13,9 +13,9 @@
       "overrideDecisions": []
     },
     "mlb": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -23,9 +23,9 @@
       "overrideDecisions": []
     },
     "lmb": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -33,9 +33,9 @@
       "overrideDecisions": []
     },
     "nfl": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -43,9 +43,9 @@
       "overrideDecisions": []
     },
     "nba": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -53,9 +53,9 @@
       "overrideDecisions": []
     },
     "liga-mx": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -63,9 +63,9 @@
       "overrideDecisions": []
     },
     "la-liga": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -73,9 +73,9 @@
       "overrideDecisions": []
     },
     "premier-league": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -83,9 +83,9 @@
       "overrideDecisions": []
     },
     "champions-league": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -93,9 +93,9 @@
       "overrideDecisions": []
     },
     "mls": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -105,9 +105,9 @@
       "overrideDecisions": []
     },
     "liga-argentina": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -115,9 +115,9 @@
       "overrideDecisions": []
     },
     "brasileirao": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [
         "Vasco da Gama vs Flamengo: sin zona para None, None; hora en UTC"
       ],
@@ -127,9 +127,9 @@
       "overrideDecisions": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -137,9 +137,9 @@
       "overrideDecisions": []
     },
     "concachampions": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -147,9 +147,9 @@
       "overrideDecisions": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -157,9 +157,9 @@
       "overrideDecisions": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -167,9 +167,9 @@
       "overrideDecisions": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -177,9 +177,9 @@
       "overrideDecisions": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -187,9 +187,9 @@
       "overrideDecisions": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -197,9 +197,9 @@
       "overrideDecisions": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -207,9 +207,9 @@
       "overrideDecisions": []
     },
     "europa-league": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -217,9 +217,9 @@
       "overrideDecisions": []
     },
     "conference-league": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -227,9 +227,9 @@
       "overrideDecisions": []
     },
     "fa-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -237,9 +237,9 @@
       "overrideDecisions": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -247,9 +247,9 @@
       "overrideDecisions": []
     },
     "liga-expansion": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -257,9 +257,9 @@
       "overrideDecisions": []
     },
     "selecciones": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [
         "Sint Maarten vs Guayana Francesa: sin zona para Arnos Vale Stadium, None; hora en UTC",
         "San Vicente y las Granadinas vs Belice: sin zona para Arnos Vale Stadium, None; hora en UTC",
@@ -274,557 +274,129 @@
       "overrideDecisions": []
     },
     "conciertos-monterrey": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "JamBase a las 03:00: Matute 2026-11-15 no entra (hora UTC de otra fecha)",
-        "Los Ángeles Azules 2026-10-23: ya publicado por una orden de José; se respeta",
-        "Bad Gyal 2026-10-23: ya publicado por una orden de José; se respeta",
-        "Los Ángeles Azules 2026-10-24: ya publicado por una orden de José; se respeta",
-        "Aitana 2026-10-28: ya publicado por una orden de José; se respeta",
-        "Kevin Kaarl 2026-10-30: ya publicado por una orden de José; se respeta",
-        "Panteón Rococó 2026-10-31: ya publicado por una orden de José; se respeta",
-        "Karol G 2026-11-06: ya publicado por una orden de José; se respeta",
-        "Karol G 2026-11-07: ya publicado por una orden de José; se respeta",
-        "Intocable 2026-11-07: ya publicado por una orden de José; se respeta",
-        "Karol G 2026-11-08: ya publicado por una orden de José; se respeta",
-        "Andrés Calamaro 2026-11-09: ya publicado por una orden de José; se respeta",
-        "Siddhartha 2026-11-12: ya publicado por una orden de José; se respeta",
-        "ZZ Top 2026-11-13: ya publicado por una orden de José; se respeta",
-        "Dimash Qudaibergen 2026-11-14: ya publicado por una orden de José; se respeta",
-        "Mon Laferte 2026-11-16: ya publicado por una orden de José; se respeta",
-        "Mon Laferte 2026-11-17: ya publicado por una orden de José; se respeta",
-        "LP 2026-11-20: ya publicado por una orden de José; se respeta",
-        "Molotov 2026-11-21: ya publicado por una orden de José; se respeta",
-        "Trueno 2026-11-26: ya publicado por una orden de José; se respeta",
-        "Caifanes 2026-12-11: ya publicado por una orden de José; se respeta",
-        "Caifanes 2026-12-12: ya publicado por una orden de José; se respeta",
-        "Enjambre 2026-12-17: ya publicado por una orden de José; se respeta",
-        "sede sin aforo conocido: Domo Care (Guadalupe); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Domo Care (Guadalupe); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Domo Care (Guadalupe); letra C",
-        "sede sin aforo conocido: Walmart Park (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Walmart Park (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Domo Care (Guadalupe); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Walmart Park (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Domo Care (Guadalupe); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Walmart Park (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: Foro Tims (Monterrey); letra C",
-        "sede sin aforo conocido: La Terraza Sultaan (Monterrey); letra C",
-        "no entró: letra C · Duelo · 2026-10-22 · Domo Care, Guadalupe",
-        "no entró: letra C · Tipling Rock · 2026-10-23 · Foro Tims, Monterrey",
-        "no entró: letra C · Camila · 2026-10-24 · Domo Care, Guadalupe",
-        "no entró: letra C · Allison · 2026-10-24 · Café Iguana, Monterrey",
-        "no entró: letra C · Bengala · 2026-10-24 · Foro Tims, Monterrey",
-        "no entró: letra C · Andrés Koi · 2026-10-25 · Foro Tims, Monterrey",
-        "no entró: letra C · Jacinto · 2026-10-29 · Foro Tims, Monterrey",
-        "no entró: letra C · La Adictiva · 2026-10-30 · Domo Care, Guadalupe",
-        "no entró: letra C · Tito Double P · 2026-10-31 · Walmart Park, Monterrey",
-        "no entró: letra C · Saramalacara · 2026-10-31 · Foro Tims, Monterrey",
-        "no entró: letra C · Peces Raros · 2026-11-06 · Café Iguana, Monterrey",
-        "no entró: letra C · Yng Naz · 2026-11-07 · Foro Tims, Monterrey",
-        "no entró: letra C · Diezell · 2026-11-13 · Foro Tims, Monterrey",
-        "no entró: letra C · Banda El Recodo · 2026-11-14 · Domo Care, Guadalupe",
-        "no entró: letra C · Griss Romero · 2026-11-14 · Foro Tims, Monterrey",
-        "no entró: letra C · Taburete · 2026-11-19 · Foro Tims, Monterrey",
-        "no entró: letra C · D.R.I. · 2026-11-20 · Café Iguana, Monterrey",
-        "no entró: letra C · La Barranca · 2026-11-20 · Foro Tims, Monterrey",
-        "no entró: letra C · Luisa Vox · 2026-11-21 · Foro Tims, Monterrey",
-        "no entró: letra C · Easykid · 2026-11-25 · Foro Tims, Monterrey",
-        "no entró: letra C · Six Sex · 2026-11-26 · Foro Tims, Monterrey",
-        "no entró: letra C · Kakkmaddafakka · 2026-11-27 · Foro Tims, Monterrey",
-        "no entró: letra C · Luis R. Conriquez · 2026-11-28 · Domo Care, Guadalupe",
-        "no entró: letra C · Insite · 2026-11-28 · Café Iguana, Monterrey",
-        "no entró: letra C · Armando Palomas · 2026-11-28 · Foro Tims, Monterrey",
-        "no entró: letra C · Emjay · 2026-12-03 · Foro Tims, Monterrey",
-        "no entró: letra C · Pablo Preciado · 2026-12-04 · Foro Tims, Monterrey",
-        "no entró: letra C · Morenito de Fuego · 2026-12-05 · Foro Tims, Monterrey",
-        "no entró: letra C · Natalia Lacunza · 2026-12-10 · Foro Tims, Monterrey",
-        "no entró: letra C · Juan Freer · 2026-12-11 · Foro Tims, Monterrey",
-        "no entró: letra C · Bohemio · 2026-12-12 · Foro Tims, Monterrey",
-        "no entró: letra C · Slaughter to Prevail · 2026-12-17 · La Terraza Sultaan, Monterrey",
-        "17 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-cdmx": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "sede sin aforo conocido: Pabellón Oeste del Palacio de los Deportes (Ciudad de México); letra C",
-        "no entró: letra C · Matisse · 2026-10-23 · La Maraka, Ciudad de México",
-        "no entró: letra C · Alizzz · 2026-10-23 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Abel Pintos · 2026-10-24 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Cannons · 2026-10-24 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · The Jungle Giants · 2026-10-24 · Foro Puebla, Ciudad de México",
-        "no entró: letra C · Tatiana · 2026-10-24 · La Maraka, Ciudad de México",
-        "no entró: letra C · Adolescent’s Orquesta · 2026-10-25 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Liquits · 2026-10-25 · La Maraka, Ciudad de México",
-        "no entró: letra C · Jimmy Sea · 2026-10-28 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Alex Fernández · 2026-10-31 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Leire Martínez · 2026-11-03 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Puma Blue · 2026-11-05 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Peces Raros · 2026-11-05 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · Emjay · 2026-11-05 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Erick Brian · 2026-11-05 · La Maraka, Ciudad de México",
-        "no entró: letra C · Los De Aguilera · 2026-11-06 · La Maraka, Ciudad de México",
-        "no entró: letra C · Serbia · 2026-11-06 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Rubio · 2026-11-06 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · María León · 2026-11-12 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · DLD · 2026-11-13 · La Maraka, Ciudad de México",
-        "no entró: letra C · El Kanka · 2026-11-13 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · DLD · 2026-11-14 · La Maraka, Ciudad de México",
-        "no entró: letra C · Little Jesus · 2026-11-14 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Yolanda Del Rio · 2026-11-15 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · 8Turn · 2026-11-16 · La Maraka, Ciudad de México",
-        "no entró: letra C · Jorge Muñiz · 2026-11-16 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Niña Pastori · 2026-11-18 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Kalimba · 2026-11-19 · La Maraka, Ciudad de México",
-        "no entró: letra C · Arde Bogotá · 2026-11-19 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Kalimba · 2026-11-20 · La Maraka, Ciudad de México",
-        "no entró: letra C · Kalimba · 2026-11-21 · La Maraka, Ciudad de México",
-        "no entró: letra C · Malcriada · 2026-11-21 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Benny · 2026-11-21 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Taburete · 2026-11-23 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Love of Lesbian · 2026-11-24 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Giant Rooks · 2026-11-25 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Beto Cuevas · 2026-11-26 · La Maraka, Ciudad de México",
-        "no entró: letra C · Nacho Vegas · 2026-11-26 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Insite · 2026-11-27 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Nasa Histoires · 2026-11-27 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Kudai · 2026-11-27 · La Maraka, Ciudad de México",
-        "no entró: letra C · Menudo · 2026-11-28 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Nicho Hinojosa · 2026-11-28 · La Maraka, Ciudad de México",
-        "no entró: letra C · Disco Bahía · 2026-11-28 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · Eslabon Armado · 2026-12-02 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Mœnia · 2026-12-02 · La Maraka, Ciudad de México",
-        "no entró: letra C · Kalimba · 2026-12-03 · La Maraka, Ciudad de México",
-        "no entró: letra C · La Esfinge · 2026-12-04 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Laureano Brizuela · 2026-12-04 · La Maraka, Ciudad de México",
-        "no entró: letra C · Kalimba · 2026-12-05 · La Maraka, Ciudad de México",
-        "no entró: letra C · Natalia Lacunza · 2026-12-05 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · La Esfinge · 2026-12-05 · Pabellón Oeste del Palacio de los Deportes, Ciudad de México",
-        "no entró: letra C · Tony Vega · 2026-12-08 · La Maraka, Ciudad de México",
-        "no entró: letra C · Tony Vega · 2026-12-09 · La Maraka, Ciudad de México",
-        "no entró: letra C · Tarja · 2026-12-09 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · Aterciopelados · 2026-12-10 · Teatro Metropólitan, Ciudad de México",
-        "no entró: letra C · Francisco Céspedes · 2026-12-11 · La Maraka, Ciudad de México",
-        "no entró: letra C · Los Terricolas De Nestor Daniel · 2026-12-12 · La Maraka, Ciudad de México",
-        "no entró: letra C · Los Van Van · 2026-12-14 · La Maraka, Ciudad de México",
-        "no entró: letra C · Maelo Ruiz · 2026-12-17 · La Maraka, Ciudad de México",
-        "no entró: letra C · Maelo Ruiz · 2026-12-18 · La Maraka, Ciudad de México",
-        "no entró: letra C · Fernando Delgadillo · 2026-12-19 · La Maraka, Ciudad de México",
-        "no entró: letra C · Sonido Gallo Negro · 2026-12-19 · Auditorio BB, Ciudad de México",
-        "no entró: letra C · El Haragán y Compañía · 2027-01-16 · La Maraka, Ciudad de México",
-        "no entró: letra C · Freya Skye · 2027-01-18 · Auditorio BB, Ciudad de México",
-        "80 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-guadalajara": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "JamBase a las 03:00: Eros Ramazzotti 2026-11-13 no entra (hora UTC de otra fecha)",
-        "JamBase a las 03:00: Enjambre 2026-11-21 no entra (hora UTC de otra fecha)",
-        "sede sin aforo conocido: Foro Independencia (Guadalajara); letra C",
-        "sede sin aforo conocido: C4 Concert House (Zapopan); letra C",
-        "sede sin aforo conocido: C4 Concert House (Zapopan); letra C",
-        "sede sin aforo conocido: C4 Concert House (Zapopan); letra C",
-        "sede sin aforo conocido: C4 Concert House (Zapopan); letra C",
-        "sede sin aforo conocido: Sala Plácido Domingo – Conjunto de Artes Escénicas (Zapopan); letra C",
-        "sede sin aforo conocido: Foro Independencia (Guadalajara); letra C",
-        "sede sin aforo conocido: C4 Concert House (Zapopan); letra C",
-        "sede sin aforo conocido: Sala Plácido Domingo – Conjunto de Artes Escénicas (Zapopan); letra C",
-        "sede sin aforo conocido: Plaza De Toros Nuevo Progreso (Guadalajara); letra C",
-        "no entró: letra C · Reik · 2026-10-22 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Gabito Ballesteros · 2026-10-23 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Revisiting Creedence · 2026-10-23 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Tipling Rock · 2026-10-24 · C3 Stage GDL, Guadalajara",
-        "no entró: letra C · Remmy Valenzuela · 2026-10-25 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Clave Especial · 2026-10-28 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Los Pericos · 2026-10-29 · Teatro Estudio Cavaret, Zapopan",
-        "no entró: letra C · Yolanda Del Rio · 2026-10-30 · Teatro Galerías, Zapopan",
-        "no entró: letra C · Grupo Firme · 2026-10-31 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Fernando Delgadillo · 2026-10-31 · Teatro Diana, Guadalajara",
-        "no entró: letra C · Grupo Firme · 2026-11-01 · Auditorio Benito Juárez, Zapopan",
-        "no entró: letra C · Puma Blue · 2026-11-04 · C3 Stage GDL, Guadalajara",
-        "no entró: letra C · Insite · 2026-11-06 · C4 Concert House, Zapopan",
-        "no entró: letra C · Emjay · 2026-11-07 · C4 Concert House, Zapopan",
-        "no entró: letra C · León Benavente · 2026-11-07 · C3 Stage GDL, Guadalajara",
-        "no entró: letra C · Eslabon Armado · 2026-11-13 · Teatro Diana, Guadalajara",
-        "no entró: letra C · Niña Pastori · 2026-11-14 · Sala Plácido Domingo – Conjunto de Artes Escénicas, Zapopan",
-        "no entró: letra C · D.R.I. · 2026-11-19 · Foro Independencia, Guadalajara",
-        "no entró: letra C · Austin TV · 2026-11-20 · C3 Stage GDL, Guadalajara",
-        "no entró: letra C · Kevin Roldan · 2026-11-21 · C4 Concert House, Zapopan",
-        "no entró: letra C · Babasónicos · 2026-11-26 · Teatro Estudio Cavaret, Zapopan",
-        "no entró: letra C · Boikot · 2026-11-27 · C3 Stage GDL, Guadalajara",
-        "no entró: letra C · Porter · 2026-11-27 · Teatro Diana, Guadalajara",
-        "no entró: letra C · Nacho Vegas · 2026-11-28 · Sala Plácido Domingo – Conjunto de Artes Escénicas, Zapopan",
-        "no entró: letra C · Los Angeles Negros · 2026-11-29 · Teatro Diana, Guadalajara",
-        "no entró: letra C · Ana Torroja · 2026-12-04 · Teatro Diana, Guadalajara",
-        "no entró: letra C · Inspector · 2026-12-05 · Teatro Diana, Guadalajara",
-        "no entró: letra C · La Gusana Ciega · 2026-12-05 · Teatro Galerías, Zapopan",
-        "no entró: letra C · Los Tucanes de Tijuana · 2026-12-12 · Plaza De Toros Nuevo Progreso, Guadalajara",
-        "no entró: letra C · La Esfinge · 2027-01-15 · Teatro Diana, Guadalajara",
-        "no entró: letra C · La Esfinge · 2027-01-16 · Teatro Diana, Guadalajara",
-        "33 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-tijuana": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Audiorama El Trompo (Tijuana); letra C",
-        "sede sin aforo conocido: Audiorama El Trompo (Tijuana); letra C",
-        "sede sin aforo conocido: El Foro (Tijuana); letra C",
-        "sede sin aforo conocido: El Foro (Tijuana); letra C",
-        "sede sin aforo conocido: Cine Bujazán (Tijuana); letra C",
-        "sede sin aforo conocido: Parque Morelos (Tijuana); letra C",
-        "sede sin aforo conocido: El Foro (Tijuana); letra C",
-        "sede sin aforo conocido: Audiorama El Trompo (Tijuana); letra C",
-        "sede sin aforo conocido: Toros Mobil Park (Tijuana); letra C",
-        "sede sin aforo conocido: El Foro (Tijuana); letra C",
-        "no entró: letra C · Matute · 2026-10-31 · Audiorama El Trompo, Tijuana",
-        "no entró: letra C · Virlan García · 2026-11-07 · Audiorama El Trompo, Tijuana",
-        "no entró: letra C · Pimpinela · 2026-11-07 · El Foro, Tijuana",
-        "no entró: letra C · Alta Consigna · 2026-11-21 · Parque Morelos, Tijuana",
-        "no entró: letra C · Daniel Boaventura · 2026-11-21 · El Foro, Tijuana",
-        "no entró: letra C · Jorge Medina · 2026-12-06 · Toros Mobil Park, Tijuana",
-        "no entró: letra C · Marcela Gándara · 2026-12-13 · El Foro, Tijuana",
-        "1 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-los-angeles": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: recinto de menos de 5000: 1",
-        "no entró: letra B · Chappell Roan · 2026-10-22 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Foster The People · 2026-10-23 · Greek Theatre, Los Angeles",
-        "no entró: letra B · Intocable · 2026-10-24 · Honda Center, Anaheim",
-        "no entró: letra B · Madeon · 2026-10-24 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Jodeci · 2026-10-25 · YouTube Theater, Inglewood",
-        "no entró: letra B · Shaboozey · 2026-10-27 · Greek Theatre, Los Angeles",
-        "no entró: letra B · Mœnia · 2026-10-29 · YouTube Theater, Inglewood",
-        "no entró: letra B · Knocked Loose · 2026-10-29 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Omer Adam · 2026-10-29 · Intuit Dome, Inglewood",
-        "no entró: letra B · Bronco · 2026-10-30 · YouTube Theater, Inglewood",
-        "no entró: letra B · XG · 2026-11-05 · Crypto.com Arena, Los Angeles",
-        "no entró: letra B · Dan + Shay · 2026-11-06 · Honda Center, Anaheim",
-        "no entró: letra B · ZULAN · 2026-11-06 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Ricky Montgomery · 2026-11-07 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · The Format · 2026-11-07 · Hollywood Bowl, Los Angeles",
-        "no entró: letra B · Brand New · 2026-11-07 · Honda Center, Anaheim",
-        "no entró: letra B · Karan Aujla · 2026-11-09 · Crypto.com Arena, Los Angeles",
-        "no entró: letra B · E · 2026-11-13 · YouTube Theater, Inglewood",
-        "no entró: letra B · Rawayana · 2026-11-15 · Kia Forum, Inglewood",
-        "no entró: letra B · Brutalismus 3000 · 2026-11-19 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Arcángel · 2026-11-20 · YouTube Theater, Inglewood",
-        "no entró: letra B · BOYNEXTDOOR · 2026-11-20 · Peacock Theater, Los Angeles",
-        "no entró: letra B · Steve Lacy · 2026-11-21 · Hollywood Bowl, Los Angeles",
-        "no entró: letra B · El Fantasma · 2026-11-21 · Peacock Theater, Los Angeles",
-        "no entró: letra B · Enrique Bunbury · 2026-11-21 · YouTube Theater, Inglewood",
-        "no entró: letra B · Legado 7 · 2026-11-25 · Peacock Theater, Los Angeles",
-        "no entró: letra B · Gerardo Ortiz · 2026-11-27 · YouTube Theater, Inglewood",
-        "no entró: letra B · Afrojack · 2026-11-27 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Tierra Cali · 2026-11-27 · Peacock Theater, Los Angeles",
-        "no entró: letra B · Cristian Castro · 2026-11-28 · Peacock Theater, Los Angeles",
-        "no entró: letra B · OhGeesy · 2026-11-28 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · BEAT · 2026-12-02 · YouTube Theater, Inglewood",
-        "no entró: letra B · Whethan · 2026-12-04 · Shrine Auditorium, Los Angeles",
-        "no entró: letra B · Alicia Villarreal · 2026-12-05 · YouTube Theater, Inglewood",
-        "no entró: letra B · Edén Muñoz · 2026-12-06 · Honda Center, Anaheim",
-        "no entró: letra B · Victoria Monét · 2026-12-08 · YouTube Theater, Inglewood",
-        "no entró: letra B · Triumph · 2026-12-10 · Kia Forum, Inglewood",
-        "no entró: letra B · Brent Faiyaz · 2026-12-11 · Crypto.com Arena, Los Angeles",
-        "no entró: letra B · Marisela · 2026-12-11 · YouTube Theater, Inglewood",
-        "no entró: letra B · Duelo · 2026-12-13 · YouTube Theater, Inglewood",
-        "no entró: letra B · Tyla · 2026-12-16 · YouTube Theater, Inglewood",
-        "no entró: letra B · CeCe Winans · 2026-12-17 · Peacock Theater, Los Angeles",
-        "no entró: letra B · 03 Greedo · 2026-12-19 · YouTube Theater, Inglewood",
-        "no entró: letra B · Omar Courtz · 2027-01-16 · Crypto.com Arena, Los Angeles",
-        "no entró: letra B · D.O.D · 2027-01-16 · Shrine Auditorium, Los Angeles",
-        "tope de 40 fechas por ciudad: quedaron fuera 29",
-        "23 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera",
-        "tope de 40 fechas por ciudad: 2 nuevas esperan lugar"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-houston": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: letra B · Sin Bandera · 2026-10-23 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Young Miko · 2026-10-24 · Toyota Center, Houston",
-        "no entró: letra B · Cristian Castro · 2026-10-24 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Demola · 2026-10-24 · 713 Music Hall, Houston",
-        "no entró: letra B · Álvaro Díaz · 2026-10-30 · 713 Music Hall, Houston",
-        "no entró: letra B · Victoria Monét · 2026-10-31 · 713 Music Hall, Houston",
-        "no entró: letra B · Arcángel · 2026-11-05 · 713 Music Hall, Houston",
-        "no entró: letra B · John Summit · 2026-11-05 · Toyota Center, Houston",
-        "no entró: letra B · Steve Lacy · 2026-11-08 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Jessie Reyez · 2026-11-12 · 713 Music Hall, Houston",
-        "no entró: letra B · Stray Cats · 2026-11-12 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Ares Carter · 2026-11-13 · Shell Energy Stadium, Houston",
-        "no entró: letra B · Treaty Oak Revival · 2026-11-13 · Cynthia Woods Mitchell Pavilion, The Woodlands",
-        "no entró: letra B · El Tri · 2026-11-15 · 713 Music Hall, Houston",
-        "no entró: letra B · Pedro Fernandez · 2026-11-20 · 713 Music Hall, Houston",
-        "no entró: letra B · Intocable · 2026-11-21 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Leslie Odom Jr. · 2026-11-28 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · BEAT · 2026-11-28 · 713 Music Hall, Houston",
-        "no entró: letra B · Gavin Adcock · 2026-12-01 · 713 Music Hall, Houston",
-        "no entró: letra B · Parker McCollum · 2026-12-03 · 713 Music Hall, Houston",
-        "no entró: letra B · for KING & COUNTRY · 2026-12-03 · Toyota Center, Houston",
-        "no entró: letra B · Billy Strings · 2026-12-09 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Tyla · 2026-12-10 · 713 Music Hall, Houston",
-        "no entró: letra B · Silvestre Dangond · 2026-12-11 · Smart Financial Centre, Sugar Land",
-        "no entró: letra B · Randy Rogers · 2026-12-11 · 713 Music Hall, Houston",
-        "no entró: letra B · David Bisbal · 2026-12-13 · 713 Music Hall, Houston",
-        "no entró: letra B · Joe · 2027-01-17 · Smart Financial Centre, Sugar Land",
-        "15 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-dallas": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: recinto de menos de 5000: 10",
-        "no entró: letra B · María José · 2026-10-22 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Dan + Shay · 2026-10-22 · Dos Equis Pavilion, Dallas",
-        "no entró: letra B · Casey Donahew · 2026-10-24 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Sin Bandera · 2026-10-25 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Álvaro Díaz · 2026-10-29 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Teddy Swims · 2026-10-30 · Dickies Arena, Fort Worth",
-        "no entró: letra B · Los Gemelos de Sinaloa · 2026-10-30 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Hugel · 2026-10-31 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Jeremy Camp · 2026-11-01 · Dickies Arena, Fort Worth",
-        "no entró: letra B · Steve Lacy · 2026-11-05 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Arcángel · 2026-11-06 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Lenny Pearce · 2026-11-07 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Karan Aujla · 2026-11-13 · American Airlines Center, Dallas",
-        "no entró: letra B · El Tri · 2026-11-14 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Rawayana · 2026-11-21 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Ty Myers · 2026-11-21 · Dickies Arena, Fort Worth",
-        "no entró: letra B · Intocable · 2026-11-27 · Dickies Arena, Fort Worth",
-        "no entró: letra B · for KING & COUNTRY · 2026-12-05 · Dickies Arena, Fort Worth",
-        "no entró: letra B · Tyla · 2026-12-09 · The Pavilion at Toyota Music Factory, Irving",
-        "no entró: letra B · Billy Strings · 2026-12-11 · Dickies Arena, Fort Worth",
-        "no entró: letra B · Flatland Cavalry · 2026-12-31 · Dickies Arena, Fort Worth",
-        "13 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-chicago": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: recinto de menos de 5000: 1",
-        "no entró: letra B · Sylvan Esso · 2026-10-22 · The Salt Shed, Chicago",
-        "no entró: letra B · Sammy Rae & The Friends · 2026-10-23 · The Salt Shed, Chicago",
-        "no entró: letra B · Yousuke Yukimatsu · 2026-10-23 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Fruit Bats · 2026-10-24 · The Salt Shed, Chicago",
-        "no entró: letra B · Sleeping With Sirens · 2026-10-25 · The Salt Shed, Chicago",
-        "no entró: letra B · Dylan Gossett · 2026-10-27 · The Salt Shed, Chicago",
-        "no entró: letra B · The Dresden Dolls · 2026-10-29 · The Salt Shed, Chicago",
-        "no entró: letra B · The Living Tombstone · 2026-10-30 · Aragon Ballroom, Chicago",
-        "no entró: letra B · OsamaSon · 2026-10-31 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Ryan Castro · 2026-11-02 · Credit Union 1 Arena, Chicago",
-        "no entró: letra B · BOYNEXTDOOR · 2026-11-04 · The Salt Shed, Chicago",
-        "no entró: letra B · Trippie Redd · 2026-11-05 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Los Gemelos de Sinaloa · 2026-11-06 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Rawayana · 2026-11-07 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Orville Peck · 2026-11-07 · The Salt Shed, Chicago",
-        "no entró: letra B · XG · 2026-11-09 · United Center, Chicago",
-        "no entró: letra B · Charles Wesley Godwin · 2026-11-12 · The Salt Shed, Chicago",
-        "no entró: letra B · Master P · 2026-11-13 · Wintrust Arena, Chicago",
-        "no entró: letra B · Palace · 2026-11-13 · The Salt Shed, Chicago",
-        "no entró: letra B · The Menzingers · 2026-11-14 · The Salt Shed, Chicago",
-        "no entró: letra B · Jessie Reyez · 2026-11-16 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Victoria Monét · 2026-11-18 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Slow Pulp · 2026-11-19 · The Salt Shed, Chicago",
-        "no entró: letra B · Fetty Wap · 2026-11-20 · The Salt Shed, Chicago",
-        "no entró: letra B · Don Broco · 2026-11-20 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Zac Brown Band · 2026-11-21 · Allstate Arena, Rosemont",
-        "no entró: letra B · Death Cab for Cutie · 2026-11-21 · The Salt Shed, Chicago",
-        "no entró: letra B · Tyla · 2026-11-22 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Underoath · 2026-11-24 · Aragon Ballroom, Chicago",
-        "no entró: letra B · El Tri · 2026-11-25 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Turnover · 2026-11-25 · The Salt Shed, Chicago",
-        "no entró: letra B · Dexter and The Moonrocks · 2026-11-28 · Aragon Ballroom, Chicago",
-        "no entró: letra B · Brent Faiyaz · 2026-11-30 · United Center, Chicago",
-        "no entró: letra B · Slightly Stoopid · 2026-12-08 · Aragon Ballroom, Chicago",
-        "no entró: letra B · SVDDEN DEATH · 2026-12-18 · The Salt Shed, Chicago",
-        "no entró: letra B · Ratboys · 2026-12-19 · The Salt Shed, Chicago",
-        "no entró: letra B · The Roots · 2027-01-15 · The Salt Shed, Chicago",
-        "24 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-miami": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: letra B · Brand New · 2026-10-25 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Young Miko · 2026-10-28 · Kaseya Center, Miami",
-        "no entró: letra B · Grupo Niche · 2026-10-31 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Dany Ome · 2026-11-08 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Lee Brice · 2026-11-12 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Menudo · 2026-12-04 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Silvestre Dangond · 2026-12-05 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Gente De Zona · 2026-12-11 · Kaseya Center, Miami",
-        "no entró: letra B · Havasi · 2026-12-12 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Jason Bonham’s Led Zeppelin Evening · 2026-12-13 · Hard Rock Live, Hollywood",
-        "no entró: letra B · Ryan Castro · 2026-12-19 · Kaseya Center, Miami",
-        "26 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-new-york": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: recinto de menos de 5000: 4",
-        "no entró: letra B · Arcángel · 2026-10-23 · Barclays Center, Brooklyn",
-        "no entró: letra B · Rawayana · 2026-10-31 · Barclays Center, Brooklyn",
-        "no entró: letra B · Young Miko · 2026-11-05 · Barclays Center, Brooklyn",
-        "no entró: letra B · XG · 2026-11-14 · Prudential Center, Newark",
-        "no entró: letra B · Karan Aujla · 2026-11-18 · Madison Square Garden, New York",
-        "no entró: letra B · Z · 2026-11-29 · Prudential Center, Newark",
-        "no entró: letra B · Brent Faiyaz · 2026-12-03 · Barclays Center, Brooklyn",
-        "no entró: letra B · Sin Bandera · 2026-12-11 · Prudential Center, Newark",
-        "no entró: letra B · Kapo · 2026-12-12 · Prudential Center, Newark",
-        "no entró: letra B · Ryan Castro · 2026-12-12 · Madison Square Garden, New York",
-        "no entró: letra B · Joé Dwèt Filé · 2026-12-19 · Barclays Center, Brooklyn",
-        "tope de 40 fechas por ciudad: quedaron fuera 2",
-        "32 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera",
-        "tope de 40 fechas por ciudad: 3 nuevas esperan lugar"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-phoenix": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: letra B · Los Gemelos de Sinaloa · 2026-10-23 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Mon Laferte · 2026-10-24 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Malcolm Todd · 2026-10-25 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Jodeci · 2026-10-30 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Lenny Pearce · 2026-11-01 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Dan + Shay · 2026-11-05 · Talking Stick Resort Amphitheatre, Phoenix",
-        "no entró: letra B · 311 · 2026-11-05 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Lupillo Rivera · 2026-11-07 · Desert Diamond Arena, Glendale",
-        "no entró: letra B · Underoath · 2026-11-09 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Jessie Reyez · 2026-11-10 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Duelo · 2026-11-13 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Brand New · 2026-11-14 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Steve Lacy · 2026-11-17 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Barbara Mason · 2026-11-21 · Desert Diamond Arena, Glendale",
-        "no entró: letra B · Pedro Fernandez · 2026-12-04 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Victoria Monét · 2026-12-05 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Sublime · 2026-12-11 · Desert Diamond Arena, Glendale",
-        "no entró: letra B · Sam Barber · 2026-12-11 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Tyla · 2026-12-14 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · CeCe Winans · 2026-12-15 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · Don Broco · 2026-12-16 · Arizona Financial Theatre, Phoenix",
-        "no entró: letra B · The Piano Guys · 2027-01-20 · Arizona Financial Theatre, Phoenix",
-        "15 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-san-antonio": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "no entró: letra B · Young Miko · 2026-10-22 · Freeman Coliseum, San Antonio",
-        "no entró: letra B · Intocable · 2026-11-25 · Freeman Coliseum, San Antonio",
-        "no entró: letra B · Yuri · 2026-11-28 · Freeman Coliseum, San Antonio",
-        "2 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "cultura-monterrey": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -832,9 +404,9 @@
       "overrideDecisions": []
     },
     "cultura-cdmx": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -842,9 +414,9 @@
       "overrideDecisions": []
     },
     "cultura-guadalajara": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -852,9 +424,9 @@
       "overrideDecisions": []
     },
     "cultura-tijuana": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -862,9 +434,9 @@
       "overrideDecisions": []
     },
     "cultura-eeuu": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -872,553 +444,69 @@
       "overrideDecisions": []
     },
     "conciertos-buenos-aires": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Teatro Opera (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Buenos Aires); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Único Ciudad de La Plata (La Plata); letra C",
-        "sede sin aforo conocido: Estadio Único Ciudad de La Plata (La Plata); letra C",
-        "sede sin aforo conocido: Estadio Cubierto Malvinas Argentinas (Buenos Aries); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Búmeran Diego Armando Maradona (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Cubierto Malvinas Argentinas (Buenos Aries); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Único Ciudad de La Plata (La Plata); letra C",
-        "sede sin aforo conocido: Teatro Gran Rivadavia (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Flores (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Colonial (Avellaneda); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Gran Ituzaingó (Ituzaingó); letra C",
-        "sede sin aforo conocido: Niceto Club (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Cubierto Malvinas Argentinas (Buenos Aries); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Parque de la Ciudad (Buenos Aires); letra C",
-        "sede sin aforo conocido: Parque Sarmiento (Buenos Aires); letra C",
-        "sede sin aforo conocido: La Trastienda (Buenos Aires); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Atlético Fernández Fierro (Buenos Aires); letra C",
-        "sede sin aforo conocido: Vorterix (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Centenario Ciudad de Quilmes (Quilmes); letra C",
-        "sede sin aforo conocido: Teatro Broadway (Buenos Aires); letra C",
-        "sede sin aforo conocido: Parque Sarmiento (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Colon (Buenos Aires); letra C",
-        "sede sin aforo conocido: Deseo Club (Buenos Aires); letra C",
-        "sede sin aforo conocido: Mandarine Park (Buenos Aires); letra C",
-        "sede sin aforo conocido: Vorterix (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Buenos Aires); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Tecnopolis (Buenos Aires); letra C",
-        "sede sin aforo conocido: Vorterix (Buenos Aires); letra C",
-        "sede sin aforo conocido: El Teatrito (Buenos Aires); letra C",
-        "sede sin aforo conocido: Tecnopolis (Buenos Aires); letra C",
-        "sede sin aforo conocido: Tecnopolis (Buenos Aires); letra C",
-        "sede sin aforo conocido: Museum Live (Buenos Aires); letra C",
-        "sede sin aforo conocido: Arena Sur (Buenos Aires); letra C",
-        "sede sin aforo conocido: Groove (Buenos Aires); letra C",
-        "sede sin aforo conocido: Vorterix (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio River Plate (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Flores (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Flores (Buenos Aires); letra C",
-        "sede sin aforo conocido: Estadio Cubierto Malvinas Argentinas (Buenos Aries); letra C",
-        "sede sin aforo conocido: C Art Media (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Flores (Buenos Aires); letra C",
-        "sede sin aforo conocido: Teatro Flores (Buenos Aires); letra C",
-        "no entró: letra C · Jere Klein · 2026-10-22 · Teatro Opera, Buenos Aires",
-        "no entró: letra C · Los Pericos · 2026-10-22 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · J. Alvarez · 2026-10-24 · Estadio Cubierto Malvinas Argentinas, Buenos Aries",
-        "no entró: letra C · Callejero Fino · 2026-10-24 · C Art Media, Buenos Aires",
-        "no entró: letra C · Ciro y los Persas · 2026-10-24 · Estadio Búmeran Diego Armando Maradona, Buenos Aires",
-        "no entró: letra C · Humbe · 2026-10-29 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · C.R.O · 2026-10-30 · Estadio Cubierto Malvinas Argentinas, Buenos Aries",
-        "no entró: letra C · La Joaqui · 2026-10-30 · C Art Media, Buenos Aires",
-        "no entró: letra C · Ney Matogrosso · 2026-10-30 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Dyango · 2026-11-06 · Teatro Colonial, Avellaneda",
-        "no entró: letra C · Akriila · 2026-11-06 · C Art Media, Buenos Aires",
-        "no entró: letra C · Dyango · 2026-11-07 · Teatro Gran Ituzaingó, Ituzaingó",
-        "no entró: letra C · Ty Segall · 2026-11-07 · Niceto Club, Buenos Aires",
-        "no entró: letra C · Abel Pintos · 2026-11-13 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Natas · 2026-11-13 · C Art Media, Buenos Aires",
-        "no entró: letra C · Abel Pintos · 2026-11-14 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Abel Pintos · 2026-11-15 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · The Cat Empire · 2026-11-17 · La Trastienda, Buenos Aires",
-        "no entró: letra C · Abel Pintos · 2026-11-19 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Coti · 2026-11-19 · C Art Media, Buenos Aires",
-        "no entró: letra C · Abel Pintos · 2026-11-20 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Nanpa Básico · 2026-11-22 · Vorterix, Buenos Aires",
-        "no entró: letra C · No Te Va Gustar · 2026-11-22 · Estadio Centenario Ciudad de Quilmes, Quilmes",
-        "no entró: letra C · Djavann · 2026-11-24 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Myriam Hernandez · 2026-11-25 · Teatro Broadway, Buenos Aires",
-        "no entró: letra C · Greeicy · 2026-11-26 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Mannequin Pussy · 2026-11-30 · Deseo Club, Buenos Aires",
-        "no entró: letra C · Giant Rooks · 2026-12-01 · Vorterix, Buenos Aires",
-        "no entró: letra C · Tarja · 2026-12-01 · Teatro Coliseo, Buenos Aires",
-        "no entró: letra C · American Football · 2026-12-02 · C Art Media, Buenos Aires",
-        "no entró: letra C · Vilma Palma e Vampiros · 2026-12-04 · Vorterix, Buenos Aires",
-        "no entró: letra C · Damas Gratis · 2026-12-08 · Museum Live, Buenos Aires",
-        "no entró: letra C · LAGOS · 2026-12-09 · Vorterix, Buenos Aires",
-        "no entró: letra C · Divididos · 2026-12-10 · Teatro Flores, Buenos Aires",
-        "no entró: letra C · Divididos · 2026-12-11 · Teatro Flores, Buenos Aires",
-        "no entró: letra C · Ñengo Flow · 2026-12-12 · Estadio Cubierto Malvinas Argentinas, Buenos Aries",
-        "no entró: letra C · De La Rose · 2026-12-12 · C Art Media, Buenos Aires",
-        "no entró: letra C · Los Palmeras · 2026-12-14 · Teatro Gran Rex, Buenos Aires",
-        "no entró: letra C · Divididos · 2026-12-15 · Teatro Flores, Buenos Aires",
-        "no entró: letra C · Divididos · 2026-12-17 · Teatro Flores, Buenos Aires",
-        "tope de 60 fechas por ciudad: quedaron fuera 2",
-        "tope de 60 fechas por ciudad: 1 nuevas esperan lugar"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-sao-paulo": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Tokio Marine Hall (Sao Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Varanda Estaiada (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Tokio Marine Hall (Sao Paulo); letra C",
-        "sede sin aforo conocido: Varanda Estaiada (São Paulo); letra C",
-        "sede sin aforo conocido: Fabrique (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Vip Station (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Terra SP (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Clube Atlético Aramaçan (Santo André); letra C",
-        "sede sin aforo conocido: Ibirapuera Park (Sao Paulo); letra C",
-        "sede sin aforo conocido: Santos FC – Arena Barcelona (São Paulo); letra C",
-        "sede sin aforo conocido: Arena Estrela (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Parque Villa-Lobos (Sao Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: Tokio Marine Hall (Sao Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Clube Atlético Aramaçan (Santo André); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: ARCA (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Mercado Livre Arena Pacaembu (São Paulo); letra C",
-        "sede sin aforo conocido: ARCA (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Anhembi Sambadrom (Sao Paulo); letra C",
-        "sede sin aforo conocido: ARCA (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: ZIG Studio (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Teatro Mars (São Paulo); letra C",
-        "sede sin aforo conocido: Picles (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Arena Sertaneja (São Paulo); letra C",
-        "sede sin aforo conocido: Parque Villa-Lobos (Sao Paulo); letra C",
-        "sede sin aforo conocido: Tokio Marine Hall (Sao Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: Sonora Garden (Canindé); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Estância Alto da Serra (São Bernardo do Campo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Ibirapuera Park (Sao Paulo); letra C",
-        "sede sin aforo conocido: Expo Center Norte (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Sonora Garden (Canindé); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Expo Center Norte (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Ibirapuera Park (Sao Paulo); letra C",
-        "sede sin aforo conocido: Ibirapuera Park (Sao Paulo); letra C",
-        "sede sin aforo conocido: Expo Center Norte (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Tokio Marine Hall (Sao Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Varanda Estaiada (São Paulo); letra C",
-        "sede sin aforo conocido: Santos FC – Arena Barcelona (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Autódromo José Carlos Pace (Interlagos) (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Terra SP (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Memorial da América Latina (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "sede sin aforo conocido: CTN – Centro de Tradições Nordestinas (São Paulo); letra C",
-        "sede sin aforo conocido: Mercado Livre Arena Pacaembu (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Mercado Livre Arena Pacaembu (São Paulo); letra C",
-        "sede sin aforo conocido: Terra SP (São Paulo); letra C",
-        "sede sin aforo conocido: Villa Country (São Paulo); letra C",
-        "sede sin aforo conocido: Komplexo TEMPO (São Paulo); letra C",
-        "sede sin aforo conocido: The Cavern Club São Paulo (São Paulo); letra C",
-        "sede sin aforo conocido: Mercado Livre Arena Pacaembu (São Paulo); letra C",
-        "sede sin aforo conocido: Juventus Live Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Suhai Music Hall (São Paulo); letra C",
-        "sede sin aforo conocido: Audio Club (São Paulo); letra C",
-        "sede sin aforo conocido: Mercado Livre Arena Pacaembu (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Espaço Unimed (São Paulo); letra C",
-        "sede sin aforo conocido: Hotel Estancia Nazare Paulista (Nazaré Paulista); letra C",
-        "sede sin aforo conocido: Sonora Garden (Canindé); letra C",
-        "sede sin aforo conocido: Cine Joia (São Paulo); letra C",
-        "no entró: letra C · Murilo Huff · 2026-10-22 · Villa Country, São Paulo",
-        "no entró: letra C · Fábio Jr. · 2026-10-22 · Tokio Marine Hall, Sao Paulo",
-        "no entró: letra C · João Bosco · 2026-10-24 · Varanda Estaiada, São Paulo",
-        "no entró: letra C · Matteo Bocelli · 2026-10-24 · Tokio Marine Hall, Sao Paulo",
-        "no entró: letra C · Turma do Pagode · 2026-10-25 · Varanda Estaiada, São Paulo",
-        "no entró: letra C · Rhye · 2026-10-26 · Fabrique, São Paulo",
-        "no entró: letra C · Roupa Nova · 2026-10-30 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Milsinho Toque Dez · 2026-10-30 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Katy da Voz e as Abusadas · 2026-10-30 · Vip Station, São Paulo",
-        "no entró: letra C · Lauana Prado · 2026-10-30 · Villa Country, São Paulo",
-        "no entró: letra C · Filipe Ret · 2026-10-31 · Terra SP, São Paulo",
-        "no entró: letra C · Marcos & Belutti · 2026-10-31 · Villa Country, São Paulo",
-        "no entró: letra C · Roupa Nova · 2026-10-31 · Clube Atlético Aramaçan, Santo André",
-        "no entró: letra C · Devinho Novaes · 2026-10-31 · Santos FC – Arena Barcelona, São Paulo",
-        "no entró: letra C · Milsinho Toque Dez · 2026-11-01 · Arena Estrela, São Paulo",
-        "no entró: letra C · Solomun · 2026-11-01 · Parque Villa-Lobos, Sao Paulo",
-        "no entró: letra C · TR/ST · 2026-11-01 · Cine Joia, São Paulo",
-        "no entró: letra C · Elymar Santos · 2026-11-01 · Tokio Marine Hall, Sao Paulo",
-        "no entró: letra C · Danilo e Davi · 2026-11-05 · Villa Country, São Paulo",
-        "no entró: letra C · Filipe Ret · 2026-11-06 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Jorge Aragão · 2026-11-06 · ARCA, São Paulo",
-        "no entró: letra C · Edson Gomes · 2026-11-06 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Boca Livre · 2026-11-06 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Jorge Aragão · 2026-11-07 · ARCA, São Paulo",
-        "no entró: letra C · The White Buffalo · 2026-11-07 · Audio Club, São Paulo",
-        "no entró: letra C · Daniel · 2026-11-07 · Espaço Unimed, São Paulo",
-        "no entró: letra C · André Frateschi · 2026-11-07 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Sorriso Maroto · 2026-11-08 · Anhembi Sambadrom, Sao Paulo",
-        "no entró: letra C · Jorge Aragão · 2026-11-08 · ARCA, São Paulo",
-        "no entró: letra C · Ocean Alley · 2026-11-08 · Audio Club, São Paulo",
-        "no entró: letra C · Humberto Gessinger · 2026-11-10 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · The Cat Empire · 2026-11-12 · Audio Club, São Paulo",
-        "no entró: letra C · Blitz · 2026-11-12 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Cachorro Grande · 2026-11-12 · Cine Joia, São Paulo",
-        "no entró: letra C · Simone Mendes · 2026-11-13 · Villa Country, São Paulo",
-        "no entró: letra C · Peaches · 2026-11-13 · ZIG Studio, São Paulo",
-        "no entró: letra C · Blitz · 2026-11-13 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Braza · 2026-11-13 · Audio Club, São Paulo",
-        "no entró: letra C · noologia · 2026-11-13 · Teatro Mars, São Paulo",
-        "no entró: letra C · Autoramas · 2026-11-13 · Picles, São Paulo",
-        "no entró: letra C · Gustavo Mioto · 2026-11-14 · Espaço Unimed, São Paulo",
-        "no entró: letra C · Roupa Nova · 2026-11-14 · Arena Sertaneja, São Paulo",
-        "no entró: letra C · Zélia Duncan · 2026-11-14 · Parque Villa-Lobos, Sao Paulo",
-        "no entró: letra C · Guilherme Arantes · 2026-11-14 · Tokio Marine Hall, Sao Paulo",
-        "no entró: letra C · JMSN · 2026-11-14 · Cine Joia, São Paulo",
-        "no entró: letra C · Pixote · 2026-11-14 · Sonora Garden, Canindé",
-        "no entró: letra C · Ty Segall · 2026-11-15 · Audio Club, São Paulo",
-        "no entró: letra C · Psirico · 2026-11-15 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · CA7RIEL & Paco Amoroso · 2026-11-18 · Espaço Unimed, São Paulo",
-        "no entró: letra C · Luedji Luna · 2026-11-18 · Cine Joia, São Paulo",
-        "no entró: letra C · Delacruz · 2026-11-19 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Rael · 2026-11-19 · Audio Club, São Paulo",
-        "no entró: letra C · Pablo · 2026-11-19 · Estância Alto da Serra, São Bernardo do Campo",
-        "no entró: letra C · Guilherme Silva · 2026-11-19 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Jads & Jadson · 2026-11-19 · Villa Country, São Paulo",
-        "no entró: letra C · Mato Seco · 2026-11-20 · Expo Center Norte, São Paulo",
-        "no entró: letra C · 14 Bis · 2026-11-20 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Cristobal Pesce · 2026-11-20 · Sonora Garden, Canindé",
-        "no entró: letra C · Seu Desejo · 2026-11-20 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Dead Fish · 2026-11-21 · Expo Center Norte, São Paulo",
-        "no entró: letra C · Marcelo Strike · 2026-11-21 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Monobloco · 2026-11-21 · Audio Club, São Paulo",
-        "no entró: letra C · Maiara & Maraisa · 2026-11-26 · Villa Country, São Paulo",
-        "no entró: letra C · Falamansa · 2026-11-27 · Audio Club, São Paulo",
-        "no entró: letra C · Simone Morena · 2026-11-27 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Fagner · 2026-11-27 · Tokio Marine Hall, Sao Paulo",
-        "no entró: letra C · Giant Rooks · 2026-11-28 · Audio Club, São Paulo",
-        "no entró: letra C · Turbo B · 2026-11-28 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Gipsy Kings by Diego Baliardo · 2026-11-28 · Suhai Music Hall, São Paulo",
-        "no entró: letra C · Edson Gomes · 2026-11-29 · Espaço Unimed, São Paulo",
-        "no entró: letra C · Saulo · 2026-11-29 · Varanda Estaiada, São Paulo",
-        "no entró: letra C · Netto Brito · 2026-11-29 · Santos FC – Arena Barcelona, São Paulo",
-        "no entró: letra C · American Football · 2026-11-30 · Audio Club, São Paulo",
-        "no entró: letra C · Devinho Novaes · 2026-12-01 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Limão com Mel · 2026-12-04 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Tarja · 2026-12-05 · Terra SP, São Paulo",
-        "no entró: letra C · Maurício Manieri · 2026-12-06 · Espaço Unimed, São Paulo",
-        "no entró: letra C · Nando Reis · 2026-12-10 · Memorial da América Latina, São Paulo",
-        "no entró: letra C · Fábio Jr. · 2026-12-11 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Mato Seco · 2026-12-11 · Cine Joia, São Paulo",
-        "no entró: letra C · Joelma · 2026-12-11 · CTN – Centro de Tradições Nordestinas, São Paulo",
-        "no entró: letra C · Djavann · 2026-12-12 · Mercado Livre Arena Pacaembu, São Paulo",
-        "no entró: letra C · Armandinho · 2026-12-12 · Audio Club, São Paulo",
-        "no entró: letra C · Djavann · 2026-12-13 · Mercado Livre Arena Pacaembu, São Paulo",
-        "no entró: letra C · Matheus & Kauan · 2026-12-17 · Villa Country, São Paulo",
-        "no entró: letra C · HALŌ · 2026-12-18 · Komplexo TEMPO, São Paulo",
-        "no entró: letra C · Ozzmosis · 2026-12-18 · The Cavern Club São Paulo, São Paulo",
-        "no entró: letra C · Frejat · 2026-12-19 · Juventus Live Hall, São Paulo",
-        "no entró: letra C · Jota Quest · 2026-12-19 · Suhai Music Hall, São Paulo",
-        "no entró: letra C · Chico Chico · 2026-12-19 · Audio Club, São Paulo",
-        "no entró: letra C · Carol Biazin · 2026-12-20 · Espaço Unimed, São Paulo",
-        "no entró: letra C · MC Livinho · 2026-12-23 · Espaço Unimed, São Paulo",
-        "no entró: letra C · Aura Vortex · 2026-12-31 · Hotel Estancia Nazare Paulista, Nazaré Paulista",
-        "no entró: letra C · Matheuzinho · 2026-12-31 · Sonora Garden, Canindé",
-        "no entró: letra C · Irma · 2027-01-08 · Cine Joia, São Paulo"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-rio-de-janeiro": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Quadra da Salgueiro (Duque de Caxias); letra C",
-        "sede sin aforo conocido: Via Music Hall (São João de Meriti); letra C",
-        "sede sin aforo conocido: Vivo Rio (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Circo Voador (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Jockey Club Brasileiro (Rio De Janeiro); letra C",
-        "sede sin aforo conocido: Jockey Club Brasileiro (Rio De Janeiro); letra C",
-        "sede sin aforo conocido: Vivo Rio (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Vivo Rio (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Sacadura 154 (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Circo Voador (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Cidade das Artes (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Via Music Hall (São João de Meriti); letra C",
-        "sede sin aforo conocido: Vivo Rio (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Circo Voador (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Espaço Hall (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Espaço Hall (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Fundicao Progresso (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Marina da Gloria (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Brava Arena Jockey (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Via Music Hall (São João de Meriti); letra C",
-        "sede sin aforo conocido: Museum of Modern Art of Rio de Janeiro (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Maracana Stadium (Rio de Janeiro); letra C",
-        "sede sin aforo conocido: Maracana Stadium (Rio de Janeiro); letra C",
-        "no entró: letra C · Ferrugem · 2026-10-23 · Quadra da Salgueiro, Duque de Caxias",
-        "no entró: letra C · Mumuzinho · 2026-10-23 · Via Music Hall, São João de Meriti",
-        "no entró: letra C · Fagner · 2026-10-24 · Vivo Rio, Rio de Janeiro",
-        "no entró: letra C · Ocean Alley · 2026-11-05 · Circo Voador, Rio de Janeiro",
-        "no entró: letra C · Roberto Menescal · 2026-11-08 · Vivo Rio, Rio de Janeiro",
-        "no entró: letra C · JMSN · 2026-11-13 · Sacadura 154, Rio de Janeiro",
-        "no entró: letra C · The Cat Empire · 2026-11-13 · Circo Voador, Rio de Janeiro",
-        "no entró: letra C · Dominguinho · 2026-11-14 · Cidade das Artes, Rio de Janeiro",
-        "no entró: letra C · Martinho da Vila · 2026-11-14 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Filipe Ret · 2026-11-20 · Via Music Hall, São João de Meriti",
-        "no entró: letra C · CA7RIEL & Paco Amoroso · 2026-11-20 · Vivo Rio, Rio de Janeiro",
-        "no entró: letra C · Grupo Revelação · 2026-11-27 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Groundation · 2026-11-27 · Circo Voador, Rio de Janeiro",
-        "no entró: letra C · Matuê · 2026-12-04 · Espaço Hall, Rio de Janeiro",
-        "no entró: letra C · Guilherme Arantes · 2026-12-04 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Thiaguinho · 2026-12-05 · Espaço Hall, Rio de Janeiro",
-        "no entró: letra C · Capital Inicial · 2026-12-05 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Armandinho · 2026-12-05 · Fundicao Progresso, Rio de Janeiro",
-        "no entró: letra C · Paulo Ricardo · 2026-12-05 · Marina da Gloria, Rio de Janeiro",
-        "no entró: letra C · Lenine · 2026-12-18 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Geraldo Azevedo · 2026-12-27 · Brava Arena Jockey, Rio de Janeiro",
-        "no entró: letra C · Sorriso Maroto · 2026-12-29 · Via Music Hall, São João de Meriti",
-        "no entró: letra C · Belo · 2026-12-31 · Museum of Modern Art of Rio de Janeiro, Rio de Janeiro",
-        "no entró: letra C · BK · 2027-01-16 · Maracana Stadium, Rio de Janeiro",
-        "1 de JamBase son el mismo concierto que otra fecha; se queda la de Ticketmaster o la primera"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-santiago-cl": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Club Chocolate (Santiago); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Santiago); letra C",
-        "sede sin aforo conocido: Espacio Riesco (Santiago); letra C",
-        "sede sin aforo conocido: Blondie (Santiago); letra C",
-        "sede sin aforo conocido: Blondie (Santiago); letra C",
-        "sede sin aforo conocido: Club Hipico (Santiago); letra C",
-        "sede sin aforo conocido: Club Chocolate (Santiago); letra C",
-        "sede sin aforo conocido: Club Subterraneo (Providencia); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Santiago); letra C",
-        "sede sin aforo conocido: Club Subterraneo (Providencia); letra C",
-        "sede sin aforo conocido: Ciudad Empresarial (Santiago); letra C",
-        "sede sin aforo conocido: Club Chocolate (Santiago); letra C",
-        "sede sin aforo conocido: Teatro La Cupula (Santiago); letra C",
-        "sede sin aforo conocido: Santa Laura Stadium (Santiago); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Santiago); letra C",
-        "sede sin aforo conocido: Teatro Coliseo (Santiago); letra C",
-        "sede sin aforo conocido: Teatro Nescafe de las Artes (Santiago); letra C",
-        "sede sin aforo conocido: Teatro Nescafe de las Artes (Santiago); letra C",
-        "no entró: letra C · Rhye · 2026-10-22 · Club Chocolate, Santiago",
-        "no entró: letra C · Luck Ra · 2026-10-23 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Galvan Real · 2026-10-24 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Los Fabulosos Cadillacs · 2026-10-30 · Teatro Coliseo, Santiago",
-        "no entró: letra C · Humbe · 2026-10-30 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Solomun · 2026-10-30 · Espacio Riesco, Santiago",
-        "no entró: letra C · Ty Segall · 2026-11-10 · Blondie, Santiago",
-        "no entró: letra C · Luar La L · 2026-11-13 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · The Lemon Twigs · 2026-11-15 · Club Chocolate, Santiago",
-        "no entró: letra C · JMSN · 2026-11-17 · Club Subterraneo, Providencia",
-        "no entró: letra C · Nanpa Básico · 2026-11-20 · Teatro Coliseo, Santiago",
-        "no entró: letra C · The Cat Empire · 2026-11-20 · Club Subterraneo, Providencia",
-        "no entró: letra C · Djavann · 2026-11-21 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · This Is Lorelei · 2026-12-01 · Club Chocolate, Santiago",
-        "no entró: letra C · Atarashii Gakko! · 2026-12-03 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Giant Rooks · 2026-12-04 · Teatro La Cupula, Santiago",
-        "no entró: letra C · El Tri · 2026-12-06 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Slayer · 2026-12-10 · Santa Laura Stadium, Santiago",
-        "no entró: letra C · LAGOS · 2026-12-12 · Teatro Coliseo, Santiago",
-        "no entró: letra C · De La Rose · 2026-12-13 · Teatro Caupolicán, Santiago",
-        "no entró: letra C · Inti · 2026-12-26 · Teatro Nescafe de las Artes, Santiago",
-        "no entró: letra C · Inti · 2026-12-27 · Teatro Nescafe de las Artes, Santiago"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-bogota": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "sede sin aforo conocido: Teatro Mayor Julio Mario Santo Domingo (Bogotá); letra C",
-        "sede sin aforo conocido: Parque Metropolitano Simón Bolívar (Bogotá); letra C",
-        "sede sin aforo conocido: Ace of Spades Club (Bogotá); letra C",
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "sede sin aforo conocido: Teatro Municipal Jorge Eliécer Gaitán (Bogota); letra C",
-        "sede sin aforo conocido: Parque Metropolitano Simón Bolívar (Bogotá); letra C",
-        "sede sin aforo conocido: Distrito Verde (Bogotá); letra C",
-        "sede sin aforo conocido: Distrito Verde (Bogotá); letra C",
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "sede sin aforo conocido: Distrito Verde (Bogotá); letra C",
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "sede sin aforo conocido: Royal Center (Bogotá); letra C",
-        "no entró: letra C · Monsieur Periné · 2026-10-24 · Teatro Mayor Julio Mario Santo Domingo, Bogotá",
-        "no entró: letra C · Da Guedes · 2026-10-24 · Parque Metropolitano Simón Bolívar, Bogotá",
-        "no entró: letra C · Rhye · 2026-10-28 · Ace of Spades Club, Bogotá",
-        "no entró: letra C · Akriila · 2026-10-30 · Royal Center, Bogotá",
-        "no entró: letra C · Ana Torroja · 2026-11-11 · Teatro Municipal Jorge Eliécer Gaitán, Bogota",
-        "no entró: letra C · De La Rose · 2026-12-19 · Royal Center, Bogotá"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "conciertos-lima": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
-      "warnings": [
-        "sede sin aforo conocido: Círculo Militar del Perú – Salaverry (Jesús María); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Teatro Leguia (Lima); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Lurin Live (Lima); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Lurin Live (Lima); letra C",
-        "sede sin aforo conocido: Centro de convenciones Kantaro (Lima); letra C",
-        "sede sin aforo conocido: Coliseo Eduardo Dibós (Lima); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Arena Monumental (Ate); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Barranco Arena (Barranco); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Coliseo Eduardo Dibós (Lima); letra C",
-        "sede sin aforo conocido: Centro de convenciones Kantaro (Lima); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Barranco Arena (Barranco); letra C",
-        "sede sin aforo conocido: Concha Acustica (Lima); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Teatro Leguia (Lima); letra C",
-        "sede sin aforo conocido: Círculo Militar del Perú – Salaverry (Jesús María); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Barranco Arena (Barranco); letra C",
-        "sede sin aforo conocido: Arena Monumental (Ate); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Arena 1 (San Miguel); letra C",
-        "sede sin aforo conocido: Costa 21 (San Miguel); letra C",
-        "sede sin aforo conocido: Centro de Convenciones Barranco Arena (Barranco); letra C",
-        "no entró: letra C · Blessd · 2026-10-29 · Arena 1, San Miguel",
-        "no entró: letra C · Ken · 2026-10-30 · Arena 1, San Miguel",
-        "no entró: letra C · Jesse & Joy · 2026-10-31 · Costa 21, San Miguel",
-        "no entró: letra C · Adam Beyer · 2026-10-31 · Lurin Live, Lima",
-        "no entró: letra C · Gene Loves Jezebel · 2026-10-31 · Centro de convenciones Kantaro, Lima",
-        "no entró: letra C · Max Castro · 2026-10-31 · Coliseo Eduardo Dibós, Lima",
-        "no entró: letra C · Humbe · 2026-11-01 · Costa 21, San Miguel",
-        "no entró: letra C · Taemin · 2026-11-06 · Arena Monumental, Ate",
-        "no entró: letra C · Coti · 2026-11-06 · Centro de Convenciones Barranco Arena, Barranco",
-        "no entró: letra C · Ghost Dance · 2026-11-14 · Centro de convenciones Kantaro, Lima",
-        "no entró: letra C · Elefante · 2026-11-18 · Centro de Convenciones Barranco Arena, Barranco",
-        "no entró: letra C · Camila · 2026-11-21 · Concha Acustica, Lima",
-        "no entró: letra C · CA7RIEL & Paco Amoroso · 2026-11-27 · Costa 21, San Miguel",
-        "no entró: letra C · Brunella Torpoco · 2026-11-27 · Círculo Militar del Perú – Salaverry, Jesús María",
-        "no entró: letra C · Omar Courtz · 2026-11-28 · Arena 1, San Miguel",
-        "no entró: letra C · Giant Rooks · 2026-12-06 · Centro de Convenciones Barranco Arena, Barranco",
-        "no entró: letra C · Lenny Tavárez · 2026-12-12 · Arena 1, San Miguel",
-        "no entró: letra C · The Jacksons · 2026-12-15 · Costa 21, San Miguel",
-        "no entró: letra C · La Joaqui · 2026-12-17 · Centro de Convenciones Barranco Arena, Barranco"
-      ],
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
+      "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
       "overrideDecisions": []
     },
     "series-estrenos": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -1426,9 +514,9 @@
       "overrideDecisions": []
     },
     "anime-estrenos": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [
         "AniList: Shangri-La Frontier Season 3 dice 2027-01-10 pero su episodio 1 es el 2027-01-17; gana el horario"
       ],
@@ -1438,9 +526,9 @@
       "overrideDecisions": []
     },
     "ufc": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -1448,9 +536,9 @@
       "overrideDecisions": []
     },
     "asuetos-mexico": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [
         "Nager.Date no coincide el 2027-04-30; gana la ley",
         "Nager.Date no coincide el 2027-05-01; gana la ley",
@@ -1462,9 +550,9 @@
       "overrideDecisions": []
     },
     "feriados-eeuu": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -1472,9 +560,9 @@
       "overrideDecisions": []
     },
     "reportes-trimestrales": {
-      "checkedAt": "2026-10-22T16:45:06.708267+00:00",
+      "checkedAt": "2026-10-22T18:00:02.400092+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-10-22T16:45:06.708267+00:00",
+      "lastSuccessAt": "2026-10-22T18:00:02.400092+00:00",
       "warnings": [
         "sin reporte en el horizonte: AMX, META, NFLX, NKE, TSLA"
       ],
@@ -1484,25 +572,32 @@
       "overrideDecisions": []
     }
   },
-  "findings": [],
+  "findings": [
+    {
+      "area": "fuente",
+      "verdict": "revisar",
+      "subject": "eurovision-2027",
+      "detail": "la fuente ya no respalda la fecha publicada desde 2026-10-22: posible aplazamiento; dile a Cronos «edita <evento> a la fecha nueva» o no hagas nada si sigue igual"
+    }
+  ],
   "cadenceHours": 12,
-  "catalogVersion": 244,
+  "catalogVersion": 245,
   "espn": {
-    "requests": 96,
-    "empty": 44,
-    "skipped": 145,
-    "carried": 11,
+    "requests": 38,
+    "empty": 0,
+    "skipped": 189,
+    "carried": 25,
     "budget": 200,
     "cap": 150,
     "blocked": null,
     "blockedRuns": 0,
     "months": {
       "basketball/nba|2026-10": {
-        "at": "2026-10-22T16:45:15.964528+00:00",
+        "at": "2026-10-22T18:00:11.082578+00:00",
         "n": 155
       },
       "basketball/nba|2026-11": {
-        "at": "2026-10-22T16:45:17.516762+00:00",
+        "at": "2026-10-22T18:00:11.819068+00:00",
         "n": 215
       },
       "basketball/nba|2026-12": {
@@ -1534,11 +629,11 @@
         "n": 0
       },
       "football/nfl|2026-10": {
-        "at": "2026-10-22T16:45:10.980466+00:00",
+        "at": "2026-10-22T18:00:06.827090+00:00",
         "n": 60
       },
       "football/nfl|2026-11": {
-        "at": "2026-10-22T16:45:11.774748+00:00",
+        "at": "2026-10-22T18:00:08.011798+00:00",
         "n": 71
       },
       "football/nfl|2026-12": {
@@ -1550,7 +645,7 @@
         "n": 43
       },
       "football/nfl|2027-02": {
-        "at": "2026-10-22T16:45:13.841486+00:00",
+        "at": "2026-10-22T18:00:09.287501+00:00",
         "n": 1
       },
       "soccer/afc.asian.cup|2026-10": {
@@ -1566,11 +661,11 @@
         "n": 0
       },
       "soccer/afc.asian.cup|2027-01": {
-        "at": "2026-10-22T16:46:51.848318+00:00",
+        "at": "2026-10-22T18:00:54.441535+00:00",
         "n": 48
       },
       "soccer/afc.asian.cup|2027-02": {
-        "at": "2026-10-22T16:46:52.464474+00:00",
+        "at": "2026-10-22T18:00:55.121246+00:00",
         "n": 3
       },
       "soccer/afc.cupq|2026-10": {
@@ -1594,11 +689,11 @@
         "n": 0
       },
       "soccer/arg.1|2026-10": {
-        "at": "2026-10-22T16:45:40.556149+00:00",
+        "at": "2026-10-22T18:00:26.337982+00:00",
         "n": 67
       },
       "soccer/arg.1|2026-11": {
-        "at": "2026-10-22T16:45:41.856792+00:00",
+        "at": "2026-10-22T18:00:27.198034+00:00",
         "n": 23
       },
       "soccer/arg.1|2026-12": {
@@ -1606,11 +701,11 @@
         "n": 0
       },
       "soccer/bra.1|2026-10": {
-        "at": "2026-10-22T16:45:43.396318+00:00",
+        "at": "2026-10-22T18:00:28.578703+00:00",
         "n": 52
       },
       "soccer/bra.1|2026-11": {
-        "at": "2026-10-22T16:45:44.137922+00:00",
+        "at": "2026-10-22T18:00:30.005728+00:00",
         "n": 40
       },
       "soccer/bra.1|2026-12": {
@@ -1618,7 +713,7 @@
         "n": 10
       },
       "soccer/caf.nations_qual|2026-10": {
-        "at": "2026-10-22T16:46:48.943643+00:00",
+        "at": "2026-10-22T18:00:53.656019+00:00",
         "n": 2
       },
       "soccer/caf.nations_qual|2026-11": {
@@ -1814,11 +909,11 @@
         "n": 0
       },
       "soccer/concacaf.nations.league|2026-10": {
-        "at": "2026-10-22T16:46:27.872707+00:00",
+        "at": "2026-10-22T18:00:51.902927+00:00",
         "n": 37
       },
       "soccer/concacaf.nations.league|2026-11": {
-        "at": "2026-10-22T16:46:28.365468+00:00",
+        "at": "2026-10-22T18:00:53.128666+00:00",
         "n": 32
       },
       "soccer/concacaf.nations.league|2026-12": {
@@ -1854,11 +949,11 @@
         "n": 0
       },
       "soccer/eng.1|2026-10": {
-        "at": "2026-10-22T16:45:29.063546+00:00",
+        "at": "2026-10-22T18:00:19.040848+00:00",
         "n": 38
       },
       "soccer/eng.1|2026-11": {
-        "at": "2026-10-22T16:45:29.887574+00:00",
+        "at": "2026-10-22T18:00:20.206862+00:00",
         "n": 32
       },
       "soccer/eng.1|2026-12": {
@@ -1894,7 +989,7 @@
         "n": 0
       },
       "soccer/eng.fa|2026-11": {
-        "at": "2026-10-22T16:46:15.661602+00:00",
+        "at": "2026-10-22T18:00:42.795149+00:00",
         "n": 40
       },
       "soccer/eng.fa|2026-12": {
@@ -1922,7 +1017,7 @@
         "n": 0
       },
       "soccer/eng.league_cup|2026-10": {
-        "at": "2026-10-22T16:46:03.803056+00:00",
+        "at": "2026-10-22T18:00:35.838197+00:00",
         "n": 8
       },
       "soccer/eng.league_cup|2026-11": {
@@ -1950,11 +1045,11 @@
         "n": 0
       },
       "soccer/esp.1|2026-10": {
-        "at": "2026-10-22T16:45:24.614588+00:00",
+        "at": "2026-10-22T18:00:16.300609+00:00",
         "n": 36
       },
       "soccer/esp.1|2026-11": {
-        "at": "2026-10-22T16:45:25.100780+00:00",
+        "at": "2026-10-22T18:00:17.511879+00:00",
         "n": 35
       },
       "soccer/esp.1|2026-12": {
@@ -1986,7 +1081,7 @@
         "n": 0
       },
       "soccer/esp.copa_del_rey|2026-10": {
-        "at": "2026-10-22T16:45:52.248287+00:00",
+        "at": "2026-10-22T18:00:32.343992+00:00",
         "n": 66
       },
       "soccer/esp.copa_del_rey|2026-11": {
@@ -2074,15 +1169,15 @@
         "n": 0
       },
       "soccer/fifa.friendly|2026-10": {
-        "at": "2026-10-22T16:46:23.498122+00:00",
+        "at": "2026-10-22T18:00:47.010035+00:00",
         "n": 35
       },
       "soccer/fifa.friendly|2026-11": {
-        "at": "2026-10-22T16:46:24.566187+00:00",
+        "at": "2026-10-22T18:00:48.158102+00:00",
         "n": 27
       },
       "soccer/fifa.friendly|2026-12": {
-        "at": "2026-10-22T16:46:25.649745+00:00",
+        "at": "2026-10-22T18:00:48.902993+00:00",
         "n": 2
       },
       "soccer/fifa.friendly|2027-01": {
@@ -2214,11 +1309,11 @@
         "n": 0
       },
       "soccer/mex.1|2026-10": {
-        "at": "2026-10-22T16:45:21.496588+00:00",
+        "at": "2026-10-22T18:00:13.322516+00:00",
         "n": 44
       },
       "soccer/mex.1|2026-11": {
-        "at": "2026-10-22T16:45:22.737439+00:00",
+        "at": "2026-10-22T18:00:14.611887+00:00",
         "n": 21
       },
       "soccer/mex.1|2026-12": {
@@ -2226,11 +1321,11 @@
         "n": 0
       },
       "soccer/mex.2|2026-10": {
-        "at": "2026-10-22T16:46:20.501116+00:00",
+        "at": "2026-10-22T18:00:44.706007+00:00",
         "n": 40
       },
       "soccer/mex.2|2026-11": {
-        "at": "2026-10-22T16:46:21.589609+00:00",
+        "at": "2026-10-22T18:00:45.609262+00:00",
         "n": 1
       },
       "soccer/mex.2|2026-12": {
@@ -2282,11 +1377,11 @@
         "n": 0
       },
       "soccer/uefa.champions|2026-10": {
-        "at": "2026-10-22T16:45:32.910606+00:00",
+        "at": "2026-10-22T18:00:21.577931+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-11": {
-        "at": "2026-10-22T16:45:33.644523+00:00",
+        "at": "2026-10-22T18:00:22.264460+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-12": {
@@ -2318,11 +1413,11 @@
         "n": 0
       },
       "soccer/uefa.europa.conf|2026-10": {
-        "at": "2026-10-22T16:46:11.070851+00:00",
+        "at": "2026-10-22T18:00:39.886446+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-11": {
-        "at": "2026-10-22T16:46:12.236806+00:00",
+        "at": "2026-10-22T18:00:40.790432+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-12": {
@@ -2354,11 +1449,11 @@
         "n": 0
       },
       "soccer/uefa.europa|2026-10": {
-        "at": "2026-10-22T16:46:06.844329+00:00",
+        "at": "2026-10-22T18:00:37.492953+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-11": {
-        "at": "2026-10-22T16:46:07.707771+00:00",
+        "at": "2026-10-22T18:00:38.203086+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-12": {
@@ -2430,11 +1525,11 @@
         "n": 0
       },
       "soccer/uefa.nations|2026-10": {
-        "at": "2026-10-22T16:46:26.481894+00:00",
+        "at": "2026-10-22T18:00:50.121241+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-11": {
-        "at": "2026-10-22T16:46:27.212565+00:00",
+        "at": "2026-10-22T18:00:50.749960+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-12": {
@@ -2494,11 +1589,11 @@
         "n": 0
       },
       "soccer/usa.1|2026-10": {
-        "at": "2026-10-22T16:45:37.756215+00:00",
+        "at": "2026-10-22T18:00:24.263671+00:00",
         "n": 86
       },
       "soccer/usa.1|2026-11": {
-        "at": "2026-10-22T16:45:39.001462+00:00",
+        "at": "2026-10-22T18:00:24.985450+00:00",
         "n": 21
       },
       "soccer/usa.1|2026-12": {
@@ -10816,7 +9911,7 @@
   "jambase": {
     "month": "2026-10",
     "calls": 46,
-    "run": 23,
+    "run": 0,
     "fetched": {
       "monterrey": "2026-10-22",
       "cdmx": "2026-10-22",
@@ -10960,6 +10055,7 @@
       "final-fantasy-resonance-2026",
       "sagrada-familia-2026",
       "emanuel-navarrete-vs-o-shaquie-foster-2026",
+      "in-waves-2026",
       "wildwood-2026",
       "christmas-at-the-kringles-2026",
       "fleetwood-mac-the-chain-2027",
@@ -11030,6 +10126,7 @@
       "the-witcher-iv-2028",
       "the-revenge-of-la-llorona-2027",
       "tmnt-mutant-mayhem-2-2027",
+      "charlie-vs-the-chocolate-factory-2027",
       "ghost-market-2028",
       "the-beatles-2028",
       "days-of-thunder-2-2028",
@@ -11067,6 +10164,7 @@
       "amari-jones-vs-deaundre-pettus-2026",
       "nxt-halloween-havoc-2026-2026",
       "u-s-spacewalk-100-2026",
+      "u-s-spacewalk-101-2026",
       "look-back-2026",
       "kenshi-yonezu-2027",
       "billboard-latin-music-awards-2026-2026",
@@ -11076,10 +10174,16 @@
       "aew-blood-guts-2026-2026",
       "lucha-kingdom-2026"
     ],
-    "open": [],
+    "open": [
+      {
+        "id": "eurovision-2027",
+        "kind": "unsupported",
+        "since": "2026-10-22",
+        "detail": "la fuente no menciona el evento completo"
+      }
+    ],
     "unreachable": [],
     "blocked": [
-      "charlie-vs-the-chocolate-factory-2027",
       "bad-gyal-2026",
       "los-angeles-azules-2026",
       "los-angeles-azules-2026-2",
@@ -11103,17 +10207,9 @@
       "caifanes-2026",
       "caifanes-2026-2",
       "enjambre-2026-2",
-      "cozy-plants-2026",
-      "u-s-spacewalk-101-2026",
-      "in-waves-2026"
+      "cozy-plants-2026"
     ],
-    "pending": [
-      {
-        "id": "eurovision-2027",
-        "since": "2026-10-22",
-        "detail": "la fuente no menciona el evento completo"
-      }
-    ],
+    "pending": [],
     "secondSource": {
       "confirmed": [
         "gta-vi",
@@ -11144,7 +10240,6 @@
         "paranormal-activity-8-2027"
       ],
       "differs": [
-        "in-waves-2026",
         "look-back-2026",
         "the-only-living-pickpocket-in-new-york-2026"
       ],
@@ -11163,7 +10258,7 @@
         "the-witcher-iv-2028",
         "gremlins-3-2028"
       ],
-      "asked": 86
+      "asked": 85
     }
   },
   "wikidata": {
@@ -11536,53 +10631,8 @@
   },
   "standings": {
     "asOf": "2026-10-22T16:45:06Z",
-    "calls": 11,
-    "leagues": {
-      "liga-mx": {
-        "teams": 18,
-        "unknown": 0
-      },
-      "liga-expansion": {
-        "teams": 16,
-        "unknown": 0
-      },
-      "premier-league": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "la-liga": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "mls": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "brasileirao": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "liga-argentina": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "champions-league": {
-        "teams": 36,
-        "unknown": 0
-      },
-      "nfl": {
-        "teams": 32,
-        "unknown": 0
-      },
-      "nba": {
-        "teams": 28,
-        "unknown": 0
-      },
-      "mlb": {
-        "teams": 30,
-        "unknown": 0
-      }
-    },
+    "calls": 0,
+    "leagues": {},
     "fetched": {
       "liga-mx": "2026-10-22/am",
       "liga-expansion": "2026-10-22/am",
@@ -11714,7 +10764,7 @@
       "premier-league": 50,
       "selecciones": 300
     },
-    "added": 17,
+    "added": 0,
     "seedAdded": 0,
     "correctedCount": 0,
     "corrected": [],
@@ -11724,10 +10774,8 @@
     "write": {
       "status": "ok",
       "rows": 1507,
-      "new": 17,
-      "monthsWritten": [
-        "2026-10"
-      ]
+      "new": 0,
+      "monthsWritten": []
     }
   },
   "zones": {
@@ -11783,9 +10831,7 @@
     }
   },
   "tombstones": {
-    "thinned": [
-      "tokyo-game-show-2026"
-    ],
+    "thinned": [],
     "total": 5
   },
   "coverage": {
@@ -12356,7 +11402,7 @@
         ]
       }
     ],
-    "reviewPending": 117,
+    "reviewPending": 118,
     "datesAsked": {
       "a-minecraft-movie-squared-2027": "2026-10-03",
       "a-quiet-place-part-iii-2027": "2026-10-03",
@@ -12559,7 +11605,7 @@
       "premier-league"
     ]
   },
-  "refreshChangedAt": "2026-10-22T16:56:45.148360+00:00",
+  "refreshChangedAt": "2026-10-22T18:07:48.623517+00:00",
   "homeZones": {
     "espn:basketball:1": "America/New_York",
     "espn:basketball:10": "America/Chicago",
@@ -13189,10 +12235,10 @@
     "mlb:baseball:158": "America/Chicago"
   },
   "size": {
-    "eventsJsonBytes": 2416690,
-    "eventsJsonIndentedBytes": 3867260,
+    "eventsJsonBytes": 2413228,
+    "eventsJsonIndentedBytes": 3860951,
     "events": 321,
-    "occurrences": 4010,
+    "occurrences": 3998,
     "limits": {
       "warnMemoryIndented": 4000000,
       "oldWidgetsEstimate": 4900000,
@@ -13206,10 +12252,10 @@
     "indexBytes": 147601,
     "largestPiece": {
       "name": "ventana.json",
-      "bytes": 489807
+      "bytes": 489827
     },
     "warnings": [],
     "status": "ok"
   },
-  "publishedAt": "2026-10-22T16:58:35.756457+00:00"
+  "publishedAt": "2026-10-22T18:09:22.336740+00:00"
 }

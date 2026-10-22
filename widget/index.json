@@ -1150,7 +1150,7 @@
 "eventos/enjambre-2026-2.json":"f08ca0afaa6d0bc0153843bb0e4c2f02f0d71b08758f5d6a5d83d02f487693c4",
 "eventos/enjambre-2026.json":"62f5fd852179b3e684083905ef22554e1d39114abd481404f302a3c77e5adeef",
 "eventos/europa-league.json":"033af0b4e812fbdda091013574641f64bb2c36aadbc5b469a7707fd6d7f83dc2",
-"eventos/eurovision-2027.json":"ad7d71f07e5529b126b8f3528b9466f214ae7ec1bab21c77d0c7d39f2eb0b413",
+"eventos/eurovision-2027.json":"127c9819d16b9752fcebec6caaa4742e9348194a417633fcff2d0c6a5a323d27",
 "eventos/exodus-2027.json":"63cba93d3ecfe96434b287244a6304c34f14793e1e0a8582e14b7641ae988e62",
 "eventos/expo-2030-riyadh.json":"fb5d0e92412adb4ef0ed803a3edb3853032ef56039525f1ca49e02e297de1dbd",
 "eventos/f1-season-2027.json":"61d5c5e56d37f24860e9b5b20d5da995ab4f6bd55cd39c6d05d449f924e52c10",
@@ -1249,7 +1249,7 @@
 "eventos/nba.json":"f66d0b93c0d21b6eef4c85a88f953bdfb44beb8625d48f142af9de45207078bf",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"af9b61323171903f927f24c25b7fae2cee2eda275d1950184946880e9d83bf37",
+"eventos/nfl.json":"e119c4e4b53d8f406acca8ecb327bab599bbf1edd1a68a8ac3ec58ed1b3c7604",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"5d2d8d217ac4b04c87303e888c805eee45c63a593c96089b6f1a7cb0893eb640",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1369,7 +1369,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"a982ebae60baf6a6dc9840f4fad0c03a1ebfffc47fce841ef225a1aab16d45a8",
-"ventana.json":"903ec25792f41c385be9edfde72646babe60096a8ddfa5cbff7f3b2cd9fa7633"
+"ventana.json":"bc35e1664a615d28a11bd5ed9baf8589959d24861fdca7a08c44fae7ae6d03c1"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1989,4 +1989,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-22","version":244,"window":{"from":"2026-10-21","to":"2026-11-01"}}
+},"updatedAt":"2026-10-22","version":245,"window":{"from":"2026-10-21","to":"2026-11-01"}}
