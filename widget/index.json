@@ -144,6 +144,7 @@
 "hot-sale-2027":"eventos/hot-sale-2027.json",
 "how-to-train-your-dragon-2-2027":"eventos/how-to-train-your-dragon-2-2027.json",
 "hunger-games-sunrise-on-the-reaping-2026":"eventos/hunger-games-sunrise-on-the-reaping-2026.json",
+"i-play-rocky-2026":"eventos/i-play-rocky-2026.json",
 "ice-age-boiling-point-2027":"eventos/ice-age-boiling-point-2027.json",
 "in-waves-2026":"eventos/in-waves-2026.json",
 "incredibles-3-2028":"eventos/incredibles-3-2028.json",
@@ -1192,6 +1193,7 @@
 "eventos/hot-sale-2027.json":"b28c42fa6ef93ef91508fb368294113efd675ec2975d69f8ae338b3e87d6f4e1",
 "eventos/how-to-train-your-dragon-2-2027.json":"d9327256dcdcc75370fe86567ef7cc8073c02628751539b0f9cb0999992c0e4b",
 "eventos/hunger-games-sunrise-on-the-reaping-2026.json":"f45d943ba71a796d7ddf3a2b80961597dd849c0328940028b8dea3c0ff957f4b",
+"eventos/i-play-rocky-2026.json":"4c27a59378e055dd31e0cd83f70d24d87b4e6408cafd9c8013a28a08af17c4b8",
 "eventos/ice-age-boiling-point-2027.json":"42b548836b7bcbee0018387b8cb6e7d667854c20a3ff7fec26bd2a853b512265",
 "eventos/in-waves-2026.json":"3dc7d6daa87d320ddd7e6d2fd44dae61633a7b7731397e02b6ddeedd3cbedea7",
 "eventos/incredibles-3-2028.json":"18a9049aee8cc9f3243542d2d70e6c68e613dcc3ef76b2ef5f091b16a08a5067",
@@ -1369,7 +1371,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"cee5fef0edd717b29623310eac14600f12118b22a7cc7aa8ef8ec47f72b1b143",
-"ventana.json":"6d433f601b37ed9763335b7fe32e3048622e9177c1a6a90b7a7779837c600c9c"
+"ventana.json":"3478593e4b4640f79738e610fcb9c45915921b47aceafbde5d0887054d2b186c"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1987,4 +1989,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-23","version":246,"window":{"from":"2026-10-22","to":"2026-11-02"}}
+},"updatedAt":"2026-10-23","version":247,"window":{"from":"2026-10-22","to":"2026-11-02"}}
