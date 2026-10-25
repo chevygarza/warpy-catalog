@@ -1099,7 +1099,7 @@
 "eventos/clockwork-revolution-2027.json":"dca9c201fb95044e89561cee67e7d6f8de81fddc3c96a990afbfc48d5f10410d",
 "eventos/coachella-2027.json":"6599140809c06a5b815fbd947f9b92efe6e7ed395f43ccc61cddcac40271f275",
 "eventos/columbus-day-2026.json":"17d1da8721c565b0cdece7d8cde0320e3bd5750469c613e775387633e34d27b3",
-"eventos/comic-con-2027.json":"a89916d8b05d5416cebafb1b9aa53a362c656253e0282272ad9c43e8a5d093cc",
+"eventos/comic-con-2027.json":"866dd29fd2c527ccd4d9747aeb33016cf449b144c9d8ffac362584cc051af309",
 "eventos/computex-2027.json":"085f84a033acdbbde06eb61c692de896492d597eb3c77df42d1209a62f607e10",
 "eventos/conciertos-bogota.json":"94fa25ac00e54f8075c660adda09743cff0404ef54db3cf005316d026a0c910c",
 "eventos/conciertos-buenos-aires.json":"0e5df499b97e9e0256902d88cfcf1eaf323a578a0fddd0b4de3f1c64fea0679f",
@@ -1305,7 +1305,7 @@
 "eventos/series-estrenos.json":"ff9269dc82290fac22ae6346eb2d5af559342a4be33d4ec2bab6a686f929a083",
 "eventos/shrek-5-2027.json":"77b344fc7d47c692846032c9938a519f8c0b22e7f7ee26cab08da3a471723012",
 "eventos/siddhartha-2026.json":"b7e9403ec521482ac25a0797f3caa4cd170d9ea2ce574083831cb0704af0eb6b",
-"eventos/solar-eclipse-2027.json":"48f63c5cb4b8078f5058fa2d204dd532e603992f6a920512fab52a8eb3e84726",
+"eventos/solar-eclipse-2027.json":"b9487c7db35d95fd92d9796aece2293e06c2ea5fececd0b159174b8e89dd00bd",
 "eventos/solar-eclipse-2028.json":"a1bd529db0983df080c491a7b2963f03f262e58a1e164acac1292cf9791f0d2a",
 "eventos/sonic-the-hedgehog-4-2027.json":"b85c15130ac4984406ce410f56a893b6a4b98ef9cc283728f3862f0edb8fa3fb",
 "eventos/spaceballs-2-2027.json":"1e8bcdb6a0e814b1a387c2ce37a3afd50b55d9a8a0dece3e9c878a4bc188c2fb",
@@ -1345,7 +1345,7 @@
 "eventos/tokyo-game-show-2027-2027.json":"475e696af6eeacf312f62e6dea9381d8beee14d949ab45c0cc56131779076274",
 "eventos/tomb-raider-catalyst-2028.json":"6f3c89661e164df02bdcdefda17dff51c07a212e76bd0604d39394a241ec8c34",
 "eventos/tomb-raider-legacy-of-atlantis-2027.json":"baf2a979ab6f4d03e16ecaf5739141b893239b902525f24328acd8bdb04f20a0",
-"eventos/tour-de-france-2027.json":"22cadfe8f8cf6a4f102eaf2910ccbadb623725590e1b778b411307ac11b5848a",
+"eventos/tour-de-france-2027.json":"1d1e96f7badfefb27bd466730f29f9db3505d04e51fe2ad52a2042663c3805dc",
 "eventos/travis-2026.json":"58a9d03f04340f381268f02b8fa48bdd826f675b2f8cd67372aa77f32e5ebe8f",
 "eventos/trueno-2026.json":"52761741936ea0753c6f025256a8ee3eecf3b2a2cd41cb23a10989597fc2b8f1",
 "eventos/two-door-cinema-club-2026.json":"4e9edf39fa71791317b722e74c2dc4680f1628e79095dd9b581d1f138adc525d",
@@ -1377,7 +1377,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"f2b010611a94d48aae7764b8d881f2d8d7effdd5039a6ec382a83cdd82ea21e4",
-"ventana.json":"8fe46a809193ced9a92fc1cd1175e912c616050347747cb6859a5c85eab59e79"
+"ventana.json":"3b5235a41be5f27827918a809a6f76490042cefb2e4aee29fc6943f50ce59251"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1995,4 +1995,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-25","version":259,"window":{"from":"2026-10-24","to":"2026-11-04"}}
+},"updatedAt":"2026-10-25","version":260,"window":{"from":"2026-10-24","to":"2026-11-04"}}
