@@ -24,6 +24,7 @@
 "avengers-secret-wars":"eventos/avengers-secret-wars.json",
 "aws-reinvent-2026":"eventos/aws-reinvent-2026.json",
 "bad-gyal-2026":"eventos/bad-gyal-2026.json",
+"batman-returns-batmobile-duck-2027":"eventos/batman-returns-batmobile-duck-2027.json",
 "billboard-latin-music-awards-2026-2026":"eventos/billboard-latin-music-awards-2026-2026.json",
 "black-friday-2026":"eventos/black-friday-2026.json",
 "black-panther-3-2028":"eventos/black-panther-3-2028.json",
@@ -117,6 +118,7 @@
 "final-destination-7-2028":"eventos/final-destination-7-2028.json",
 "final-fantasy-resonance-2026":"eventos/final-fantasy-resonance-2026.json",
 "final-fantasy-vii-revelation-2027":"eventos/final-fantasy-vii-revelation-2027.json",
+"fire-mario-bowser-s-castle-2027":"eventos/fire-mario-bowser-s-castle-2027.json",
 "fleetwood-mac-the-chain-2027":"eventos/fleetwood-mac-the-chain-2027.json",
 "focker-in-law-2026":"eventos/focker-in-law-2026.json",
 "forza-horizon-6-2027":"eventos/forza-horizon-6-2027.json",
@@ -278,6 +280,7 @@
 "the-exorcist-martyrs-2027":"eventos/the-exorcist-martyrs-2027.json",
 "the-game-awards-2026":"eventos/the-game-awards-2026.json",
 "the-haunting-of-hotel-transylvania-2027":"eventos/the-haunting-of-hotel-transylvania-2027.json",
+"the-joker-wall-art-comic-cover-2027":"eventos/the-joker-wall-art-comic-cover-2027.json",
 "the-legend-of-zelda-2027":"eventos/the-legend-of-zelda-2027.json",
 "the-mummy-4-2027":"eventos/the-mummy-4-2027.json",
 "the-new-simpsons-movie-2027":"eventos/the-new-simpsons-movie-2027.json",
@@ -1073,6 +1076,7 @@
 "eventos/avengers-secret-wars.json":"64fd0b59c82541544390f37e3bfea0f18bb4e4e153c0423dc847c21831c60cc6",
 "eventos/aws-reinvent-2026.json":"318c8f2947ff12f93195bccd98acca4bf376d5c0adce0c5fe7d14d70cf9e84dd",
 "eventos/bad-gyal-2026.json":"243a33e861b07261e8d499265d6d36cbdbdeb4b86f2ba5d81850f874f9b9fd29",
+"eventos/batman-returns-batmobile-duck-2027.json":"d338eabc0b513c7679c5bc63e42fc57561b17e466a6a3f73f50281c8268295c7",
 "eventos/billboard-latin-music-awards-2026-2026.json":"769d35a72674414f2cff18a382bdd398a0ea84eec1ff0189645476a2cf1c1df7",
 "eventos/black-friday-2026.json":"ca52bf4245dbefe3d715dcf91e8528c298f73a8ff467e0c9563286689df31b28",
 "eventos/black-panther-3-2028.json":"639ea11a02d3d35f604bad972a1586602543b30eba16c1e0998a3faffdf3b8de",
@@ -1166,6 +1170,7 @@
 "eventos/final-destination-7-2028.json":"7ee94e955933551762f44d8b4f861d12070ea7338ebe000698cd96e4f4e087a7",
 "eventos/final-fantasy-resonance-2026.json":"e6dc4db2909393d8d036884db9f8f5b48410ab43e5f14595c7d2869ea369265e",
 "eventos/final-fantasy-vii-revelation-2027.json":"ea0122087667aca2e327323b4de555fa12b9c4e7e34dd935574ac9bff8abb43b",
+"eventos/fire-mario-bowser-s-castle-2027.json":"09a6dde7d8c45a56f1b249597ad57f853b9bfe0f1ff589dd13c5c3b84fabddd7",
 "eventos/fleetwood-mac-the-chain-2027.json":"ebb8ad63f89e3f31a506aa448216e89ef31df1646d9bbda120e0e0d635bae577",
 "eventos/focker-in-law-2026.json":"4dcf8e905049197accbd3b5343075d37310e5c1be8e3f810d19a7feb13a10d95",
 "eventos/forza-horizon-6-2027.json":"4a0aeaa1fc5e04f607664e672149f568ae5634c58cea5a6b5f75f181eeb22363",
@@ -1327,6 +1332,7 @@
 "eventos/the-exorcist-martyrs-2027.json":"d75106ccd59067afb7ba3c0a0106e849b0245559f389c40d4ab15f3a867cd877",
 "eventos/the-game-awards-2026.json":"6e01bca3b6b341595ebaebf96b1ef44e4b4c1ea82ca8aa58defb57072ef934de",
 "eventos/the-haunting-of-hotel-transylvania-2027.json":"9b88c1fdb762a1c05f5698a14d2d9c3b9203ae90ce23c97652d26b92c1daaa84",
+"eventos/the-joker-wall-art-comic-cover-2027.json":"e16f7d7b2f40938f3f74d84439954b0d609953404b8ddeaa8ebcb58950b47950",
 "eventos/the-legend-of-zelda-2027.json":"cd4f96f27e1538499d28569e8df914c295f4dbb07990a0f88ee186ae79d68c5c",
 "eventos/the-mummy-4-2027.json":"e7787f79e36363fd9dbc91eaeee8bf05894314cd6bf305a75c1d7d1ac00a5a3e",
 "eventos/the-new-simpsons-movie-2027.json":"d6118a66791743913e99f82dd1d24802f8d341fb6d494858b63eb2dc147c2301",
@@ -1371,7 +1377,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"f2b010611a94d48aae7764b8d881f2d8d7effdd5039a6ec382a83cdd82ea21e4",
-"ventana.json":"7f90b72afd02e9b2a52e4fb293e62a3a67d4214298aab49d3c4d6d87009e99a2"
+"ventana.json":"364f80bf8f7ff5897e05bc1d560536d17c100f776ca8f361b0068f9f579d8c99"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1989,4 +1995,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-25","version":257,"window":{"from":"2026-10-24","to":"2026-11-04"}}
+},"updatedAt":"2026-10-25","version":258,"window":{"from":"2026-10-24","to":"2026-11-04"}}
