@@ -1256,7 +1256,7 @@
 "eventos/nba.json":"c9b7459be850668da581c6e3ff16ae6138b40973409baf403b6998aad4da9733",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"a8e7722e0f3a9c84d17dfc7b4c1ab0eb8a04757750bef80b16b09e7fc6d6bd79",
+"eventos/nfl.json":"52a4705607be0ed714d92068855e1d309e798f7cae0a8a1c2054670e77d3ddd4",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"fc6d3b091ccdc36e175b11df4c0e21308b3631b6e96b6c015c6e1faefc98cb54",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1377,7 +1377,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"4f66f355780f28696371d4905a60e499c9d3f472d444518192ad26017ae61df3",
-"ventana.json":"436f8cf231f4e7b355700c989688c581d585f1793579b1c69f4bd9fe7baabcdb"
+"ventana.json":"075acbf3305eeb52ffaa451ed1b6c07320d8d236f0e6157880d47ffcf1c302a7"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1995,4 +1995,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-25","version":261,"window":{"from":"2026-10-24","to":"2026-11-04"}}
+},"updatedAt":"2026-10-25","version":262,"window":{"from":"2026-10-24","to":"2026-11-04"}}
