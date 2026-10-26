@@ -1257,10 +1257,10 @@
 "eventos/natalicio-de-benito-juarez-2027.json":"35d88885f2c5b882dd3e404b592978370a071eb1cbcdecd0083b314a07091001",
 "eventos/nauctis-the-sunken-realm-2027.json":"c7485f0bf9194dc914f77a0dd6c2aa74a812a34e13fa088f77b67ad6e91c63a8",
 "eventos/nba-finals-2027.json":"c77e863095855aae9b9b490e513fe565ec06a94d722475c7a5a8a7932e210a23",
-"eventos/nba.json":"b0b5562f2b84626cbee08086ec4caee4b6b6d7919659ebc4ef5226af3c9b18ea",
+"eventos/nba.json":"445e91dfae16e47b72f7cdfe284a4bcb849488c6cd8f6f3859b2976600ddee86",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"d5e4717db7d2b3a786782c46331feb9ea2f24f7d1a14a3be57dc27ac6c273754",
+"eventos/nfl.json":"e68f5ec31030f569f08b72fc56997984a732f1677400584d23ae1c8c51897067",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"fc6d3b091ccdc36e175b11df4c0e21308b3631b6e96b6c015c6e1faefc98cb54",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1381,7 +1381,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"ebaa7923b60ff176547967deee34119a82efc2ad9642ceb36d88cdccbb45db5d",
-"ventana.json":"319166c34a3382ed14542dd0ebe4677497fe3bd23c5d5260e2e90aec403f6a6a"
+"ventana.json":"570d1ca0757b3d036e006ca74ce5359bb594408b70dc020159ff7f1ec96b486f"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1998,4 +1998,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-26","version":267,"window":{"from":"2026-10-25","to":"2026-11-05"}}
+},"updatedAt":"2026-10-26","version":268,"window":{"from":"2026-10-25","to":"2026-11-05"}}
