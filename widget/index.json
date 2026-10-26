@@ -1124,7 +1124,7 @@
 "eventos/conference-league.json":"cedc84424f7cb52081b2f6752851a7cb4afe8e7628ee4b29d6e001584f9a5b33",
 "eventos/copa-del-rey.json":"8ca064dfc368fe7e579aca55c7b803bad86333a6630c47bf4632c7293abf99d3",
 "eventos/cozy-plants-2026.json":"0aafe31bea3ea91355783331adcb96a9e371ad4974cfdaffdf8037e499f49e1e",
-"eventos/cricket-world-cup-2027.json":"df22a7e6fa86ed1cd1395c00aa41d107708e2c35865cc6fe79d7ac06600d6913",
+"eventos/cricket-world-cup-2027.json":"ab81be53426edb8602bd64518284c43ef49248a9ecc5c9bea7edac11bab243a6",
 "eventos/cultura-cdmx.json":"eb978e6f9d92084546da94e2bde6f19dd99a15eeffa68cfe693e591c438d6916",
 "eventos/cultura-eeuu.json":"8e23a2031bfce820d6b24f243259173383526434bdeb688f258ce22a897f224a",
 "eventos/cultura-guadalajara.json":"9e1562b54b689559b99c7b616aa9d6c7d0f23e2dc15b8542c49dbaeaf505eb1b",
@@ -1302,8 +1302,8 @@
 "eventos/resident-evil-veronica-2027.json":"c8a7db31229ad1fa4ea9f64f9ec24c3b59f5af97d9c5a6488bae0a9088251d8a",
 "eventos/resurrection-of-the-christ-part-one-2027.json":"320cd17c79ebb51f69daa36296e674615621468711d847b61a181a141edc0e83",
 "eventos/resurrection-of-the-christ-part-two-2028.json":"2bdfd2fd86fa529b1666373054a03481d7212d5e02fd84bed1aaca7fb7903e52",
-"eventos/rugby-world-cup-2027.json":"9a486445cf0585b319cb329ff7056651c2e0112c3fc206da43663b0008fbea60",
-"eventos/ryder-cup-2027.json":"afa65ece238b17f972298165cca4e0ba95bcbde9bdf535e639972a43973e2a08",
+"eventos/rugby-world-cup-2027.json":"c08ab25546614fb8d351f7da6a68d50beebe827ff6bfb003ac648ef29c6b7c98",
+"eventos/ryder-cup-2027.json":"f6cb96a92c35529636d09fb4b3852068911c3977daed801bbc222309fc68c978",
 "eventos/sagrada-familia-2026.json":"61a2a6adf9ba9e1f381f04adf7680154cdef030c4e9b902e91c2149be8444887",
 "eventos/selecciones.json":"985de2a517f523de3fc56f16d544044ec1e7f6380e77f7e89adc23b5168b0b8c",
 "eventos/series-estrenos.json":"ff9269dc82290fac22ae6346eb2d5af559342a4be33d4ec2bab6a686f929a083",
@@ -1381,7 +1381,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"342761778289d3ad49a64c2d8a8198b6c9cda5e432a46ee859857f85bfc91400",
-"ventana.json":"9b8d47ea0d5e153cb8ec3fbd4459c8c7bf6e8819da58f1e96c8c0ac88c0c0175"
+"ventana.json":"1849d1004d06e3889dbf526b20fcdd59715f0c3a441acbcd7fba7d08ad2a43b2"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1998,4 +1998,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-26","version":265,"window":{"from":"2026-10-25","to":"2026-11-05"}}
+},"updatedAt":"2026-10-26","version":266,"window":{"from":"2026-10-25","to":"2026-11-05"}}
