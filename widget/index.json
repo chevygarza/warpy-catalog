@@ -149,6 +149,7 @@
 "hunger-games-sunrise-on-the-reaping-2026":"eventos/hunger-games-sunrise-on-the-reaping-2026.json",
 "i-play-rocky-2026":"eventos/i-play-rocky-2026.json",
 "ice-age-boiling-point-2027":"eventos/ice-age-boiling-point-2027.json",
+"imac-m6-2026":"eventos/imac-m6-2026.json",
 "in-waves-2026":"eventos/in-waves-2026.json",
 "incredibles-3-2028":"eventos/incredibles-3-2028.json",
 "independence-day-us-2026":"eventos/independence-day-us-2026.json",
@@ -183,6 +184,7 @@
 "lucha-kingdom-2026":"eventos/lucha-kingdom-2026.json",
 "lunar-new-year-2027":"eventos/lunar-new-year-2027.json",
 "lyrids-2027":"eventos/lyrids-2027.json",
+"macbook-pro-14-m6-2026":"eventos/macbook-pro-14-m6-2026.json",
 "man-of-tomorrow-2027":"eventos/man-of-tomorrow-2027.json",
 "marvels-wolverine":"eventos/marvels-wolverine.json",
 "mega-man-dual-override-2027":"eventos/mega-man-dual-override-2027.json",
@@ -311,6 +313,7 @@
 "venetian-neighborhood-2026":"eventos/venetian-neighborhood-2026.json",
 "veterans-day-2026":"eventos/veterans-day-2026.json",
 "violent-night-2-2026":"eventos/violent-night-2-2026.json",
+"werwulf-2026":"eventos/werwulf-2026.json",
 "whalefall-2026":"eventos/whalefall-2026.json",
 "wildwood-2026":"eventos/wildwood-2026.json",
 "wimbledon-2027":"eventos/wimbledon-2027.json",
@@ -1203,6 +1206,7 @@
 "eventos/hunger-games-sunrise-on-the-reaping-2026.json":"f45d943ba71a796d7ddf3a2b80961597dd849c0328940028b8dea3c0ff957f4b",
 "eventos/i-play-rocky-2026.json":"4c27a59378e055dd31e0cd83f70d24d87b4e6408cafd9c8013a28a08af17c4b8",
 "eventos/ice-age-boiling-point-2027.json":"42b548836b7bcbee0018387b8cb6e7d667854c20a3ff7fec26bd2a853b512265",
+"eventos/imac-m6-2026.json":"6af00197b2857fd17235b6e295174fb37d2f913aa9479f30ef85127cae2bb8cb",
 "eventos/in-waves-2026.json":"3dc7d6daa87d320ddd7e6d2fd44dae61633a7b7731397e02b6ddeedd3cbedea7",
 "eventos/incredibles-3-2028.json":"18a9049aee8cc9f3243542d2d70e6c68e613dcc3ef76b2ef5f091b16a08a5067",
 "eventos/independence-day-us-2026.json":"194ba7bde14c379ef08d1b0a7fdf6b60b77e61eaa250881f6f5dcb6d75f7c7bb",
@@ -1237,6 +1241,7 @@
 "eventos/lucha-kingdom-2026.json":"244f83e4d4b04dee7d02b0da25a423ec33ea58fbd7dc83773c23ee4aaaf78a7e",
 "eventos/lunar-new-year-2027.json":"5c2ac758634bd35382373d47bf95226d1abaebad1fbe8e78d169382b1b177384",
 "eventos/lyrids-2027.json":"181e12152796c85af720a272118d82008fa634a55f5798823bec8644a45231cf",
+"eventos/macbook-pro-14-m6-2026.json":"962c0921f65c8b287fb169cf2e1fd07fa30db3930cd018c28ed8d69bff86014f",
 "eventos/man-of-tomorrow-2027.json":"2b432f848dd0d97ed9111b3983e7c84f6a9f90d3cd399839570ceaed29e883a2",
 "eventos/marvels-wolverine.json":"8ee3cdfb0a4c210d90f3eb11b1389a134dfd5e2bed48a1a3082b1bc80f088890",
 "eventos/mega-man-dual-override-2027.json":"a23b068ee8a29533160cccc44cf606bad3f4aebcd8a3cc80c4254d30834668f1",
@@ -1365,6 +1370,7 @@
 "eventos/venetian-neighborhood-2026.json":"117b950621c38efa500bf977779de9d5b7c055d37ee780cf3fb42d872db00d02",
 "eventos/veterans-day-2026.json":"eb619ef7360e6bc9baa029cdbdc55e7af51bc8de68c8e16582991362a42f109c",
 "eventos/violent-night-2-2026.json":"b6d6994efb9883dd7012ac02a14620b53756619415d31954d5c2cf4e84d183f5",
+"eventos/werwulf-2026.json":"b490d1a04bd388cf5f72c9031e791f88e71c04c1aba4d9d8ef2d76c6a40b0c95",
 "eventos/whalefall-2026.json":"2ece5c6a5cd06e320226c246fbec266a86b8456e175753d79c7b9972664c3ba0",
 "eventos/wildwood-2026.json":"0c5bafac94861caf7fecc550edcb752ae8357615ddaa2ee1a1239f91a4fc4e6b",
 "eventos/wimbledon-2027.json":"575a23a50ccdcaef9888a86ed51e280fb34817c3e8e15f7c29bfdfe9a5a0fd80",
@@ -1381,7 +1387,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"57f0e761f12bb52376832a7a2cacca169a01db46811f056ee54d1a02c3f5a2a4",
-"ventana.json":"87ccd2f83293e240ab373620a38bbec80d26a467ac092ccfcb9156717e73eea3"
+"ventana.json":"0f3bbe01bc636cc889efda1ceffcda9b0d2431c366869668788c8d9187565d80"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1998,4 +2004,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-27","version":271,"window":{"from":"2026-10-26","to":"2026-11-06"}}
+},"updatedAt":"2026-10-27","version":272,"window":{"from":"2026-10-26","to":"2026-11-06"}}
