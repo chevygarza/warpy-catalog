@@ -25,6 +25,7 @@
 "aws-reinvent-2026":"eventos/aws-reinvent-2026.json",
 "bad-gyal-2026":"eventos/bad-gyal-2026.json",
 "batman-returns-batmobile-duck-2027":"eventos/batman-returns-batmobile-duck-2027.json",
+"behemoth-2026":"eventos/behemoth-2026.json",
 "billboard-latin-music-awards-2026-2026":"eventos/billboard-latin-music-awards-2026-2026.json",
 "black-friday-2026":"eventos/black-friday-2026.json",
 "black-panther-3-2028":"eventos/black-panther-3-2028.json",
@@ -315,6 +316,7 @@
 "violent-night-2-2026":"eventos/violent-night-2-2026.json",
 "werwulf-2026":"eventos/werwulf-2026.json",
 "whalefall-2026":"eventos/whalefall-2026.json",
+"wild-horse-nine-2026":"eventos/wild-horse-nine-2026.json",
 "wildwood-2026":"eventos/wildwood-2026.json",
 "wimbledon-2027":"eventos/wimbledon-2027.json",
 "windows-surface-and-nvidia-rtx-spark-event-2026":"eventos/windows-surface-and-nvidia-rtx-spark-event-2026.json",
@@ -1082,6 +1084,7 @@
 "eventos/aws-reinvent-2026.json":"318c8f2947ff12f93195bccd98acca4bf376d5c0adce0c5fe7d14d70cf9e84dd",
 "eventos/bad-gyal-2026.json":"243a33e861b07261e8d499265d6d36cbdbdeb4b86f2ba5d81850f874f9b9fd29",
 "eventos/batman-returns-batmobile-duck-2027.json":"8ed4ed5a4b4269d7bd1129a910aba92395b07ad86239970e8ee5fb7f34f47b46",
+"eventos/behemoth-2026.json":"e5df90a2982499d0b7d26aee590526e4fc5c1b9659c1acf4ceda034d421d02e2",
 "eventos/billboard-latin-music-awards-2026-2026.json":"769d35a72674414f2cff18a382bdd398a0ea84eec1ff0189645476a2cf1c1df7",
 "eventos/black-friday-2026.json":"ca52bf4245dbefe3d715dcf91e8528c298f73a8ff467e0c9563286689df31b28",
 "eventos/black-panther-3-2028.json":"02b46b55f86d5f675c9fe3d5c2ac0b548869cef2d032dd3653db56c35dc5bc35",
@@ -1372,6 +1375,7 @@
 "eventos/violent-night-2-2026.json":"b6d6994efb9883dd7012ac02a14620b53756619415d31954d5c2cf4e84d183f5",
 "eventos/werwulf-2026.json":"b490d1a04bd388cf5f72c9031e791f88e71c04c1aba4d9d8ef2d76c6a40b0c95",
 "eventos/whalefall-2026.json":"2ece5c6a5cd06e320226c246fbec266a86b8456e175753d79c7b9972664c3ba0",
+"eventos/wild-horse-nine-2026.json":"cae2a86904444e737d461e11c381d2294976e19da0f00ef9baa854a79c233f2b",
 "eventos/wildwood-2026.json":"0c5bafac94861caf7fecc550edcb752ae8357615ddaa2ee1a1239f91a4fc4e6b",
 "eventos/wimbledon-2027.json":"575a23a50ccdcaef9888a86ed51e280fb34817c3e8e15f7c29bfdfe9a5a0fd80",
 "eventos/windows-surface-and-nvidia-rtx-spark-event-2026.json":"d4e4d20e2ce35841a29a6f54049f4bd356697b9d449ba3d0ce636572414c5919",
@@ -1387,7 +1391,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"80cb479e227955f0f31b697f4e9753c494d7bbfc4426aaa1b39d204b7ae25c65",
-"ventana.json":"c55b8f5604022f6d79e0959bd549423e300f5131d0c3fa274346e17940464dc5"
+"ventana.json":"6621cef8a08bfcf5cd7ac84e102dff851a7b846f0956c9680e4897de89376402"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2005,4 +2009,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-28","version":277,"window":{"from":"2026-10-27","to":"2026-11-07"}}
+},"updatedAt":"2026-10-28","version":278,"window":{"from":"2026-10-27","to":"2026-11-07"}}
