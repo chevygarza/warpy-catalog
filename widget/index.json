@@ -671,7 +671,7 @@
 "equipos/espn-soccer-2850.json":"838ea57d0b15fd11aab02766260795a82cd2d93f755a1275c57924e9bd575b32",
 "equipos/espn-soccer-2851.json":"c82c41d7a9fb74fd216f54396bcb75cff66509a7ebe154deaebd29aa78bd11dd",
 "equipos/espn-soccer-2869.json":"ea46ce69d82defeed6cc75b3123b0f4a5e85a4ddece29955279423d661bff924",
-"equipos/espn-soccer-2917.json":"b919f2b6d083ebe6ff3a2be23f41453e91268a3f8e9446a151a300e5a3c5b9b3",
+"equipos/espn-soccer-2917.json":"51e678e63fa9931e74fd6bdce9bbae0006327ce0cae70266fb0398c7a2c7ed30",
 "equipos/espn-soccer-2922.json":"e1daabc16416f6e3642a4683d7bd28727e704d089a16eb3e239791bc975a4204",
 "equipos/espn-soccer-293.json":"babf6f45cd6cd47d8ba2bd6c936a82359dc39cc1f69f49786c28460110643cee",
 "equipos/espn-soccer-2975.json":"b37fb90a85d641d7cab00805745e67012900d14ede3557333c7480820784fb18",
@@ -1176,7 +1176,7 @@
 "eventos/ipad-mini-a20-pro-2026.json":"0c89a35d5ebeafc24607ce348c8a6c01feaa3b89744e52fbcf16466165649bdb",
 "eventos/iphone-18-pro.json":"64d03b49cc6e922cd6f86a0bb8e84f38beabe33420cb9f0f6fdf8de93e0bb271",
 "eventos/iphone-duo.json":"3e7dde01e337b7d946cda1df2c8e430678189b72c7f57b86b03ccdbf99f4f94e",
-"eventos/jumanji-open-world-2026.json":"d5ff3c36b40d9de5c1c7c50b5ad7d6da56707f02da5e6b9494a384991de4b392",
+"eventos/jumanji-open-world-2026.json":"3de80ee1b4484f1ff7fec473e569291a99c07743914a08e02784903403761f49",
 "eventos/juneteenth-2027.json":"5716a9c809ad61413b39b5e350d343d0292d0c60761231487b72379bbbdb5a78",
 "eventos/karol-g-2026-2.json":"fb30bca1c693cec11b0046af6f45e8b03e5b8f5abb8fcdc8fbfd5eb2e1db8114",
 "eventos/karol-g-2026-3.json":"fdb45e299778f81a93a4351a19daead903734ee8d3a7af384a8aa8ace7f19aaf",
@@ -1227,7 +1227,7 @@
 "eventos/nba.json":"31c21d8d85dee5b7c1cc3c46a98464821adf1f89c7096b5753e975654d46026c",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"73f79d8199f87422d3dfcc193742660b9306457798a2c5658b46995e90fffaab",
+"eventos/nfl.json":"ce3f80edbb181dc8d2be4f23f10f1bec5e977aa72ccd4facad0731ee80d92553",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"fc6d3b091ccdc36e175b11df4c0e21308b3631b6e96b6c015c6e1faefc98cb54",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1272,7 +1272,7 @@
 "eventos/rugby-world-cup-2027.json":"c08ab25546614fb8d351f7da6a68d50beebe827ff6bfb003ac648ef29c6b7c98",
 "eventos/ryder-cup-2027.json":"f6cb96a92c35529636d09fb4b3852068911c3977daed801bbc222309fc68c978",
 "eventos/sagrada-familia-2026.json":"61a2a6adf9ba9e1f381f04adf7680154cdef030c4e9b902e91c2149be8444887",
-"eventos/selecciones.json":"78d650fd5976fce53436c1b8f9834a8f26d8638b9e3d51ddf92ecf199ac39ad2",
+"eventos/selecciones.json":"1a759ede1c8604d6919dcea34a7e2ff0ffa3413041c5213fdc8e962854dfc0a7",
 "eventos/series-estrenos.json":"9eab742119c8ecc5488bc3cc626693cb1ec0b3d342509b33afa8521542f2b55c",
 "eventos/shrek-5-2027.json":"77b344fc7d47c692846032c9938a519f8c0b22e7f7ee26cab08da3a471723012",
 "eventos/siddhartha-2026.json":"b7e9403ec521482ac25a0797f3caa4cd170d9ea2ce574083831cb0704af0eb6b",
@@ -1350,7 +1350,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"69e6200bef36b735ee871afce3ea4a2db93c83bff87907cc3e5fa210d009776f",
-"ventana.json":"32c01a8aa18aaa9eb99ea4249097eaf019ac2f6858d5149f594140dd6a11cf1c"
+"ventana.json":"9ba7575d65fae3f82b9ce99996497eb0f6087639fd43027130b370ede9fb3466"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1968,4 +1968,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-28","version":279,"window":{"from":"2026-10-27","to":"2026-11-07"}}
+},"updatedAt":"2026-10-28","version":280,"window":{"from":"2026-10-27","to":"2026-11-07"}}
