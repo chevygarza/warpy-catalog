@@ -1257,7 +1257,7 @@
 "eventos/meta-connect-2026.json":"a97480d33dfc5215485e64d800dabc84747c5224dd96e9bd7702bc7a42f8b63d",
 "eventos/metro-2039-2027.json":"757f7b2623ad98a90036e4d031c1d838f488ddfbf219b5ab34c26fd7c8e44826",
 "eventos/metroid-ravenous-2027.json":"a30c514c0dbece69be0ba5a4adc03dd7a66c07fe84fe906efb7f6b86cfdb77b8",
-"eventos/mlb.json":"7340d7e2ffc474f0a0212dd1c5f88569830a9473589c28bbed3c00c0dc55e632",
+"eventos/mlb.json":"6fd35b38ee4831a869fdb840d7335b8d618f57221b196cda172b41654fdc76ae",
 "eventos/mlk-day-2027.json":"99522e6477f01b6e550f72f0625a9c62afda96173838d17da53d777869bdda86",
 "eventos/mls.json":"0775eff56a5ec123f8a81b16da744e4f57f47594f91af1e7ad4a881796768d4f",
 "eventos/molotov-2026.json":"044288008c46a5c50196dd50dd2f56dfb8f6e146f28edaf86c3fc3019077185e",
@@ -1397,7 +1397,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"51af5c706cc83e6cf1e21c9b776c3ede1b0b87e5f055fd5de6dae0bbbeb0de47",
-"ventana.json":"4760af5a5627041a37621048973cdfadb2cff0fb46df2b1ff3dea0c96551fd64"
+"ventana.json":"fefe731f221804c6b8d0756d74fdd0e447a26e09adbfe0052d1b8d1b2c5fa516"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2016,4 +2016,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-29","version":284,"window":{"from":"2026-10-28","to":"2026-11-08"}}
+},"updatedAt":"2026-10-29","version":285,"window":{"from":"2026-10-28","to":"2026-11-08"}}
