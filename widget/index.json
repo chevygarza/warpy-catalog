@@ -123,6 +123,7 @@
 "fleetwood-mac-the-chain-2027":"eventos/fleetwood-mac-the-chain-2027.json",
 "focker-in-law-2026":"eventos/focker-in-law-2026.json",
 "forza-horizon-6-2027":"eventos/forza-horizon-6-2027.json",
+"friendship-party-bus-2027":"eventos/friendship-party-bus-2027.json",
 "frozen-3-2027":"eventos/frozen-3-2027.json",
 "further-mis-adventures-of-cliff-booth-2026":"eventos/further-mis-adventures-of-cliff-booth-2026.json",
 "gatto-2027":"eventos/gatto-2027.json",
@@ -140,6 +141,7 @@
 "halley-2061":"eventos/halley-2061.json",
 "halloween-2026":"eventos/halloween-2026.json",
 "hanukkah-2026":"eventos/hanukkah-2026.json",
+"heartlake-city-shopping-mall-2027":"eventos/heartlake-city-shopping-mall-2027.json",
 "helldivers-2027":"eventos/helldivers-2027.json",
 "hermanos-de-leche-2026":"eventos/hermanos-de-leche-2026.json",
 "hexed-2026":"eventos/hexed-2026.json",
@@ -186,6 +188,7 @@
 "lunar-new-year-2027":"eventos/lunar-new-year-2027.json",
 "lyrids-2027":"eventos/lyrids-2027.json",
 "macbook-pro-14-m6-2026":"eventos/macbook-pro-14-m6-2026.json",
+"macbook-pro-proled-xdr-2026":"eventos/macbook-pro-proled-xdr-2026.json",
 "man-of-tomorrow-2027":"eventos/man-of-tomorrow-2027.json",
 "marvels-wolverine":"eventos/marvels-wolverine.json",
 "mega-man-dual-override-2027":"eventos/mega-man-dual-override-2027.json",
@@ -228,6 +231,7 @@
 "penumbral-lunar-eclipse-on-february-2021-2027-2027":"eventos/penumbral-lunar-eclipse-on-february-2021-2027-2027.json",
 "perseids-2027":"eventos/perseids-2027.json",
 "persona-4-revival-2027":"eventos/persona-4-revival-2027.json",
+"pet-care-play-center-2027":"eventos/pet-care-play-center-2027.json",
 "phantom-blade-zero-2026":"eventos/phantom-blade-zero-2026.json",
 "pi-day-2027":"eventos/pi-day-2027.json",
 "playstation-pulse-2026":"eventos/playstation-pulse-2026.json",
@@ -1159,6 +1163,7 @@
 "eventos/fleetwood-mac-the-chain-2027.json":"ebb8ad63f89e3f31a506aa448216e89ef31df1646d9bbda120e0e0d635bae577",
 "eventos/focker-in-law-2026.json":"4dcf8e905049197accbd3b5343075d37310e5c1be8e3f810d19a7feb13a10d95",
 "eventos/forza-horizon-6-2027.json":"4a0aeaa1fc5e04f607664e672149f568ae5634c58cea5a6b5f75f181eeb22363",
+"eventos/friendship-party-bus-2027.json":"1e41703c2b4231075f76a2eea0572efd8968183b9546f3690071a7a1098b6ed1",
 "eventos/frozen-3-2027.json":"d33123a198d8c2af816c259bf612630e69331c0413ecdcc16687fa1c72cc96ca",
 "eventos/further-mis-adventures-of-cliff-booth-2026.json":"2c43eb05b800fe58b6716eac8870d8a73dca9763a23680b0d306a7f206e10d9a",
 "eventos/gatto-2027.json":"59968bdc0ebecf1140789afade7c318b1a3734fa88a04448c763b2630135a103",
@@ -1176,6 +1181,7 @@
 "eventos/halley-2061.json":"b855f3afdf22ee8590244db39fae5ca729be1ad8dcb6dbf387dabedca0aa3841",
 "eventos/halloween-2026.json":"55fe23bde66a2db4334e68741dcbcd03b2187838aa1bebaac6df8e2047401ca5",
 "eventos/hanukkah-2026.json":"56d7bebf56b09bcdeb251ab45729ee05a6ccf9f16f126a82d77bf9c949599a83",
+"eventos/heartlake-city-shopping-mall-2027.json":"3d3eefbab8c33b6a65d16a28ac02bdf72cefce1569d8d59349a69924a45e1f88",
 "eventos/helldivers-2027.json":"8f7fee741bfe721b0d8868aa816edcdc6f4871523e6f0ed6b42c512d3292cf46",
 "eventos/hermanos-de-leche-2026.json":"3f0fd5f1003e6208566104907b53bb5df4ecae09784733e947c6a6112754ac0d",
 "eventos/hexed-2026.json":"bec506c0c6807454b459da9ca6dfbcfdd31d5b37d0ff12fbd86e41a47af0220e",
@@ -1222,6 +1228,7 @@
 "eventos/lunar-new-year-2027.json":"5c2ac758634bd35382373d47bf95226d1abaebad1fbe8e78d169382b1b177384",
 "eventos/lyrids-2027.json":"181e12152796c85af720a272118d82008fa634a55f5798823bec8644a45231cf",
 "eventos/macbook-pro-14-m6-2026.json":"962c0921f65c8b287fb169cf2e1fd07fa30db3930cd018c28ed8d69bff86014f",
+"eventos/macbook-pro-proled-xdr-2026.json":"af2464fb3f1ddca386acb12d32396a2056f0086d6943476713b94fcae26fce4d",
 "eventos/man-of-tomorrow-2027.json":"2b432f848dd0d97ed9111b3983e7c84f6a9f90d3cd399839570ceaed29e883a2",
 "eventos/marvels-wolverine.json":"8ee3cdfb0a4c210d90f3eb11b1389a134dfd5e2bed48a1a3082b1bc80f088890",
 "eventos/mega-man-dual-override-2027.json":"a23b068ee8a29533160cccc44cf606bad3f4aebcd8a3cc80c4254d30834668f1",
@@ -1264,6 +1271,7 @@
 "eventos/penumbral-lunar-eclipse-on-february-2021-2027-2027.json":"f35437fdbeb31c727daf0856e39f702ecd1c811392ec96138861ef8f9e37ee53",
 "eventos/perseids-2027.json":"2c2b4e3bfd663123cafbe5413d82a3c0686a4f2d7abe4042ff0fd18987fd0277",
 "eventos/persona-4-revival-2027.json":"557cf6804667b4aac3e18bbdda5ce99e848c71c4b711e27f0bb79b65d4e0f87c",
+"eventos/pet-care-play-center-2027.json":"129f59519076412b5e392929e347113b0f9d02dd0a24bb926003a30c0ea683dc",
 "eventos/phantom-blade-zero-2026.json":"31e6a23b4650c8e11e93807ba3ad7aadb3cc54ad9948ef9a835a42c0c26fbc26",
 "eventos/pi-day-2027.json":"66082d8e1e6c6ab4409ce78adb0d9d0633cc1e7bcccf1215bfcdadf0e32b1cea",
 "eventos/playstation-pulse-2026.json":"90e356370518b320b43707a370d794cabb15caa353bddf3efc6fd0b0cace763a",
@@ -1368,7 +1376,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"048cbc45c024be14ae5c3e43a7d02e7039cb494ba82935f26a9be128954bf5f5",
-"ventana.json":"a66c3bb004ba4b3db1fbeeff5dc756848a234ab30f20623110298275eb003581"
+"ventana.json":"5e7f38e7470d5a121db69709cca2d98e7022883e173fb4725855af79050b96c8"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1961,4 +1969,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-10-29","version":281,"window":{"from":"2026-10-28","to":"2026-11-08"}}
+},"updatedAt":"2026-10-29","version":282,"window":{"from":"2026-10-28","to":"2026-11-08"}}
