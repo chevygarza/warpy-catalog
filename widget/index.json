@@ -1282,7 +1282,7 @@
 "eventos/oktoberfest-2026.json":"4763d908b1ffaf54808b7463871733874177552bd52428c638e13fca9278d087",
 "eventos/oktoberfest-2027-2027.json":"4bbe4940f643d7d92e109fe13965878e21358da0b8bcfc13b40e9141bca1aba4",
 "eventos/olympics-brisbane-2032.json":"eb0039a9a54e35f9fa714ffdb23611d196d0265acb30bd894651d5f6b35448c6",
-"eventos/olympics-la-2028.json":"4966944b277002bb16618b7bc2e634d69be10e0978015dc1b7e0214c819d9a14",
+"eventos/olympics-la-2028.json":"2bbeb99a72a68a9483c635d467173d4cadb4cbb5ab41610f84056124741f7c3f",
 "eventos/oppo-find-x10-series-global-launch-2026.json":"0dd06e59134a40828bb8edd136cd6140a23a4dbbcf773a5c47285e8b6079f27c",
 "eventos/orionids-2026.json":"0c2bb5db9dd4f6ebe03ace8e04d34194131b7cee592fd5dc94beea74c1611d6b",
 "eventos/oscars-2027.json":"d3cf894458e55549c9975e08715db003db915e1bda85da459209530190ed472a",
@@ -1397,7 +1397,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"7e14922194d62534cd4821f6155036bb50061e0c74d2feb9359ceac16a861269",
-"ventana.json":"50e42d3c557d7087cf9196c52af40edf42090191d3f4dcdcb3e8fbb8e2b184ab"
+"ventana.json":"ff5be81963c33e60c2a4f0b4f58cd26821b08f646816ed4446d0a35e0b2ef1f0"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2063,4 +2063,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-01","version":294,"window":{"from":"2026-10-31","to":"2026-11-11"}}
+},"updatedAt":"2026-11-01","version":295,"window":{"from":"2026-10-31","to":"2026-11-11"}}
