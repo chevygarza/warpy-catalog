@@ -1372,7 +1372,7 @@
 "eventos/u-s-spacewalk-101-2026.json":"ed3c4cbcb183c472f30a8fb7f993098af0f152a925ffd2029202f8c90a0a7065",
 "eventos/ubuntu-26-10-2026.json":"684aaf8fe30357d3904f8a4d1c6e93b8fc72bf24af4d6daca6749f1650206ec7",
 "eventos/ubuntu-27-04-2027.json":"9d75dee5a36f9139d62a9b3b0c300de3965195a05d9f1fc2f958f343d9d33534",
-"eventos/uefa-euro-2028.json":"a0158c35afcea0b2a120fc4fbd06318d2b21c69a3d3eb1c2f0da3a0ede9963ce",
+"eventos/uefa-euro-2028.json":"eedb7824f4d9f2d046f92aec98684401b06778100a91b7047c9ab15fe8ce2938",
 "eventos/ufc.json":"fd3bd2d529ee6bd9cfca1e6641232bbab5c7a524858a8352e6e0c9a92d24591b",
 "eventos/until-dawn-2-2027.json":"e1b7bb717bcfe37af62bd9d6496cc7a76c791df92d60d47c8e702226a4cba558",
 "eventos/valentines-2027.json":"8996b0021b4405738a065441d044f9fcde5681d70c3eeeca4af7142a3272635d",
@@ -1397,7 +1397,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"7e14922194d62534cd4821f6155036bb50061e0c74d2feb9359ceac16a861269",
-"ventana.json":"1134cf4dcbb57e49a1f94725e82069b33e0515293d7fbb65712766dbc0df562e"
+"ventana.json":"50e42d3c557d7087cf9196c52af40edf42090191d3f4dcdcb3e8fbb8e2b184ab"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2063,4 +2063,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-01","version":293,"window":{"from":"2026-10-31","to":"2026-11-11"}}
+},"updatedAt":"2026-11-01","version":294,"window":{"from":"2026-10-31","to":"2026-11-11"}}
