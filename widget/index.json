@@ -11,6 +11,7 @@
 "aguinaldo-2026":"eventos/aguinaldo-2026.json",
 "aitana-2026":"eventos/aitana-2026.json",
 "alejandro-sanz-2026":"eventos/alejandro-sanz-2026.json",
+"amanda-serrano-vs-skye-falzon-2027":"eventos/amanda-serrano-vs-skye-falzon-2027.json",
 "amari-jones-vs-deaundre-pettus-2026":"eventos/amari-jones-vs-deaundre-pettus-2026.json",
 "andres-calamaro-2026":"eventos/andres-calamaro-2026.json",
 "angry-birds-movie-3-2026":"eventos/angry-birds-movie-3-2026.json",
@@ -1072,6 +1073,7 @@
 "eventos/aguinaldo-2026.json":"1e30df343662fbc67c180f23db74d68b763665a4758e9cf3b24b25de1a13852c",
 "eventos/aitana-2026.json":"dec7f8c75b83bb066b4fac0d9e50093262bf2e42b08dff6473ee90c7cf64063d",
 "eventos/alejandro-sanz-2026.json":"7598236fd466a2318724d6344dd21bf06d62ab746cafa1c142d6a3d082320c00",
+"eventos/amanda-serrano-vs-skye-falzon-2027.json":"17176b2aff6c1d8a2633fd3ea1629b718afa9e064810b41943a87cfb9738fee0",
 "eventos/amari-jones-vs-deaundre-pettus-2026.json":"619ce3f9e73a8c77cd623ec8eb6b9fcc3d8151c031ac69df8b4495c5d5e68fa9",
 "eventos/andres-calamaro-2026.json":"bac0ac156b41f2ac3ceec742c858e283b91e337ec5eee5a3ded3da8142111662",
 "eventos/angry-birds-movie-3-2026.json":"a42780423d19fbda3d09b3c5608647157b30540370d5d31f474a56d1fd8774ab",
@@ -1397,7 +1399,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"7680087ea731b395c4e294a21df2b17761fbb0fd275d2eee65bf125678e8a5ee",
-"ventana.json":"0fa68edd0bcd35c03fcc8bb89509dac791ea9225e112a1583d4a880f4b99c7ed"
+"ventana.json":"a22bc10dad39eaa6f1ddea5bd81ce7849802aa67c2e2c7819e22c92d26aa9adb"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2064,4 +2066,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-04","version":304,"window":{"from":"2026-11-03","to":"2026-11-14"}}
+},"updatedAt":"2026-11-04","version":305,"window":{"from":"2026-11-03","to":"2026-11-14"}}
