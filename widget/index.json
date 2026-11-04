@@ -1169,7 +1169,7 @@
 "eventos/europa-league.json":"e2e557d434bee58e15cff0cb624a36478f16a93c210b446ce85635646861fb18",
 "eventos/eurovision-2027.json":"0cdc60d9e2a30ed4f4c0075b648fcc1796535b372b696c2d26268f0810e1c73f",
 "eventos/exodus-2027.json":"63cba93d3ecfe96434b287244a6304c34f14793e1e0a8582e14b7641ae988e62",
-"eventos/expo-2030-riyadh.json":"fb5d0e92412adb4ef0ed803a3edb3853032ef56039525f1ca49e02e297de1dbd",
+"eventos/expo-2030-riyadh.json":"6b921c95784894124a39715dc2021241cad6840983edf9d75f44453a1420c31a",
 "eventos/f1-season-2027.json":"61d5c5e56d37f24860e9b5b20d5da995ab4f6bd55cd39c6d05d449f924e52c10",
 "eventos/f1.json":"76cbc1adda2f3a35a26a6e7a0d0dc072a8a4996416a18576b6f2f69f22233c59",
 "eventos/fa-cup.json":"c91c80fe269b0e6a051b5986cf7e8578ab06c1ed0c4c43c066aec1816279963b",
@@ -1326,7 +1326,7 @@
 "eventos/shrek-5-2027.json":"77b344fc7d47c692846032c9938a519f8c0b22e7f7ee26cab08da3a471723012",
 "eventos/siddhartha-2026.json":"b7e9403ec521482ac25a0797f3caa4cd170d9ea2ce574083831cb0704af0eb6b",
 "eventos/solar-eclipse-2027.json":"b9487c7db35d95fd92d9796aece2293e06c2ea5fececd0b159174b8e89dd00bd",
-"eventos/solar-eclipse-2028.json":"a1bd529db0983df080c491a7b2963f03f262e58a1e164acac1292cf9791f0d2a",
+"eventos/solar-eclipse-2028.json":"dd43b9b64dbb65748c0121c6de89c1844babe307d1854926b1dc3b0d6ae5bb67",
 "eventos/sonic-the-hedgehog-4-2027.json":"b85c15130ac4984406ce410f56a893b6a4b98ef9cc283728f3862f0edb8fa3fb",
 "eventos/spaceballs-2-2027.json":"1e8bcdb6a0e814b1a387c2ce37a3afd50b55d9a8a0dece3e9c878a4bc188c2fb",
 "eventos/spider-man-beyond-the-spider-verse-2027.json":"4920b870110442de335d829445bfe5441b2ea4e063fc8ba296aec75a194516de",
@@ -1387,7 +1387,7 @@
 "eventos/wildwood-2026.json":"0c5bafac94861caf7fecc550edcb752ae8357615ddaa2ee1a1239f91a4fc4e6b",
 "eventos/wimbledon-2027.json":"575a23a50ccdcaef9888a86ed51e280fb34817c3e8e15f7c29bfdfe9a5a0fd80",
 "eventos/windows-surface-and-nvidia-rtx-spark-event-2026.json":"d4e4d20e2ce35841a29a6f54049f4bd356697b9d449ba3d0ce636572414c5919",
-"eventos/winter-olympics-2030.json":"e4a9744105ded5ba82ee3b8e19afb866520daa16a3fdeafcbf1be226304b0580",
+"eventos/winter-olympics-2030.json":"d3dde85f224b06d80921d6031e0d21801cdab5dd675b34908578642b017c1993",
 "eventos/winter-olympics-2034.json":"5c0c54f986912efbdbe73928a6ad2b9beae97df7f891fce07fd8d40301d071f1",
 "eventos/womens-world-cup-2027.json":"da1854acf05f87607febda2f29d7db5b9342210576fe35fc98a81f330baa4134",
 "eventos/world-series-2026.json":"e5eecd191d22d800503dfdf2dbfde3ae498eaa78bc47d390dc843a5f9484d535",
@@ -1399,7 +1399,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"7680087ea731b395c4e294a21df2b17761fbb0fd275d2eee65bf125678e8a5ee",
-"ventana.json":"91fc653f5f5a4966dd2759a8e7d1963c19e32e431594b38dc4b38c1654fa04f9"
+"ventana.json":"01b238ef5e454a03c6489dd344db2ddad137a8f925c88f77d09071f5b8f87eca"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2066,4 +2066,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-04","version":306,"window":{"from":"2026-11-03","to":"2026-11-14"}}
+},"updatedAt":"2026-11-04","version":307,"window":{"from":"2026-11-03","to":"2026-11-14"}}
