@@ -1094,7 +1094,7 @@
 "eventos/black-panther-3-2028.json":"02b46b55f86d5f675c9fe3d5c2ac0b548869cef2d032dd3653db56c35dc5bc35",
 "eventos/blair-witch-2027.json":"5abfc3417d0e07cc5d1e4e5eb2a85a6033225cb793d1c649a183b6c7b0843106",
 "eventos/brasileirao.json":"c481129ef7efadb9d962ce03614acd52ffa2d5cd787bf79ce61c9a86c1517914",
-"eventos/buen-fin-2026.json":"d399cbb7d43c7033fc98a755475a8c0f9f1aba069b8f4680d18bc13c349f6bd4",
+"eventos/buen-fin-2026.json":"72258ede2b06e2e90f56250577db16c1d881db244d3495b5d16f99f9686d3bcc",
 "eventos/caifanes-2026-2.json":"ae290215c686b01c9057db611c59beee9dbedee8e00055a99d97b28d1f5a2b42",
 "eventos/caifanes-2026.json":"889932ef836682d27b119a70af726f28d84ed2f3df8e026d1c241e260516e3a5",
 "eventos/call-of-duty-2028.json":"df1bebf66c48140fd09a24feaeb13cb32bfe3bbbb53fcd695a5cd1dd1ebf4bb5",
@@ -1399,7 +1399,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"7680087ea731b395c4e294a21df2b17761fbb0fd275d2eee65bf125678e8a5ee",
-"ventana.json":"a22bc10dad39eaa6f1ddea5bd81ce7849802aa67c2e2c7819e22c92d26aa9adb"
+"ventana.json":"91fc653f5f5a4966dd2759a8e7d1963c19e32e431594b38dc4b38c1654fa04f9"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2066,4 +2066,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-04","version":305,"window":{"from":"2026-11-03","to":"2026-11-14"}}
+},"updatedAt":"2026-11-04","version":306,"window":{"from":"2026-11-03","to":"2026-11-14"}}
