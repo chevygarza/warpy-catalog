@@ -161,6 +161,7 @@
 "ipad-mini-a20-pro-2026":"eventos/ipad-mini-a20-pro-2026.json",
 "iphone-18-pro":"eventos/iphone-18-pro.json",
 "iphone-duo":"eventos/iphone-duo.json",
+"jake-paul-vs-cedric-doumbe-2026":"eventos/jake-paul-vs-cedric-doumbe-2026.json",
 "jumanji-open-world-2026":"eventos/jumanji-open-world-2026.json",
 "juneteenth-2027":"eventos/juneteenth-2027.json",
 "karol-g-2026":"eventos/karol-g-2026.json",
@@ -1208,6 +1209,7 @@
 "eventos/ipad-mini-a20-pro-2026.json":"0c89a35d5ebeafc24607ce348c8a6c01feaa3b89744e52fbcf16466165649bdb",
 "eventos/iphone-18-pro.json":"64d03b49cc6e922cd6f86a0bb8e84f38beabe33420cb9f0f6fdf8de93e0bb271",
 "eventos/iphone-duo.json":"3e7dde01e337b7d946cda1df2c8e430678189b72c7f57b86b03ccdbf99f4f94e",
+"eventos/jake-paul-vs-cedric-doumbe-2026.json":"a296922b99fcc8284abbb40900ebb5406dacc235378c1d1970d35925092ae44f",
 "eventos/jumanji-open-world-2026.json":"3de80ee1b4484f1ff7fec473e569291a99c07743914a08e02784903403761f49",
 "eventos/juneteenth-2027.json":"5716a9c809ad61413b39b5e350d343d0292d0c60761231487b72379bbbdb5a78",
 "eventos/karol-g-2026-2.json":"fb30bca1c693cec11b0046af6f45e8b03e5b8f5abb8fcdc8fbfd5eb2e1db8114",
@@ -1384,7 +1386,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"b4a373ff5dabdafa042a4cdf431195b026c1bbe37bc909660de9aa257f4d3062",
-"ventana.json":"e2ad4ab811ea24c2f3e62f364c39076698df8025ab543a47f605b11fb8bfe0ff"
+"ventana.json":"4d6575e87b2a730c5266706e7b5d8928d315d9bf839b09bf2e747fa8dc267cbb"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2051,4 +2053,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-05","version":310,"window":{"from":"2026-11-04","to":"2026-11-15"}}
+},"updatedAt":"2026-11-05","version":311,"window":{"from":"2026-11-04","to":"2026-11-15"}}
