@@ -1352,7 +1352,7 @@
 "eventos/the-bluey-movie-2027.json":"c69a557c903d9c2e91a47b451a743fb55684bfc67515e2cb8d218d7a43e7b907",
 "eventos/the-cat-in-the-hat-2026.json":"5a32f4b09c2a1b56e95726960ff06f91b2114fca4993a063038d604b6b9daa02",
 "eventos/the-conjuring-first-communion-2027.json":"4e79dde565016d024cc1cf7c157f44f22f836dde23b4a9377a773ba4c373e8d8",
-"eventos/the-duskbloods-2026.json":"e12613cfd1b9fb1322d6dcef387802bd7f5c7cba8f9252a9a1e167fe403365c8",
+"eventos/the-duskbloods-2026.json":"070ba34a047f64ff6ff4bbaf56d36dd33ff6e2968bc4b2e0304096fac347b6a0",
 "eventos/the-exorcist-martyrs-2027.json":"d75106ccd59067afb7ba3c0a0106e849b0245559f389c40d4ab15f3a867cd877",
 "eventos/the-game-awards-2026.json":"6e01bca3b6b341595ebaebf96b1ef44e4b4c1ea82ca8aa58defb57072ef934de",
 "eventos/the-haunting-of-hotel-transylvania-2027.json":"9b88c1fdb762a1c05f5698a14d2d9c3b9203ae90ce23c97652d26b92c1daaa84",
@@ -1403,7 +1403,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"da4a5e94937213c373030d5b2a549e40b07840e5d06f23db6c3bbe382bfb2c3d",
-"ventana.json":"9ebbdf158f3e9b7138df11dc1a12b9cdc888fa53df49b50d146e215f82315d49"
+"ventana.json":"3b938665580873c3c2036ec391a6598ea923d0cbc64ff4394e0184d0819f358e"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2070,4 +2070,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-05","version":314,"window":{"from":"2026-11-04","to":"2026-11-15"}}
+},"updatedAt":"2026-11-06","version":315,"window":{"from":"2026-11-05","to":"2026-11-16"}}
