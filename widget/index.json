@@ -227,6 +227,7 @@
 "oppo-find-x10-series-global-launch-2026":"eventos/oppo-find-x10-series-global-launch-2026.json",
 "orionids-2026":"eventos/orionids-2026.json",
 "oscars-2027":"eventos/oscars-2027.json",
+"ozzfest-2027":"eventos/ozzfest-2027.json",
 "pablo-alboran-2026":"eventos/pablo-alboran-2026.json",
 "panteon-rococo-2026":"eventos/panteon-rococo-2026.json",
 "paranormal-activity-8-2027":"eventos/paranormal-activity-8-2027.json",
@@ -1293,6 +1294,7 @@
 "eventos/oppo-find-x10-series-global-launch-2026.json":"0dd06e59134a40828bb8edd136cd6140a23a4dbbcf773a5c47285e8b6079f27c",
 "eventos/orionids-2026.json":"0c2bb5db9dd4f6ebe03ace8e04d34194131b7cee592fd5dc94beea74c1611d6b",
 "eventos/oscars-2027.json":"d3cf894458e55549c9975e08715db003db915e1bda85da459209530190ed472a",
+"eventos/ozzfest-2027.json":"45ac5562a8f44b84c302d84a979d215b4507cf2e789467fb598391fae8383489",
 "eventos/pablo-alboran-2026.json":"6cadfc6116085ea5e27bcd4486de791864836c0e0e499e4c67bc44ae521de667",
 "eventos/panteon-rococo-2026.json":"2ca758e894873185297928e9e14e635b4faafc4e89d33ceb1dd02c93f68d1ec0",
 "eventos/paranormal-activity-8-2027.json":"af1f5273d64f58204cee9834f1a0d04f724314496be057a19d7f2e05c934fdc5",
@@ -1405,7 +1407,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"89d1717ac71fa09ab510271b457c503a2b016fe653975dd320dbd2edebe3379d"
+"ventana.json":"4beebc630b4efa879385f1b1f684fa215427330376d7768ac161ee67c42fff22"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2072,4 +2074,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":320,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":321,"window":{"from":"2026-11-05","to":"2026-11-16"}}
