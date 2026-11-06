@@ -1105,7 +1105,7 @@
 "eventos/canelo-vs-mbilli-2026.json":"6023444b949220877bf39bf3b2a791291ba369695dc1082c899c425351a27b47",
 "eventos/carabao-cup.json":"e06d70764fc8620be180ee8f8339af010fe2bf943b4e56e5183fc9181b212885",
 "eventos/castlevania-belmonts-curse-2026.json":"d1c50fb8e90850953cfe1c00572582ec7df65b980686af71ac54fb6e3ed5ce4b",
-"eventos/ces-2027.json":"83df034c6f096571620ca7bd1f4072634d0dfd65762f82eac2e53777a3665adc",
+"eventos/ces-2027.json":"4b4659302d03c75297a54b0668ac2565e1cdd78b2a54d8b9abec2a57c9358fae",
 "eventos/champions-league.json":"6b89f00a8cb2f4ed75fe07f6b693af7a90f3075ec1e19aa6607f9a641997f2d2",
 "eventos/charlie-vs-the-chocolate-factory-2027.json":"ef51a9bd10fca467d27833666b6f530ceab669b3fc7d55e8ef585a76109708a2",
 "eventos/christmas-2026.json":"5b3fa0dde259b068d6dc54c7f303b8c18a3d4ffb53852e47d287a4439c2bd9d5",
@@ -1403,7 +1403,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"a3b13205bc75f1c9aa75f89911a795c09364a0f66bf3c0368b11a86b5b29fb68"
+"ventana.json":"e446a34f6bb915647bf4bcd03639a75c2561f87d104d3611ccd9c1cd87b2b373"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2070,4 +2070,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":317,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":318,"window":{"from":"2026-11-05","to":"2026-11-16"}}
