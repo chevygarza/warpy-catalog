@@ -1086,7 +1086,7 @@
 "eventos/asian-games-2026.json":"688d5529fca074ee9a2a55e1fae5ffa2257cbbb1c73cf4b6a45520d593bf18c0",
 "eventos/asuetos-mexico.json":"784e11477c4e7f4eb351311ae3bb0791dc7a11faf0f7e8ef7267d38ef0580e27",
 "eventos/attack-on-titan-3-2026.json":"bd9411746d8c13bc8201b561e7529ee515ac9f075d1334db263cb3fbcdd904dc",
-"eventos/avengers-doomsday.json":"8630993083f2182b7c6621e97fb878295afbd5a47b363bc68e3dc3715b6b61a5",
+"eventos/avengers-doomsday.json":"8c1191e6dc97e6d06b909cdc244277ffc6b65c1df55a79ea667c5b102f970d78",
 "eventos/avengers-secret-wars.json":"30438906f3b163d96a161a3e97eb1bb378eea983e863acb3cf5ea4e635c915b4",
 "eventos/aws-reinvent-2026.json":"318c8f2947ff12f93195bccd98acca4bf376d5c0adce0c5fe7d14d70cf9e84dd",
 "eventos/bad-gyal-2026.json":"243a33e861b07261e8d499265d6d36cbdbdeb4b86f2ba5d81850f874f9b9fd29",
@@ -1403,7 +1403,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"45c755af9e2ed45b102b557274b3e2418939535b07aa5e0cc1afb42a2255f5b6"
+"ventana.json":"a3b13205bc75f1c9aa75f89911a795c09364a0f66bf3c0368b11a86b5b29fb68"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2070,4 +2070,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":316,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":317,"window":{"from":"2026-11-05","to":"2026-11-16"}}
