@@ -135,6 +135,8 @@
 "god-of-war-laufey-2027":"eventos/god-of-war-laufey-2027.json",
 "godzilla-minus-zero-2026":"eventos/godzilla-minus-zero-2026.json",
 "godzilla-x-kong-supernova-2027":"eventos/godzilla-x-kong-supernova-2027.json",
+"gorillaz-2026":"eventos/gorillaz-2026.json",
+"gorillaz-2026-2":"eventos/gorillaz-2026-2.json",
 "gremlins-3-2028":"eventos/gremlins-3-2028.json",
 "grito-independencia-2026":"eventos/grito-independencia-2026.json",
 "gta-vi":"eventos/gta-vi.json",
@@ -1202,6 +1204,8 @@
 "eventos/god-of-war-laufey-2027.json":"7b97abab08d8a96c3a52c87d9bf8832752b2b85b86c4fba243c0e72bf22465e3",
 "eventos/godzilla-minus-zero-2026.json":"fd58c7f8068d299b03f83af3ada7bf35fb38e1ac599c40e3b7825a9383758d25",
 "eventos/godzilla-x-kong-supernova-2027.json":"ffe6c12344b39174c5e55a863f08423534453f04355aeefd87fa112066029285",
+"eventos/gorillaz-2026-2.json":"a94484b02878129f9abffcbe45a4f7f49543c7a847a26dab3725aaaee6c8ec9a",
+"eventos/gorillaz-2026.json":"26cfc22c9297f1f17507c2db30f718576fb10de81985b8153aecbee6708a63c5",
 "eventos/gremlins-3-2028.json":"d5e0f14dd7854b7a3677ea2e23d0b00e4941a12f77667a2a805a3d7d380188bb",
 "eventos/grito-independencia-2026.json":"d793f79568fa56ca6755a438bbb6b05c41b103a92161e9750fffb860372c9d5f",
 "eventos/gta-vi.json":"77c4443de77906043cdfc34eca03740c95e30fbff427541ae29f64e7b4887777",
@@ -1407,7 +1411,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"4beebc630b4efa879385f1b1f684fa215427330376d7768ac161ee67c42fff22"
+"ventana.json":"2837f91149fad119ef20bc038bab94679034a951412bb8887030e116a888d87a"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2074,4 +2078,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":321,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":322,"window":{"from":"2026-11-05","to":"2026-11-16"}}
