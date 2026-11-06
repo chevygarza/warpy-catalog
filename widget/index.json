@@ -279,6 +279,7 @@
 "super-bowl-lxi-2027":"eventos/super-bowl-lxi-2027.json",
 "super-bowl-lxii-2028":"eventos/super-bowl-lxii-2028.json",
 "tangled-2028":"eventos/tangled-2028.json",
+"tecate-pa-l-norte-2027":"eventos/tecate-pa-l-norte-2027.json",
 "tesla-roadster-2026":"eventos/tesla-roadster-2026.json",
 "thanksgiving-2026":"eventos/thanksgiving-2026.json",
 "the-batman-part-ii":"eventos/the-batman-part-ii.json",
@@ -1344,6 +1345,7 @@
 "eventos/super-bowl-lxi-2027.json":"0e21efe98569c62bddbc12e8133b7e4ce425a5060006a649d535bf4ff5030d1a",
 "eventos/super-bowl-lxii-2028.json":"5f713ebfb69233935348032ed72617f4af5bbbd56363684aa68089a9787e13fb",
 "eventos/tangled-2028.json":"df83f51c9d7fdd9d5627c233589a163df81037e739289c4325eab0cba0de5875",
+"eventos/tecate-pa-l-norte-2027.json":"58b6c0c472384b471c0afe579852bfb0d20fd2331d5f914c9053f8216163f792",
 "eventos/tesla-roadster-2026.json":"6dc5a08dc3e36ca3c54315d6cd3eeb5a5f07b626bf6f37c76aff9a679a2394a3",
 "eventos/thanksgiving-2026.json":"5c6b38151b3d04c0ea96fa2aa03c6d3c79957e32fec70285ebbaa133aab80ae1",
 "eventos/the-batman-part-ii.json":"269ad9b5aec9dff5c85d83e9951419ac2563c879e20acfc68b2bf46cbbddc894",
@@ -1403,7 +1405,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"038f217418abf01d6c9ba58aced964a9d64735f7003ca5b51c17f3da5d634010"
+"ventana.json":"89d1717ac71fa09ab510271b457c503a2b016fe653975dd320dbd2edebe3379d"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2070,4 +2072,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":319,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":320,"window":{"from":"2026-11-05","to":"2026-11-16"}}
