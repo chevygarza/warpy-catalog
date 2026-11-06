@@ -263,6 +263,7 @@
 "rugby-world-cup-2027":"eventos/rugby-world-cup-2027.json",
 "ryder-cup-2027":"eventos/ryder-cup-2027.json",
 "sagrada-familia-2026":"eventos/sagrada-familia-2026.json",
+"se-regalan-dudas-2026":"eventos/se-regalan-dudas-2026.json",
 "selecciones":"eventos/selecciones.json",
 "series-estrenos":"eventos/series-estrenos.json",
 "shrek-5-2027":"eventos/shrek-5-2027.json",
@@ -1332,6 +1333,7 @@
 "eventos/rugby-world-cup-2027.json":"c08ab25546614fb8d351f7da6a68d50beebe827ff6bfb003ac648ef29c6b7c98",
 "eventos/ryder-cup-2027.json":"f6cb96a92c35529636d09fb4b3852068911c3977daed801bbc222309fc68c978",
 "eventos/sagrada-familia-2026.json":"61a2a6adf9ba9e1f381f04adf7680154cdef030c4e9b902e91c2149be8444887",
+"eventos/se-regalan-dudas-2026.json":"50157412f842f48e2c19f7db540b30a4b6740f5fb60ea3a0e8ab412d0ee77bcc",
 "eventos/selecciones.json":"4f80620e1ca2d0915d7b70fc1fe4507910268f55ee5558faf71b74fd08541665",
 "eventos/series-estrenos.json":"a5966e9c4848d116a58878e34b37712d66a1c8c49e28a2eda9610073ee6bbe24",
 "eventos/shrek-5-2027.json":"77b344fc7d47c692846032c9938a519f8c0b22e7f7ee26cab08da3a471723012",
@@ -1411,7 +1413,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"78e843bac19a9e4833fc43af6ea4bafbadf309be3cc668e3d6dd91e50afd4fe2",
-"ventana.json":"2837f91149fad119ef20bc038bab94679034a951412bb8887030e116a888d87a"
+"ventana.json":"df760170b9a9abd9c65246be7c57c6e52f742fcbdea60b3e44843d0262c95fdb"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2078,4 +2080,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-06","version":322,"window":{"from":"2026-11-05","to":"2026-11-16"}}
+},"updatedAt":"2026-11-06","version":323,"window":{"from":"2026-11-05","to":"2026-11-16"}}
