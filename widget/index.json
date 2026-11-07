@@ -1353,7 +1353,7 @@
 "eventos/super-bowl-lxi-2027.json":"b26c1a05e6056589f4892df4b503c0efe638b2781f7da0d27ef94182aaf0af1e",
 "eventos/super-bowl-lxii-2028.json":"5f713ebfb69233935348032ed72617f4af5bbbd56363684aa68089a9787e13fb",
 "eventos/tangled-2028.json":"df83f51c9d7fdd9d5627c233589a163df81037e739289c4325eab0cba0de5875",
-"eventos/tecate-pa-l-norte-2027.json":"58b6c0c472384b471c0afe579852bfb0d20fd2331d5f914c9053f8216163f792",
+"eventos/tecate-pa-l-norte-2027.json":"8ec6ab169d268a2f83ba5a8ef093c74a728408f5de722018beaced60374b78ce",
 "eventos/tesla-roadster-2026.json":"6dc5a08dc3e36ca3c54315d6cd3eeb5a5f07b626bf6f37c76aff9a679a2394a3",
 "eventos/thanksgiving-2026.json":"5c6b38151b3d04c0ea96fa2aa03c6d3c79957e32fec70285ebbaa133aab80ae1",
 "eventos/the-batman-part-ii.json":"269ad9b5aec9dff5c85d83e9951419ac2563c879e20acfc68b2bf46cbbddc894",
@@ -1413,7 +1413,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"c8bf8566c42a1b980a280a3be471aa4a462ae27fffac964fdcbc903d4fab6223",
-"ventana.json":"a65f49f56284e8a3b282c2fbbc907337ab8263487fab19fc9cd99db453a7347a"
+"ventana.json":"25e30b13c7ff7f115ea1bee02b6a772b24408a39140ce00a85e8ba44e87e3cf3"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2080,4 +2080,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-07","version":327,"window":{"from":"2026-11-06","to":"2026-11-17"}}
+},"updatedAt":"2026-11-07","version":328,"window":{"from":"2026-11-06","to":"2026-11-17"}}
