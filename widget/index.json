@@ -1122,7 +1122,7 @@
 "eventos/columbus-day-2026.json":"17d1da8721c565b0cdece7d8cde0320e3bd5750469c613e775387633e34d27b3",
 "eventos/comic-con-2027.json":"866dd29fd2c527ccd4d9747aeb33016cf449b144c9d8ffac362584cc051af309",
 "eventos/computex-2027.json":"085f84a033acdbbde06eb61c692de896492d597eb3c77df42d1209a62f607e10",
-"eventos/conciertos-bogota.json":"44ab5148781a0f02176460f977234fd19ec7d9362a2c2171352884ab88b75e89",
+"eventos/conciertos-bogota.json":"00c40782ec6d519c526c816271f0305446476112f2ccfc3c65ff88415ff11d05",
 "eventos/conciertos-buenos-aires.json":"896722cb363ac0a06cb0584886c77b5fb801fd763f8bc6eb4b83d50cf185213f",
 "eventos/conciertos-cdmx.json":"4f96d828be72bff996eb563550bcca69a1e7ba61339045b5a868414187e65e7b",
 "eventos/conciertos-chicago.json":"35f9c957db6653e886579a63cfc6c411c7e971d36ebda5a6835e10caf2a10129",
@@ -1132,7 +1132,7 @@
 "eventos/conciertos-lima.json":"0ca6fd0c64e3c6bb9af4744bb72ab70e91721ca849dc09dcdfcd748c0373f819",
 "eventos/conciertos-los-angeles.json":"21171aa087175889179d5ce9f635f89a1c692e05d1bcc9034dc7de091553126b",
 "eventos/conciertos-miami.json":"517e1ff470e405f84800b1322cffa780d8822fd447600179d188b6e039ae5a81",
-"eventos/conciertos-monterrey.json":"744e58f6a99850d649e49973de8ed7c6d8fd56436d34075c656d67c48bc48854",
+"eventos/conciertos-monterrey.json":"a4d1bd944c9021303b9a9b1661246b14164ebc4756fd1b5ee962e75965fa6c62",
 "eventos/conciertos-new-york.json":"472cbc66f21ab96d11239107167362acac2786f1d08f8cd3b334385025038730",
 "eventos/conciertos-phoenix.json":"5695e0ab465bbe841762d4425cd5712e3ecc03a7bb1537b2bca374305e45d19c",
 "eventos/conciertos-rio-de-janeiro.json":"27de647eba22cf3759bcfcafa824e81fe2efdcbd1682ec1ab5535c57d1eb4e02",
@@ -1288,7 +1288,7 @@
 "eventos/nba.json":"20797115f5828f9868fb149d0bf6e3d71195d4de77414d71f273a763c12b24db",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"cd3c30f6cd72ace048173a3cb80b0268a577f1dcb21636121a41d991045aa4ac",
+"eventos/nfl.json":"6af40629783ab4ab80a7377fd371bd3113f8b11e77334af3655d2587411aec09",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"fc6d3b091ccdc36e175b11df4c0e21308b3631b6e96b6c015c6e1faefc98cb54",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1415,7 +1415,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"e473fb853d95b07e5edd5b52a6e46ad6d1fa11cafa192a964cb9ad14994f9dbe",
-"ventana.json":"95fa7d8241579f7aba4d7a831cea2c53bbb655b76049f34e49b9d74329094061"
+"ventana.json":"85c9056d19183ddb16b2172657b096cfaf8c7bed6b270800162940919505f0fc"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2052,4 +2052,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-08","version":332,"window":{"from":"2026-11-07","to":"2026-11-18"}}
+},"updatedAt":"2026-11-08","version":333,"window":{"from":"2026-11-07","to":"2026-11-18"}}
