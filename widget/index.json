@@ -71,6 +71,7 @@
 "conciertos-tijuana":"eventos/conciertos-tijuana.json",
 "conference-league":"eventos/conference-league.json",
 "copa-del-rey":"eventos/copa-del-rey.json",
+"corona-capital-2026":"eventos/corona-capital-2026.json",
 "cozy-plants-2026":"eventos/cozy-plants-2026.json",
 "cricket-world-cup-2027":"eventos/cricket-world-cup-2027.json",
 "cultura-cdmx":"eventos/cultura-cdmx.json",
@@ -1141,6 +1142,7 @@
 "eventos/conciertos-tijuana.json":"10c43357c964a4782a57def37afab25dc1f63f8c5ff8d34e519d02ea4a68bda7",
 "eventos/conference-league.json":"5c1b904b86fc2a9fb32178d839cb10a1229afd2fb32949d1d46348a9d1d5bef9",
 "eventos/copa-del-rey.json":"791759b76e35e8c14a6518adc6b15c4d067af1a5be946aeec1977c4f6d3b50f2",
+"eventos/corona-capital-2026.json":"a1bde78fcabf3177581a6269929fed9c5d26efe3c32960c4098aaeea461c331f",
 "eventos/cozy-plants-2026.json":"0aafe31bea3ea91355783331adcb96a9e371ad4974cfdaffdf8037e499f49e1e",
 "eventos/cricket-world-cup-2027.json":"ab81be53426edb8602bd64518284c43ef49248a9ecc5c9bea7edac11bab243a6",
 "eventos/cultura-cdmx.json":"065bc57261d9c7aab900bf3a6d822b16a037db9c77c6dfc2086c9fd5f2a7f743",
@@ -1413,7 +1415,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"23511ca3c38c6070a4fe2ed3f3b8ac825e5e1272726076842782ab9c947bcc52",
-"ventana.json":"aef91b59166034a73549f5d8ded3e7b72b864588e5c0612e7d4512c02154a152"
+"ventana.json":"f80e8af7ae6d67271c953db2e01563eca45986ce624042dcc6774a540c4215fe"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2049,4 +2051,4 @@
 "mlb:baseball:139":["mlb"],
 "mlb:baseball:145":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-08","version":330,"window":{"from":"2026-11-07","to":"2026-11-18"}}
+},"updatedAt":"2026-11-08","version":331,"window":{"from":"2026-11-07","to":"2026-11-18"}}
