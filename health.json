@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+  "checkedAt": "2026-11-14T18:55:42.456489+00:00",
   "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -13,9 +13,9 @@
       "overrideDecisions": []
     },
     "mlb": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -23,9 +23,9 @@
       "overrideDecisions": []
     },
     "lmb": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -33,9 +33,9 @@
       "overrideDecisions": []
     },
     "nfl": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -43,9 +43,9 @@
       "overrideDecisions": []
     },
     "nba": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -53,9 +53,9 @@
       "overrideDecisions": []
     },
     "liga-mx": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -63,9 +63,9 @@
       "overrideDecisions": []
     },
     "la-liga": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -73,9 +73,9 @@
       "overrideDecisions": []
     },
     "premier-league": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -83,9 +83,9 @@
       "overrideDecisions": []
     },
     "champions-league": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -93,9 +93,9 @@
       "overrideDecisions": []
     },
     "mls": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -103,9 +103,9 @@
       "overrideDecisions": []
     },
     "liga-argentina": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -113,9 +113,9 @@
       "overrideDecisions": []
     },
     "brasileirao": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -123,9 +123,9 @@
       "overrideDecisions": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -133,9 +133,9 @@
       "overrideDecisions": []
     },
     "concachampions": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -143,9 +143,9 @@
       "overrideDecisions": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -153,9 +153,9 @@
       "overrideDecisions": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -163,9 +163,9 @@
       "overrideDecisions": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -173,9 +173,9 @@
       "overrideDecisions": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -183,9 +183,9 @@
       "overrideDecisions": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -193,9 +193,9 @@
       "overrideDecisions": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -203,9 +203,9 @@
       "overrideDecisions": []
     },
     "europa-league": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -213,9 +213,9 @@
       "overrideDecisions": []
     },
     "conference-league": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -223,9 +223,9 @@
       "overrideDecisions": []
     },
     "fa-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -233,9 +233,9 @@
       "overrideDecisions": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -243,9 +243,9 @@
       "overrideDecisions": []
     },
     "liga-expansion": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -253,9 +253,9 @@
       "overrideDecisions": []
     },
     "selecciones": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [
         "Sint Maarten vs Guayana Francesa: sin zona para Arnos Vale Stadium, None; hora en UTC",
         "San Vicente y las Granadinas vs Belice: sin zona para Arnos Vale Stadium, None; hora en UTC",
@@ -270,9 +270,9 @@
       "overrideDecisions": []
     },
     "conciertos-monterrey": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -280,9 +280,9 @@
       "overrideDecisions": []
     },
     "conciertos-cdmx": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -290,9 +290,9 @@
       "overrideDecisions": []
     },
     "conciertos-guadalajara": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [
         "Gorillaz 2026-12-09: la orden gorillaz-2026-2 repite una fecha que la serie ya traía; se queda la de la serie (quitar la orden)"
       ],
@@ -302,9 +302,9 @@
       "overrideDecisions": []
     },
     "conciertos-tijuana": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -312,9 +312,9 @@
       "overrideDecisions": []
     },
     "conciertos-los-angeles": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -322,9 +322,9 @@
       "overrideDecisions": []
     },
     "conciertos-houston": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -332,9 +332,9 @@
       "overrideDecisions": []
     },
     "conciertos-dallas": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -342,9 +342,9 @@
       "overrideDecisions": []
     },
     "conciertos-chicago": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -352,9 +352,9 @@
       "overrideDecisions": []
     },
     "conciertos-miami": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -362,9 +362,9 @@
       "overrideDecisions": []
     },
     "conciertos-new-york": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -372,9 +372,9 @@
       "overrideDecisions": []
     },
     "conciertos-phoenix": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -382,9 +382,9 @@
       "overrideDecisions": []
     },
     "conciertos-san-antonio": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -392,9 +392,9 @@
       "overrideDecisions": []
     },
     "cultura-monterrey": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -402,9 +402,9 @@
       "overrideDecisions": []
     },
     "cultura-cdmx": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -412,9 +412,9 @@
       "overrideDecisions": []
     },
     "cultura-guadalajara": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -422,9 +422,9 @@
       "overrideDecisions": []
     },
     "cultura-tijuana": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -432,9 +432,9 @@
       "overrideDecisions": []
     },
     "cultura-eeuu": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -442,9 +442,9 @@
       "overrideDecisions": []
     },
     "conciertos-buenos-aires": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -452,9 +452,9 @@
       "overrideDecisions": []
     },
     "conciertos-sao-paulo": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -462,9 +462,9 @@
       "overrideDecisions": []
     },
     "conciertos-rio-de-janeiro": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -472,9 +472,9 @@
       "overrideDecisions": []
     },
     "conciertos-santiago-cl": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -482,9 +482,9 @@
       "overrideDecisions": []
     },
     "conciertos-bogota": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -492,9 +492,9 @@
       "overrideDecisions": []
     },
     "conciertos-lima": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -502,9 +502,9 @@
       "overrideDecisions": []
     },
     "series-estrenos": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -512,9 +512,9 @@
       "overrideDecisions": []
     },
     "anime-estrenos": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [
         "AniList: Shangri-La Frontier Season 3 dice 2027-01-10 pero su episodio 1 es el 2027-01-17; gana el horario"
       ],
@@ -524,9 +524,9 @@
       "overrideDecisions": []
     },
     "ufc": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -534,9 +534,9 @@
       "overrideDecisions": []
     },
     "asuetos-mexico": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [
         "Nager.Date no coincide el 2027-04-30; gana la ley",
         "Nager.Date no coincide el 2027-05-01; gana la ley",
@@ -548,9 +548,9 @@
       "overrideDecisions": []
     },
     "feriados-eeuu": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -558,9 +558,9 @@
       "overrideDecisions": []
     },
     "reportes-trimestrales": {
-      "checkedAt": "2026-11-14T18:44:59.695216+00:00",
+      "checkedAt": "2026-11-14T18:55:42.456489+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-14T18:44:59.695216+00:00",
+      "lastSuccessAt": "2026-11-14T18:55:42.456489+00:00",
       "warnings": [
         "sin reporte en el horizonte: AAPL, AMX, AMZN, FMX, GOOGL, KO, MCD, MELI, META, MSFT, NFLX, SONY, SPOT, TSLA"
       ],
@@ -579,23 +579,23 @@
     }
   ],
   "cadenceHours": 12,
-  "catalogVersion": 350,
+  "catalogVersion": 351,
   "espn": {
-    "requests": 123,
-    "empty": 80,
-    "skipped": 99,
-    "carried": 8,
+    "requests": 34,
+    "empty": 0,
+    "skipped": 179,
+    "carried": 17,
     "budget": 200,
     "cap": 150,
     "blocked": null,
     "blockedRuns": 0,
     "months": {
       "basketball/nba|2026-11": {
-        "at": "2026-11-14T18:45:10.022969+00:00",
+        "at": "2026-11-14T18:55:51.032378+00:00",
         "n": 215
       },
       "basketball/nba|2026-12": {
-        "at": "2026-11-14T18:45:11.337551+00:00",
+        "at": "2026-11-14T18:55:52.473589+00:00",
         "n": 178
       },
       "basketball/nba|2027-01": {
@@ -623,11 +623,11 @@
         "n": 0
       },
       "football/nfl|2026-11": {
-        "at": "2026-11-14T18:45:04.869338+00:00",
+        "at": "2026-11-14T18:55:47.578829+00:00",
         "n": 71
       },
       "football/nfl|2026-12": {
-        "at": "2026-11-14T18:45:05.933953+00:00",
+        "at": "2026-11-14T18:55:48.523539+00:00",
         "n": 62
       },
       "football/nfl|2027-01": {
@@ -635,7 +635,7 @@
         "n": 43
       },
       "football/nfl|2027-02": {
-        "at": "2026-11-14T18:45:07.993074+00:00",
+        "at": "2026-11-14T18:55:49.236807+00:00",
         "n": 1
       },
       "soccer/afc.asian.cup|2026-11": {
@@ -647,7 +647,7 @@
         "n": 0
       },
       "soccer/afc.asian.cup|2027-01": {
-        "at": "2026-11-14T18:47:38.715024+00:00",
+        "at": "2026-11-14T18:56:38.234468+00:00",
         "n": 40
       },
       "soccer/afc.asian.cup|2027-02": {
@@ -679,7 +679,7 @@
         "n": 0
       },
       "soccer/arg.1|2026-11": {
-        "at": "2026-11-14T18:45:33.648583+00:00",
+        "at": "2026-11-14T18:56:07.135737+00:00",
         "n": 31
       },
       "soccer/arg.1|2026-12": {
@@ -687,15 +687,15 @@
         "n": 0
       },
       "soccer/bra.1|2026-11": {
-        "at": "2026-11-14T18:45:36.181317+00:00",
+        "at": "2026-11-14T18:56:09.271056+00:00",
         "n": 41
       },
       "soccer/bra.1|2026-12": {
-        "at": "2026-11-14T18:45:36.675619+00:00",
+        "at": "2026-11-14T18:56:10.532555+00:00",
         "n": 10
       },
       "soccer/caf.nations_qual|2026-11": {
-        "at": "2026-11-14T18:47:33.730611+00:00",
+        "at": "2026-11-14T18:56:36.065814+00:00",
         "n": 48
       },
       "soccer/caf.nations_qual|2026-12": {
@@ -711,7 +711,7 @@
         "n": 0
       },
       "soccer/caf.nations_qual|2027-03": {
-        "at": "2026-11-14T18:47:35.623595+00:00",
+        "at": "2026-11-14T18:56:37.244449+00:00",
         "n": 48
       },
       "soccer/caf.nations|2026-11": {
@@ -879,7 +879,7 @@
         "n": 0
       },
       "soccer/concacaf.nations.league|2026-11": {
-        "at": "2026-11-14T18:46:24.353196+00:00",
+        "at": "2026-11-14T18:56:35.244831+00:00",
         "n": 32
       },
       "soccer/concacaf.nations.league|2026-12": {
@@ -919,11 +919,11 @@
         "n": 0
       },
       "soccer/eng.1|2026-11": {
-        "at": "2026-11-14T18:45:22.289031+00:00",
+        "at": "2026-11-14T18:55:59.114960+00:00",
         "n": 32
       },
       "soccer/eng.1|2026-12": {
-        "at": "2026-11-14T18:45:22.983012+00:00",
+        "at": "2026-11-14T18:56:00.356729+00:00",
         "n": 60
       },
       "soccer/eng.1|2027-01": {
@@ -951,11 +951,11 @@
         "n": 0
       },
       "soccer/eng.fa|2026-11": {
-        "at": "2026-11-14T18:46:08.841085+00:00",
+        "at": "2026-11-14T18:56:25.586306+00:00",
         "n": 40
       },
       "soccer/eng.fa|2026-12": {
-        "at": "2026-11-14T18:46:09.651254+00:00",
+        "at": "2026-11-14T18:56:26.662849+00:00",
         "n": 20
       },
       "soccer/eng.fa|2027-01": {
@@ -983,7 +983,7 @@
         "n": 0
       },
       "soccer/eng.league_cup|2026-12": {
-        "at": "2026-11-14T18:46:00.179289+00:00",
+        "at": "2026-11-14T18:56:18.359834+00:00",
         "n": 4
       },
       "soccer/eng.league_cup|2027-01": {
@@ -1003,11 +1003,11 @@
         "n": 0
       },
       "soccer/esp.1|2026-11": {
-        "at": "2026-11-14T18:45:18.120304+00:00",
+        "at": "2026-11-14T18:55:55.932964+00:00",
         "n": 35
       },
       "soccer/esp.1|2026-12": {
-        "at": "2026-11-14T18:45:18.880674+00:00",
+        "at": "2026-11-14T18:55:57.155158+00:00",
         "n": 33
       },
       "soccer/esp.1|2027-01": {
@@ -1035,7 +1035,7 @@
         "n": 0
       },
       "soccer/esp.copa_del_rey|2026-11": {
-        "at": "2026-11-14T18:45:44.869471+00:00",
+        "at": "2026-11-14T18:56:14.050862+00:00",
         "n": 16
       },
       "soccer/esp.copa_del_rey|2026-12": {
@@ -1111,15 +1111,15 @@
         "n": 0
       },
       "soccer/fifa.friendly|2026-11": {
-        "at": "2026-11-14T18:46:16.261004+00:00",
+        "at": "2026-11-14T18:56:30.922584+00:00",
         "n": 44
       },
       "soccer/fifa.friendly|2026-12": {
-        "at": "2026-11-14T18:46:17.050994+00:00",
+        "at": "2026-11-14T18:56:31.967728+00:00",
         "n": 3
       },
       "soccer/fifa.friendly|2027-01": {
-        "at": "2026-11-14T18:46:17.668884+00:00",
+        "at": "2026-11-14T18:56:33.215440+00:00",
         "n": 1
       },
       "soccer/fifa.friendly|2027-02": {
@@ -1251,7 +1251,7 @@
         "n": 0
       },
       "soccer/mex.1|2026-11": {
-        "at": "2026-11-14T18:45:15.522571+00:00",
+        "at": "2026-11-14T18:55:54.499833+00:00",
         "n": 21
       },
       "soccer/mex.1|2026-12": {
@@ -1259,7 +1259,7 @@
         "n": 0
       },
       "soccer/mex.2|2026-11": {
-        "at": "2026-11-14T18:46:14.172814+00:00",
+        "at": "2026-11-14T18:56:29.023778+00:00",
         "n": 13
       },
       "soccer/mex.2|2026-12": {
@@ -1307,11 +1307,11 @@
         "n": 0
       },
       "soccer/uefa.champions|2026-11": {
-        "at": "2026-11-14T18:45:26.995436+00:00",
+        "at": "2026-11-14T18:56:01.666687+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-12": {
-        "at": "2026-11-14T18:45:27.558287+00:00",
+        "at": "2026-11-14T18:56:02.518223+00:00",
         "n": 18
       },
       "soccer/uefa.champions|2027-01": {
@@ -1339,11 +1339,11 @@
         "n": 0
       },
       "soccer/uefa.europa.conf|2026-11": {
-        "at": "2026-11-14T18:46:05.771883+00:00",
+        "at": "2026-11-14T18:56:22.768222+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-12": {
-        "at": "2026-11-14T18:46:06.754750+00:00",
+        "at": "2026-11-14T18:56:23.901348+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2027-01": {
@@ -1371,11 +1371,11 @@
         "n": 0
       },
       "soccer/uefa.europa|2026-11": {
-        "at": "2026-11-14T18:46:02.021605+00:00",
+        "at": "2026-11-14T18:56:20.243144+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-12": {
-        "at": "2026-11-14T18:46:02.887036+00:00",
+        "at": "2026-11-14T18:56:20.958874+00:00",
         "n": 18
       },
       "soccer/uefa.europa|2027-01": {
@@ -1443,7 +1443,7 @@
         "n": 0
       },
       "soccer/uefa.nations|2026-11": {
-        "at": "2026-11-14T18:46:20.455161+00:00",
+        "at": "2026-11-14T18:56:34.249095+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-12": {
@@ -1503,11 +1503,11 @@
         "n": 0
       },
       "soccer/usa.1|2026-11": {
-        "at": "2026-11-14T18:45:30.961673+00:00",
+        "at": "2026-11-14T18:56:04.472490+00:00",
         "n": 39
       },
       "soccer/usa.1|2026-12": {
-        "at": "2026-11-14T18:45:31.669986+00:00",
+        "at": "2026-11-14T18:56:05.504414+00:00",
         "n": 8
       }
     }
@@ -10763,6 +10763,7 @@
       "black-panther-3-2028",
       "oktoberfest-2027-2027",
       "tokyo-game-show-2027-2027",
+      "in-waves-2026",
       "fleetwood-mac-the-chain-2027",
       "playstation-pulse-2026",
       "werwulf-2026",
@@ -10891,7 +10892,6 @@
       "caifanes-2026",
       "caifanes-2026-2",
       "enjambre-2026-2",
-      "in-waves-2026",
       "fire-mario-bowser-s-castle-2027",
       "batman-returns-batmobile-duck-2027",
       "the-joker-wall-art-comic-cover-2027",
@@ -10910,7 +10910,6 @@
         "focker-in-law-2026",
         "hexed-2026",
         "dune-part-three-2026",
-        "further-mis-adventures-of-cliff-booth-2026",
         "jumanji-open-world-2026",
         "ice-age-boiling-point-2027",
         "the-revenge-of-la-llorona-2027",
@@ -10939,7 +10938,6 @@
       ],
       "differs": [
         "god-of-war-laufey-2027",
-        "in-waves-2026",
         "look-back-2026"
       ],
       "partial": [
@@ -10957,7 +10955,7 @@
         "the-witcher-iv-2028",
         "gremlins-3-2028"
       ],
-      "asked": 88
+      "asked": 86
     }
   },
   "wikidata": {
@@ -11276,53 +11274,8 @@
   },
   "standings": {
     "asOf": "2026-11-14T18:44:59Z",
-    "calls": 11,
-    "leagues": {
-      "liga-mx": {
-        "teams": 18,
-        "unknown": 0
-      },
-      "liga-expansion": {
-        "teams": 16,
-        "unknown": 0
-      },
-      "premier-league": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "la-liga": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "mls": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "brasileirao": {
-        "teams": 20,
-        "unknown": 0
-      },
-      "liga-argentina": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "champions-league": {
-        "teams": 36,
-        "unknown": 0
-      },
-      "nfl": {
-        "teams": 32,
-        "unknown": 0
-      },
-      "nba": {
-        "teams": 30,
-        "unknown": 0
-      },
-      "mlb": {
-        "teams": 30,
-        "unknown": 0
-      }
-    },
+    "calls": 0,
+    "leagues": {},
     "fetched": {
       "liga-mx": "2026-11-14/am",
       "liga-expansion": "2026-11-14/am",
@@ -11429,11 +11382,11 @@
   },
   "archive": {
     "status": "ok",
-    "rows": 2234,
+    "rows": 2236,
     "months": {
       "2026-09": 927,
       "2026-10": 890,
-      "2026-11": 417
+      "2026-11": 419
     },
     "events": {
       "brasileirao": 94,
@@ -11454,19 +11407,19 @@
       "nba": 250,
       "nfl": 137,
       "premier-league": 80,
-      "selecciones": 374
+      "selecciones": 376
     },
-    "added": 16,
+    "added": 2,
     "seedAdded": 0,
     "correctedCount": 0,
     "corrected": [],
     "skipped": {},
-    "facts": 349,
+    "facts": 347,
     "cards": 722,
     "write": {
       "status": "ok",
-      "rows": 2234,
-      "new": 16,
+      "rows": 2236,
+      "new": 2,
       "monthsWritten": [
         "2026-11"
       ]
@@ -12224,7 +12177,7 @@
     },
     "total": 15
   },
-  "refreshChangedAt": "2026-11-14T18:51:22.789195+00:00",
+  "refreshChangedAt": "2026-11-14T19:00:29.023926+00:00",
   "homeZones": {
     "espn:basketball:1": "America/New_York",
     "espn:basketball:10": "America/Chicago",
@@ -12872,10 +12825,10 @@
     "mlb:baseball:158": "America/Chicago"
   },
   "size": {
-    "eventsJsonBytes": 2957823,
-    "eventsJsonIndentedBytes": 4790715,
+    "eventsJsonBytes": 2953929,
+    "eventsJsonIndentedBytes": 4783893,
     "events": 344,
-    "occurrences": 5737,
+    "occurrences": 5725,
     "limits": {
       "warnMemoryIndented": 4000000,
       "oldWidgetsEstimate": 4900000,
@@ -12895,13 +12848,13 @@
       {
         "file": "events.json",
         "measure": "indented",
-        "bytes": 4790715,
-        "published": 2957823,
+        "bytes": 4783893,
+        "published": 2953929,
         "warn": 4000000,
         "limit": 4900000
       }
     ],
     "status": "warn"
   },
-  "publishedAt": "2026-11-14T18:53:26.509008+00:00"
+  "publishedAt": "2026-11-14T19:02:05.176174+00:00"
 }
