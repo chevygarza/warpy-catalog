@@ -1272,8 +1272,8 @@
 "eventos/mlk-day-2027.json":"99522e6477f01b6e550f72f0625a9c62afda96173838d17da53d777869bdda86",
 "eventos/mls.json":"4668afede33bbbc39729201fe5138885a3a10fcf06597b41c1b6bac18dbde968",
 "eventos/molotov-2026.json":"044288008c46a5c50196dd50dd2f56dfb8f6e146f28edaf86c3fc3019077185e",
-"eventos/mon-laferte-2026-2.json":"3510a93a440e9d045f9045f2959300170e866c15206fe301e172c76591293084",
-"eventos/mon-laferte-2026.json":"57850bb8bda45a24beef791304828177e9f4f1a5ad67c5fce2967958aa71dec1",
+"eventos/mon-laferte-2026-2.json":"9a187c97ec1c6908ee24722bbc0b108773f8af6b29202c9bd0832aa9dde31728",
+"eventos/mon-laferte-2026.json":"b69b2ffada2af3f94695024d4780d0f71b831932563be70096d6f626493b84da",
 "eventos/mothers-day-us-2027.json":"ec39cfbd9d08761d40d45378013c23c28c91b35a4df605102cf7e5111c3d601c",
 "eventos/mwc-2027.json":"f594085459d0ada6909c565e40d529a7d6e10fa452b61ff6ed52a333486e2839",
 "eventos/narnia-the-magicians-nephew-2027.json":"f0a735b2e8da53c0bb3640406fead35eb75ce9833492d3b0a9f5a904ea7a1d83",
@@ -1411,7 +1411,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"fc5658eaeb746473d02b7e9bea1035cdfdfd29c9da89dce72549f1fa825c20b9",
-"ventana.json":"0901cd9bfeb4dc4ea7b4f70ec38ab3c25b3ec54497f95f4ca8d21ff2436eedd4"
+"ventana.json":"9827c620a8df36d2e33dd0540b8d3de8696d8b43deaee608f4137dde07f4c585"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2030,4 +2030,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-15","version":352,"window":{"from":"2026-11-14","to":"2026-11-25"}}
+},"updatedAt":"2026-11-15","version":353,"window":{"from":"2026-11-14","to":"2026-11-25"}}
