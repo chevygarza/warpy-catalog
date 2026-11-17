@@ -1120,7 +1120,7 @@
 "eventos/computex-2027.json":"085f84a033acdbbde06eb61c692de896492d597eb3c77df42d1209a62f607e10",
 "eventos/conciertos-bogota.json":"95256a89f60d2acf2c3e807b6241e959110faafc8a5298fc23b1550e9f224aac",
 "eventos/conciertos-buenos-aires.json":"3a2be2e4dd2747b154821648237618e34797e7af9cb8524efa8b5976a70e1901",
-"eventos/conciertos-cdmx.json":"6fe54f57a60b424fa3b8398996776789c00effcd4ed9160c93e2317ce9abe479",
+"eventos/conciertos-cdmx.json":"999bfc27dfaec8085d58653ba0e1dbaa66ab8a20dff380b9524e83748a8c09eb",
 "eventos/conciertos-chicago.json":"4847fb666c07cb965653b8aa9b85b816c365e82d9b62fdf0c2f81067dbbc179a",
 "eventos/conciertos-dallas.json":"b926d70a472fccf48addcc168047a773b4dbee7072d4ef196dbdf8bed5e31fab",
 "eventos/conciertos-guadalajara.json":"8730608d0981a8c1e3aa83a218bdb151e6713ad0805e08289243300789432a7a",
@@ -1411,7 +1411,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"ca3572cc80bb6dd99b0ee05abadf3c6344da1a7d95f0608a9e2fe9d78d3d69ad",
-"ventana.json":"2c1efc2048e93dd947c72a912bc1edb954d2c33499e38fbee9cba9553434e0fb"
+"ventana.json":"43c8869fb520d2cdb1a77aff7624f4b52fa2c9779a1911e5a9dc3dbf020412a4"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2030,4 +2030,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-16","version":358,"window":{"from":"2026-11-15","to":"2026-11-26"}}
+},"updatedAt":"2026-11-17","version":359,"window":{"from":"2026-11-16","to":"2026-11-27"}}
