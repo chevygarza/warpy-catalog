@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-17T05:06:10.014064+00:00",
-  "status": "ok",
+  "checkedAt": "2026-11-17T20:45:35.031779+00:00",
+  "status": "degraded",
   "sources": {
     "f1": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -13,9 +13,9 @@
       "overrideDecisions": []
     },
     "mlb": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -23,9 +23,9 @@
       "overrideDecisions": []
     },
     "lmb": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -33,19 +33,792 @@
       "overrideDecisions": []
     },
     "nfl": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
-      "status": "ok",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
+      "status": "quarantined",
       "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
       "overrideConflicts": [],
-      "overrideDecisions": []
+      "overrideDecisions": [],
+      "reason": [
+        {
+          "area": "coherencia",
+          "verdict": "revisar",
+          "subject": "nfl",
+          "detail": "pasó de 123 a 14 fechas por venir (89% menos, el límite es 30%)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Rams vs Green Bay Packers",
+          "detail": "desapareció una fecha futura (2026-11-25)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Dallas Cowboys vs Philadelphia Eagles",
+          "detail": "desapareció una fecha futura (2026-11-26)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Detroit Lions vs Chicago Bears",
+          "detail": "desapareció una fecha futura (2026-11-26)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Buffalo Bills vs Kansas City Chiefs",
+          "detail": "desapareció una fecha futura (2026-11-26)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Pittsburgh Steelers vs Denver Broncos",
+          "detail": "desapareció una fecha futura (2026-11-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Minnesota Vikings vs Atlanta Falcons",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Houston Texans vs Baltimore Ravens",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cleveland Browns vs Las Vegas Raiders",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cincinnati Bengals vs New Orleans Saints",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Indianapolis Colts vs New York Giants",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Miami Dolphins vs New York Jets",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Jacksonville Jaguars vs Tennessee Titans",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · San Francisco 49ers vs Seattle Seahawks",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Arizona Cardinals vs Washington Commanders",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Chargers vs New England Patriots",
+          "detail": "desapareció una fecha futura (2026-11-29)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tampa Bay Buccaneers vs Carolina Panthers",
+          "detail": "desapareció una fecha futura (2026-11-30)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Giants vs San Francisco 49ers",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Rams vs Kansas City Chiefs",
+          "detail": "desapareció una fecha futura (2026-12-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cleveland Browns vs Cincinnati Bengals",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Atlanta Falcons vs Detroit Lions",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New Orleans Saints vs Green Bay Packers",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Chicago Bears vs Jacksonville Jaguars",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tampa Bay Buccaneers vs Los Angeles Chargers",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tennessee Titans vs Washington Commanders",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Denver Broncos vs Miami Dolphins",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Arizona Cardinals vs Philadelphia Eagles",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New England Patriots vs Buffalo Bills",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Minnesota Vikings vs Carolina Panthers",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Pittsburgh Steelers vs Houston Texans",
+          "detail": "desapareció una fecha futura (2026-12-06)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Seattle Seahawks vs Dallas Cowboys",
+          "detail": "desapareció una fecha futura (2026-12-07)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New England Patriots vs Minnesota Vikings",
+          "detail": "desapareció una fecha futura (2026-12-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cleveland Browns vs Atlanta Falcons",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Miami Dolphins vs Chicago Bears",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Jets vs Denver Broncos",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Washington Commanders vs Houston Texans",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Philadelphia Eagles vs Indianapolis Colts",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Carolina Panthers vs New Orleans Saints",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Baltimore Ravens vs Tampa Bay Buccaneers",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Detroit Lions vs Tennessee Titans",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Las Vegas Raiders vs Los Angeles Chargers",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cincinnati Bengals vs Kansas City Chiefs",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · San Francisco 49ers vs Los Angeles Rams",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Seattle Seahawks vs New York Giants",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Green Bay Packers vs Buffalo Bills",
+          "detail": "desapareció una fecha futura (2026-12-13)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Jacksonville Jaguars vs Pittsburgh Steelers",
+          "detail": "desapareció una fecha futura (2026-12-14)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Chargers vs San Francisco 49ers",
+          "detail": "desapareció una fecha futura (2026-12-17)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Philadelphia Eagles vs Seattle Seahawks",
+          "detail": "desapareció una fecha futura (2026-12-19)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Buffalo Bills vs Chicago Bears",
+          "detail": "desapareció una fecha futura (2026-12-19)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Washington Commanders vs Atlanta Falcons",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Pittsburgh Steelers vs Baltimore Ravens",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Carolina Panthers vs Cincinnati Bengals",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Giants vs Cleveland Browns",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tennessee Titans vs Indianapolis Colts",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Houston Texans vs Jacksonville Jaguars",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Green Bay Packers vs Miami Dolphins",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tampa Bay Buccaneers vs New Orleans Saints",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Arizona Cardinals vs New York Jets",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Rams vs Dallas Cowboys",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Las Vegas Raiders vs Denver Broncos",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Minnesota Vikings vs Detroit Lions",
+          "detail": "desapareció una fecha futura (2026-12-20)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Kansas City Chiefs vs New England Patriots",
+          "detail": "desapareció una fecha futura (2026-12-21)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Philadelphia Eagles vs Houston Texans",
+          "detail": "desapareció una fecha futura (2026-12-24)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Chicago Bears vs Green Bay Packers",
+          "detail": "desapareció una fecha futura (2026-12-25)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Denver Broncos vs Buffalo Bills",
+          "detail": "desapareció una fecha futura (2026-12-25)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Seattle Seahawks vs Los Angeles Rams",
+          "detail": "desapareció una fecha futura (2026-12-25)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Pittsburgh Steelers vs Carolina Panthers",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Indianapolis Colts vs Cincinnati Bengals",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Atlanta Falcons vs Tampa Bay Buccaneers",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Minnesota Vikings vs Washington Commanders",
+          "detail": "desapareció una fecha futura (2026-12-26)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New Orleans Saints vs Arizona Cardinals",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Baltimore Ravens vs Cleveland Browns",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Miami Dolphins vs Los Angeles Chargers",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Jets vs New England Patriots",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Las Vegas Raiders vs Tennessee Titans",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Kansas City Chiefs vs San Francisco 49ers",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Dallas Cowboys vs Jacksonville Jaguars",
+          "detail": "desapareció una fecha futura (2026-12-27)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Detroit Lions vs New York Giants",
+          "detail": "desapareció una fecha futura (2026-12-28)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cincinnati Bengals vs Baltimore Ravens",
+          "detail": "desapareció una fecha futura (2026-12-31)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New England Patriots vs Denver Broncos",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Chargers vs Kansas City Chiefs",
+          "detail": "desapareció una fecha futura (2027-01-02)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tampa Bay Buccaneers vs Los Angeles Rams",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Jacksonville Jaguars vs Washington Commanders",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Miami Dolphins vs Buffalo Bills",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cleveland Browns vs Indianapolis Colts",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Jets vs Minnesota Vikings",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Atlanta Falcons vs New Orleans Saints",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Dallas Cowboys vs New York Giants",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Tennessee Titans vs Pittsburgh Steelers",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Carolina Panthers vs Seattle Seahawks",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Arizona Cardinals vs Las Vegas Raiders",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Chicago Bears vs Detroit Lions",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · San Francisco 49ers vs Philadelphia Eagles",
+          "detail": "desapareció una fecha futura (2027-01-03)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Green Bay Packers vs Houston Texans",
+          "detail": "desapareció una fecha futura (2027-01-04)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Carolina Panthers vs Atlanta Falcons",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Minnesota Vikings vs Chicago Bears",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Cincinnati Bengals vs Cleveland Browns",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Washington Commanders vs Dallas Cowboys",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Green Bay Packers vs Detroit Lions",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Indianapolis Colts vs Jacksonville Jaguars",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Kansas City Chiefs vs Las Vegas Raiders",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Denver Broncos vs Los Angeles Chargers",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New England Patriots vs Miami Dolphins",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Buffalo Bills vs New York Jets",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New York Giants vs Philadelphia Eagles",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Baltimore Ravens vs Pittsburgh Steelers",
+          "detail": "desapareció una fecha futura (2027-01-10)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Arizona Cardinals vs San Francisco 49ers",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Los Angeles Rams vs Seattle Seahawks",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · New Orleans Saints vs Tampa Bay Buccaneers",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        },
+        {
+          "area": "fechas",
+          "verdict": "revisar",
+          "subject": "nfl · Houston Texans vs Tennessee Titans",
+          "detail": "desapareció una fecha futura (2027-01-09)",
+          "quote": null
+        }
+      ],
+      "heldSince": "2026-11-17T20:45:35.031779+00:00"
     },
     "nba": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -53,9 +826,9 @@
       "overrideDecisions": []
     },
     "liga-mx": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -63,9 +836,9 @@
       "overrideDecisions": []
     },
     "la-liga": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -73,9 +846,9 @@
       "overrideDecisions": []
     },
     "premier-league": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -83,9 +856,9 @@
       "overrideDecisions": []
     },
     "champions-league": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -93,9 +866,9 @@
       "overrideDecisions": []
     },
     "mls": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -103,9 +876,9 @@
       "overrideDecisions": []
     },
     "liga-argentina": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -113,9 +886,9 @@
       "overrideDecisions": []
     },
     "brasileirao": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -123,9 +896,9 @@
       "overrideDecisions": []
     },
     "leagues-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -133,9 +906,9 @@
       "overrideDecisions": []
     },
     "concachampions": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -143,9 +916,9 @@
       "overrideDecisions": []
     },
     "copa-del-rey": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -153,9 +926,9 @@
       "overrideDecisions": []
     },
     "supercopa-espana": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -163,9 +936,9 @@
       "overrideDecisions": []
     },
     "uefa-super-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -173,9 +946,9 @@
       "overrideDecisions": []
     },
     "campeones-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -183,9 +956,9 @@
       "overrideDecisions": []
     },
     "campeon-de-campeones": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -193,9 +966,9 @@
       "overrideDecisions": []
     },
     "carabao-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -203,9 +976,9 @@
       "overrideDecisions": []
     },
     "europa-league": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -213,9 +986,9 @@
       "overrideDecisions": []
     },
     "conference-league": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -223,9 +996,9 @@
       "overrideDecisions": []
     },
     "fa-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -233,9 +1006,9 @@
       "overrideDecisions": []
     },
     "club-world-cup": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -243,9 +1016,9 @@
       "overrideDecisions": []
     },
     "liga-expansion": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -253,9 +1026,9 @@
       "overrideDecisions": []
     },
     "selecciones": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [
         "anuncio nl-2026-cuartos-jam-mex-ida: pasó su día (2026-11-14) sin que ESPN lo listara; se quita",
         "anuncio nl-2026-cuartos-mex-jam-vuelta: ESPN ya lo lista (2026-11-17 20:30); sale el de ESPN, quitarlo de anuncios.json"
@@ -266,9 +1039,9 @@
       "overrideDecisions": []
     },
     "conciertos-monterrey": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -276,9 +1049,9 @@
       "overrideDecisions": []
     },
     "conciertos-cdmx": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -286,9 +1059,9 @@
       "overrideDecisions": []
     },
     "conciertos-guadalajara": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [
         "Gorillaz 2026-12-09: la orden gorillaz-2026-2 repite una fecha que la serie ya traía; se queda la de la serie (quitar la orden)"
       ],
@@ -298,9 +1071,9 @@
       "overrideDecisions": []
     },
     "conciertos-tijuana": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -308,9 +1081,9 @@
       "overrideDecisions": []
     },
     "conciertos-los-angeles": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -318,9 +1091,9 @@
       "overrideDecisions": []
     },
     "conciertos-houston": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -328,9 +1101,9 @@
       "overrideDecisions": []
     },
     "conciertos-dallas": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -338,9 +1111,9 @@
       "overrideDecisions": []
     },
     "conciertos-chicago": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -348,9 +1121,9 @@
       "overrideDecisions": []
     },
     "conciertos-miami": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -358,9 +1131,9 @@
       "overrideDecisions": []
     },
     "conciertos-new-york": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -368,9 +1141,9 @@
       "overrideDecisions": []
     },
     "conciertos-phoenix": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -378,9 +1151,9 @@
       "overrideDecisions": []
     },
     "conciertos-san-antonio": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -388,9 +1161,9 @@
       "overrideDecisions": []
     },
     "cultura-monterrey": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -398,9 +1171,9 @@
       "overrideDecisions": []
     },
     "cultura-cdmx": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -408,9 +1181,9 @@
       "overrideDecisions": []
     },
     "cultura-guadalajara": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -418,9 +1191,9 @@
       "overrideDecisions": []
     },
     "cultura-tijuana": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "no se publica",
       "primaryVerified": true,
@@ -428,9 +1201,9 @@
       "overrideDecisions": []
     },
     "cultura-eeuu": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -438,9 +1211,9 @@
       "overrideDecisions": []
     },
     "conciertos-buenos-aires": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -448,9 +1221,9 @@
       "overrideDecisions": []
     },
     "conciertos-sao-paulo": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -458,9 +1231,9 @@
       "overrideDecisions": []
     },
     "conciertos-rio-de-janeiro": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -468,9 +1241,9 @@
       "overrideDecisions": []
     },
     "conciertos-santiago-cl": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -478,9 +1251,9 @@
       "overrideDecisions": []
     },
     "conciertos-bogota": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -488,9 +1261,9 @@
       "overrideDecisions": []
     },
     "conciertos-lima": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -498,9 +1271,9 @@
       "overrideDecisions": []
     },
     "series-estrenos": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -508,9 +1281,9 @@
       "overrideDecisions": []
     },
     "anime-estrenos": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [
         "AniList: Shangri-La Frontier Season 3 dice 2027-01-10 pero su episodio 1 es el 2027-01-17; gana el horario"
       ],
@@ -520,9 +1293,9 @@
       "overrideDecisions": []
     },
     "ufc": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -530,9 +1303,9 @@
       "overrideDecisions": []
     },
     "asuetos-mexico": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [
         "Nager.Date no coincide el 2027-04-30; gana la ley",
         "Nager.Date no coincide el 2027-05-01; gana la ley",
@@ -544,9 +1317,9 @@
       "overrideDecisions": []
     },
     "feriados-eeuu": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [],
       "outcome": "publicada",
       "primaryVerified": true,
@@ -554,9 +1327,9 @@
       "overrideDecisions": []
     },
     "reportes-trimestrales": {
-      "checkedAt": "2026-11-17T05:06:10.014064+00:00",
+      "checkedAt": "2026-11-17T20:45:35.031779+00:00",
       "status": "ok",
-      "lastSuccessAt": "2026-11-17T05:06:10.014064+00:00",
+      "lastSuccessAt": "2026-11-17T20:45:35.031779+00:00",
       "warnings": [
         "sin reporte en el horizonte: AAPL, AMX, AMZN, FMX, GOOGL, KO, MCD, MELI, META, MSFT, NFLX, SONY, SPOT, TSLA"
       ],
@@ -566,33 +1339,804 @@
       "overrideDecisions": []
     }
   },
-  "findings": [],
+  "findings": [
+    {
+      "area": "coherencia",
+      "verdict": "revisar",
+      "subject": "nfl",
+      "detail": "pasó de 123 a 14 fechas por venir (89% menos, el límite es 30%)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Rams vs Green Bay Packers",
+      "detail": "desapareció una fecha futura (2026-11-25)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Dallas Cowboys vs Philadelphia Eagles",
+      "detail": "desapareció una fecha futura (2026-11-26)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Detroit Lions vs Chicago Bears",
+      "detail": "desapareció una fecha futura (2026-11-26)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Buffalo Bills vs Kansas City Chiefs",
+      "detail": "desapareció una fecha futura (2026-11-26)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Pittsburgh Steelers vs Denver Broncos",
+      "detail": "desapareció una fecha futura (2026-11-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Minnesota Vikings vs Atlanta Falcons",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Houston Texans vs Baltimore Ravens",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cleveland Browns vs Las Vegas Raiders",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cincinnati Bengals vs New Orleans Saints",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Indianapolis Colts vs New York Giants",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Miami Dolphins vs New York Jets",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Jacksonville Jaguars vs Tennessee Titans",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · San Francisco 49ers vs Seattle Seahawks",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Arizona Cardinals vs Washington Commanders",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Chargers vs New England Patriots",
+      "detail": "desapareció una fecha futura (2026-11-29)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tampa Bay Buccaneers vs Carolina Panthers",
+      "detail": "desapareció una fecha futura (2026-11-30)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Giants vs San Francisco 49ers",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Rams vs Kansas City Chiefs",
+      "detail": "desapareció una fecha futura (2026-12-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cleveland Browns vs Cincinnati Bengals",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Atlanta Falcons vs Detroit Lions",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New Orleans Saints vs Green Bay Packers",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Chicago Bears vs Jacksonville Jaguars",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tampa Bay Buccaneers vs Los Angeles Chargers",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tennessee Titans vs Washington Commanders",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Denver Broncos vs Miami Dolphins",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Arizona Cardinals vs Philadelphia Eagles",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New England Patriots vs Buffalo Bills",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Minnesota Vikings vs Carolina Panthers",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Pittsburgh Steelers vs Houston Texans",
+      "detail": "desapareció una fecha futura (2026-12-06)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Seattle Seahawks vs Dallas Cowboys",
+      "detail": "desapareció una fecha futura (2026-12-07)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New England Patriots vs Minnesota Vikings",
+      "detail": "desapareció una fecha futura (2026-12-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cleveland Browns vs Atlanta Falcons",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Miami Dolphins vs Chicago Bears",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Jets vs Denver Broncos",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Washington Commanders vs Houston Texans",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Philadelphia Eagles vs Indianapolis Colts",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Carolina Panthers vs New Orleans Saints",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Baltimore Ravens vs Tampa Bay Buccaneers",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Detroit Lions vs Tennessee Titans",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Las Vegas Raiders vs Los Angeles Chargers",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cincinnati Bengals vs Kansas City Chiefs",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · San Francisco 49ers vs Los Angeles Rams",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Seattle Seahawks vs New York Giants",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Green Bay Packers vs Buffalo Bills",
+      "detail": "desapareció una fecha futura (2026-12-13)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Jacksonville Jaguars vs Pittsburgh Steelers",
+      "detail": "desapareció una fecha futura (2026-12-14)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Chargers vs San Francisco 49ers",
+      "detail": "desapareció una fecha futura (2026-12-17)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Philadelphia Eagles vs Seattle Seahawks",
+      "detail": "desapareció una fecha futura (2026-12-19)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Buffalo Bills vs Chicago Bears",
+      "detail": "desapareció una fecha futura (2026-12-19)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Washington Commanders vs Atlanta Falcons",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Pittsburgh Steelers vs Baltimore Ravens",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Carolina Panthers vs Cincinnati Bengals",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Giants vs Cleveland Browns",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tennessee Titans vs Indianapolis Colts",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Houston Texans vs Jacksonville Jaguars",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Green Bay Packers vs Miami Dolphins",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tampa Bay Buccaneers vs New Orleans Saints",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Arizona Cardinals vs New York Jets",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Rams vs Dallas Cowboys",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Las Vegas Raiders vs Denver Broncos",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Minnesota Vikings vs Detroit Lions",
+      "detail": "desapareció una fecha futura (2026-12-20)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Kansas City Chiefs vs New England Patriots",
+      "detail": "desapareció una fecha futura (2026-12-21)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Philadelphia Eagles vs Houston Texans",
+      "detail": "desapareció una fecha futura (2026-12-24)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Chicago Bears vs Green Bay Packers",
+      "detail": "desapareció una fecha futura (2026-12-25)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Denver Broncos vs Buffalo Bills",
+      "detail": "desapareció una fecha futura (2026-12-25)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Seattle Seahawks vs Los Angeles Rams",
+      "detail": "desapareció una fecha futura (2026-12-25)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Pittsburgh Steelers vs Carolina Panthers",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Indianapolis Colts vs Cincinnati Bengals",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Atlanta Falcons vs Tampa Bay Buccaneers",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Minnesota Vikings vs Washington Commanders",
+      "detail": "desapareció una fecha futura (2026-12-26)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New Orleans Saints vs Arizona Cardinals",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Baltimore Ravens vs Cleveland Browns",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Miami Dolphins vs Los Angeles Chargers",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Jets vs New England Patriots",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Las Vegas Raiders vs Tennessee Titans",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Kansas City Chiefs vs San Francisco 49ers",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Dallas Cowboys vs Jacksonville Jaguars",
+      "detail": "desapareció una fecha futura (2026-12-27)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Detroit Lions vs New York Giants",
+      "detail": "desapareció una fecha futura (2026-12-28)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cincinnati Bengals vs Baltimore Ravens",
+      "detail": "desapareció una fecha futura (2026-12-31)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New England Patriots vs Denver Broncos",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Chargers vs Kansas City Chiefs",
+      "detail": "desapareció una fecha futura (2027-01-02)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tampa Bay Buccaneers vs Los Angeles Rams",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Jacksonville Jaguars vs Washington Commanders",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Miami Dolphins vs Buffalo Bills",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cleveland Browns vs Indianapolis Colts",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Jets vs Minnesota Vikings",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Atlanta Falcons vs New Orleans Saints",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Dallas Cowboys vs New York Giants",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Tennessee Titans vs Pittsburgh Steelers",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Carolina Panthers vs Seattle Seahawks",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Arizona Cardinals vs Las Vegas Raiders",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Chicago Bears vs Detroit Lions",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · San Francisco 49ers vs Philadelphia Eagles",
+      "detail": "desapareció una fecha futura (2027-01-03)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Green Bay Packers vs Houston Texans",
+      "detail": "desapareció una fecha futura (2027-01-04)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Carolina Panthers vs Atlanta Falcons",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Minnesota Vikings vs Chicago Bears",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Cincinnati Bengals vs Cleveland Browns",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Washington Commanders vs Dallas Cowboys",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Green Bay Packers vs Detroit Lions",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Indianapolis Colts vs Jacksonville Jaguars",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Kansas City Chiefs vs Las Vegas Raiders",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Denver Broncos vs Los Angeles Chargers",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New England Patriots vs Miami Dolphins",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Buffalo Bills vs New York Jets",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New York Giants vs Philadelphia Eagles",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Baltimore Ravens vs Pittsburgh Steelers",
+      "detail": "desapareció una fecha futura (2027-01-10)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Arizona Cardinals vs San Francisco 49ers",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Los Angeles Rams vs Seattle Seahawks",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · New Orleans Saints vs Tampa Bay Buccaneers",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    },
+    {
+      "area": "fechas",
+      "verdict": "revisar",
+      "subject": "nfl · Houston Texans vs Tennessee Titans",
+      "detail": "desapareció una fecha futura (2027-01-09)",
+      "quote": null
+    }
+  ],
   "cadenceHours": 12,
-  "catalogVersion": 360,
+  "catalogVersion": 361,
   "espn": {
-    "requests": 34,
-    "empty": 0,
-    "skipped": 179,
-    "carried": 17,
+    "requests": 92,
+    "empty": 49,
+    "skipped": 130,
+    "carried": 8,
     "budget": 200,
     "cap": 150,
     "blocked": null,
     "blockedRuns": 0,
     "months": {
       "basketball/nba|2026-11": {
-        "at": "2026-11-17T05:06:18.459626+00:00",
+        "at": "2026-11-17T20:45:45.408957+00:00",
         "n": 215
       },
       "basketball/nba|2026-12": {
-        "at": "2026-11-17T05:06:19.102437+00:00",
+        "at": "2026-11-17T20:45:46.125063+00:00",
         "n": 178
       },
       "basketball/nba|2027-01": {
-        "at": "2026-11-16T18:45:34.137875+00:00",
+        "at": "2026-11-17T20:45:47.267603+00:00",
         "n": 236
       },
       "basketball/nba|2027-02": {
-        "at": "2026-11-16T18:45:35.302463+00:00",
+        "at": "2026-11-17T20:45:48.224273+00:00",
         "n": 169
       },
       "basketball/nba|2027-03": {
@@ -612,35 +2156,35 @@
         "n": 0
       },
       "football/nfl|2026-11": {
-        "at": "2026-11-17T05:06:15.215141+00:00",
+        "at": "2026-11-17T20:45:40.288488+00:00",
         "n": 71
       },
       "football/nfl|2026-12": {
-        "at": "2026-11-17T05:06:16.021425+00:00",
+        "at": "2026-11-17T20:45:41.511450+00:00",
         "n": 62
       },
       "football/nfl|2027-01": {
-        "at": "2026-11-16T18:45:29.900802+00:00",
+        "at": "2026-11-17T20:45:42.285757+00:00",
         "n": 43
       },
       "football/nfl|2027-02": {
-        "at": "2026-11-17T05:06:16.925878+00:00",
+        "at": "2026-11-17T20:45:43.260963+00:00",
         "n": 1
       },
       "soccer/afc.asian.cup|2026-11": {
-        "at": "2026-11-16T18:47:00.722945+00:00",
+        "at": "2026-11-17T20:47:16.102572+00:00",
         "n": 0
       },
       "soccer/afc.asian.cup|2026-12": {
-        "at": "2026-11-16T18:47:01.975067+00:00",
+        "at": "2026-11-17T20:47:17.196090+00:00",
         "n": 0
       },
       "soccer/afc.asian.cup|2027-01": {
-        "at": "2026-11-17T05:07:01.773410+00:00",
+        "at": "2026-11-17T20:47:18.478974+00:00",
         "n": 40
       },
       "soccer/afc.asian.cup|2027-02": {
-        "at": "2026-11-10T19:49:57.870180+00:00",
+        "at": "2026-11-17T20:47:19.019844+00:00",
         "n": 0
       },
       "soccer/afc.asian.cup|2027-03": {
@@ -648,11 +2192,11 @@
         "n": 0
       },
       "soccer/afc.cupq|2026-11": {
-        "at": "2026-11-16T18:47:03.770459+00:00",
+        "at": "2026-11-17T20:47:19.591951+00:00",
         "n": 0
       },
       "soccer/afc.cupq|2026-12": {
-        "at": "2026-11-16T18:47:04.408974+00:00",
+        "at": "2026-11-17T20:47:20.434870+00:00",
         "n": 0
       },
       "soccer/afc.cupq|2027-01": {
@@ -668,27 +2212,27 @@
         "n": 0
       },
       "soccer/arg.1|2026-11": {
-        "at": "2026-11-17T05:06:32.607883+00:00",
+        "at": "2026-11-17T20:46:08.511419+00:00",
         "n": 31
       },
       "soccer/arg.1|2026-12": {
-        "at": "2026-11-16T18:45:55.670575+00:00",
+        "at": "2026-11-17T20:46:09.718164+00:00",
         "n": 0
       },
       "soccer/bra.1|2026-11": {
-        "at": "2026-11-17T05:06:34.118069+00:00",
+        "at": "2026-11-17T20:46:11.480284+00:00",
         "n": 41
       },
       "soccer/bra.1|2026-12": {
-        "at": "2026-11-17T05:06:34.952164+00:00",
+        "at": "2026-11-17T20:46:12.476208+00:00",
         "n": 10
       },
       "soccer/caf.nations_qual|2026-11": {
-        "at": "2026-11-17T05:06:59.801567+00:00",
+        "at": "2026-11-17T20:47:13.536032+00:00",
         "n": 48
       },
       "soccer/caf.nations_qual|2026-12": {
-        "at": "2026-11-16T18:46:59.034874+00:00",
+        "at": "2026-11-17T20:47:14.551956+00:00",
         "n": 0
       },
       "soccer/caf.nations_qual|2027-01": {
@@ -700,15 +2244,15 @@
         "n": 0
       },
       "soccer/caf.nations_qual|2027-03": {
-        "at": "2026-11-17T05:07:00.835594+00:00",
+        "at": "2026-11-17T20:47:15.056630+00:00",
         "n": 48
       },
       "soccer/caf.nations|2026-11": {
-        "at": "2026-11-16T18:46:56.500800+00:00",
+        "at": "2026-11-17T20:47:11.146220+00:00",
         "n": 0
       },
       "soccer/caf.nations|2026-12": {
-        "at": "2026-11-16T18:46:57.277426+00:00",
+        "at": "2026-11-17T20:47:12.374502+00:00",
         "n": 0
       },
       "soccer/caf.nations|2027-01": {
@@ -724,11 +2268,11 @@
         "n": 0
       },
       "soccer/campeones.cup|2026-11": {
-        "at": "2026-11-16T18:46:11.433747+00:00",
+        "at": "2026-11-17T20:46:27.076784+00:00",
         "n": 0
       },
       "soccer/campeones.cup|2026-12": {
-        "at": "2026-11-16T18:46:12.524949+00:00",
+        "at": "2026-11-17T20:46:27.704404+00:00",
         "n": 0
       },
       "soccer/campeones.cup|2027-01": {
@@ -772,11 +2316,11 @@
         "n": 0
       },
       "soccer/concacaf.champions|2026-11": {
-        "at": "2026-11-16T18:46:01.962705+00:00",
+        "at": "2026-11-17T20:46:16.084360+00:00",
         "n": 0
       },
       "soccer/concacaf.champions|2026-12": {
-        "at": "2026-11-16T18:46:02.470933+00:00",
+        "at": "2026-11-17T20:46:17.197273+00:00",
         "n": 0
       },
       "soccer/concacaf.champions|2027-01": {
@@ -804,11 +2348,11 @@
         "n": 0
       },
       "soccer/concacaf.gold|2026-11": {
-        "at": "2026-11-16T18:46:48.895339+00:00",
+        "at": "2026-11-17T20:47:03.726134+00:00",
         "n": 0
       },
       "soccer/concacaf.gold|2026-12": {
-        "at": "2026-11-16T18:46:50.047455+00:00",
+        "at": "2026-11-17T20:47:04.574088+00:00",
         "n": 0
       },
       "soccer/concacaf.gold|2027-01": {
@@ -824,11 +2368,11 @@
         "n": 0
       },
       "soccer/concacaf.leagues.cup|2026-11": {
-        "at": "2026-11-16T18:45:59.657187+00:00",
+        "at": "2026-11-17T20:46:13.995519+00:00",
         "n": 0
       },
       "soccer/concacaf.leagues.cup|2026-12": {
-        "at": "2026-11-16T18:46:00.743319+00:00",
+        "at": "2026-11-17T20:46:14.764074+00:00",
         "n": 0
       },
       "soccer/concacaf.leagues.cup|2027-01": {
@@ -868,11 +2412,11 @@
         "n": 0
       },
       "soccer/concacaf.nations.league|2026-11": {
-        "at": "2026-11-17T05:06:58.890049+00:00",
+        "at": "2026-11-17T20:46:51.641792+00:00",
         "n": 32
       },
       "soccer/concacaf.nations.league|2026-12": {
-        "at": "2026-11-16T18:46:37.427334+00:00",
+        "at": "2026-11-17T20:46:52.922962+00:00",
         "n": 0
       },
       "soccer/concacaf.nations.league|2027-01": {
@@ -888,11 +2432,11 @@
         "n": 0
       },
       "soccer/conmebol.america|2026-11": {
-        "at": "2026-11-16T18:46:51.164533+00:00",
+        "at": "2026-11-17T20:47:05.235967+00:00",
         "n": 0
       },
       "soccer/conmebol.america|2026-12": {
-        "at": "2026-11-16T18:46:51.852298+00:00",
+        "at": "2026-11-17T20:47:06.416479+00:00",
         "n": 0
       },
       "soccer/conmebol.america|2027-01": {
@@ -908,19 +2452,19 @@
         "n": 0
       },
       "soccer/eng.1|2026-11": {
-        "at": "2026-11-17T05:06:24.877946+00:00",
+        "at": "2026-11-17T20:45:57.206205+00:00",
         "n": 32
       },
       "soccer/eng.1|2026-12": {
-        "at": "2026-11-17T05:06:25.472405+00:00",
+        "at": "2026-11-17T20:45:58.205317+00:00",
         "n": 60
       },
       "soccer/eng.1|2027-01": {
-        "at": "2026-11-16T18:45:46.010454+00:00",
+        "at": "2026-11-17T20:45:59.427397+00:00",
         "n": 50
       },
       "soccer/eng.1|2027-02": {
-        "at": "2026-11-16T18:45:46.709467+00:00",
+        "at": "2026-11-17T20:46:00.526558+00:00",
         "n": 40
       },
       "soccer/eng.1|2027-03": {
@@ -940,11 +2484,11 @@
         "n": 0
       },
       "soccer/eng.fa|2026-11": {
-        "at": "2026-11-17T05:06:49.808706+00:00",
+        "at": "2026-11-17T20:46:40.041782+00:00",
         "n": 40
       },
       "soccer/eng.fa|2026-12": {
-        "at": "2026-11-17T05:06:50.731276+00:00",
+        "at": "2026-11-17T20:46:40.613942+00:00",
         "n": 20
       },
       "soccer/eng.fa|2027-01": {
@@ -968,11 +2512,11 @@
         "n": 0
       },
       "soccer/eng.league_cup|2026-11": {
-        "at": "2026-11-16T18:46:16.164804+00:00",
+        "at": "2026-11-17T20:46:32.002847+00:00",
         "n": 0
       },
       "soccer/eng.league_cup|2026-12": {
-        "at": "2026-11-17T05:06:41.999274+00:00",
+        "at": "2026-11-17T20:46:33.158842+00:00",
         "n": 4
       },
       "soccer/eng.league_cup|2027-01": {
@@ -992,19 +2536,19 @@
         "n": 0
       },
       "soccer/esp.1|2026-11": {
-        "at": "2026-11-17T05:06:22.723075+00:00",
+        "at": "2026-11-17T20:45:52.900198+00:00",
         "n": 35
       },
       "soccer/esp.1|2026-12": {
-        "at": "2026-11-17T05:06:23.538536+00:00",
+        "at": "2026-11-17T20:45:53.826677+00:00",
         "n": 33
       },
       "soccer/esp.1|2027-01": {
-        "at": "2026-11-16T18:45:41.133110+00:00",
+        "at": "2026-11-17T20:45:54.597286+00:00",
         "n": 50
       },
       "soccer/esp.1|2027-02": {
-        "at": "2026-11-16T18:45:42.050317+00:00",
+        "at": "2026-11-17T20:45:55.159387+00:00",
         "n": 38
       },
       "soccer/esp.1|2027-03": {
@@ -1024,11 +2568,11 @@
         "n": 0
       },
       "soccer/esp.copa_del_rey|2026-11": {
-        "at": "2026-11-17T05:06:38.251793+00:00",
+        "at": "2026-11-17T20:46:19.255892+00:00",
         "n": 16
       },
       "soccer/esp.copa_del_rey|2026-12": {
-        "at": "2026-11-16T18:46:04.844451+00:00",
+        "at": "2026-11-17T20:46:20.311822+00:00",
         "n": 0
       },
       "soccer/esp.copa_del_rey|2027-01": {
@@ -1052,11 +2596,11 @@
         "n": 0
       },
       "soccer/esp.super_cup|2026-11": {
-        "at": "2026-11-16T18:46:06.590940+00:00",
+        "at": "2026-11-17T20:46:22.281071+00:00",
         "n": 0
       },
       "soccer/esp.super_cup|2026-12": {
-        "at": "2026-11-16T18:46:07.389361+00:00",
+        "at": "2026-11-17T20:46:23.123774+00:00",
         "n": 0
       },
       "soccer/esp.super_cup|2027-01": {
@@ -1064,11 +2608,11 @@
         "n": 0
       },
       "soccer/fifa.cwc|2026-11": {
-        "at": "2026-11-16T18:46:26.468230+00:00",
+        "at": "2026-11-17T20:46:42.153005+00:00",
         "n": 0
       },
       "soccer/fifa.cwc|2026-12": {
-        "at": "2026-11-16T18:46:27.491240+00:00",
+        "at": "2026-11-17T20:46:42.944956+00:00",
         "n": 0
       },
       "soccer/fifa.cwc|2027-01": {
@@ -1100,15 +2644,15 @@
         "n": 0
       },
       "soccer/fifa.friendly|2026-11": {
-        "at": "2026-11-17T05:06:54.525348+00:00",
+        "at": "2026-11-17T20:46:47.041498+00:00",
         "n": 44
       },
       "soccer/fifa.friendly|2026-12": {
-        "at": "2026-11-17T05:06:55.654243+00:00",
+        "at": "2026-11-17T20:46:48.072280+00:00",
         "n": 3
       },
       "soccer/fifa.friendly|2027-01": {
-        "at": "2026-11-17T05:06:56.385489+00:00",
+        "at": "2026-11-17T20:46:49.100049+00:00",
         "n": 1
       },
       "soccer/fifa.friendly|2027-02": {
@@ -1120,11 +2664,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.afc|2026-11": {
-        "at": "2026-11-16T18:46:44.034046+00:00",
+        "at": "2026-11-17T20:46:58.683772+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.afc|2026-12": {
-        "at": "2026-11-16T18:46:44.773406+00:00",
+        "at": "2026-11-17T20:46:59.342151+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.afc|2027-01": {
@@ -1140,11 +2684,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.caf|2026-11": {
-        "at": "2026-11-16T18:46:45.387609+00:00",
+        "at": "2026-11-17T20:47:00.143578+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.caf|2026-12": {
-        "at": "2026-11-16T18:46:46.629793+00:00",
+        "at": "2026-11-17T20:47:01.472536+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.caf|2027-01": {
@@ -1160,11 +2704,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.concacaf|2026-11": {
-        "at": "2026-11-16T18:46:38.316316+00:00",
+        "at": "2026-11-17T20:46:53.707254+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.concacaf|2026-12": {
-        "at": "2026-11-16T18:46:39.172414+00:00",
+        "at": "2026-11-17T20:46:54.351957+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.concacaf|2027-01": {
@@ -1180,11 +2724,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.conmebol|2026-11": {
-        "at": "2026-11-16T18:46:39.783298+00:00",
+        "at": "2026-11-17T20:46:55.053783+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.conmebol|2026-12": {
-        "at": "2026-11-16T18:46:40.877016+00:00",
+        "at": "2026-11-17T20:46:56.235563+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.conmebol|2027-01": {
@@ -1200,11 +2744,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.ofc|2026-11": {
-        "at": "2026-11-16T18:46:47.867861+00:00",
+        "at": "2026-11-17T20:47:02.281241+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.ofc|2026-12": {
-        "at": "2026-11-16T18:46:48.376896+00:00",
+        "at": "2026-11-17T20:47:03.127703+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.ofc|2027-01": {
@@ -1220,11 +2764,11 @@
         "n": 0
       },
       "soccer/fifa.worldq.uefa|2026-11": {
-        "at": "2026-11-16T18:46:41.851013+00:00",
+        "at": "2026-11-17T20:46:56.970670+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.uefa|2026-12": {
-        "at": "2026-11-16T18:46:43.117694+00:00",
+        "at": "2026-11-17T20:46:57.627678+00:00",
         "n": 0
       },
       "soccer/fifa.worldq.uefa|2027-01": {
@@ -1240,27 +2784,27 @@
         "n": 0
       },
       "soccer/mex.1|2026-11": {
-        "at": "2026-11-17T05:06:20.745624+00:00",
+        "at": "2026-11-17T20:45:49.828767+00:00",
         "n": 21
       },
       "soccer/mex.1|2026-12": {
-        "at": "2026-11-16T18:45:37.877406+00:00",
+        "at": "2026-11-17T20:45:50.870379+00:00",
         "n": 0
       },
       "soccer/mex.2|2026-11": {
-        "at": "2026-11-17T05:06:52.868132+00:00",
+        "at": "2026-11-17T20:46:44.423698+00:00",
         "n": 15
       },
       "soccer/mex.2|2026-12": {
-        "at": "2026-11-16T18:46:29.839555+00:00",
+        "at": "2026-11-17T20:46:45.096382+00:00",
         "n": 0
       },
       "soccer/mex.campeon|2026-11": {
-        "at": "2026-11-16T18:46:14.177481+00:00",
+        "at": "2026-11-17T20:46:29.531336+00:00",
         "n": 0
       },
       "soccer/mex.campeon|2026-12": {
-        "at": "2026-11-16T18:46:14.816220+00:00",
+        "at": "2026-11-17T20:46:30.334425+00:00",
         "n": 0
       },
       "soccer/mex.campeon|2027-01": {
@@ -1296,15 +2840,15 @@
         "n": 0
       },
       "soccer/uefa.champions|2026-11": {
-        "at": "2026-11-17T05:06:27.171577+00:00",
+        "at": "2026-11-17T20:46:02.466267+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2026-12": {
-        "at": "2026-11-17T05:06:28.303491+00:00",
+        "at": "2026-11-17T20:46:03.565202+00:00",
         "n": 18
       },
       "soccer/uefa.champions|2027-01": {
-        "at": "2026-11-16T18:45:50.449549+00:00",
+        "at": "2026-11-17T20:46:04.364446+00:00",
         "n": 36
       },
       "soccer/uefa.champions|2027-02": {
@@ -1328,11 +2872,11 @@
         "n": 0
       },
       "soccer/uefa.europa.conf|2026-11": {
-        "at": "2026-11-17T05:06:47.148737+00:00",
+        "at": "2026-11-17T20:46:37.894658+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2026-12": {
-        "at": "2026-11-17T05:06:47.841586+00:00",
+        "at": "2026-11-17T20:46:38.443359+00:00",
         "n": 36
       },
       "soccer/uefa.europa.conf|2027-01": {
@@ -1360,15 +2904,15 @@
         "n": 0
       },
       "soccer/uefa.europa|2026-11": {
-        "at": "2026-11-17T05:06:43.747007+00:00",
+        "at": "2026-11-17T20:46:35.023918+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2026-12": {
-        "at": "2026-11-17T05:06:45.531532+00:00",
+        "at": "2026-11-17T20:46:35.751324+00:00",
         "n": 18
       },
       "soccer/uefa.europa|2027-01": {
-        "at": "2026-11-16T18:46:19.937672+00:00",
+        "at": "2026-11-17T20:46:36.330599+00:00",
         "n": 36
       },
       "soccer/uefa.europa|2027-02": {
@@ -1392,11 +2936,11 @@
         "n": 0
       },
       "soccer/uefa.euroq|2026-11": {
-        "at": "2026-11-16T18:46:54.821388+00:00",
+        "at": "2026-11-17T20:47:09.807352+00:00",
         "n": 0
       },
       "soccer/uefa.euroq|2026-12": {
-        "at": "2026-11-16T18:46:55.483392+00:00",
+        "at": "2026-11-17T20:47:10.404931+00:00",
         "n": 0
       },
       "soccer/uefa.euroq|2027-01": {
@@ -1412,11 +2956,11 @@
         "n": 0
       },
       "soccer/uefa.euro|2026-11": {
-        "at": "2026-11-16T18:46:52.729704+00:00",
+        "at": "2026-11-17T20:47:07.257483+00:00",
         "n": 0
       },
       "soccer/uefa.euro|2026-12": {
-        "at": "2026-11-16T18:46:53.987215+00:00",
+        "at": "2026-11-17T20:47:08.537665+00:00",
         "n": 0
       },
       "soccer/uefa.euro|2027-01": {
@@ -1432,11 +2976,11 @@
         "n": 0
       },
       "soccer/uefa.nations|2026-11": {
-        "at": "2026-11-17T05:06:57.700247+00:00",
+        "at": "2026-11-17T20:46:50.264707+00:00",
         "n": 52
       },
       "soccer/uefa.nations|2026-12": {
-        "at": "2026-11-16T18:46:35.019474+00:00",
+        "at": "2026-11-17T20:46:50.815393+00:00",
         "n": 0
       },
       "soccer/uefa.nations|2027-01": {
@@ -1452,11 +2996,11 @@
         "n": 0
       },
       "soccer/uefa.super_cup|2026-11": {
-        "at": "2026-11-16T18:46:08.834863+00:00",
+        "at": "2026-11-17T20:46:24.950710+00:00",
         "n": 0
       },
       "soccer/uefa.super_cup|2026-12": {
-        "at": "2026-11-16T18:46:09.937410+00:00",
+        "at": "2026-11-17T20:46:25.635230+00:00",
         "n": 0
       },
       "soccer/uefa.super_cup|2027-01": {
@@ -1492,11 +3036,11 @@
         "n": 0
       },
       "soccer/usa.1|2026-11": {
-        "at": "2026-11-17T05:06:29.776087+00:00",
+        "at": "2026-11-17T20:46:06.238320+00:00",
         "n": 39
       },
       "soccer/usa.1|2026-12": {
-        "at": "2026-11-17T05:06:30.857155+00:00",
+        "at": "2026-11-17T20:46:07.051108+00:00",
         "n": 8
       }
     }
@@ -10812,7 +12356,6 @@
       "leap-day-2028",
       "solar-eclipse-2028",
       "halley-2061",
-      "the-game-awards-2026",
       "aws-reinvent-2026",
       "nvidia-gtc-2027",
       "computex-2027",
@@ -10880,6 +12423,7 @@
       "black-panther-3-2028",
       "oktoberfest-2027-2027",
       "tokyo-game-show-2027-2027",
+      "in-waves-2026",
       "fleetwood-mac-the-chain-2027",
       "playstation-pulse-2026",
       "werwulf-2026",
@@ -10926,7 +12470,6 @@
       "fathers-day-us-2027",
       "annular-solar-eclipse-on-february-6-2027-2027",
       "penumbral-lunar-eclipse-on-february-2021-2027-2027",
-      "the-duskbloods-2026",
       "god-of-war-laufey-2027",
       "fable-2027",
       "kirby-and-the-world-beyond-2027",
@@ -10943,6 +12486,7 @@
       "tomb-raider-catalyst-2028",
       "the-witcher-iv-2028",
       "tmnt-mutant-mayhem-2-2027",
+      "charlie-vs-the-chocolate-factory-2027",
       "ghost-market-2028",
       "the-beatles-2028",
       "days-of-thunder-2-2028",
@@ -10985,7 +12529,8 @@
     "open": [],
     "unreachable": [],
     "blocked": [
-      "charlie-vs-the-chocolate-factory-2027",
+      "the-game-awards-2026",
+      "the-duskbloods-2026",
       "ghost-rider-2028",
       "mon-laferte-2026",
       "mon-laferte-2026-2",
@@ -10996,7 +12541,6 @@
       "caifanes-2026",
       "caifanes-2026-2",
       "enjambre-2026-2",
-      "in-waves-2026",
       "fire-mario-bowser-s-castle-2027",
       "batman-returns-batmobile-duck-2027",
       "the-joker-wall-art-comic-cover-2027",
@@ -11015,10 +12559,8 @@
         "focker-in-law-2026",
         "hexed-2026",
         "dune-part-three-2026",
-        "further-mis-adventures-of-cliff-booth-2026",
         "jumanji-open-world-2026",
         "ice-age-boiling-point-2027",
-        "narnia-the-magicians-nephew-2027",
         "the-revenge-of-la-llorona-2027",
         "gatto-2027",
         "not-alone-2027",
@@ -11045,7 +12587,6 @@
       ],
       "differs": [
         "god-of-war-laufey-2027",
-        "in-waves-2026",
         "look-back-2026"
       ],
       "partial": [
@@ -11063,7 +12604,7 @@
         "the-witcher-iv-2028",
         "gremlins-3-2028"
       ],
-      "asked": 88
+      "asked": 86
     }
   },
   "wikidata": {
@@ -11149,10 +12690,10 @@
       "provider": 1,
       "reference": 43,
       "social": 7,
-      "tickets": 599,
-      "watch": 18
+      "tickets": 596,
+      "watch": 20
     },
-    "sinTipo": 112,
+    "sinTipo": 110,
     "fuentes": {
       "migrados": 0,
       "atajosQuitados": 0
@@ -11381,7 +12922,7 @@
     "sinCorto": []
   },
   "standings": {
-    "asOf": "2026-11-17T05:06:10Z",
+    "asOf": "2026-11-17T20:45:35Z",
     "calls": 11,
     "leagues": {
       "liga-mx": {
@@ -11430,23 +12971,23 @@
       }
     },
     "fetched": {
-      "liga-mx": "2026-11-16/pm",
-      "liga-expansion": "2026-11-16/pm",
-      "premier-league": "2026-11-16/pm",
-      "la-liga": "2026-11-16/pm",
-      "mls": "2026-11-16/pm",
-      "brasileirao": "2026-11-16/pm",
-      "liga-argentina": "2026-11-16/pm",
-      "champions-league": "2026-11-16/pm",
-      "nfl": "2026-11-16/pm",
-      "nba": "2026-11-16/pm",
-      "mlb": "2026-11-16/pm"
+      "liga-mx": "2026-11-17/am",
+      "liga-expansion": "2026-11-17/am",
+      "premier-league": "2026-11-17/am",
+      "la-liga": "2026-11-17/am",
+      "mls": "2026-11-17/am",
+      "brasileirao": "2026-11-17/am",
+      "liga-argentina": "2026-11-17/am",
+      "champions-league": "2026-11-17/am",
+      "nfl": "2026-11-17/am",
+      "nba": "2026-11-17/am",
+      "mlb": "2026-11-17/am"
     },
     "teams": 272
   },
   "trailers": {
     "games": 44,
-    "calls": 7,
+    "calls": 0,
     "checked": {
       "gta-vi": "2026-10-13",
       "marvels-wolverine": "2026-10-13",
@@ -11535,11 +13076,11 @@
   },
   "archive": {
     "status": "ok",
-    "rows": 2321,
+    "rows": 2347,
     "months": {
       "2026-09": 927,
       "2026-10": 890,
-      "2026-11": 504
+      "2026-11": 530
     },
     "events": {
       "brasileirao": 96,
@@ -11560,19 +13101,19 @@
       "nba": 272,
       "nfl": 150,
       "premier-league": 80,
-      "selecciones": 421
+      "selecciones": 447
     },
-    "added": 12,
+    "added": 26,
     "seedAdded": 0,
     "correctedCount": 0,
     "corrected": [],
     "skipped": {},
-    "facts": 318,
+    "facts": 303,
     "cards": 722,
     "write": {
       "status": "ok",
-      "rows": 2321,
-      "new": 12,
+      "rows": 2347,
+      "new": 26,
       "monthsWritten": [
         "2026-11"
       ]
@@ -11586,9 +13127,9 @@
       "zones": 353
     },
     "events": 72,
-    "occurrences": 5361,
+    "occurrences": 5357,
     "unmatched": {
-      "Netflix": 8,
+      "Netflix": 9,
       "Las Vegas Ballpark": 6,
       "Arnos Vale Stadium": 4,
       "Basra International Stadium, Basra": 4,
@@ -11631,8 +13172,10 @@
     }
   },
   "tombstones": {
-    "thinned": [],
-    "total": 27
+    "thinned": [
+      "alejandro-sanz-2026"
+    ],
+    "total": 28
   },
   "coverage": {
     "automaticSeries": [
@@ -12292,7 +13835,7 @@
     },
     "total": 11
   },
-  "refreshChangedAt": "2026-11-17T05:11:17.920486+00:00",
+  "refreshChangedAt": "2026-11-17T20:51:53.586935+00:00",
   "homeZones": {
     "espn:basketball:1": "America/New_York",
     "espn:basketball:10": "America/Chicago",
@@ -12941,10 +14484,10 @@
     "mlb:baseball:158": "America/Chicago"
   },
   "size": {
-    "eventsJsonBytes": 2926407,
-    "eventsJsonIndentedBytes": 4738941,
+    "eventsJsonBytes": 2921937,
+    "eventsJsonIndentedBytes": 4734103,
     "events": 344,
-    "occurrences": 5659,
+    "occurrences": 5655,
     "limits": {
       "warnMemoryIndented": 4000000,
       "oldWidgetsEstimate": 4900000,
@@ -12964,13 +14507,13 @@
       {
         "file": "events.json",
         "measure": "indented",
-        "bytes": 4738941,
-        "published": 2926407,
+        "bytes": 4734103,
+        "published": 2921937,
         "warn": 4000000,
         "limit": 4900000
       }
     ],
     "status": "warn"
   },
-  "publishedAt": "2026-11-17T05:12:42.795002+00:00"
+  "publishedAt": "2026-11-17T20:53:33.926199+00:00"
 }
