@@ -273,6 +273,7 @@
 "solar-eclipse-2028":"eventos/solar-eclipse-2028.json",
 "sonic-the-hedgehog-4-2027":"eventos/sonic-the-hedgehog-4-2027.json",
 "spaceballs-2-2027":"eventos/spaceballs-2-2027.json",
+"spain-vs-chile-women-2026":"eventos/spain-vs-chile-women-2026.json",
 "spider-man-beyond-the-spider-verse-2027":"eventos/spider-man-beyond-the-spider-verse-2027.json",
 "spyro-a-realm-beyond-2027":"eventos/spyro-a-realm-beyond-2027.json",
 "star-wars-galactic-racer-2026":"eventos/star-wars-galactic-racer-2026.json",
@@ -1340,6 +1341,7 @@
 "eventos/solar-eclipse-2028.json":"dd43b9b64dbb65748c0121c6de89c1844babe307d1854926b1dc3b0d6ae5bb67",
 "eventos/sonic-the-hedgehog-4-2027.json":"b85c15130ac4984406ce410f56a893b6a4b98ef9cc283728f3862f0edb8fa3fb",
 "eventos/spaceballs-2-2027.json":"1e8bcdb6a0e814b1a387c2ce37a3afd50b55d9a8a0dece3e9c878a4bc188c2fb",
+"eventos/spain-vs-chile-women-2026.json":"a4723082f2fcef1225a9f7f8c66e05b50194b86551bd9c75b5608e7192de95b4",
 "eventos/spider-man-beyond-the-spider-verse-2027.json":"4920b870110442de335d829445bfe5441b2ea4e063fc8ba296aec75a194516de",
 "eventos/spyro-a-realm-beyond-2027.json":"85ad31bd7893b94cac59ac74e419ed7cd55ea3a068b6ac34ff7df33ddc149119",
 "eventos/star-wars-galactic-racer-2026.json":"8fd931925bb3913e11d97f5fef8118aedc8fda0f2625f553e57e7ca48fdd9ecb",
@@ -1411,7 +1413,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"e027aadb474130343b27d09cc34dd739bf5087fe707e1fcf157ec9674f1cf551",
-"ventana.json":"ecf1b4d44ddb889b7c6ffecc398495e16f41f845956a5837d42f519d17a385e7"
+"ventana.json":"ba2417af5910697c7804bd5b94f3d7a3433d4d2763f24aa7343ba93f7062c571"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1976,4 +1978,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-19","version":367,"window":{"from":"2026-11-18","to":"2026-11-29"}}
+},"updatedAt":"2026-11-19","version":368,"window":{"from":"2026-11-18","to":"2026-11-29"}}
