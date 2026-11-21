@@ -409,7 +409,7 @@
 "equipos/espn-football-9.json":"aebf9dce92f8dbb32840c7f668873f051143d3f3c060cc3e2169b6fe2319d997",
 "equipos/espn-soccer-10.json":"e7e7b6060fc0d031f7f8285a8c4d9ac25f99d19a29de62c170e3ce05d69933d0",
 "equipos/espn-soccer-100.json":"b3ec25bd3705e259cf20369567a3e7adc716a9da505de7ebad6cda2281794eab",
-"equipos/espn-soccer-10060.json":"cda8c0896b06d8dfa7bb8362353d47da26b6d93a8e1dfc64b8f9cdff0f8170ab",
+"equipos/espn-soccer-10060.json":"47e639b1109849e39825a91711e663651550bf6c22456b737aabe1be0101fa1f",
 "equipos/espn-soccer-101.json":"0538ab76ab3b6bceabf24c8e910359cc72decfbf8bff2b12a43b80b610f20a14",
 "equipos/espn-soccer-1010.json":"d19ece7b57b4dbc965dd66f54ff71f65e1a87bcd49f2378b0c22ddcb4719761d",
 "equipos/espn-soccer-10124.json":"6e4c30742a07301390f4b79990c82d933b37e291fedc51b4adc4427fb6d6934f",
@@ -1004,7 +1004,7 @@
 "equipos/espn-soccer-8939.json":"49327e0bfbf994cc5b95024b0a93085e154ff2dc9c5cef6719bd688fdea88353",
 "equipos/espn-soccer-8940.json":"8c561374141d7634f3b053816fa67b282d3402303e6423f6e63358e97efbdeb7",
 "equipos/espn-soccer-8942.json":"22fc3cfa232d61b6b5cb55a0ee4c41317ead818d6b9632ab00d6059ad0260861",
-"equipos/espn-soccer-8950.json":"609c73cd00d6865e9e811108c6d7aaa6f96135f784fa40112c6a8e4b9844d0ac",
+"equipos/espn-soccer-8950.json":"e26fe7d014e9e513544b2365536a1d9bb894dc8e05a3d0a95322204eaa993585",
 "equipos/espn-soccer-8961.json":"58634b62311ebde503447dc7ea04bdda26dade10dbfb408fc01534f3af2a2a12",
 "equipos/espn-soccer-9.json":"8d8fee71b5a14dc69c4c698b4f3b598f0ffbdb3c2cfab2c81ea4dd4182a3774d",
 "equipos/espn-soccer-90.json":"c21bb4634e7f13bf1b8d4d32ea58ef17a9f65e6f045c68006fcf2ecc988237dc",
@@ -1164,7 +1164,7 @@
 "eventos/donkey-2028.json":"4f0b44be2a00fb91d759d76984453e963ba7aa32d6247012a59d12d1c72d5e22",
 "eventos/dragon-ball-shenron-goku-2026.json":"7a1cd05df3e7926140c5b53479731870047c878e3767a2fd58637c7d225a0329",
 "eventos/dragon-ball-xenoverse-3-2027.json":"0bde43ec7f30575e0a87d85edf1bbcf8a150799fd00a100b8275c1ce47879ebc",
-"eventos/dune-part-three-2026.json":"c587de07f68f998a1a5db2dd8eb6aab5ab12e496bbb9fc936c266f881909261e",
+"eventos/dune-part-three-2026.json":"817e0054db3cce1db9eb3972a681c7327a3ca04c40425f0a714ea03aca2dd83a",
 "eventos/ea-sports-fc-27.json":"eeb3c0805a66f183b71b2c0a7eb4163646b3fc086743da5d91179dc2b06e7a4b",
 "eventos/earth-day-2027.json":"1c8466cf5ae6b71cc3c346b4446aa8c6b489bdff7528f5569c8bb4e55d21da1f",
 "eventos/earth-wind-fire-experience-by-al-mckay-2026.json":"1ddafd437b1a1be09fa60e72b611c84b7b16570184e0fe1cf991e85782a17c17",
@@ -1246,7 +1246,7 @@
 "eventos/labor-day-us-2026.json":"144d6b41aae106dee2071e2cc4e8dbf2b1010d25857299b7d28da6956281beac",
 "eventos/leap-day-2028.json":"172d957179a63facdeed57b6dcc7c9eab1f72398f27d93693a86b3f93e7da000",
 "eventos/leonids-2026.json":"a495e690b70843f44a76cd8219db985f21fa0f56b48118f3146fe2a29880fd11",
-"eventos/liga-argentina.json":"c09887d03fbf25a6f77d41d6b5ce5b12b869e3593e444b8fc7ecc1f947eb1501",
+"eventos/liga-argentina.json":"e3af01a5deb9fd276b28c5f64a82650370444c823308b75a4d19161f14421ec4",
 "eventos/liga-expansion.json":"5300c15b215603b6d9ba6536f49220fde7a44aace854da37106dc9e07f7ef88e",
 "eventos/liga-mx-apertura-2026-final.json":"00fac00c7847b1923404e09ace37f34a8e03b515bf3a33b480db1d2336a47198",
 "eventos/liga-mx.json":"a99d4e6e945b7e4683ce18212d7b254787ff37b6461ee5073571426bf5e81d66",
@@ -1285,7 +1285,7 @@
 "eventos/nba.json":"75ab3c8ba9d98b656f7764e80627e3ec10e87a5309bf1cc051a8d0f50d4a7975",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
-"eventos/nfl.json":"ee089c2bbf07ae3243a1a7be5fc1433ac060852c55611d3a47648778881228a0",
+"eventos/nfl.json":"c84a742c525246a3c6d55db2e76324376d7a4a97fff71ccd149717e7b42e53ed",
 "eventos/nintendo-switch-sports-resort-2026.json":"5f2762ae94899ffa251107e100f366b738dd5ab6413fc0b88e208b1e5779eefd",
 "eventos/not-alone-2027.json":"fc6d3b091ccdc36e175b11df4c0e21308b3631b6e96b6c015c6e1faefc98cb54",
 "eventos/nvidia-gtc-2027.json":"ef74012662c90eddf549a24a20cfa69e2de2a376106e1a2729f39b4b00858f5e",
@@ -1413,7 +1413,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"73dfa2dbd6323993462a33cebf3a86288c9654232c5446c5817df8652a746425",
-"ventana.json":"2657dbcd0a05c519e7229abe03caf534c72eac48a5662b8d3e87adfdfac6237b"
+"ventana.json":"565d6fbf2af65ada68a90f2ad38edf87a1dfda2067f6cc130f4a3ddd6a75d287"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1964,4 +1964,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-21","version":379,"window":{"from":"2026-11-20","to":"2026-12-01"}}
+},"updatedAt":"2026-11-21","version":380,"window":{"from":"2026-11-20","to":"2026-12-01"}}
