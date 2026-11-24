@@ -1249,7 +1249,7 @@
 "eventos/liga-argentina.json":"be7f2dc16bcb5de23ef8da3231dc90c24f3d03276f4d72ecdee526b046038d03",
 "eventos/liga-expansion.json":"bbc5afd9a516a4602d33f5ad0268a834b7eff921feb7e8ea3f72b53d7aa02456",
 "eventos/liga-mx-apertura-2026-final.json":"00fac00c7847b1923404e09ace37f34a8e03b515bf3a33b480db1d2336a47198",
-"eventos/liga-mx.json":"4205b2a508afdb7e7b4eb88cd5ea013ba453901dc66deb740e48e79fc24b1384",
+"eventos/liga-mx.json":"b095019d299c9bbd9661f1233c2b7b73548e310b94e570e4ffa2323b5e3ff926",
 "eventos/lilo-and-stitch-2-2028.json":"2abc9beec6de48019062239217cbea9a5a16e362a6b24b8ff16b3c3631bcd448",
 "eventos/lmb.json":"777ea0f37efbd47ea67e20e2964e712b6cc46b13fe45e798aaa6f7bb6c7332a8",
 "eventos/look-back-2026.json":"619875694fd27b17f3dae849e7505f40b87cb03dc29af6502bcfd2f9085a64bc",
@@ -1413,7 +1413,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"c98c9673c8e761145e3925e194672af131c83f9f68e93bcba14c4100e5f49439",
-"ventana.json":"b7479b6585a50c017fac5b108e668a2613ea6e796fb69f17589415b44375469e"
+"ventana.json":"84ad5c524bce26715137c0fae134a3ae1382bdc417cc32399d0f1297d32277e3"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1985,4 +1985,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-24","version":386,"window":{"from":"2026-11-23","to":"2026-12-04"}}
+},"updatedAt":"2026-11-24","version":387,"window":{"from":"2026-11-23","to":"2026-12-04"}}
