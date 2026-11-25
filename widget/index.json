@@ -7,6 +7,7 @@
 "ace-combat-8":"eventos/ace-combat-8.json",
 "aew-blood-guts-2026-2026":"eventos/aew-blood-guts-2026-2026.json",
 "aew-full-gear-2026-2026":"eventos/aew-full-gear-2026-2026.json",
+"aew-worlds-end-2026-2026":"eventos/aew-worlds-end-2026-2026.json",
 "afi-life-achievement-award-tom-cruise-2027":"eventos/afi-life-achievement-award-tom-cruise-2027.json",
 "aguinaldo-2026":"eventos/aguinaldo-2026.json",
 "aitana-2026":"eventos/aitana-2026.json",
@@ -1075,6 +1076,7 @@
 "eventos/ace-combat-8.json":"296ef423eff8df27ea21b2caef0bdf0c8a627b93afad2efce2f24d1dd5b56884",
 "eventos/aew-blood-guts-2026-2026.json":"ea565399204bc61ec9984c26a037dc85f88bcfb2ee8e6cd8eb72243a50d14ad5",
 "eventos/aew-full-gear-2026-2026.json":"52b73ce0bb4806af53f8886c74a9cdd8ec139880971cf98de960f5456ad8903e",
+"eventos/aew-worlds-end-2026-2026.json":"27b4035ec896f12e9633924d39402ba56d2dbdf9f3e5102ff32b16c2fa9760b0",
 "eventos/afi-life-achievement-award-tom-cruise-2027.json":"4dc0a4f9ea062c9fd68bd77999da9448ec1a101e77a3c5026ff851678cd7392e",
 "eventos/aguinaldo-2026.json":"1e30df343662fbc67c180f23db74d68b763665a4758e9cf3b24b25de1a13852c",
 "eventos/aitana-2026.json":"dec7f8c75b83bb066b4fac0d9e50093262bf2e42b08dff6473ee90c7cf64063d",
@@ -1413,7 +1415,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"48a05a4bf6d28236e549fbec68d8908257a5c490941bb3252334612aef846125",
-"ventana.json":"0e2fbe4014b1996b766f0a2e780dfd55f1d3cb4e4dbd5a9e910e80b60f9051bc"
+"ventana.json":"f001ed9e015a0aef292a328fafe8a11976ac46c1d05c21ef6bdfaa788677f179"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1947,4 +1949,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-24","version":393,"window":{"from":"2026-11-23","to":"2026-12-04"}}
+},"updatedAt":"2026-11-25","version":394,"window":{"from":"2026-11-24","to":"2026-12-05"}}
