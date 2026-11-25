@@ -567,7 +567,7 @@
   },
   "findings": [],
   "cadenceHours": 12,
-  "catalogVersion": 399,
+  "catalogVersion": 400,
   "espn": {
     "requests": 31,
     "empty": 0,
@@ -13361,5 +13361,5 @@
     ],
     "status": "warn"
   },
-  "publishedAt": "2026-11-25T05:40:59.445401+00:00"
+  "publishedAt": "2026-11-25T05:48:05.409952+00:00"
 }

@@ -26,6 +26,7 @@
 "apple-event-welcome-home-2026":"eventos/apple-event-welcome-home-2026.json",
 "artificial-2026":"eventos/artificial-2026.json",
 "asian-games-2026":"eventos/asian-games-2026.json",
+"asteroid-apophis-flyby-2029":"eventos/asteroid-apophis-flyby-2029.json",
 "asuetos-mexico":"eventos/asuetos-mexico.json",
 "attack-on-titan-3-2026":"eventos/attack-on-titan-3-2026.json",
 "avengers-doomsday":"eventos/avengers-doomsday.json",
@@ -145,6 +146,7 @@
 "friendship-party-bus-2027":"eventos/friendship-party-bus-2027.json",
 "frozen-3-2027":"eventos/frozen-3-2027.json",
 "further-mis-adventures-of-cliff-booth-2026":"eventos/further-mis-adventures-of-cliff-booth-2026.json",
+"gamescom-2027-2027":"eventos/gamescom-2027-2027.json",
 "gatto-2027":"eventos/gatto-2027.json",
 "gdc-2027-2027":"eventos/gdc-2027-2027.json",
 "gears-of-war-e-day":"eventos/gears-of-war-e-day.json",
@@ -180,6 +182,7 @@
 "hunger-games-sunrise-on-the-reaping-2026":"eventos/hunger-games-sunrise-on-the-reaping-2026.json",
 "i-play-rocky-2026":"eventos/i-play-rocky-2026.json",
 "ice-age-boiling-point-2027":"eventos/ice-age-boiling-point-2027.json",
+"ifa-berlin-2027-2027":"eventos/ifa-berlin-2027-2027.json",
 "imac-m6-2026":"eventos/imac-m6-2026.json",
 "in-waves-2026":"eventos/in-waves-2026.json",
 "incredibles-3-2028":"eventos/incredibles-3-2028.json",
@@ -244,6 +247,7 @@
 "nba":"eventos/nba.json",
 "nba-finals-2027":"eventos/nba-finals-2027.json",
 "new-year-2027":"eventos/new-year-2027.json",
+"new-york-comic-con-2027-2027":"eventos/new-york-comic-con-2027-2027.json",
 "nfl":"eventos/nfl.json",
 "nfl-kickoff-2026":"eventos/nfl-kickoff-2026.json",
 "nintendo-switch-sports-resort-2026":"eventos/nintendo-switch-sports-resort-2026.json",
@@ -1141,6 +1145,7 @@
 "eventos/apple-event-welcome-home-2026.json":"265118d578ac295eb785cc9044c404338033bc365b68787844c564558cd32c21",
 "eventos/artificial-2026.json":"00331260421c6ca685139117c5049b7b2a26bbf68383981b524ae25f8a0e7ff9",
 "eventos/asian-games-2026.json":"688d5529fca074ee9a2a55e1fae5ffa2257cbbb1c73cf4b6a45520d593bf18c0",
+"eventos/asteroid-apophis-flyby-2029.json":"52cdd8bfb05ca657e029236d8fc3e2f1a07815d3fbb8906d27663a1ecf61b1b2",
 "eventos/asuetos-mexico.json":"82685ccbe49651ddd04df2897b74d950407d70facbffae4153e56332bfc925e6",
 "eventos/attack-on-titan-3-2026.json":"bd9411746d8c13bc8201b561e7529ee515ac9f075d1334db263cb3fbcdd904dc",
 "eventos/avengers-doomsday.json":"8c1191e6dc97e6d06b909cdc244277ffc6b65c1df55a79ea667c5b102f970d78",
@@ -1260,6 +1265,7 @@
 "eventos/friendship-party-bus-2027.json":"1e41703c2b4231075f76a2eea0572efd8968183b9546f3690071a7a1098b6ed1",
 "eventos/frozen-3-2027.json":"d33123a198d8c2af816c259bf612630e69331c0413ecdcc16687fa1c72cc96ca",
 "eventos/further-mis-adventures-of-cliff-booth-2026.json":"2c43eb05b800fe58b6716eac8870d8a73dca9763a23680b0d306a7f206e10d9a",
+"eventos/gamescom-2027-2027.json":"a0c252c22fa1d565052721d4db0597569940ac5e79566577cacfd1e0aa914a58",
 "eventos/gatto-2027.json":"59968bdc0ebecf1140789afade7c318b1a3734fa88a04448c763b2630135a103",
 "eventos/gdc-2027-2027.json":"90733e1e310e15d7588761feef12cefcfbe82bc85391949357a172b3355f7b2b",
 "eventos/gears-of-war-e-day.json":"8739f836430805fdfb66f3f1c96031f9934eeb49d4c6b88e9cf322fdaa6d8ef0",
@@ -1295,6 +1301,7 @@
 "eventos/hunger-games-sunrise-on-the-reaping-2026.json":"f45d943ba71a796d7ddf3a2b80961597dd849c0328940028b8dea3c0ff957f4b",
 "eventos/i-play-rocky-2026.json":"ff8776803f5251ac5aac9066d991776232ccefaabedbfd04bcfdd33bae8376e4",
 "eventos/ice-age-boiling-point-2027.json":"42b548836b7bcbee0018387b8cb6e7d667854c20a3ff7fec26bd2a853b512265",
+"eventos/ifa-berlin-2027-2027.json":"2111f14189b028111f35c84a4cfb68ade3773467d846829b4d3287d0a0b44714",
 "eventos/imac-m6-2026.json":"6af00197b2857fd17235b6e295174fb37d2f913aa9479f30ef85127cae2bb8cb",
 "eventos/in-waves-2026.json":"3dc7d6daa87d320ddd7e6d2fd44dae61633a7b7731397e02b6ddeedd3cbedea7",
 "eventos/incredibles-3-2028.json":"18a9049aee8cc9f3243542d2d70e6c68e613dcc3ef76b2ef5f091b16a08a5067",
@@ -1359,6 +1366,7 @@
 "eventos/nba-finals-2027.json":"c77e863095855aae9b9b490e513fe565ec06a94d722475c7a5a8a7932e210a23",
 "eventos/nba.json":"d9873d1ad34204d48f05440334881fd73414f5d2aa64e68fd4b3d6ab3226a22c",
 "eventos/new-year-2027.json":"1057195ea55d068b5b4ca051f7d5623849d6d7ab2b7161341d8ad0e211c8aea7",
+"eventos/new-york-comic-con-2027-2027.json":"6c419f5c415c525a63c077b00e1c0228d459ff44d041a0fd3b58d1ae4be6884c",
 "eventos/nfl-kickoff-2026.json":"d25ca00d0ff39d6d1ac344ffc0ecc499bcce804e0a0b0019b1c61bedc505965b",
 "eventos/nfl.json":"23d91a6057b7280dc23bea76ed631ff0098ecefb481fc30116d9d73d4c654966",
 "eventos/nintendo-switch-sports-resort-2026.json":"078eec7fc36a192d761a9f6c039d883eb20c4c2f6fc1d754a95f78920e80bae8",
@@ -1507,7 +1515,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"33bc57e6c5f45e8e10bd9a1f570d0492a4579660dd6e3b69afe653036026df90",
-"ventana.json":"505e617c8cf10daa2c3e1e449b9907c2ca2f84bba77c17b7df59cd36f95f208e"
+"ventana.json":"286e3e866e2c2330c6f4df956e76260726b8d9bf5508eefbfe9bacec20ee4e95"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2040,4 +2048,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-25","version":399,"window":{"from":"2026-11-24","to":"2026-12-05"}}
+},"updatedAt":"2026-11-25","version":400,"window":{"from":"2026-11-24","to":"2026-12-05"}}
