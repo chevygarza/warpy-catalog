@@ -1131,7 +1131,7 @@
 "eventos/conciertos-lima.json":"71b9dfaea199bc43bf97e3ab97a5b0744de5a3f48da1db07b6dd282f44e2b08c",
 "eventos/conciertos-los-angeles.json":"6b11b4be312efc40434ea5b7c42c995723c4223adc9ac5f0a443da9f54a2208c",
 "eventos/conciertos-miami.json":"01710aab44f157fcad23462b35d7de87cb0575483bc75a34276560c39c091f76",
-"eventos/conciertos-monterrey.json":"562cd2cfad3897561d75cb8f5bb9a653b6709eaa82e5d112cc8ea67c97761f50",
+"eventos/conciertos-monterrey.json":"11fb6301353857d3694ba264b3ab0e5b64fa8aa29b1906fcd77533fa9f610fa6",
 "eventos/conciertos-new-york.json":"c02696f7676c8ebc3a9f73ab45f515ced4669006ea0e1e283561bcadd8dbf2b2",
 "eventos/conciertos-phoenix.json":"886d2784190311fb3f73f38c43a86845f71df9f424f493aa2d85b33d4afeb248",
 "eventos/conciertos-rio-de-janeiro.json":"b9cde44afbe3684500ef75c9fc7ebfdeb63c096ad894ea32ead5a35b2e24a154",
@@ -1415,7 +1415,7 @@
 "eventos/zelda-ocarina-of-time-2026.json":"ef044d48f0ff5f85339ec56314bec964cfe967f658a348242447473005abf96b",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"48a05a4bf6d28236e549fbec68d8908257a5c490941bb3252334612aef846125",
-"ventana.json":"f001ed9e015a0aef292a328fafe8a11976ac46c1d05c21ef6bdfaa788677f179"
+"ventana.json":"08ad5e6a5a5ae955f520ea993971b2410732c7f087cc1f31095f115bf9fecc92"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -1949,4 +1949,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-25","version":394,"window":{"from":"2026-11-24","to":"2026-12-05"}}
+},"updatedAt":"2026-11-25","version":395,"window":{"from":"2026-11-24","to":"2026-12-05"}}
