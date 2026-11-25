@@ -259,6 +259,7 @@
 "oktoberfest-2027-2027":"eventos/oktoberfest-2027-2027.json",
 "olympics-brisbane-2032":"eventos/olympics-brisbane-2032.json",
 "olympics-la-2028":"eventos/olympics-la-2028.json",
+"opening-night-live-2027-2027":"eventos/opening-night-live-2027-2027.json",
 "oppo-find-x10-series-global-launch-2026":"eventos/oppo-find-x10-series-global-launch-2026.json",
 "orionids-2026":"eventos/orionids-2026.json",
 "oscars-2027":"eventos/oscars-2027.json",
@@ -1378,6 +1379,7 @@
 "eventos/oktoberfest-2027-2027.json":"4bbe4940f643d7d92e109fe13965878e21358da0b8bcfc13b40e9141bca1aba4",
 "eventos/olympics-brisbane-2032.json":"eb0039a9a54e35f9fa714ffdb23611d196d0265acb30bd894651d5f6b35448c6",
 "eventos/olympics-la-2028.json":"5f4d30ebaab64fa0182a2a44a033558a9f3e9fcfbcac33c5675ebc1c620120db",
+"eventos/opening-night-live-2027-2027.json":"110679215049323f0b7a7003757e6ef73874687bea63204824d72f9084a88001",
 "eventos/oppo-find-x10-series-global-launch-2026.json":"0aec4b5f61adfee45ed9ac3596658f870349017f951180a88fd6a91dbb023639",
 "eventos/orionids-2026.json":"0c2bb5db9dd4f6ebe03ace8e04d34194131b7cee592fd5dc94beea74c1611d6b",
 "eventos/oscars-2027.json":"d3cf894458e55549c9975e08715db003db915e1bda85da459209530190ed472a",
@@ -1515,7 +1517,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"519592fba6eb275682675243a2aa07626ac7ee393886f3e3f3eb1407ec5549e7",
-"ventana.json":"bffce4c35a6b419f9310a9a7772a3a437f12ad3a5d92a6aa3f91bdb17dcc3415"
+"ventana.json":"0173fa1434f6961b8e228a31a78ca80c7b2f75c6c799e332598b0bcb1dbee3c3"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2048,4 +2050,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-25","version":401,"window":{"from":"2026-11-24","to":"2026-12-05"}}
+},"updatedAt":"2026-11-25","version":402,"window":{"from":"2026-11-24","to":"2026-12-05"}}
