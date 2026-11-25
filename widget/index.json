@@ -135,6 +135,7 @@
 "fedora-linux-45-2026":"eventos/fedora-linux-45-2026.json",
 "feriados-eeuu":"eventos/feriados-eeuu.json",
 "fifa-world-cup-2030":"eventos/fifa-world-cup-2030.json",
+"fight-for-84-2027":"eventos/fight-for-84-2027.json",
 "final-destination-7-2028":"eventos/final-destination-7-2028.json",
 "final-fantasy-resonance-2026":"eventos/final-fantasy-resonance-2026.json",
 "final-fantasy-vii-revelation-2027":"eventos/final-fantasy-vii-revelation-2027.json",
@@ -1255,6 +1256,7 @@
 "eventos/fedora-linux-45-2026.json":"5cafec9fb4e722300e9cfb679967e6b3042fdcc73295ac1323b080eafd491f33",
 "eventos/feriados-eeuu.json":"5c9e4bebfb5b28693b1dc3a49ca23885b6d22b6243effbeced494a2b89c095ad",
 "eventos/fifa-world-cup-2030.json":"81bc1782ae486a2d39ff62d68c6ca0000b0ea3b04a244bd4d3e33516314ed862",
+"eventos/fight-for-84-2027.json":"9cc589cbd6c1fdc38c93d31598a8c2230e2866721ab6659b93f4b9e10252b538",
 "eventos/final-destination-7-2028.json":"13d100fadb1b75d455db7d71e7f68a02b37b55cb77708c2968d8ae1aade5d439",
 "eventos/final-fantasy-resonance-2026.json":"5ec8b02bf72362889f94b194dd1af1875ebda46c401dc30c97634cfc9d8f3a1e",
 "eventos/final-fantasy-vii-revelation-2027.json":"2547243770d00712163613becfc468c95eb2be07b291248f7ecb5671cf3d40c5",
@@ -1517,7 +1519,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"519592fba6eb275682675243a2aa07626ac7ee393886f3e3f3eb1407ec5549e7",
-"ventana.json":"7fd58cefbae555c1d12ac8795cda2f6f80dadea2d293174e7044c9ea99b729b6"
+"ventana.json":"b79f8a3e5b302d4428f95106a4e0acf505874a034d0fb0195eb2094b48941cb9"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2050,4 +2052,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-25","version":403,"window":{"from":"2026-11-24","to":"2026-12-05"}}
+},"updatedAt":"2026-11-25","version":404,"window":{"from":"2026-11-24","to":"2026-12-05"}}
