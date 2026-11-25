@@ -108,6 +108,7 @@
 "digger-2026":"eventos/digger-2026.json",
 "dimash-qudaibergen-2026":"eventos/dimash-qudaibergen-2026.json",
 "diwali-2026":"eventos/diwali-2026.json",
+"dmitry-bivol-vs-callum-smith-2026":"eventos/dmitry-bivol-vs-callum-smith-2026.json",
 "donkey-2028":"eventos/donkey-2028.json",
 "dragon-ball-shenron-goku-2026":"eventos/dragon-ball-shenron-goku-2026.json",
 "dragon-ball-xenoverse-3-2027":"eventos/dragon-ball-xenoverse-3-2027.json",
@@ -194,6 +195,7 @@
 "iphone-18-pro":"eventos/iphone-18-pro.json",
 "iphone-duo":"eventos/iphone-duo.json",
 "jake-paul-vs-cedric-doumbe-2026":"eventos/jake-paul-vs-cedric-doumbe-2026.json",
+"jaron-ennis-vs-josh-kelly-2027":"eventos/jaron-ennis-vs-josh-kelly-2027.json",
 "jumanji-open-world-2026":"eventos/jumanji-open-world-2026.json",
 "juneteenth-2027":"eventos/juneteenth-2027.json",
 "k-pop-the-debut-2027":"eventos/k-pop-the-debut-2027.json",
@@ -1229,6 +1231,7 @@
 "eventos/digger-2026.json":"35c6c97965c4a6f235d5fb0e9e18c2e094289e63ac15b16c2042ebc51f18412f",
 "eventos/dimash-qudaibergen-2026.json":"8e12ef071fc99356b5c9b7445a05c20206bbdb2c5708ffb294e237fa96ae5fb1",
 "eventos/diwali-2026.json":"db01d93e7ca152944fa97c6f3dceaecc72df1035ab3f4b769bf2ad2638d3f1ea",
+"eventos/dmitry-bivol-vs-callum-smith-2026.json":"298b5ab0d514ece640b643f9bf0821aa9ed7da3dcc63bb2641174e027b288c3c",
 "eventos/donkey-2028.json":"4f0b44be2a00fb91d759d76984453e963ba7aa32d6247012a59d12d1c72d5e22",
 "eventos/dragon-ball-shenron-goku-2026.json":"7a1cd05df3e7926140c5b53479731870047c878e3767a2fd58637c7d225a0329",
 "eventos/dragon-ball-xenoverse-3-2027.json":"0bde43ec7f30575e0a87d85edf1bbcf8a150799fd00a100b8275c1ce47879ebc",
@@ -1315,6 +1318,7 @@
 "eventos/iphone-18-pro.json":"64d03b49cc6e922cd6f86a0bb8e84f38beabe33420cb9f0f6fdf8de93e0bb271",
 "eventos/iphone-duo.json":"94d29ee1f3c5a2839a1d80ba182be1e9a43171bd42fb2c8ef24f220366294ee7",
 "eventos/jake-paul-vs-cedric-doumbe-2026.json":"a296922b99fcc8284abbb40900ebb5406dacc235378c1d1970d35925092ae44f",
+"eventos/jaron-ennis-vs-josh-kelly-2027.json":"8ed4a47610b544d474cac3cd14939ca97f41f09156d1e9ea63086997a662f850",
 "eventos/jumanji-open-world-2026.json":"c341f71633eb11a7327567270823e97735279146ad7b58dd0d087ddabb87fc23",
 "eventos/juneteenth-2027.json":"5716a9c809ad61413b39b5e350d343d0292d0c60761231487b72379bbbdb5a78",
 "eventos/k-pop-the-debut-2027.json":"50b57a87b38a0564f54c372c5702eb2a852280692bf1040d274ebdb9e06d66f8",
@@ -1519,7 +1523,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"519592fba6eb275682675243a2aa07626ac7ee393886f3e3f3eb1407ec5549e7",
-"ventana.json":"659af8a26d3d3b84ebc014b983ad0aa806cf68543fd36aad04c0cccb1a5072b7"
+"ventana.json":"97745a4dce1e8ca7055dbff75393240e558ece8e26e7b9cfc051945765f4fb93"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2052,4 +2056,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-25","version":406,"window":{"from":"2026-11-24","to":"2026-12-05"}}
+},"updatedAt":"2026-11-25","version":407,"window":{"from":"2026-11-24","to":"2026-12-05"}}
