@@ -95,6 +95,7 @@
 "cultura-eeuu":"eventos/cultura-eeuu.json",
 "cultura-guadalajara":"eventos/cultura-guadalajara.json",
 "cultura-monterrey":"eventos/cultura-monterrey.json",
+"cygnus-xl-ng-25-2026":"eventos/cygnus-xl-ng-25-2026.json",
 "danganronpa-22-2027":"eventos/danganronpa-22-2027.json",
 "david-benavidez-vs-michal-cieslak-2026":"eventos/david-benavidez-vs-michal-cieslak-2026.json",
 "day-drinker-2027":"eventos/day-drinker-2027.json",
@@ -1242,6 +1243,7 @@
 "eventos/cultura-eeuu.json":"8be375800caeea964e63efba11728cda2d57f41190b1bbdd466ec558b7071d69",
 "eventos/cultura-guadalajara.json":"ff9819aae0a3e6630530c59dba38b2aa7af59ebf74b0d8ba808a0bb39d5fa553",
 "eventos/cultura-monterrey.json":"f092f3b2cd522c052908be0b65a37139902cf0fd95e3f90071367c8829c4e0f7",
+"eventos/cygnus-xl-ng-25-2026.json":"49b147bdac1f6d9a756df3d40aa3d3b40c1be7d63435371d5ac5baad6efeab4f",
 "eventos/danganronpa-22-2027.json":"ba27a58106c11dcbf0e2719a241f1a7f64e3dd06e870322725d585992242594e",
 "eventos/david-benavidez-vs-michal-cieslak-2026.json":"eafb2ca188973a3d672c0024ac2ba8994109649ed532a95ccba5ca1301ba90d1",
 "eventos/day-drinker-2027.json":"c4bd1656220d19462f189add3e86d3c6b92af9b8e2a6d243d2d97a6f07fd7e1f",
@@ -1571,7 +1573,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"c88a5c717a49b151992621a3eeae15b832818a73790b9c1c1b8011a45caea3c2",
-"ventana.json":"ce9084f663678b4076987e53729e592f305b9a765bd029bf61f4e28f6b765a93"
+"ventana.json":"d18585bb3dc75f2d748bb5c71b3d77c047369c081658ff13470620a8e0305d13"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2089,4 +2091,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-27","version":411,"window":{"from":"2026-11-26","to":"2026-12-07"}}
+},"updatedAt":"2026-11-27","version":412,"window":{"from":"2026-11-26","to":"2026-12-07"}}
