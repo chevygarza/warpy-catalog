@@ -1169,7 +1169,7 @@
 "eventos/amari-jones-vs-deaundre-pettus-2026.json":"619ce3f9e73a8c77cd623ec8eb6b9fcc3d8151c031ac69df8b4495c5d5e68fa9",
 "eventos/ananta-2027.json":"b7db6a9dda60f11e0e86a2b8498ffafb696a30db89f66339c935f0225d99e3b0",
 "eventos/andres-calamaro-2026.json":"bac0ac156b41f2ac3ceec742c858e283b91e337ec5eee5a3ded3da8142111662",
-"eventos/angry-birds-movie-3-2026.json":"a42780423d19fbda3d09b3c5608647157b30540370d5d31f474a56d1fd8774ab",
+"eventos/angry-birds-movie-3-2026.json":"79b5d2d85bda88144d6a273f410f7dec35236d8e225b8bb90627d8737e004e74",
 "eventos/animal-friends-2027.json":"ffc1fd4c7687219d2012ec5e90db8f80d26b4d4bb751301fb87bca1cc5b12d2d",
 "eventos/anime-estrenos.json":"53a83d84383d33ecc041adbb0fc69571d19f297cd0c17775d7bcf079c66ba0f8",
 "eventos/annular-solar-eclipse-on-february-6-2027-2027.json":"7335dc8df59000e2de45d7c5b4c91481e709b530d291f434878ca20ef124eef1",
@@ -1217,7 +1217,7 @@
 "eventos/comic-con-2027.json":"866dd29fd2c527ccd4d9747aeb33016cf449b144c9d8ffac362584cc051af309",
 "eventos/computex-2027.json":"085f84a033acdbbde06eb61c692de896492d597eb3c77df42d1209a62f607e10",
 "eventos/conciertos-bogota.json":"d85a4d0cfae6dfd6035de5c3b78e204168aab860173a486d48a83aff58722844",
-"eventos/conciertos-buenos-aires.json":"faa3c90a0ff32cfef70eb47132b2eb2e4e62e1bceab599b5e96584468c1c210e",
+"eventos/conciertos-buenos-aires.json":"29f12879b30199ca1c2204f8db29a19a8ec09ab7944210868c189e37476d858c",
 "eventos/conciertos-cdmx.json":"a4fba85ad2e1b4f1b509127db09594a750add033205ffe282807c7f6b9ac4e43",
 "eventos/conciertos-chicago.json":"6c7e0fb2167f63fde6e2e6f2fd3c743cb8da534453aa6207ae9c39818bcf374e",
 "eventos/conciertos-dallas.json":"fd3db81a7b40c3de4e79d22da9d5cb758751b51432fb3be86f35b8cebcce6f3f",
@@ -1547,10 +1547,10 @@
 "eventos/valentines-2027.json":"8996b0021b4405738a065441d044f9fcde5681d70c3eeeca4af7142a3272635d",
 "eventos/venetian-neighborhood-2026.json":"117b950621c38efa500bf977779de9d5b7c055d37ee780cf3fb42d872db00d02",
 "eventos/veterans-day-2026.json":"eb619ef7360e6bc9baa029cdbdc55e7af51bc8de68c8e16582991362a42f109c",
-"eventos/violent-night-2-2026.json":"b6d6994efb9883dd7012ac02a14620b53756619415d31954d5c2cf4e84d183f5",
+"eventos/violent-night-2-2026.json":"6245ca8b2e719b9b0d53727d32788deef2c58ef96126d3ea64b963cdd6be98e6",
 "eventos/vive-latino-2027-2027.json":"8356e22c589808b894600d5ddcb1590086e6c4c54c53982195b080ab24b61576",
 "eventos/warhammer-40-000-dawn-of-war-iv-2026.json":"efb214e2f11fc723c95d49dc05e46f8deee439e8808f22c23c01911c18f48e84",
-"eventos/werwulf-2026.json":"b490d1a04bd388cf5f72c9031e791f88e71c04c1aba4d9d8ef2d76c6a40b0c95",
+"eventos/werwulf-2026.json":"e45c40927a59b8da624812851a20068037c6ab5c841e1fd02e17ed6013b4372e",
 "eventos/whalefall-2026.json":"449bb620c891c5dcb82113ac85b6c081f0c240300f6510f07f49e4fe9a39dd84",
 "eventos/wild-horse-nine-2026.json":"cae2a86904444e737d461e11c381d2294976e19da0f00ef9baa854a79c233f2b",
 "eventos/wildwood-2026.json":"138a185f4d48840a0f7e7a17a410b610a0bf2df9124ba6f23e510a74137348bf",
@@ -1573,7 +1573,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"c88a5c717a49b151992621a3eeae15b832818a73790b9c1c1b8011a45caea3c2",
-"ventana.json":"d18585bb3dc75f2d748bb5c71b3d77c047369c081658ff13470620a8e0305d13"
+"ventana.json":"0ac05b044e71f9994d39360f4b8db45f6eb97ccace264bf6843266863f5b4569"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2091,4 +2091,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-27","version":412,"window":{"from":"2026-11-26","to":"2026-12-07"}}
+},"updatedAt":"2026-11-27","version":413,"window":{"from":"2026-11-26","to":"2026-12-07"}}
