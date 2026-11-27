@@ -1217,7 +1217,7 @@
 "eventos/comic-con-2027.json":"866dd29fd2c527ccd4d9747aeb33016cf449b144c9d8ffac362584cc051af309",
 "eventos/computex-2027.json":"085f84a033acdbbde06eb61c692de896492d597eb3c77df42d1209a62f607e10",
 "eventos/conciertos-bogota.json":"d85a4d0cfae6dfd6035de5c3b78e204168aab860173a486d48a83aff58722844",
-"eventos/conciertos-buenos-aires.json":"29f12879b30199ca1c2204f8db29a19a8ec09ab7944210868c189e37476d858c",
+"eventos/conciertos-buenos-aires.json":"a8ef657f086bb81852d73f2baeaa314bd0742c9e81c1e90b755730c4869af113",
 "eventos/conciertos-cdmx.json":"a4fba85ad2e1b4f1b509127db09594a750add033205ffe282807c7f6b9ac4e43",
 "eventos/conciertos-chicago.json":"6c7e0fb2167f63fde6e2e6f2fd3c743cb8da534453aa6207ae9c39818bcf374e",
 "eventos/conciertos-dallas.json":"fd3db81a7b40c3de4e79d22da9d5cb758751b51432fb3be86f35b8cebcce6f3f",
@@ -1573,7 +1573,7 @@
 "eventos/zero-a-d-the-birth-of-christ-2026.json":"fc4b31e08215df753cb8783f8ea31d35c3188c7778f39b49b03040c9e644bd37",
 "eventos/zz-top-2026.json":"b1971e744195467468a5345bd7d46017874016c42fb9bfe9bde1e083eb50752b",
 "teams.json":"c88a5c717a49b151992621a3eeae15b832818a73790b9c1c1b8011a45caea3c2",
-"ventana.json":"0ac05b044e71f9994d39360f4b8db45f6eb97ccace264bf6843266863f5b4569"
+"ventana.json":"55cd63e65f759c2667046cb00553471d7de851adb06dd5d041ee33a909473a1e"
 },"format":1,"teamEvents":{
 "espn:basketball:1":["nba"],
 "espn:basketball:10":["nba"],
@@ -2091,4 +2091,4 @@
 "mlb:baseball:146":["mlb"],
 "mlb:baseball:147":["mlb"],
 "mlb:baseball:158":["mlb"]
-},"updatedAt":"2026-11-27","version":413,"window":{"from":"2026-11-26","to":"2026-12-07"}}
+},"updatedAt":"2026-11-27","version":414,"window":{"from":"2026-11-26","to":"2026-12-07"}}
